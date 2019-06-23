@@ -4,7 +4,6 @@
 %% This work consists of the files abntex2-modelo-projeto-pesquisa.tex
 %% and abntex2-modelo-references.bib
 %%
-
 % ------------------------------------------------------------------------
 % ------------------------------------------------------------------------
 % abnTeX2: Modelo de Projeto de pesquisa em conformidade com 
@@ -47,6 +46,7 @@
 \usepackage{graphicx}			% Inclusão de gráficos
 \usepackage{microtype} 			% para melhorias de justificação
 \usepackage{verbatim}           % comentar em bloco
+\usepackage{longtable}
 
 % ---
 
@@ -201,15 +201,20 @@
   %\item[abnTeX] ABsurdas Normas para TeX
   \item[ARL - Análise de Regressão Linear]
   \item[IpC - Instrução pelos Colegas]
+  \item[IA - Inteligência Artificial]
   \item[INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira]
+  \item[MDE - Mineração de Dados Educacionais]
   \item[MEC - Ministério da Educação]
+  \item[RNA - Redes Neurais Artificiais]
   \item[SIGCSE - Special Interest Group onComputer Science Education]
   \item[WEI - Workshop sobre Educação em Computação]
+  \item[WEKA - Waikato Environment for Knowledge Analysis]
 
 
 \end{siglas}
 % ---
 
+\begin{comment}{
 % ---
 % inserir lista de símbolos
 % ---
@@ -220,6 +225,7 @@
   \item[$ \in $] Pertence
 \end{simbolos}
 % ---
+}\end{comment}
 
 % ---
 % inserir o sumario
@@ -283,7 +289,6 @@ Este documento deve ser utilizado como complemento dos manuais do \abnTeX\
 exemplos e informações adicionais de uso de \abnTeX\ e de \LaTeX. }
 }
 %===========================================================================================
-
 \end{comment}
 
 %Objeto de estudo
@@ -320,19 +325,22 @@ a identificação prévia dos alunos que apresentam maior dificuldade na discipl
 
 Alguns autores propuseram métodos para solucionar esse problema. Podemos citar alguns autores e seus trabalhos, que abordaram modelos preditivos quanto a situação dos alunos.
 
-% 1 - Lightweight, Early Identification of At-Risk CS1 Students - abstract: "Uso de Clicker para identificar riscos" [CI];
+%Lightweight, Early Identification of At-Risk CS1 Students - abstract: "Uso de Clicker para identificar riscos"
 Liao et. al. \cite{liao2016lightweight} utilizou o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[1]{Do inglês, \textit{Peer Instruction} (PI)} juntamente com o \textit{Clicker} pelos alunos para tentar identificar alunos com tendência a baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados - "falsos negativos"\footnote[2]{"Falsos negativos": Alunos previamente classificados como integrantes do "Grupo de risco", mas que, ao final da disciplina, obtiveram êxito.}.
 
-% 11 - Importance of early performance in CS1: two conflicting assessment stories - abstract: "Uso de PI para relação entre desempenho inicial do curso e sucesso no curso" [CI];
+%Modelo de Regressão Linear aplicado à previsão de desempenho de estudantes em ambiente de aprendizagem
+ARL também foi usada no trabalho de Rodrigues \cite{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o desempenho de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
+
+%Importance of early performance in CS1: two conflicting assessment stories - abstract: "Uso de PI para relação entre desempenho inicial do curso e sucesso no curso"
 Porter e Zingaro \cite{porter2014importance} usam os dados coletados durante o uso do IpC, além dos dados de provas, para explorar as relações entre as avaliações e o desempenho em sala de aula no final do prazo. Para examinar a relação entre as notas dos alunos em avaliações diferentes, foi utilizada a \textbf{Correlação de Pearson}.
 
-% 28 - Automatically Classifying Students in Need of Support by Detecting Changes in Programming Behaviour - abstract: 
+%Automatically Classifying Students in Need of Support by Detecting Changes in Programming Behaviour
 Estay, Keuning, Coady \cite{estey2017automatically} propuseram um método preditor que detecta, com 81\% de precisão, os estudantes em situação de risco de reprovação na disciplina de programação. O estudo foi desenhado para avaliar a aprendizagem do aluno através da detecção de \textbf{mudanças no comportamento} de programação ao longo do tempo. 
 
  Uma outra proposta é o uso do \textbf{modelo PreSS} que usa fatores comparativos - como a eficiência de programação, a habilidade matemática  e as horas dedicadas em exercícios - para auxiliar a identificação do alunos em risco de reprovação \cite{quille2018}. Existem até ferramentas capazes de realizarem capturas de telas, que exibem código-fonte, para auxiliar na identificação das dificuldades apresentadas pelos alunos usando \textbf{aprendizado de máquina}\cite{ahadi2016early}.
  
 %Objetivos Geral/Específico
-O objetivo geral deste trabalho é prever o desempenho acadêmico dos alunos, ainda no inicio da disciplina, identificando os que estejam no "grupo de risco"\footnote{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho. \cite{da2014alunos}}, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivo específico propor um método, que preencha lacuna(s) deixada(s) pelos trabalhos supracitados e seus métodos preditivos, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí, com os dados coletados durante o uso da plataforma de Aprendizagem Baseado em Jogos, "Kahoot!".
+O objetivo geral deste trabalho é prever o desempenho acadêmico dos alunos, ainda no inicio da disciplina, identificando os que estejam no "grupo de risco"\footnote{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho. \cite{da2014alunos}}, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivo específico preencher lacuna(s) deixada(s) pelos trabalhos supracitados, propondo um modelo de Rede Neural Artificial, como método preditivo, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí, coletando dados na disciplina, durante o uso da plataforma de Aprendizagem Baseado em Jogos, "Kahoot!", como forma de avaliação formativa.
 
 {\color{red}[OBJETO DE ESTUDO]}
 %Objeto de estudo
@@ -362,10 +370,10 @@ Deve-se apresentar a fundamentação teórica que orientará o estudo. Recomenda
 
 O Referencial Teórico é considerado como um elemento de controle de toda a pesquisa, desde a problematização inicial. O pesquisador irá interpretar seu objeto de estudo de acordo com a concepção teórica de uma ou toda a obra de um autor ou de um objeto ou produto ou de um conjunto de autores (esta condução varia de acordo com cada área de conhecimento). Todas as etapas do projeto são definidas conforme esta escolha. Apresenta-se de modo aprofundado, respondendo quais os princípios, categorias, conceitos ou teorias fundamentam a pesquisa. Deve estar de acordo com o tema formulado e o raciocínio desenvolvido nas fases anteriores. 
 
-}}
-\end{comment}
+}}\end{comment}
 
-\section{Educação de Computação}    
+\section{Educação de Computação}
+\label{sec:EC}
 
 {\color{red} [PROCURAR MAIS]} 
 
@@ -385,7 +393,10 @@ Fincher e Petre \cite{fincher2005mapping} identificam dez grandes áreas de inte
 \cite{perrenoud1999avaliaccao}
 
 \section{Avaliação}
+\label{sec:AVA}
 A avaliação é uma área ampla, que pode ser dividida em termos de tipos de avaliação, validade da avaliação e classificação automatizada. \cite{fincher2005mapping}
+
+A avaliação pode ser definida como um componente do processo de ensino que visa, através da verificação e qualificação dos resultados obtidos, determinar a correspondência  deste com os objetivos propostos e, daí, orientar a tomada de decisões em relação às atividades didáticas subsequentes. \cite{libaneo1994didatica}
 
 A avaliação pode ser definida como um processo sistemático de determinar a extensão em que os objetivos educacionais foram alcançados pelos alunos. O que se avalia são as metas de aprendizagem definidas e para as quais se caminhou durante todo um processo de aprendizagem levado a cabo pelo professor e pelo aluno \cite{domingos1981forma}
 
@@ -398,7 +409,10 @@ avaliação diagnóstica; avaliação formativa e avaliação somativa. \cite{bl
 
 Os métodos avaliativos são de suma importância no processo de ensino-aprendizagem. Diversos autores demonstram os benefícios resultantes de uma boa avaliação durante as aprendizagens e conhecimentos adquiridos pelos discentes, porém precisam ser escolhidos e aplicados no cotidiano do aluno de forma a conduzi-lo à aprendizagem, obtendo assim resultados satisfatórios a partir de sua avaliação e evitando análises errôneas e estresse por parte dos educadores e educandos. \cite{da2014alunos}
 
+O entendimento correto da avaliação consiste em considerar a relação mútua entre os aspectos quantitativos e qualitativos. A avaliação não pode ser vista apenas como "medida", mas também não pode ser baseada na subjetividade de professores e alunos. \cite{libaneo1994didatica}
+
 \subsection{Avaliação diagnóstica}
+\label{sec:AvaDiag}
 Conhecer o aluno, seus gostos, seus hábitos e suas preferências, é o princípio base da avaliação diagnóstica. Dessa forma, assegura-se que o aluno esteja na turma correta e que o curso encontrese no nível adequado a ele. Nesta avaliação busca-se conhecer ideias e conhecimentos prévios do aluno \cite{masetto1994didatica}.
 
 A avaliação diagnóstica visa verificar a existência, ou ausência, de
@@ -409,6 +423,7 @@ para novas aprendizagens. \cite{bloom1983manual}
 Segundo {\color{red}Haydt (2007)}, a partir de uma avaliação diagnóstica o docente constata se os seus alunos estão ou não preparados, se possuem domínio de pré–requisitos para adquirir novos conhecimentos. Portanto, a avaliação diagnóstica permite que o professor conheça seu aluno por um mecanismo de triagem e calibração
 
 \subsection{Avaliação somativa}
+\label{sec:AvaSom}
 Avaliação somativa é uma decisão que leva em conta a soma de um ou mais resultados e pode ser baseada numa só prova final {\color{red}(OLIVEIRA & CHADWICK, 2007)}.
 
 Para {\color{red}Ballester et al. (2003)}, uma avaliação somativa possui uma função social de assegurar que as características dos estudantes respondam a determinadas exigências feitas pelo sistema.
@@ -418,6 +433,7 @@ De acordo com {\color{red}Haydt (2007)}, esse tipo de avaliação tem por princ�
 A avaliação somativa pretende ajuizar o progresso realizado pelo aluno, no final de uma unidade de aprendizagem, no sentido de aferir resultados já recolhidos por avaliações do tipo formativo e obter indicadores que permitam aperfeiçoar o processo de ensino \cite{kraemer2005avaliaccao}.
 
 \subsection{Avaliação formativa}
+\label{sec:AvaFor}
 A idéia de avaliação formativa sistematiza o funcionamento, levando o professor a
 observar mais metodicamente os alunos, a compreender melhor seus funcionamentos, de modo
 a ajustar de maneira mais sistemática e individualizada suas intervenções pedagógicas e as
@@ -428,17 +444,37 @@ abertamente na perspectiva de uma regulação intencional, cuja intenção seria
 mesmo tempo o caminho já percorrido por cada um e aquele que resta a percorrer com vistas a
 intervir para otimizar os processos de aprendizagem em curso. \cite{perrenoud1999avaliaccao}
 
-A avaliação formativa pretende determinar a posição do aluno ao
-longo de uma unidade de ensino, no sentido de identificar dificuldades
-e de lhes dar solução {\color{red} [CITAR - Ribeiro, L (1989)]}
+A avaliação formativa pretende determinar a posição do aluno ao longo de uma unidade de ensino, no sentido de identificar dificuldades e de lhes dar solução {\color{red} [CITAR - Ribeiro, L (1989)]}
 
 A avaliação formativa responde a uma concepção do ensino que considera que aprender é um longo processo, por meio do qual o aluno vai reestruturando seu conhecimento a partir das atividades que executa. Esse tipo de avaliação tem como finalidade fundamental a função ajustadora do processo de ensino-aprendizagem para possibilitar que os meios de formação respondam as características dos alunos. Pretende-se detectar os pontos fracos da aprendizagem, mais do que determinar quais os resultados obtidos com essa aprendizagem. \cite{jorba2003funccao}
 
 \section{Inteligência Artificial}
+\label{sec:IA}
+A IA (Inteligência Artificial) é uma das ciências mais recentes. O trabalho começou logo após Segunda Guerra Mundial, tendo este nome cunhado em 1956.\cite{russell2004inteligencia}
 
-\section{Aprendizado de Máquina}
-\section{Redes Neurais Artificiais}
-\section{Aprendizagem Baseada em jogos - Games-based Learning}
+A IA é a automatização de atividades que podem ser associadas ao pensamento humano, atividades como a tomada de decisões, a resolução de problemas, o aprenddizado, entre outros. \cite{bellman1978introduction}
+
+Várias disciplinas contribuíram com ideias, pontos de vista e técnicas para a IA. Dentre elas estão: Filosofia, Matemática, Economia, Neurociência, Psicologia, Engenharia de Computadores, Teoria de Controle e Cibernética, Linguística, entre outras. \cite{russell2004inteligencia}
+
+A IA abrange uma enorme variedade de subcampos, desde áreas de uso geral, como aprendizado e percepção, até tarefas específicas como diagnóstico de doenças, por exemplo. A IA sistematiza e automatiza tarefas intelectuais e, portanto, é potencialmente relevante para qualquer esfera da atividade intelectual humana. \cite{russell2004inteligencia}
+
+O objetivo da IA é o desenvolvimento de paradigmas ou algoritmos que requeiram máquinas parar realizar tarefas cognitivas, para as quais os humanos são atualmente melhores. Um sistema de IA tem três componentes fundamentais: representação, raciocínio e aprendizagem. \cite{sage1990concise}
+
+Aprendizado de Máquina ´e uma área da IA cujo objetivo é o desenvolvimento de técnicas computacionais sobre o aprendizado bem como a construção de sistemas capazes de adquirir conhecimento de forma automática. Um sistema de aprendizado é um programa de computador que toma decisões baseado em experiências acumuladas através da solução bem sucedida de problemas anteriores. Os diversos sistemas de aprendizado de máquina possuem características particulares e comuns que possibilitam sua classificação quanto à linguagem de descrição, modo, paradigma e forma de aprendizado utilizado \cite{monard2003sistemas}.
+Umas das técnicas de aprendizado de máquina são as Redes Neurais Artificiais.
+
+%\subsection{Aprendizado de Máquina}
+
+\subsection{Redes Neurais Artificiais}
+\label{sec:RNA}
+Um neurônio é uma célula no cérebro cuja a principal função é coletar, processar e disseminar sinais elétricos. Uma parte do trabalho inicial da IA teve como objettico criar \textbf{Redes Neurais Artificiais} (RNA). Estas são funções não-lineares complexas com muitos parâmetros. \cite{russell2004inteligencia}
+
+Uma rede neural é um processador maciçamente paralelamente distribuído constituído de unidades de processamento simples, que têm a propensão natural para armazenar conhecimento experimental e torná-lo disponível para o uso. Ela se assemelha ao cérebro em dois aspectos: Conhecimento adquirido pela rede, através de um processo de aprendizagem. Forças de conexão entre neurônios, conhecidos como pesos sinápticos, usados para armazenar o conhecimento adquirido. \cite{haykin2001redes}
+
+A arquitetura de uma rede neural restringe o tipo de problema no qual a rede poderá ser utilizada, e é definida pelo número de camadas (camada única ou múltiplas camadas), pelo número de nós em cada camada, pelo tipo de conexão entre os nós (feedforward ou feedback) e por sua topologia. \cite{haykin2001redes}
+
+\section{Aprendizagem Baseada em jogos - \textit{Games-based Learning}}
+\label{sec:GBL}
 {\color{red}[Ler e procurar mais]}
 
 Aprendizagem Baseada em jogos ou GBL pela sigla em inglês de \textit{Games-based Learning} foi definida por alguns autores. Segundo Tang, Hanneghan e El-Rhalibi \cite{tang2009introduction}, GBL faz referência a uma abordagem de aprendizagem inovadora derivada do uso de jogos de computador que tem valor educacional ou diferentes tipos de aplicação de software que usam jogos computacionais para ensino e educação. GBL's têm como finalidade o apoio à aprendizagem, a avaliação e análise de alunos e melhoria do ensino.
@@ -449,32 +485,33 @@ Com a aprendizagem baseada em jogos, se pretende equilibrar
 entretenimento e difusão do conhecimento, motivando os estudantes a aprender
 enquanto jogam \cite{monsalve2011teaching}.
 
-\section{Kahoot!}
-{\color{red}LER} \cite{diniz2018kahoot}
+Pode-se definir \textit{GBL} como o ato de aplicar jogos com o propósito de aprender habilidades e conceitos específicos, geralmente nomeado como “jogos sérios” (jogos com
+fins), entretenimento educativo\footnote{Do termo, em inglês, “\textit{Edutainment}”, que seria a união de educação (\textit{Education}) e entreterimento (\textit{entertainment})} ou jogos educativos. \cite{Souza:2017:GLB:3103028.3103054}
 
-Kahoot! é uma plataforma de aprendizado baseada em jogos, usada como tecnologia educacional em escolas, universidades e outras instituições de ensino. Kahoot! foi fundada por Johan Brand, Jamie Brooker e MortenVersvik em um projeto conjunto com a Universidade Norueguesa de tecnologia e ciência. 
+Outros autores definiram GBL como uma abordagem lida com aplicativos de jogos que definiram resultados de aprendizagem. \cite{von2009game}
+
+\subsection{Kahoot!}
+\label{sec:Kahoot!}
+Kahoot! é uma plataforma de aprendizado baseada em jogos, usada como tecnologia educacional em escolas, universidades e outras instituições de ensino. Kahoot! foi fundada por Johan Brand, Jamie Brooker e MortenVersvik em um projeto conjunto com a Universidade Norueguesa de tecnologia e ciência \cite{kahoot2018}
 
 Seus jogos de aprendizado, "Kahoots", são \textit{quizzes}, perguntas de múltipla escolha, que permitem a criação de usuários e podem ser acessados por meio de um navegador da Web, telefone ou pelo aplicativo.
 
-Kahoot! foi projetado para a aprendizagem social, com os alunos reunidos em torno de uma tela comum, como um quadro interativo, projetor ou um monitor de computador. O site também pode ser usado por meio de ferramentas de compartilhamento de tela, como Skype ou Google hangouts. Kahoot! pode ser usado para revisar o conhecimento dos alunos, para avaliação formativa, {\color{red}[]Citar o site <https://learninginnovation.duke.edu/blog/2015/07/kahoot-as-formative-assessment/>]} ou como uma pausa com as atividades tradicionais em sala de aula. 
+Kahoot! foi projetado para a aprendizagem social, com os alunos reunidos em torno de uma tela comum, como um quadro interativo, projetor ou um monitor de computador. O site também pode ser usado por meio de ferramentas de compartilhamento de tela, como Skype ou Google hangouts. Kahoot! pode ser usado para revisar o conhecimento dos alunos, para avaliação formativa\cite{kahootFormative}, ou como uma pausa com as atividades tradicionais em sala de aula. 
 
 A jogabilidade é simples; todos os jogadores se conectam usando um PIN de jogo gerado na tela comum e usam um dispositivo para responder a perguntas criadas pelo professor. As questões podem ter pontuações atribuídas, em relação ao acerto e ao tempo para resposta. Os pontos aparecem no placar depois de cada pergunta.
 
-%Ler
-{\color{red}LER}
+Alguns trabalhos relataram os resultados encontrados ao utilizar o Kahoot! no processo de ensino. Um destes foi realizado por Diniz et al. \cite{diniz2018kahoot}, que usou a ferramenta com alguns alunos de Ciência da Computação, obtendo resultados satisfatórios quanto a aceitação da ferramenta no contexto educacional.
 
-    \cite{Souza:2017:GLB:3103028.3103054}\\
-    \cite{pintor2014kahoot} No trabalho, o Kahoot! foi usado como base para o desenvolvimento de outro game educacional.
+\begin{comment}
+%Artigos complementares
+{\color{red}LER}
     
     \cite{chaiyo2017effect}\\
-    \cite{abidin2017students}\\
-    \cite{diniz2018kahoot}\\
-    \cite{petri2016quiz}\\
-    \cite{correia2017game}\\
     \cite{tobias2014game}\\
     \cite{wang2015wear}\\
     \cite{connolly2012systematic}\\
     \cite{backlund2013educational}
+\end{comment}
     
  Considerando que alguns fatores sociais e geográficos podem afetar a aplicação e a eficiência do uso desta ferramenta, faz-se necessário avaliá-la no contexto dos estudantes brasileiros.
  
@@ -491,20 +528,145 @@ O principal objetivo do estudo foi identificar percepções acadêmico. Objetivo
 Kahoot, mantém as mesmas utilidades que outros métodos de resposta rápida; especialmente os \textit{clickers}, mas sem todos os problemas técnicos e logísticos destes. \cite{pintor2014kahoot}
 
 \section{Trabalhos Relacionados}
+\label{sec:TR}
 No decorrer dessa pesquisa foram encontrados alguns trabalhos que tratam de diferentes 
 
-\cite{martins2012assistente}
+\subsection{Early Identification of Novice Programmers' Challenges in Coding using Machine Learning Techniques}
+\label{sec:Early}
+Em sua tese de Doutorado, Ahadi usou Mineração de Dados Educacionais para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios. \cite{ahadi2016early}
 
-\cite{gottardo2012previsao}
+\subsection{Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance}
+\label{sec:Evaluating}
+O trabalho de \cite{Castro-Wunsch2017} teve o objetivo de explorar a eficácia das Redes Neurais na identificação precoce de alunos que necessitavam de auxílio. Eles usaram trechos de códigos através de capturas instantânea de tela - \textit{Snapshots} e, assim, puderam aplicar a técnica de RNA para analisar a solução usada pelos alunos para os problemas propostos.
 
-\cite{porter2014importance}
+\subsection{Predição do Desempenho do Aluno usando Sistemas de Recomendação e Acoplamento de Classificadores}
+\label{sec:Pred1}
+Gotardo, em um de seus trabalhos, apresenta uma abordagem que usa algoritmos de aprendizado acoplados para integrar diferentes técnicas de aprendizado e mineração de dados e explorar um conjunto de dados educacionais oferecendo recomendação sobre o desempenho do aluno. \cite{gotardo2013prediccao}.
 
-\cite{rodrigues2013modelo}
+\subsection{Predição de desempenho de alunos do primeiro período baseado nas notas de ingresso utilizando métodos de aprendizagem de máquina}
+\label{sec:Pred2}
+Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio didático foi o de Brito et al. \cite{DeBrito2014}, onde nas disciplinas do primeiro período do curso de Ciência da Computação da Universidade Federal da Paraíba (UFPB) foi avaliada a relação entre as notas de ingresso do aluno e o seu desempenho no primeiro período do curso. No trabalho, foram utilizados algoritmos de aprendizado de máquina implementados pela ferramenta WEKA (\textit{Waikato Environment for Knowledge Analysis}) - dentre eles, Redes Neurais, Árvore de Decisão e Redes Bayesianas - na análise dos dados. Os resultados deram indícios de que essa relação existe.
 
-\cite{gotardo2013prediccao}
 %===== Seção de Metodologia ==============
 
 \chapter{Metodologia}
+
+\section{Levantamento Bibliográfico}
+\label{sec:L}
+%Objetivos
+\subsection{Objetivo}
+\label{sec:Obj}
+O objetivo deste levantamento bibliográfico é fazer uma revisão, seleção e organização dos artigos que possam identificar os alunos em situação de risco, analisando os métodos propostos.
+
+%Questões de pesquisa
+\subsection{Questões de Pesquisa}
+\label{sec:QP}
+Para nortear esta pesquisa, foram definidas questões que levantem pontos relevantes a serem estudados.
+\begin{itemize}
+    \item \textbf{Questão 1}: Quais métodos existem para identificar alunos com risco de reprovação em disciplinas?
+    \item \textbf{Questão 2}: Qual o grau de precisão e acurácia destes métodos?
+    \item \textbf{Questão 3}: Redes Neurais Artificias são assertivas na predição de alunos em situação de risco?
+    \item \textbf{Questão 4}: Quais são as vantagens de se utilizar Redes Neurais Artificiais para esta tal?
+\end{itemize}
+
+\subsection{Método de pesquisa}
+\label{sec:MP}
+Nesta seção serão descritos: o escopo da pesquisa, o idioma considerado, os termos utilizados, a \textit{string} de busca e os critérios de seleção de artigos.
+
+\subsubsection{Escopo da Pesquisa}
+%As fontes consideradas no escopo desta pesquisa foram adotadas com base no portal de periódicos CAPES.
+Aplicou-se o método de pesquisa para a identificação de potenciais trabalhos correlatos ao tema deste mapeamento. As máquinas de busca utilizadas para a pesquisa foram:
+\begin{itemize}
+    \item ACM Digital Library
+    \item Google Scholar
+    \item IEEE Xplore
+\end{itemize}
+
+\subsubsection{Idiomas dos Artigos}
+Os idiomas escolhido para os artigos foram:
+
+\begin{itemize}
+    \item Português
+    \item Inglês
+\end{itemize}
+
+\subsection{Palavras-chave e strings de busca}
+As palavras-chave que compõem a busca são (em português e inglês, respectivamente): 
+Educação de Computação, Ensino de Computação, Introdução a Computação, Avaliação, Estimativa, Previsão, Inteligência Artificial, Mineração de Dados, Aprendizado em Profundidade, Redes Neurais Artificiais, RNA, \textit{Computer Education}, \textit{CS1}, \textit{Assessment}, \textit{Prediction}, \textit{Artificial Intelligence}, \textit{Data Mining}, \textit{Clicker}, \textit{Deep Learning}, \textit{Artificial Neural Network}, \textit{ANN}.
+
+A string de busca foi gerada a partir da combinação das palavras chave e foram divididas pelos idiomas da seguinte forma: 
+
+\begin{table}[!htb]
+\centering
+\caption{String de Busca}
+\label{string-busca}
+\begin{longtable}{|| p{3cm} || p{10cm} ||}
+    \hline \hline
+\textit{\textbf{Português}} & (``Educação de computação'' OR ``ensino de computação'' AND ``Introdução a Computação'' OR ``Avaliação'') AND (``estimativa'' OR ``previsão'' AND ``Inteligência Artificial'' OR ``mineração de dados'' OR ``Aprendizado em Profundidade'' OR ``Redes Neurais Artificiais'' OR ``RNA'')\\
+\hline \hline
+\textit{\textbf{Inglês}} & \textit{(``Computer Education'' AND ``cs1'' OR ``assessment'') AND (``prediction'' OR ``data mining'' OR ``artificial intelligence'' OR ``deep learning'' OR ``Artificial neural network'' OR ``ANN''))}\\
+ \hline \hline
+\end{longtable}
+\end{table}
+
+\subsubsection{Critérios de Seleção de Artigos e Procedimentos}
+Kitchenham \cite{kitchenham2004procedures} diz que devem ser seguidos critérios de inclusão e exclusão para os artigos que são retornados pela \textit{string} de busca. Sendo assim, foram definidos os seguintes critérios:
+
+\subsubsection{Critérios para Inclusão de Artigos}
+
+\begin{enumerate}
+    \item Pesquisas as quais tratam sobre utilização de métodos para identificação de alunos em situação de risco de reprovação
+    \item Pesquisas as quais tratam sobre inteligência artificial no contexto de avaliação de aprendizagem
+    \item Pesquisas as quais tratam sobre previsão do desempenho acadêmico com uso de aprendizado de máquina
+\end{enumerate}
+
+\subsubsection{Critérios para Exclusão de Artigos}
+\begin{enumerate}
+    \item Apresentar necessidade de identificar os alunos em situação de riscos
+    \item Não serão selecionadas pesquisas que não satisfaçam a nenhum critério de inclusão
+    \item A pesquisa não apresentou a forma utilizada para coletar dados
+    \item A pesquisa não apresentou os métodos utilizados para analisar os dados obtidos
+    \item Não foi possível ter acesso a pesquisa completa
+    \item A pesquisa não está disponível na \textit{web}
+    \item A pesquisa é publicada apenas como resumo
+    \item A pesquisa é uma versão mais antiga de outro estudo já considerado
+    \item Trabalhos que são réplicas ou projetos de pesquisas iniciais, priorizando o trabalho mais completo (Geralmente, o mais recente).
+    \item Foram considerados apenas trabalhos publicados a partir de 2013
+\end{enumerate}
+
+\subsection{Processo de triagem}
+Foi realizada uma primeira triagem, que consistiu na leitura do título, do resumo (\textit{abstract}) e das palavras-chave (\textit{keywords}) dos trabalhos previamente recuperados, aplicando os critérios de inclusão e exclusão e as \textit{Strings} de busca.
+A etapa seguinte consiste em  realizar a leitura completa e minuciosa dos artigos selecionados na primeira fase. Desta forma, a segunda fase do processo de triagem tem como objetivo fazer uma análise mais apurada dos estudos, identificando e extraindo dados de acordo com os critérios de inclusão e exclusão descritos anteriormente.
+
+\section{Classificação da pesquisa}
+
+\subsection{Tipo de Pesquisa}
+Essa pesquisa apresenta um \textbf{Estudo de Caso}. Ele será realizadona turma de 2019.2 da disciplina de Interface Humano-Computador, na Universidade Federal de Goias (UFJ/Regional Jatai). Um estudo de caso é uma investigação empírica que investiga um fenômeno contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre 0 fenômeno e o contexto não estão claramente definidos. \cite{yin2001planejamento}
+
+\subsection{Universo, População e Amostragem}
+Nesta pesquisa serão envolvidos alunos do curso de Ciência da Computação da Universidade Federal de Goias/Jatai, tendo a população da pesquisa de 162 alunos. E como amostragem, será a turma de IHC-2019.2, com aproximadamente 20 alunos {\color{red}[Turma ainda não aberta. Baseando nas últimas duas turmas, média de 20 alunos matriculados]}.
+
+\subsection{Coleta de Dados}
+A coleta dos dados - respostas dos alunos às perguntas elaboradas pelo professor que ministra a disciplina - será feita através da ferramenta de tecnologia educacional, "Kahoot!", que foi descrita na seção \ref{sec:Kahoot!}
+
+\subsection{Análise e Interpretação dos Resultados}
+Como esta se trata de uma pesquisa quantitativa, será usada estatística inferencial para realizar a análise dos dados coletados e os resultados obtidos.
+
+\subsection{Gêneros de Pesquisa}
+\subsubsection{Quanto à natureza}
+Empírica, pois dedica-se a mensurar a realidade, formula observações e propõe transformações do mesmo enquanto objeto de investigação, mas não intervem de forma concreta no ambiente durante o trajeto da pesquisa.
+
+\subsubsection{Quanto aos objetivos}
+Pesquisa exploratória: Apesar de haverem pesquisas em relação à métodos para a predição de desempenho acadêmico, há a necessidade de se relatar casos no Brasil, que ocorram experimentos da aplicação desses métodos no processo de avaliação de aprendizagem.
+
+\subsubsection{Quanto aos procedimentos}
+Pesquisa de campo: Os dados serão coletados durante a disciplina.
+
+\subsubsection{Quanto ao objeto}
+Pesquisa de campo: Será desenvolvido um modelo de Rede Neural, treinando-a e aplicando sobre os dados coletados durante a disciplina.
+
+\subsubsection{Quanto à forma de abordagem}
+Pesquisa quantitativa: Serão coletadas as respostas dadas pelos alunos, analisando os dados gerados com o modelo criado e produzindo, assim, uma saída "esperada".
 
 \begin{comment}{
 %===========================================================================================
@@ -576,7 +738,7 @@ Pesquisa de laboratório – pesquisador procura refazer as condições de um fe
 }
 %===========================================================================================
 }\end{comment}
-Segundo  Yin  (2010)  são  os  estudos  de  caso  de  cunho  analítico  os  que  podem  proporcionar  significativo avanço no conhecimento real do contexto. Assim, essa abordagem se integra aos interesses da pesquisa, porque permite voltar o olhar para o processo de desistência por parte os  alunos  dos  seus  estudos. 
+
 %===== Seção de Metodologia ==============
 
 
@@ -594,11 +756,11 @@ A  \autoref{tabela_cronog} apresenta o cronograma de execução da pesquisa.
 \begin{tabular}{@{}llll@{}}
 \toprule
 \textit{Atividades}                  & \textit{Mês}       & \textit{Ano}   \\ \midrule
-Revisão Sistemática                  & Julho              & 2016      \\
-Análise de Trabalhos Relacionados    & Agosto             & 2016      \\
-Construção da Arquitetura            & Setembro           & 2016      \\
-Implementação do Sistema             & Outubro            & 2016      \\
-Avalição e Testes                    & Fevereiro          & 2017      \\
+Revisão Sistemática                  & Julho              & 2019      \\
+Análise de Trabalhos Relacionados    & Agosto             & 2019      \\
+Construção da Arquitetura            & Setembro           & 2019      \\
+Implementação do Sistema             & Outubro            & 2019      \\
+Avalição e Testes                    & Fevereiro          & 2019      \\
                                      &                    &           \\ \bottomrule
 \end{tabular}
 \end{table}
@@ -638,72 +800,45 @@ Avalição e Testes                    & Fevereiro          & 2017      \\
 % Consulte o manual da classe abntex2 para orientações sobre o glossário.
 %
 %\glossary
-
 % ----------------------------------------------------------
 % Apêndices
 % ----------------------------------------------------------
-
 % ---
 % Inicia os apêndices
 % ---
-\begin{apendicesenv}
-
+%\begin{apendicesenv}
 % Imprime uma página indicando o início dos apêndices
-\partapendices
-
+%\partapendices
 % ----------------------------------------------------------
-\chapter{Exemplo de um apêndice A}
+%\chapter{Exemplo de um apêndice A}
 % ----------------------------------------------------------
-
-
-
 % ----------------------------------------------------------
-\chapter{Exemplo de um apêndice B}
+%\chapter{Exemplo de um apêndice B}
 % ----------------------------------------------------------
-
-
-\end{apendicesenv}
+%\end{apendicesenv}
 % ---
-
-
 % ----------------------------------------------------------
 % Anexos
 % ----------------------------------------------------------
-
 % ---
 % Inicia os anexos
 % ---
-\begin{anexosenv}
-
+%\begin{anexosenv}
 % Imprime uma página indicando o início dos anexos
-\partanexos
-
+%\partanexos
 % ---
-\chapter{Exemplo de um primeiro anexo}
+%\chapter{Exemplo de um primeiro anexo}
 % ---
-
-
 % ---
-\chapter{Exemplo de um segundo anexo}
+%\chapter{Exemplo de um segundo anexo}
 % ---
-
-
-
 % ---
-\chapter{Exemplo de um terceiro anexo}
+%\chapter{Exemplo de um terceiro anexo}
 % ---
-
-
-
-\end{anexosenv}
-
+%\end{anexosenv}
 %---------------------------------------------------------------------
 % INDICE REMISSIVO
 %---------------------------------------------------------------------
-
 \phantompart
-
 \printindex
-
-
 \end{document}
