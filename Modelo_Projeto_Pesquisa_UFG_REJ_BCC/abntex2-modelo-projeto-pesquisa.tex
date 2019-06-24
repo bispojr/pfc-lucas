@@ -312,24 +312,27 @@ exemplos e informações adicionais de uso de \abnTeX\ e de \LaTeX. }
 
 % 1
 
-A educação de Ciência da Computação é uma área emergente e assunto amplamente discutido pela comunidade acadêmica brasileira e internacional \cite{fincher2005mapping}. No contexto brasileiro, o Workshop sobre Educação em Computação (WEI) tem sido um dos principais fóruns para esta discussão. O Simpósio SIGCSE (\textit{Special Interest Group on Computer Science Education}) é um dos maiores eventos, em âmbito internacional, na área. {\color{red}[TERMINAR]}
+A educação de Ciência da Computação é uma área emergente e assunto amplamente discutido pela comunidade acadêmica brasileira e internacional \cite{fincher2005mapping}. No contexto brasileiro, o Workshop sobre Educação em Computação (WEI) tem sido um dos principais fóruns para esta discussão. O Simpósio SIGCSE (\textit{Special Interest Group on Computer Science Education}) é um dos maiores eventos, em âmbito internacional, na área. 
+
+Pode-se definir, como um dos objetivos principais da PEC (Pesquisa em Educação de Computação), o aperfeiçoamento do processo de ensino e aprendizagem da Computação como ciência. \cite{holmboe2001research}
 
 %Problema
-Muitos alunos ingressantes em Computação, apresentam dificuldades na aprendizagem, assim como em outras áreas de exatas. Em virtude destas dificuldades, alguns alunos não alcançam um desempenho satisfatório e reprovam. Estas reprovações podem ter, dentre outros fatores, forte influência em uma eventual evasão \cite{evasaoMatheus2014}. Segundo dados do Censo da Educação Superior de 2017 \cite{Inep2017}, publicado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) do Ministério da Educação (MEC), a taxa de evasão do Bacharelado em Ciência da Computação, nas universidades públicas e privadas de todo o Brasil, alcançou cerca de 60,2\%, enquanto a taxa geral - média dentre todos os cursos - ficou em torno dos 26\%.
+Muitos alunos ingressantes em Computação apresentam dificuldades na aprendizagem, assim como em outras áreas de exatas \cite{blando2015dificuldades}. Em virtude destas dificuldades, alguns alunos não alcançam um desempenho satisfatório e reprovam. Estas reprovações podem ter, dentre outros fatores, forte influência em uma eventual evasão \cite{evasaoMatheus2014}. Segundo dados do Censo da Educação Superior de 2017 \cite{Inep2017}, publicado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) do Ministério da Educação (MEC), a taxa de evasão do Bacharelado em Ciência da Computação, nas universidades públicas e privadas de todo o Brasil, alcançou cerca de 60,2\%, enquanto a taxa geral - média dentre todos os cursos - ficou em torno dos 26\%.
 
 Um dos problemas na educação de computação está na avaliação de aprendizagem dos alunos, tendo como ponto de interesse
 %Justificativa
 %Muitas vezes os ingressantes não conseguem acompanhar o fluxo de estudos, têm baixo desempenho e assim acabam evadindo ou reprovando nas matérias introdutórias do curso.
 %Um dos pontos está no interesse 
-a identificação prévia dos alunos que apresentam maior dificuldade na disciplina e, assim, com maior risco de reprovação.\cite{martins2012assistente}. {\color{red}[TERMINAR]}
+a identificação prévia dos alunos que apresentam maior dificuldade na disciplina e, assim, com maior risco de reprovação.\cite{martins2012assistente}. %{\color{red}[TERMINAR]}
 
-Alguns autores propuseram métodos para solucionar esse problema. Podemos citar alguns autores e seus trabalhos, que abordaram modelos preditivos quanto a situação dos alunos.
+%Alguns autores propuseram métodos para solucionar esse problema. Podemos citar alguns autores e seus trabalhos, que abordaram modelos preditivos quanto a situação dos alunos.
+Diversos autores propõem diferentes métodos para solucionar este problema. Alguns destes autores abordam modelos preditivos quanto a situação dos alunos.
 
 %Lightweight, Early Identification of At-Risk CS1 Students - abstract: "Uso de Clicker para identificar riscos"
-Liao et. al. \cite{liao2016lightweight} utilizou o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[1]{Do inglês, \textit{Peer Instruction} (PI)} juntamente com o \textit{Clicker} pelos alunos para tentar identificar alunos com tendência a baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados - "falsos negativos"\footnote[2]{"Falsos negativos": Alunos previamente classificados como integrantes do "Grupo de risco", mas que, ao final da disciplina, obtiveram êxito.}.
+Liao et. al. \cite{liao2016lightweight} utilizou o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[1]{Do inglês, \textit{Peer Instruction} (PI)}, juntamente com o \textit{Clicker}, pelos alunos, para tentar identificar os que estariam com tendência a baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados - "falsos negativos"\footnote[2]{"Falsos negativos": Quando os alunos são previamente classificados como não-integrantes do "Grupo de risco", mas que, ao final da disciplina, acabaram reprovando}.
 
 %Modelo de Regressão Linear aplicado à previsão de desempenho de estudantes em ambiente de aprendizagem
-ARL também foi usada no trabalho de Rodrigues \cite{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o desempenho de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
+\textbf{ARL} também foi usada no trabalho de Rodrigues \cite{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o desempenho de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
 
 %Importance of early performance in CS1: two conflicting assessment stories - abstract: "Uso de PI para relação entre desempenho inicial do curso e sucesso no curso"
 Porter e Zingaro \cite{porter2014importance} usam os dados coletados durante o uso do IpC, além dos dados de provas, para explorar as relações entre as avaliações e o desempenho em sala de aula no final do prazo. Para examinar a relação entre as notas dos alunos em avaliações diferentes, foi utilizada a \textbf{Correlação de Pearson}.
@@ -350,7 +353,7 @@ O objetivo geral deste trabalho é prever o desempenho acadêmico dos alunos, ai
 % Elementos Textuais
 % ----------------------------------------------------------
 \chapter{Referencial Teórico}
-Para melhor compreensão do texto, é importante a definição de alguns conceitos usados durante o mesmo. {\color{red}[MELhORAR]}
+Para melhor compreensão do texto, é importante estabelecer as definições de alguns conceitos que serão adotados neste projeto de pesquisa. 
 
 \begin{comment}{
 {\color{red}[MODELO]
@@ -375,9 +378,7 @@ O Referencial Teórico é considerado como um elemento de controle de toda a pes
 \section{Educação de Computação}
 \label{sec:EC}
 
-{\color{red} [PROCURAR MAIS]} 
-
-Educação de computação é o resultado da fusão de, a princípio — Outras também estão envolvidas, como, por exemplo: Psicologia, engenharias, tecnologia, entre outras—, duas disciplinas: Educação e Computação. 
+Educação de computação é o resultado da fusão de, a princípio --- Outras também estão envolvidas, como: Psicologia, engenharias, tecnologia, entre outras ---, duas disciplinas: Educação e Computação. 
 
 Educação é um processo que visa ao desenvolvimento físico, intelectual e moral do ser humano, através da aplicação de métodos próprios, com intuito de assegurar-lhe a integraçãoo social e formal da cidadania \cite{weiszflog1999michaelis}. Ciência da Computação é o estudo sistemático de algoritmo e estrutura de dados, i.e., o estudo do seu formalismo, desenvolvimento e aplicações. \cite{gibbs1986model}
 
@@ -390,35 +391,34 @@ Fincher e Petre \cite{fincher2005mapping} identificam dez grandes áreas de inte
 %Artigos ============================
 {\color{red}LER}
 \cite{da2014metodos}
-\cite{perrenoud1999avaliaccao}
 
 \section{Avaliação}
 \label{sec:AVA}
 A avaliação é uma área ampla, que pode ser dividida em termos de tipos de avaliação, validade da avaliação e classificação automatizada. \cite{fincher2005mapping}
 
-A avaliação pode ser definida como um componente do processo de ensino que visa, através da verificação e qualificação dos resultados obtidos, determinar a correspondência  deste com os objetivos propostos e, daí, orientar a tomada de decisões em relação às atividades didáticas subsequentes. \cite{libaneo1994didatica}
+Segundo \citeonline{libaneo1994didatica}, avaliação pode ser definida como um componente do processo de ensino que visa, através da verificação e qualificação dos resultados obtidos, determinar a correspondência  deste com os objetivos propostos e, daí, orientar a tomada de decisões em relação às atividades didáticas subsequentes.
 
-A avaliação pode ser definida como um processo sistemático de determinar a extensão em que os objetivos educacionais foram alcançados pelos alunos. O que se avalia são as metas de aprendizagem definidas e para as quais se caminhou durante todo um processo de aprendizagem levado a cabo pelo professor e pelo aluno \cite{domingos1981forma}
+Outra definição foi dada por \citeonline{domingos1981forma}, onde a avaliação pode ser entendida como um processo sistemático de determinar a extensão em que os objetivos educacionais foram alcançados pelos alunos. O que se avalia são as metas de aprendizagem definidas e para as quais se caminhou durante todo um processo de aprendizagem levado a cabo pelo professor e pelo aluno
 
 A avaliação da aprendizagem possibilita a tomada de decisão e a melhoria da qualidade de ensino, informando as ações em desenvolvimento e a necessidade de regulações constantes. \cite{kraemer2005avaliaccao}
 
-A avaliação vista como uma etapa da aprendizagem passa a ser utilizada como um processo, isto é, na formação e construção do conhecimento levando a uma reflexão sobre as ações, gestos e pensamentos. Os processos formativos precisam ser avaliados em sua forma, efeito, método e evolução dos educandos. \cite{datrino2015avaliaccao}
-
-Bloom e outros autores classificaram a avaliação em três tipos, sendo eles:
-avaliação diagnóstica; avaliação formativa e avaliação somativa. \cite{bloom1983manual}
+Para \citeonline{datrino2015avaliaccao}, avaliação vista como uma etapa da aprendizagem passa a ser utilizada como um processo, isto é, na formação e construção do conhecimento levando a uma reflexão sobre as ações, gestos e pensamentos. Os processos formativos precisam ser avaliados em sua forma, efeito, método e evolução dos educandos.
 
 Os métodos avaliativos são de suma importância no processo de ensino-aprendizagem. Diversos autores demonstram os benefícios resultantes de uma boa avaliação durante as aprendizagens e conhecimentos adquiridos pelos discentes, porém precisam ser escolhidos e aplicados no cotidiano do aluno de forma a conduzi-lo à aprendizagem, obtendo assim resultados satisfatórios a partir de sua avaliação e evitando análises errôneas e estresse por parte dos educadores e educandos. \cite{da2014alunos}
 
-O entendimento correto da avaliação consiste em considerar a relação mútua entre os aspectos quantitativos e qualitativos. A avaliação não pode ser vista apenas como "medida", mas também não pode ser baseada na subjetividade de professores e alunos. \cite{libaneo1994didatica}
+Segundo \citeonline{libaneo1994didatica}, o entendimento correto da avaliação consiste em considerar a relação mútua entre os aspectos quantitativos e qualitativos. A avaliação não pode ser vista apenas como "medida", mas também não pode ser baseada na subjetividade de professores e alunos.
+
+\citeonline{bloom1983manual} classificaram a avaliação em três tipos, sendo eles:
+avaliação diagnóstica; avaliação formativa e avaliação somativa.
 
 \subsection{Avaliação diagnóstica}
 \label{sec:AvaDiag}
 Conhecer o aluno, seus gostos, seus hábitos e suas preferências, é o princípio base da avaliação diagnóstica. Dessa forma, assegura-se que o aluno esteja na turma correta e que o curso encontrese no nível adequado a ele. Nesta avaliação busca-se conhecer ideias e conhecimentos prévios do aluno \cite{masetto1994didatica}.
 
-A avaliação diagnóstica visa verificar a existência, ou ausência, de
+Para \citeonline{bloom1983manual}, avaliação diagnóstica visa verificar a existência, ou ausência, de
 habilidades e conhecimentos pré‐estabelecidos, esta é uma ação que inicia o
 processo avaliativo e verifica se os alunos dominam os pré‐requisitos necessários
-para novas aprendizagens. \cite{bloom1983manual}
+para novas aprendizagens.
 
 Segundo {\color{red}Haydt (2007)}, a partir de uma avaliação diagnóstica o docente constata se os seus alunos estão ou não preparados, se possuem domínio de pré–requisitos para adquirir novos conhecimentos. Portanto, a avaliação diagnóstica permite que o professor conheça seu aluno por um mecanismo de triagem e calibração
 
@@ -450,17 +450,17 @@ A avaliação formativa responde a uma concepção do ensino que considera que a
 
 \section{Inteligência Artificial}
 \label{sec:IA}
-A IA (Inteligência Artificial) é uma das ciências mais recentes. O trabalho começou logo após Segunda Guerra Mundial, tendo este nome cunhado em 1956.\cite{russell2004inteligencia}
+A IA (Inteligência Artificial) é uma das ciências mais recentes. O trabalho começou logo após Segunda Guerra Mundial, tendo este nome cunhado em 1956. \cite{russell2004inteligencia}
 
-A IA é a automatização de atividades que podem ser associadas ao pensamento humano, atividades como a tomada de decisões, a resolução de problemas, o aprenddizado, entre outros. \cite{bellman1978introduction}
+Segundo \citeonline{bellman1978introduction}, a IA é a automatização de atividades que podem ser associadas ao pensamento humano, atividades como a tomada de decisões, a resolução de problemas, o aprenddizado, entre outros.
 
 Várias disciplinas contribuíram com ideias, pontos de vista e técnicas para a IA. Dentre elas estão: Filosofia, Matemática, Economia, Neurociência, Psicologia, Engenharia de Computadores, Teoria de Controle e Cibernética, Linguística, entre outras. \cite{russell2004inteligencia}
 
 A IA abrange uma enorme variedade de subcampos, desde áreas de uso geral, como aprendizado e percepção, até tarefas específicas como diagnóstico de doenças, por exemplo. A IA sistematiza e automatiza tarefas intelectuais e, portanto, é potencialmente relevante para qualquer esfera da atividade intelectual humana. \cite{russell2004inteligencia}
 
-O objetivo da IA é o desenvolvimento de paradigmas ou algoritmos que requeiram máquinas parar realizar tarefas cognitivas, para as quais os humanos são atualmente melhores. Um sistema de IA tem três componentes fundamentais: representação, raciocínio e aprendizagem. \cite{sage1990concise}
+De acordo com \citeonline{sage1990concise}, o objetivo da IA é o desenvolvimento de paradigmas ou algoritmos que requeiram máquinas parar realizar tarefas cognitivas, para as quais os humanos são atualmente melhores. Um sistema de IA tem três componentes fundamentais: representação, raciocínio e aprendizagem.
 
-Aprendizado de Máquina ´e uma área da IA cujo objetivo é o desenvolvimento de técnicas computacionais sobre o aprendizado bem como a construção de sistemas capazes de adquirir conhecimento de forma automática. Um sistema de aprendizado é um programa de computador que toma decisões baseado em experiências acumuladas através da solução bem sucedida de problemas anteriores. Os diversos sistemas de aprendizado de máquina possuem características particulares e comuns que possibilitam sua classificação quanto à linguagem de descrição, modo, paradigma e forma de aprendizado utilizado \cite{monard2003sistemas}.
+Aprendizado de Máquina é uma área da IA cujo objetivo é o desenvolvimento de técnicas computacionais sobre o aprendizado bem como a construção de sistemas capazes de adquirir conhecimento de forma automática. Um sistema de aprendizado é um programa de computador que toma decisões baseado em experiências acumuladas através da solução bem sucedida de problemas anteriores. Os diversos sistemas de aprendizado de máquina possuem características particulares e comuns que possibilitam sua classificação quanto à linguagem de descrição, modo, paradigma e forma de aprendizado utilizado \cite{monard2003sistemas}.
 Umas das técnicas de aprendizado de máquina são as Redes Neurais Artificiais.
 
 %\subsection{Aprendizado de Máquina}
@@ -469,15 +469,14 @@ Umas das técnicas de aprendizado de máquina são as Redes Neurais Artificiais.
 \label{sec:RNA}
 Um neurônio é uma célula no cérebro cuja a principal função é coletar, processar e disseminar sinais elétricos. Uma parte do trabalho inicial da IA teve como objettico criar \textbf{Redes Neurais Artificiais} (RNA). Estas são funções não-lineares complexas com muitos parâmetros. \cite{russell2004inteligencia}
 
-Uma rede neural é um processador maciçamente paralelamente distribuído constituído de unidades de processamento simples, que têm a propensão natural para armazenar conhecimento experimental e torná-lo disponível para o uso. Ela se assemelha ao cérebro em dois aspectos: Conhecimento adquirido pela rede, através de um processo de aprendizagem. Forças de conexão entre neurônios, conhecidos como pesos sinápticos, usados para armazenar o conhecimento adquirido. \cite{haykin2001redes}
+Segundo \citeonline{haykin2001redes}, uma rede neural é um processador maciçamente paralelamente distribuído constituído de unidades de processamento simples, que têm a propensão natural para armazenar conhecimento experimental e torná-lo disponível para o uso. Ela se assemelha ao cérebro em dois aspectos: Conhecimento adquirido pela rede, através de um processo de aprendizagem. Forças de conexão entre neurônios, conhecidos como pesos sinápticos, usados para armazenar o conhecimento adquirido.
 
-A arquitetura de uma rede neural restringe o tipo de problema no qual a rede poderá ser utilizada, e é definida pelo número de camadas (camada única ou múltiplas camadas), pelo número de nós em cada camada, pelo tipo de conexão entre os nós (feedforward ou feedback) e por sua topologia. \cite{haykin2001redes}
+\citeonline{haykin2001redes} descreveu ainda que a arquitetura de uma rede neural restringe o tipo de problema no qual a rede poderá ser utilizada, e é definida pelo número de camadas (camada única ou múltiplas camadas), pelo número de nós em cada camada, pelo tipo de conexão entre os nós (\textit{feedforward} ou \textit{feedback}) e por sua topologia.
 
 \section{Aprendizagem Baseada em jogos - \textit{Games-based Learning}}
 \label{sec:GBL}
-{\color{red}[Ler e procurar mais]}
 
-Aprendizagem Baseada em jogos ou GBL pela sigla em inglês de \textit{Games-based Learning} foi definida por alguns autores. Segundo Tang, Hanneghan e El-Rhalibi \cite{tang2009introduction}, GBL faz referência a uma abordagem de aprendizagem inovadora derivada do uso de jogos de computador que tem valor educacional ou diferentes tipos de aplicação de software que usam jogos computacionais para ensino e educação. GBL's têm como finalidade o apoio à aprendizagem, a avaliação e análise de alunos e melhoria do ensino.
+Aprendizagem Baseada em jogos, ou GBL (pela sigla em inglês de \textit{Games-based Learning}), foi definida por alguns autores. Segundo \citeonline{tang2009introduction}, GBL faz referência a uma abordagem de aprendizagem inovadora derivada do uso de jogos de computador que tem valor educacional ou diferentes tipos de aplicação de software que usam jogos computacionais para ensino e educação. GBL's têm como finalidade o apoio à aprendizagem, a avaliação e análise de alunos e melhoria do ensino.
 
 A aprendizagem baseada em jogos surge como uma alternativa de ensino que se adapta às características da pedagogia moderna na qual o estudante é um ator ativo \cite{monsalve2014aprendizagem}.
 
@@ -485,10 +484,10 @@ Com a aprendizagem baseada em jogos, se pretende equilibrar
 entretenimento e difusão do conhecimento, motivando os estudantes a aprender
 enquanto jogam \cite{monsalve2011teaching}.
 
-Pode-se definir \textit{GBL} como o ato de aplicar jogos com o propósito de aprender habilidades e conceitos específicos, geralmente nomeado como “jogos sérios” (jogos com
-fins), entretenimento educativo\footnote{Do termo, em inglês, “\textit{Edutainment}”, que seria a união de educação (\textit{Education}) e entreterimento (\textit{entertainment})} ou jogos educativos. \cite{Souza:2017:GLB:3103028.3103054}
+\citeonline{Souza:2017:GLB:3103028.3103054} definiram \textit{GBL} como o ato de aplicar jogos com o propósito de aprender habilidades e conceitos específicos, geralmente nomeado como “jogos sérios” (jogos com
+fins), entretenimento educativo\footnote{Do termo, em inglês, “\textit{Edutainment}”, que seria a união de educação (\textit{Education}) e entreterimento (\textit{entertainment})} ou jogos educativos.
 
-Outros autores definiram GBL como uma abordagem lida com aplicativos de jogos que definiram resultados de aprendizagem. \cite{von2009game}
+\citeonline{von2009game} definiram GBL como uma abordagem lida com aplicativos de jogos que definiram resultados de aprendizagem.
 
 \subsection{Kahoot!}
 \label{sec:Kahoot!}
@@ -496,11 +495,11 @@ Kahoot! é uma plataforma de aprendizado baseada em jogos, usada como tecnologia
 
 Seus jogos de aprendizado, "Kahoots", são \textit{quizzes}, perguntas de múltipla escolha, que permitem a criação de usuários e podem ser acessados por meio de um navegador da Web, telefone ou pelo aplicativo.
 
-Kahoot! foi projetado para a aprendizagem social, com os alunos reunidos em torno de uma tela comum, como um quadro interativo, projetor ou um monitor de computador. O site também pode ser usado por meio de ferramentas de compartilhamento de tela, como Skype ou Google hangouts. Kahoot! pode ser usado para revisar o conhecimento dos alunos, para avaliação formativa\cite{kahootFormative}, ou como uma pausa com as atividades tradicionais em sala de aula. 
+Kahoot! foi projetado para a aprendizagem social, com os alunos reunidos em torno de uma tela comum, como um quadro interativo, projetor ou um monitor de computador. O site também pode ser usado por meio de ferramentas de compartilhamento de tela, como Skype ou Google hangouts. Kahoot! pode ser usado para revisar o conhecimento dos alunos, para avaliação formativa \cite{kahootFormative}, ou como uma pausa com as atividades tradicionais em sala de aula. 
 
 A jogabilidade é simples; todos os jogadores se conectam usando um PIN de jogo gerado na tela comum e usam um dispositivo para responder a perguntas criadas pelo professor. As questões podem ter pontuações atribuídas, em relação ao acerto e ao tempo para resposta. Os pontos aparecem no placar depois de cada pergunta.
 
-Alguns trabalhos relataram os resultados encontrados ao utilizar o Kahoot! no processo de ensino. Um destes foi realizado por Diniz et al. \cite{diniz2018kahoot}, que usou a ferramenta com alguns alunos de Ciência da Computação, obtendo resultados satisfatórios quanto a aceitação da ferramenta no contexto educacional.
+Alguns trabalhos relataram os resultados encontrados ao utilizar o Kahoot! no processo de ensino. Um destes foi realizado por \citeonline{diniz2018kahoot}, que usou a ferramenta com alguns alunos de Ciência da Computação, obtendo resultados satisfatórios quanto a aceitação da ferramenta no contexto educacional.
 
 \begin{comment}
 %Artigos complementares
@@ -515,37 +514,37 @@ Alguns trabalhos relataram os resultados encontrados ao utilizar o Kahoot! no pr
     
  Considerando que alguns fatores sociais e geográficos podem afetar a aplicação e a eficiência do uso desta ferramenta, faz-se necessário avaliá-la no contexto dos estudantes brasileiros.
  
- Em \cite{petri2016quiz}, o Kahoot! foi utilizado como um \textit{quiz} com perguntas sobre Gerenciamento de Projetos, disponibilizado para alunos dos cursos de Sistemas de
+ No trabalho de \citeonline{petri2016quiz}, o Kahoot! foi utilizado como um \textit{quiz} com perguntas sobre Gerenciamento de Projetos, disponibilizado para alunos dos cursos de Sistemas de
 Informação e Ciência da Computação como forma de revisão de conteúdo. Os autores identificaram \textit{feedbacks} positivos nos resultados encontrados. Afirmaram também que o jogo educacional cumpriu com o seu objetivo de aprendizagem por proporcionar a revisão de conhecimentos de forma divertida e motivadora.
 
-Para os autores \cite{abidin2017students}, a utilização do Kahoot! foi uma estratégia de motivação para os alunos de uma faculdade de Engenharia Elétrica ao cursarem uma disciplina de programação de computadores. O conteúdo apresentado no \textit{game} era relacionado a disciplina em questão e o objetivo era possibilitar aos alunos uma experiência atrativa para a aprendizagem, pois muitos deles perdiam o entusiamo ao estudarem programação de computadores. O resultado mostrou que a grande maioria dos alunos conseguiu melhorar sua  compreensão sobre a disciplina e também se mostraram mais engajados e motivados ao final do experimento.
+Para os autores \citeonline{abidin2017students}, a utilização do Kahoot! foi uma estratégia de motivação para os alunos de uma faculdade de Engenharia Elétrica ao cursarem uma disciplina de programação de computadores. O conteúdo apresentado no \textit{game} era relacionado a disciplina em questão e o objetivo era possibilitar aos alunos uma experiência atrativa para a aprendizagem, pois muitos deles perdiam o entusiamo ao estudarem programação de computadores. O resultado mostrou que a grande maioria dos alunos conseguiu melhorar sua  compreensão sobre a disciplina e também se mostraram mais engajados e motivados ao final do experimento.
 
-Outro trabalho similar \cite{correia2017game} apresenta as opiniões de alunos de um programa de formação de professores (licenciatura e mestrado) sobre as vantagens e desvantagens da utilização do Kahoot! em sala de aula. Como vantagens percebidas estão a correção automática das questões e o \textit{feedback} em tempo real para os alunos e professores. Como desvantagens, foram identificados os seguintes fatores: numero limitado de caracteres tanto para o enunciado das questões quanto para as opções de respostas, além do tempo limitado de resposta.
+Outro trabalho similar foi o realizado por \citeonline{correia2017game}, que apresenta as opiniões de alunos de um programa de formação de professores (licenciatura e mestrado) sobre as vantagens e desvantagens da utilização do Kahoot! em sala de aula. Como vantagens percebidas estão a correção automática das questões e o \textit{feedback} em tempo real para os alunos e professores. Como desvantagens, foram identificados os seguintes fatores: numero limitado de caracteres tanto para o enunciado das questões quanto para as opções de respostas, além do tempo limitado de resposta.
 
 %Artigo WEI
-O principal objetivo do estudo foi identificar percepções acadêmico. Objetivos mais específicos consistiram em verificar a aceitação da mesma com base em algumas perspectivas além de elucidar as vantagens e desvantagens da sua utilização. Os resultados foram bastantes satisfatórios no que diz respeito a aceitação da ferramenta no contexto educacional, pelo seu caráter divertido, interessante e dinâmico os quais remetem a aprendizagem, conforme a percepção dos alunos. Também foi verificado que a sua utilização não causou efeito colateral nas respostas dos participantes.
+%O principal objetivo do estudo foi identificar percepções acadêmico. Objetivos mais específicos consistiram em verificar a aceitação da mesma com base em algumas perspectivas além de elucidar as vantagens e desvantagens da sua utilização. Os resultados foram bastantes satisfatórios no que diz respeito a aceitação da ferramenta no contexto educacional, pelo seu caráter divertido, interessante e dinâmico os quais remetem a aprendizagem, conforme a percepção dos alunos. Também foi verificado que a sua utilização não causou efeito colateral nas respostas dos participantes.
 
 Kahoot, mantém as mesmas utilidades que outros métodos de resposta rápida; especialmente os \textit{clickers}, mas sem todos os problemas técnicos e logísticos destes. \cite{pintor2014kahoot}
 
 \section{Trabalhos Relacionados}
 \label{sec:TR}
-No decorrer dessa pesquisa foram encontrados alguns trabalhos que tratam de diferentes 
+No decorrer dessa pesquisa foram encontrados alguns trabalhos que propõem métodos para a predição de desempenho acadêmico. Nesta seção serão apresentados trabalhos correlatos que estão fortemente ligados com este projeto de pesquisa, seguido de breve resumo do que cada autor propôs e obteve como resultado.
 
 \subsection{Early Identification of Novice Programmers' Challenges in Coding using Machine Learning Techniques}
 \label{sec:Early}
-Em sua tese de Doutorado, Ahadi usou Mineração de Dados Educacionais para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios. \cite{ahadi2016early}
+Em sua tese de Doutorado, \citeonline{ahadi2016early} usou Mineração de Dados Educacionais para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios.
 
 \subsection{Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance}
 \label{sec:Evaluating}
-O trabalho de \cite{Castro-Wunsch2017} teve o objetivo de explorar a eficácia das Redes Neurais na identificação precoce de alunos que necessitavam de auxílio. Eles usaram trechos de códigos através de capturas instantânea de tela - \textit{Snapshots} e, assim, puderam aplicar a técnica de RNA para analisar a solução usada pelos alunos para os problemas propostos.
+O trabalho de \citeonline{Castro-Wunsch2017} teve o objetivo de explorar a eficácia das Redes Neurais na identificação precoce de alunos que necessitavam de auxílio. Eles usaram trechos de códigos através de capturas instantânea de tela - \textit{Snapshots} e, assim, puderam aplicar a técnica de RNA para analisar a solução usada pelos alunos para os problemas propostos.
 
 \subsection{Predição do Desempenho do Aluno usando Sistemas de Recomendação e Acoplamento de Classificadores}
 \label{sec:Pred1}
-Gotardo, em um de seus trabalhos, apresenta uma abordagem que usa algoritmos de aprendizado acoplados para integrar diferentes técnicas de aprendizado e mineração de dados e explorar um conjunto de dados educacionais oferecendo recomendação sobre o desempenho do aluno. \cite{gotardo2013prediccao}.
+\citeonline{gotardo2013prediccao}, em um de seus trabalhos, apresenta uma abordagem que usa algoritmos de aprendizado acoplados para integrar diferentes técnicas de aprendizado e mineração de dados e explorar um conjunto de dados educacionais oferecendo recomendação sobre o desempenho do aluno.
 
 \subsection{Predição de desempenho de alunos do primeiro período baseado nas notas de ingresso utilizando métodos de aprendizagem de máquina}
 \label{sec:Pred2}
-Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio didático foi o de Brito et al. \cite{DeBrito2014}, onde nas disciplinas do primeiro período do curso de Ciência da Computação da Universidade Federal da Paraíba (UFPB) foi avaliada a relação entre as notas de ingresso do aluno e o seu desempenho no primeiro período do curso. No trabalho, foram utilizados algoritmos de aprendizado de máquina implementados pela ferramenta WEKA (\textit{Waikato Environment for Knowledge Analysis}) - dentre eles, Redes Neurais, Árvore de Decisão e Redes Bayesianas - na análise dos dados. Os resultados deram indícios de que essa relação existe.
+Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio didático foi o de \citeonline{DeBrito2014}, onde nas disciplinas do primeiro período do curso de Ciência da Computação da Universidade Federal da Paraíba (UFPB) foi avaliada a relação entre as notas de ingresso do aluno e o seu desempenho no primeiro período do curso. No trabalho, foram utilizados algoritmos de aprendizado de máquina implementados pela ferramenta WEKA (\textit{Waikato Environment for Knowledge Analysis}) - dentre eles, Redes Neurais, Árvore de Decisão e Redes Bayesianas - na análise dos dados. Os resultados deram indícios de que essa relação existe.
 
 %===== Seção de Metodologia ==============
 
@@ -573,7 +572,7 @@ Para nortear esta pesquisa, foram definidas questões que levantem pontos releva
 \label{sec:MP}
 Nesta seção serão descritos: o escopo da pesquisa, o idioma considerado, os termos utilizados, a \textit{string} de busca e os critérios de seleção de artigos.
 
-\subsubsection{Escopo da Pesquisa}
+\subsubsection{Máquinas de busca utilizadas}
 %As fontes consideradas no escopo desta pesquisa foram adotadas com base no portal de periódicos CAPES.
 Aplicou-se o método de pesquisa para a identificação de potenciais trabalhos correlatos ao tema deste mapeamento. As máquinas de busca utilizadas para a pesquisa foram:
 \begin{itemize}
@@ -610,7 +609,7 @@ A string de busca foi gerada a partir da combinação das palavras chave e foram
 \end{table}
 
 \subsubsection{Critérios de Seleção de Artigos e Procedimentos}
-Kitchenham \cite{kitchenham2004procedures} diz que devem ser seguidos critérios de inclusão e exclusão para os artigos que são retornados pela \textit{string} de busca. Sendo assim, foram definidos os seguintes critérios:
+\citeonline{kitchenham2004procedures} diz que devem ser seguidos critérios de inclusão e exclusão para os artigos que são retornados pela \textit{string} de busca. Sendo assim, foram definidos os seguintes critérios:
 
 \subsubsection{Critérios para Inclusão de Artigos}
 
@@ -760,7 +759,7 @@ Revisão Sistemática                  & Julho              & 2019      \\
 Análise de Trabalhos Relacionados    & Agosto             & 2019      \\
 Construção da Arquitetura            & Setembro           & 2019      \\
 Implementação do Sistema             & Outubro            & 2019      \\
-Avalição e Testes                    & Fevereiro          & 2019      \\
+Avaliação e Testes                    & Novembro e Dezembro& 2019      \\
                                      &                    &           \\ \bottomrule
 \end{tabular}
 \end{table}
