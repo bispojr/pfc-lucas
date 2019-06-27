@@ -200,15 +200,19 @@
   %\item[ABNT] Associação Brasileira de Normas Técnicas
   %\item[abnTeX] ABsurdas Normas para TeX
   \item[ARL - Análise de Regressão Linear]
+  \item[EaD - Ensino à Distância]
+  \item[GBL - \textit{Games-based Learning}]
   \item[IpC - Instrução pelos Colegas]
   \item[IA - Inteligência Artificial]
   \item[INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira]
   \item[MDE - Mineração de Dados Educacionais]
   \item[MEC - Ministério da Educação]
+  \item[PEC - Pesquisa em Educação de Computação]
+  \item[PI - \textit{Peer Instruction}]
   \item[RNA - Redes Neurais Artificiais]
-  \item[SIGCSE - Special Interest Group onComputer Science Education]
+  \item[SIGCSE - \textit{Special Interest Group onComputer Science Education}]
   \item[WEI - Workshop sobre Educação em Computação]
-  \item[WEKA - Waikato Environment for Knowledge Analysis]
+  \item[WEKA - \textit{Waikato Environment for Knowledge Analysis}]
 
 
 \end{siglas}
@@ -312,7 +316,7 @@ exemplos e informações adicionais de uso de \abnTeX\ e de \LaTeX. }
 
 % 1
 
-A educação de Ciência da Computação é uma área emergente e assunto amplamente discutido pela comunidade acadêmica brasileira e internacional \cite{fincher2005mapping}. No contexto brasileiro, o Workshop sobre Educação em Computação (WEI) tem sido um dos principais fóruns para esta discussão. O Simpósio SIGCSE (\textit{Special Interest Group on Computer Science Education}) é um dos maiores eventos, em âmbito internacional, na área. 
+A educação de Ciência da Computação é uma área emergente e assunto amplamente discutido pela comunidade acadêmica brasileira e internacional \cite{fincher2005mapping}. No contexto brasileiro, o Workshop sobre Educação em Computação (WEI) tem sido um dos principais fóruns para esta discussão. O SIGCSE (\textit{Special Interest Group on Computer Science Education}) Technical Symposium é um dos maiores eventos, em âmbito internacional, na área. 
 
 Pode-se definir, como um dos objetivos principais da PEC (Pesquisa em Educação de Computação), o aperfeiçoamento do processo de ensino e aprendizagem da Computação como ciência. \cite{holmboe2001research}
 
@@ -326,6 +330,7 @@ Um dos problemas na educação de computação está na avaliação de aprendiza
 a identificação prévia dos alunos que apresentam maior dificuldade na disciplina e, assim, com maior risco de reprovação.\cite{martins2012assistente}. %{\color{red}[TERMINAR]}
 
 %Alguns autores propuseram métodos para solucionar esse problema. Podemos citar alguns autores e seus trabalhos, que abordaram modelos preditivos quanto a situação dos alunos.
+
 Diversos autores propõem diferentes métodos para solucionar este problema. Alguns destes autores abordam modelos preditivos quanto a situação dos alunos.
 
 %Lightweight, Early Identification of At-Risk CS1 Students - abstract: "Uso de Clicker para identificar riscos"
@@ -343,9 +348,8 @@ Diversos autores propõem diferentes métodos para solucionar este problema. Alg
  Uma outra proposta é o uso do \textbf{modelo PreSS} que usa fatores comparativos - como a eficiência de programação, a habilidade matemática  e as horas dedicadas em exercícios - para auxiliar a identificação do alunos em risco de reprovação \cite{quille2018}. Existem até ferramentas capazes de realizarem capturas de telas, que exibem código-fonte, para auxiliar na identificação das dificuldades apresentadas pelos alunos usando \textbf{aprendizado de máquina}\cite{ahadi2016early}.
  
 %Objetivos Geral/Específico
-O objetivo geral deste trabalho é prever o desempenho acadêmico dos alunos, ainda no inicio da disciplina, identificando os que estejam no "grupo de risco"\footnote{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho. \cite{da2014alunos}}, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivo específico preencher lacuna(s) deixada(s) pelos trabalhos supracitados, propondo um modelo de Rede Neural Artificial, como método preditivo, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí, coletando dados na disciplina, durante o uso da plataforma de Aprendizagem Baseado em Jogos, "Kahoot!", como forma de avaliação formativa.
+O objetivo geral deste trabalho é prever o desempenho acadêmico dos alunos, ainda no inicio da disciplina, identificando os que estejam no "grupo de risco"\footnote[3]{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho. \cite{da2014alunos}}, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivo específico preencher lacuna deixada pelos trabalhos supracitados, propondo um modelo de Rede Neural Artificial, como método preditivo, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí, coletando dados na disciplina, durante o uso da plataforma de Aprendizagem Baseado em Jogos, "Kahoot!", como forma de avaliação formativa.
 
-{\color{red}[OBJETO DE ESTUDO]}
 %Objeto de estudo
 %Esta pesquisa tem como objeto de estudo a Avaliação da Aprendizagem de Ciência da Computação. e o problema de avaliação e identificação preditiva do desempenho acadêmico de alunos, com base os dados coletados dos alunos em avaliações formativas no inicio da disciplina.
 
@@ -389,8 +393,7 @@ O objetivo principal da pesquisa em Educação de Computação é o aperfeiçoam
 {\color{red}[Melhorar frase]Este trabalho será em torno da área de avaliação.}
 
 %Artigos ============================
-{\color{red}LER}
-\cite{da2014metodos}
+%{\color{red}LER}\cite{da2014metodos}
 
 \section{Avaliação}
 \label{sec:AVA}
@@ -426,7 +429,7 @@ Segundo {\color{red}Haydt (2007)}, a partir de uma avaliação diagnóstica o do
 \label{sec:AvaSom}
 Avaliação somativa é uma decisão que leva em conta a soma de um ou mais resultados e pode ser baseada numa só prova final {\color{red}(OLIVEIRA & CHADWICK, 2007)}.
 
-Para {\color{red}Ballester et al. (2003)}, uma avaliação somativa possui uma função social de assegurar que as características dos estudantes respondam a determinadas exigências feitas pelo sistema.
+Para {\color{red}Ballester et al. (2003)}, uma avaliação somativa possui uma função social, que é a de assegurar que as características dos estudantes respondam a determinadas exigências feitas pelo sistema.
 
 De acordo com {\color{red}Haydt (2007)}, esse tipo de avaliação tem por princípio classificar os resultados de aprendizagem alcançados pelos alunos de acordo com os níveis de aproveitamento estabelecidos, adotando assim uma função classificatória.
 
@@ -434,15 +437,11 @@ A avaliação somativa pretende ajuizar o progresso realizado pelo aluno, no fin
 
 \subsection{Avaliação formativa}
 \label{sec:AvaFor}
-A idéia de avaliação formativa sistematiza o funcionamento, levando o professor a
+A idéia de avaliação formativa é sistematizar o funcionamento, levando o professor a
 observar mais metodicamente os alunos, a compreender melhor seus funcionamentos, de modo
 a ajustar de maneira mais sistemática e individualizada suas intervenções pedagógicas e as
-situações didáticas que propõe, tudo isso na expectativa de otimizar a aprendizagem: "A
-avaliação formativa está portanto centrada essencial, direta e imediatamente sobre a gestão
-das aprendizagens dos alunos (pelo professor e pelos interessados)". Essa concepção se situa
-abertamente na perspectiva de uma regulação intencional, cuja intenção seria determinar ao
-mesmo tempo o caminho já percorrido por cada um e aquele que resta a percorrer com vistas a
-intervir para otimizar os processos de aprendizagem em curso. \cite{perrenoud1999avaliaccao}
+situações didáticas que propõe, tudo isso na expectativa de otimizar a aprendizagem. A
+avaliação formativa está portanto centrada essencialmente, direta e imediatamente, sobre a gestão das aprendizagens dos alunos (pelo professor e pelos interessados). Essa concepção se situa abertamente na perspectiva de uma regulação intencional, cuja intenção seria determinar ao mesmo tempo o caminho já percorrido por cada um e aquele que resta a percorrer com vistas a intervir para otimizar os processos de aprendizagem em curso. \cite{perrenoud1999avaliaccao}
 
 A avaliação formativa pretende determinar a posição do aluno ao longo de uma unidade de ensino, no sentido de identificar dificuldades e de lhes dar solução {\color{red} [CITAR - Ribeiro, L (1989)]}
 
@@ -480,14 +479,13 @@ Aprendizagem Baseada em jogos, ou GBL (pela sigla em inglês de \textit{Games-ba
 
 A aprendizagem baseada em jogos surge como uma alternativa de ensino que se adapta às características da pedagogia moderna na qual o estudante é um ator ativo \cite{monsalve2014aprendizagem}.
 
-Com a aprendizagem baseada em jogos, se pretende equilibrar
-entretenimento e difusão do conhecimento, motivando os estudantes a aprender
-enquanto jogam \cite{monsalve2011teaching}.
+Com a aprendizagem baseada em jogos, se pretende equilibrar entretenimento e difusão do conhecimento, motivando os estudantes a aprender enquanto jogam \cite{monsalve2011teaching}.
 
-\citeonline{Souza:2017:GLB:3103028.3103054} definiram \textit{GBL} como o ato de aplicar jogos com o propósito de aprender habilidades e conceitos específicos, geralmente nomeado como “jogos sérios” (jogos com
-fins), entretenimento educativo\footnote{Do termo, em inglês, “\textit{Edutainment}”, que seria a união de educação (\textit{Education}) e entreterimento (\textit{entertainment})} ou jogos educativos.
+\citeonline{Souza:2017:GLB:3103028.3103054} definiram \textit{GBL} como o ato de aplicar jogos com o propósito de aprender habilidades e conceitos específicos, geralmente nomeado como “jogos sérios” (jogos com fins), entretenimento educativo\footnote{Do termo, em inglês, “\textit{Edutainment}”, que seria a união de educação (\textit{Education}) e entreterimento (\textit{entertainment})} ou jogos educativos.
 
 \citeonline{von2009game} definiram GBL como uma abordagem lida com aplicativos de jogos que definiram resultados de aprendizagem.
+
+Algumas plataformas de GBL foram utilizadas por autores no processo de ensino-aprendizagem. Um destes foi o de \citeonline{lot2016game}, onde abordaram o uso de GBL como avaliação formativa, com a plataforma \textbf{Zoondle}. Outras plataformas de GBL usadas foram a \textbf{EducaCross}, no trabalho de \citeonline{reis2016experiencia}, a \textbf{Timemesh}, no trabalho de \citeonline{}{baptista2013timemesh} e, provavelmente o mais popular, \textbf{Kahoot!}, que será usado neste projeto de pesquisa.
 
 \subsection{Kahoot!}
 \label{sec:Kahoot!}
@@ -526,29 +524,9 @@ Outro trabalho similar foi o realizado por \citeonline{correia2017game}, que apr
 
 Kahoot, mantém as mesmas utilidades que outros métodos de resposta rápida; especialmente os \textit{clickers}, mas sem todos os problemas técnicos e logísticos destes. \cite{pintor2014kahoot}
 
-\section{Trabalhos Relacionados}
+\chapter{Trabalhos Relacionados}
 \label{sec:TR}
-No decorrer dessa pesquisa foram encontrados alguns trabalhos que propõem métodos para a predição de desempenho acadêmico. Nesta seção serão apresentados trabalhos correlatos que estão fortemente ligados com este projeto de pesquisa, seguido de breve resumo do que cada autor propôs e obteve como resultado.
-
-\subsection{Early Identification of Novice Programmers' Challenges in Coding using Machine Learning Techniques}
-\label{sec:Early}
-Em sua tese de Doutorado, \citeonline{ahadi2016early} usou Mineração de Dados Educacionais para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios.
-
-\subsection{Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance}
-\label{sec:Evaluating}
-O trabalho de \citeonline{Castro-Wunsch2017} teve o objetivo de explorar a eficácia das Redes Neurais na identificação precoce de alunos que necessitavam de auxílio. Eles usaram trechos de códigos através de capturas instantânea de tela - \textit{Snapshots} e, assim, puderam aplicar a técnica de RNA para analisar a solução usada pelos alunos para os problemas propostos.
-
-\subsection{Predição do Desempenho do Aluno usando Sistemas de Recomendação e Acoplamento de Classificadores}
-\label{sec:Pred1}
-\citeonline{gotardo2013prediccao}, em um de seus trabalhos, apresenta uma abordagem que usa algoritmos de aprendizado acoplados para integrar diferentes técnicas de aprendizado e mineração de dados e explorar um conjunto de dados educacionais oferecendo recomendação sobre o desempenho do aluno.
-
-\subsection{Predição de desempenho de alunos do primeiro período baseado nas notas de ingresso utilizando métodos de aprendizagem de máquina}
-\label{sec:Pred2}
-Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio didático foi o de \citeonline{DeBrito2014}, onde nas disciplinas do primeiro período do curso de Ciência da Computação da Universidade Federal da Paraíba (UFPB) foi avaliada a relação entre as notas de ingresso do aluno e o seu desempenho no primeiro período do curso. No trabalho, foram utilizados algoritmos de aprendizado de máquina implementados pela ferramenta WEKA (\textit{Waikato Environment for Knowledge Analysis}) - dentre eles, Redes Neurais, Árvore de Decisão e Redes Bayesianas - na análise dos dados. Os resultados deram indícios de que essa relação existe.
-
-%===== Seção de Metodologia ==============
-
-\chapter{Metodologia}
+No decorrer dessa pesquisa foram encontrados alguns trabalhos que propõem métodos para a predição de desempenho acadêmico. Nesta seção serão apresentados o levantamento bibliográfico feito para encontrar esses trabalhos, os trabalhos correlatos que estão fortemente ligados com este projeto de pesquisa, seguido de breve resumo do que cada autor propôs e obteve como resultado, de uma tabela contendo características que tornam esses trabalhos fortemente ligados e da descrição de cada uma destas características.
 
 \section{Levantamento Bibliográfico}
 \label{sec:L}
@@ -595,18 +573,19 @@ Educação de Computação, Ensino de Computação, Introdução a Computação,
 
 A \autoref{string-busca} mostra as strings de busca foram geradas a partir da combinação das palavras chave, dividida pelos idiomas estabelecidos.
 
-\begin{table}[!htb]
-\centering
+%\begin{table}[!htb]
+\begin{center}
+\begin{longtable}{|| p{3cm} || p{10cm} ||}
 \caption{String de Busca}
 \label{string-busca}
-\begin{longtable}{|| p{3cm} || p{10cm} ||}
-    \hline \hline
+\hline
 \textit{\textbf{Português}} & (``Educação de computação'' OR ``ensino de computação'' AND ``Introdução a Computação'' OR ``Avaliação'') AND (``estimativa'' OR ``previsão'' AND ``Inteligência Artificial'' OR ``mineração de dados'' OR ``Aprendizado em Profundidade'' OR ``Redes Neurais Artificiais'' OR ``RNA'')\\
 \hline \hline
 \textit{\textbf{Inglês}} & \textit{(``Computer Education'' AND ``cs1'' OR ``assessment'') AND (``prediction'' OR ``data mining'' OR ``artificial intelligence'' OR ``deep learning'' OR ``Artificial neural network'' OR ``ANN''))}\\
  \hline \hline
 \end{longtable}
-\end{table}
+\end{center}
+%\end{table}
 
 \subsubsection{Critérios de Seleção de Artigos e Procedimentos}
 \citeonline{kitchenham2004procedures} diz que devem ser seguidos critérios de inclusão e exclusão para os artigos que são retornados pela \textit{string} de busca. Sendo assim, foram definidos os seguintes critérios:
@@ -637,19 +616,165 @@ A \autoref{string-busca} mostra as strings de busca foram geradas a partir da co
 Foi realizada uma primeira triagem, que consistiu na leitura do título, do resumo (\textit{abstract}) e das palavras-chave (\textit{keywords}) dos trabalhos previamente recuperados, aplicando os critérios de inclusão e exclusão e as \textit{Strings} de busca.
 A etapa seguinte consiste em  realizar a leitura completa e minuciosa dos artigos selecionados na primeira fase. Desta forma, a segunda fase do processo de triagem tem como objetivo fazer uma análise mais apurada dos estudos, identificando e extraindo dados de acordo com os critérios de inclusão e exclusão descritos anteriormente.
 
+\section{Trabalhos}
+\subsection{Early Identification of Novice Programmers' Challenges in Coding using Machine Learning Techniques}
+\label{sec:Early}
+Em sua tese de Doutorado, \citeonline{ahadi2016early} usou Mineração de Dados Educacionais e técnicas de \textit{Machine Learning} para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios.
+
+\subsection{Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance}
+\label{sec:Evaluating}
+O trabalho de \citeonline{Castro-Wunsch2017} teve o objetivo de explorar a eficácia das Redes Neurais na identificação precoce de alunos que necessitavam de auxílio. Eles usaram trechos de códigos através de capturas instantânea de tela - \textit{Snapshots} e, assim, puderam aplicar a técnica de RNA para analisar a solução usada pelos alunos para os problemas propostos.
+
+\subsection{Predição do Desempenho do Aluno usando Sistemas de Recomendação e Acoplamento de Classificadores}
+\label{sec:Pred1}
+\citeonline{gotardo2013prediccao}, em um de seus trabalhos, apresenta uma abordagem que usa algoritmos de aprendizado de máquina acoplados para integrar as diferentes técnicas para explorar um conjunto de dados educacionais oferecendo recomendação sobre o desempenho do aluno.
+
+\subsection{Predição de desempenho de alunos do primeiro período baseado nas notas de ingresso utilizando métodos de aprendizagem de máquina}
+\label{sec:Pred2}
+Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio didático foi o de \citeonline{DeBrito2014}, onde nas disciplinas do primeiro período do curso de Ciência da Computação da Universidade Federal da Paraíba (UFPB) foi avaliada a relação entre as notas de ingresso do aluno e o seu desempenho no primeiro período do curso. No trabalho, foram utilizados algoritmos de aprendizado de máquina implementados pela ferramenta WEKA (\textit{Waikato Environment for Knowledge Analysis}) - dentre eles, Redes Neurais, Árvore de Decisão e Redes Bayesianas - na análise dos dados. Os resultados deram indícios de que essa relação existe.
+
+\section{Tabela e descrição de características}
+\label{sec:tab}
+\begin{table}[]
+\caption{Características em relação a esse projeto de pesquisa}
+\label{tab:my-table}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{c|cccl|ccc|cclcccc}
+ & \multicolumn{4}{c|}{\ref{sec:coleta}} & \multicolumn{3}{c|}{\ref{sec:metodo}} & \multicolumn{3}{c|}{\ref{sec:disc}} & \multicolumn{4}{c}{\ref{sec:geo}} \cline{4-18}
+\multicolumn{1}{c|}{Artigos/Características} & \multicolumn{1}{c}{\ref{sec:snap}} & \ref{sec:moodle} & \ref{sec:notas} & \ref{sec:Meu} & \ref{sec:ML} & \ref{sec:RNA} & \ref{sec:WEKA} & \ref{sec:icc} & \ref{sec:1p} & \ref{sec:IHC} & \ref{sec:BR} & \ref{sec:EUA} & \ref{sec:EUR} & \ref{sec:Aus} \\ \hline
+\citeonline{ahadi2016early} & X &  &  &  & X &  &  & X &  & \multicolumn{1}{l|}{} &  &  & X & X \\
+\citeonline{Castro-Wunsch2017}& X &  &  &  &  & X &  & X &  & \multicolumn{1}{l|}{} &  & X & X &  \\
+\citeonline{gotardo2013prediccao} &  & X &  &  & X &  &  & X &  & \multicolumn{1}{l|}{} & X &  &  &  \\
+\citeonline{DeBrito2014} &  &  & X &  &  &  & X &  & X & \multicolumn{1}{l|}{} & X &  &  &  \\
+\hline \hline
+Esse trabalho &  &  &  & \multicolumn{1}{c|}{X} &  & X &  &  &  & \multicolumn{1}{c|}{X} & X &  &  & 
+\end{tabular}%
+}
+\end{table}
+
+\begin{comment}
+\begin{center}
+\begin{longtable}{|| p{3cm} || p{3cm} || p{3cm} || p{3cm} || p{3cm} || p{3cm} ||}
+\caption{}
+\label{tab:my-table}
+\begin{tabular}{cccclccccclcccc}
+ & \multicolumn{4}{c}{\ref{sec:coleta}} & \multicolumn{3}{c}{\ref{sec:metodo}} & \multicolumn{2}{c}{\ref{sec:disc}} &  & \multicolumn{4}{c}{\ref{sec:geo}} \\ \cline{2-2}
+\multicolumn{1}{c|}{Artigos/Características} & \multicolumn{1}{c|}{\ref{sec:snap}} & \ref{sec:moodle} & \ref{sec:notas} & \ref{sec:Meu} & \ref{sec:ML} & \ref{sec:RNA} & \ref{sec:WEKA} & \ref{sec:icc} & \ref{sec:1p} & \ref{sec:IHC} & \ref{sec:BR} & \ref{sec:EUA} & \ref{sec:EUR} & \ref{sec:Aus} \\ \cline{2-2}
+1 & X &  &  &  & X &  &  & X &  &  &  &  & X & X \\
+2 & X &  &  &  &  & X &  & X &  &  &  & X & X &  \\
+3 &  & X &  &  & X &  &  & X &  &  & X &  &  &  \\
+4 &  &  & X &  &  &  & X &  & X &  & X &  &  &  \\
+\hline \hline
+Esse trabalho &  &  &  & \multicolumn{1}{c}{X} &  & X &  &  &  & \multicolumn{1}{c}{X} & X &  &  & 
+\end{tabular}
+\end{longtable}
+\end{center}
+\end{comment}
+
+\begin{comment}
+\begin{table}[htb]
+	\centering
+	\caption{Características da relação dos trabalhos}
+	\vspace{0.5cm}
+	\begin{tabular}{
+			>{\centering\arraybackslash}m{4.7cm}|
+			>{\centering\arraybackslash}m{1cm}|
+			>{\centering\arraybackslash}m{1.1cm}|
+			>{\centering\arraybackslash}m{1.5cm}|
+			>{\centering\arraybackslash}m{1.4cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}
+	}
+		\hline
+		Artigos / Características	& ARL	& CPMP / Phi	& Aprend. de Máquina		& Árvore de Decisão &
+		WEKA	& Outros \\
+		\hline
+		\citeonline{ahadi2016early} &  &  & $\times$ & & & \\
+		\hline
+		\citeonline{Castro-Wunsch2017} & & $\times$ & & & & \\
+		\hline
+		\citeonline{gotardo2013prediccao} &  &  & $\times$ & & & \\
+		\hline
+		\citeonline{DeBrito2014} & & & & & $\times$ & \\
+		\hline
+		TOTAL & 4 & 5 & 3 & 2 & 3 & 2 \\
+		\hline
+\label{tab:trabalhos}
+		
+	\end{tabular}
+\end{table}
+\end{comment}
+
+TEXTO
+\subsection{Ferramentas de Coletas de Dados}
+\label{sec:coleta}
+
+\subsubsection{\textit{Snapshots} de códigos-fonte gerados}
+\label{sec:snap}
+\subsubsection{Iteração dos alunos no ambiente \textit{Moodle}}
+\label{sec:moodle}
+\subsubsection{Notas - fornecidos pela STI da Universidade - de ingresso e do primeiro período do curso}
+\label{sec:notas}
+\subsubsection{Kahoot!} 
+\label{sec:Meu}
+
+\subsection{Técnica/Método de Análise dos Dados}
+\label{sec:metodo}
+
+\subsubsection{Ferramentas de \textit{Machine Learning}}
+\label{sec:ML}
+\subsubsection{Redes Neurais Artificiais}
+\label{sec:RNA}
+\subsubsection{WEKEA - Redes Bayesianas, Árvore de Decisão e RNA}
+\label{sec:WEKA}
+
+\subsection{Unidade Local de Análise - Disciplina}
+\label{sec:disc}
+
+\subsubsection{Introdução a Progrmação/CS1 em Python e CS1 em Java}
+\label{sec:icc}
+\subsubsection{Primeiro Período}
+\label{sec:1p}
+\subsubsection{Interface Humano-Computador}
+\label{sec:IHC}
+
+\subsection{Contexto Geográfico}
+\label{sec:geo}
+
+\subsubsection{Brasil}
+\label{sec:BR}
+\subsubsection{Estados Unidos}
+\label{sec:EUA}
+\subsubsection{Europa}
+\label{sec:EUR}
+\subsubsection{Austrália}
+\label{sec:Aus}
+
+\subsection{Esse trabalho}
+\begin{figure}
+    \centering
+    \includegraphics[width=1.1\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/Diagrama.jpeg}
+    \caption{Diagrama esquemático dos processos do projeto de pesquisa}
+    \label{fig:my_label}
+\end{figure}
+%===== Seção de Metodologia ==============
+
+\chapter{Metodologia}
+
 \section{Classificação da pesquisa}
 
 \subsection{Tipo de Pesquisa}
 Essa pesquisa apresenta um \textbf{Estudo de Caso}. Ele será realizadona turma de 2019.2 da disciplina de Interface Humano-Computador, na Universidade Federal de Goias (UFJ/Regional Jatai). Um estudo de caso é uma investigação empírica que investiga um fenômeno contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre 0 fenômeno e o contexto não estão claramente definidos. \cite{yin2001planejamento}
 
-\subsection{Universo, População e Amostragem}
+\subsection{Universo, População e Amostragem/Unidade Local de Análise}
 Nesta pesquisa serão envolvidos alunos do curso de Ciência da Computação da Universidade Federal de Goias/Jatai, tendo a população da pesquisa de 162 alunos. E como amostragem, serão usados dados da turma de IHC-2019.2, com aproximadamente 20 alunos {\color{red}[Turma ainda não aberta. Baseando nas últimas duas turmas, média de 20 alunos matriculados]}.
 
 \subsection{Coleta de Dados}
 A coleta dos dados - respostas dos alunos às perguntas elaboradas pelo professor que ministra a disciplina - será feita através da ferramenta de tecnologia educacional, "Kahoot!", que foi descrita na seção \ref{sec:Kahoot!}
 
-\subsection{Análise e Interpretação dos Resultados}
+\subsection{Análise e Interpretação dos Resultados/Critérios de Análise}
 Como esta se trata de uma pesquisa quantitativa, será usada estatística inferencial para realizar a análise dos dados coletados e dos resultados obtidos.
+{\color{red}MELHORAR}
 
 \subsection{Gêneros de Pesquisa}
 \subsubsection{Quanto à natureza}
