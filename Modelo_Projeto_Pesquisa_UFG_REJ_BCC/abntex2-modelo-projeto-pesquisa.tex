@@ -1,4 +1,4 @@
-/%% abtex2-modelo-projeto-pesquisa.tex, v-1 PFC 1 2016
+%% abtex2-modelo-projeto-pesquisa.tex, v-1 PFC 1 2016
 %% Copyright 2012-2015 by abnTeX2 group at http://www.abntex.net.br/ 
 %%
 %% This work consists of the files abntex2-modelo-projeto-pesquisa.tex
@@ -324,7 +324,7 @@ A Educação em Computação é uma área emergente e amplamente discutida pela 
 %Problema
 Muitos alunos ingressantes em Computação apresentam dificuldades na aprendizagem, assim como em outras áreas de exatas \cite{blando2015dificuldades}. Em virtude destas dificuldades, alguns alunos não alcançam um desempenho satisfatório e reprovam em alguma disciplina. Estas reprovações podem ter, dentre outros fatores, forte influência em uma eventual evasão \cite{evasaoMatheus2014}. Segundo dados do Censo da Educação Superior de 2017 \cite{Inep2017}, publicado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) do Ministério da Educação (MEC), a taxa de evasão do Bacharelado em Ciência da Computação, nas universidades públicas e privadas de todo o Brasil, alcançou cerca de 60,2\%, enquanto a taxa geral - média dentre todos os cursos - ficou em torno dos 26\%.
 
-Desta forma, um dos problemas na Educação em Computação é a investigação de meios mais eficazes de realizar a avaliação de aprendizagem dos alunos. Um destes interesses consiste em identificar previamente aqueles alunos que apresentam maior dificuldade na disciplina e, assim, têm maior risco de reprovação.\cite{martins2012assistente}. Diversos autores propõem diferentes métodos para solucionar este problema. Alguns destes autores abordam modelos preditivos em relação à situação dos alunos.
+Desta forma, um dos problemas na Educação em Computação é a investigação de meios mais eficazes de realizar a avaliação de aprendizagem dos alunos. Um destes interesses consiste em identificar previamente aqueles alunos que apresentam maior dificuldade na disciplina e, assim, têm maior risco de reprovação.\cite{martins2012assistente}, esses alunos que se encontram em situação de risco de reprovação são integrantes do chamado ``grupo de risco''\footnote[1]{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho. \cite{da2014alunos}}. Diversos autores propõem diferentes métodos para solucionar este problema. Alguns destes autores abordam modelos preditivos em relação à situação dos alunos.
 %Justificativa
 %Muitas vezes os ingressantes não conseguem acompanhar o fluxo de estudos, têm baixo desempenho e assim acabam evadindo ou reprovando nas matérias introdutórias do curso.
 %Um dos pontos está no interesse 
@@ -334,13 +334,13 @@ Desta forma, um dos problemas na Educação em Computação é a investigação 
 
 
 
-%Lightweight, Early Identification of At-Risk CS1 Students - abstract: "Uso de Clicker para identificar riscos"
-\citeonline{liao2016lightweight} utilizaram o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[1]{Do inglês, \textit{Peer Instruction} (PI)}, juntamente com o \textit{Clicker}, pelos alunos, para tentar identificar os que estariam com tendência a baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados - "falsos negativos"\footnote[2]{"Falsos negativos": Quando os alunos são previamente classificados como não-integrantes do "Grupo de risco", mas que, ao final da disciplina, acabaram reprovando}.
+%Lightweight, Early Identification of At-Risk CS1 Students
+\citeonline{liao2016lightweight} utilizaram o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[2]{Do inglês, \textit{Peer Instruction} (PI)}, juntamente com o \textit{Clicker}, pelos alunos, para tentar identificar os que estariam com tendência a baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados - ``falsos negativos''\footnote[3]{``Falsos negativos'': Quando os alunos são previamente classificados como não-integrantes do ``Grupo de risco'', mas que, ao final da disciplina, acabaram reprovando}.
 
 %Modelo de Regressão Linear aplicado à previsão de desempenho de estudantes em ambiente de aprendizagem
 \textbf{ARL} também foi usada no trabalho de \citeonline{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o desempenho de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
 
-%Importance of early performance in CS1: two conflicting assessment stories - abstract: "Uso de PI para relação entre desempenho inicial do curso e sucesso no curso"
+%Importance of early performance in CS1: two conflicting assessment stories
 \citeonline{porter2014importance} usam os dados coletados durante o uso do IpC, além dos dados de provas, para explorar as relações entre as avaliações e o desempenho em sala de aula no final do prazo. Para examinar a relação entre as notas dos alunos em avaliações diferentes, foi utilizada a \textbf{Correlação de Pearson}.
 
 %Automatically Classifying Students in Need of Support by Detecting Changes in Programming Behaviour
@@ -349,7 +349,10 @@ Desta forma, um dos problemas na Educação em Computação é a investigação 
  Uma outra proposta é o uso do \textbf{modelo PreSS} que usa fatores comparativos - como a eficiência de programação, a habilidade matemática  e as horas dedicadas em exercícios - para auxiliar a identificação do alunos em risco de reprovação \cite{quille2018}. Existem até ferramentas capazes de realizarem capturas de telas, que exibem código-fonte, para auxiliar na identificação das dificuldades apresentadas pelos alunos usando \textbf{aprendizado de máquina} \cite{ahadi2016early}.
  
 %Objetivos Geral/Específico
-O objetivo geral deste trabalho é prever o desempenho acadêmico dos alunos, ainda no inicio da disciplina, identificando os que estejam no ``grupo de risco''\footnote[3]{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho. \cite{da2014alunos}}, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivo específico preencher lacuna deixada pelos trabalhos supracitados, propondo um modelo de Rede Neural Artificial, como método preditivo, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí, coletando dados na disciplina, durante o uso da plataforma de Aprendizagem Baseado em Jogos, ``Kahoot!'', como forma de avaliação formativa.
+O objetivo geral deste trabalho é prever o desempenho acadêmico, na Educação de Computação, dos alunos --- no contexto brasileiro --- ainda no inicio da disciplina, identificando os que estejam no grupo de risco, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivos específicos: a implementação do projeto de Rede Neural Artificial, o treinamento e a validação desta e a análise dos resultados através de um estudo de caso no sudoeste goiano, coletando dados com o uso da plataforma "Kahoot!".
+
+%propôr um modelo de Rede Neural Artificial, como método preditivo de desempenho acadêmico, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso no sudoeste goiano, coletando dados na disciplina, durante o uso da plataforma de Aprendizagem Baseado em Jogos, ``Kahoot!'', como forma de avaliação formativa.
+%na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí.
 
 %Objeto de estudo
 %Esta pesquisa tem como objeto de estudo a Avaliação da Aprendizagem de Ciência da Computação. e o problema de avaliação e identificação preditiva do desempenho acadêmico de alunos, com base os dados coletados dos alunos em avaliações formativas no inicio da disciplina.
@@ -389,7 +392,7 @@ Educação é um processo que visa ao desenvolvimento físico, intelectual e mor
 
 O objetivo principal da pesquisa em Educação de Computação é o aperfeiçoamento do processo de ensino e apredizagem da Computação como ciência. \cite{holmboe2001research}
 
-\citeonline{fincher2005mapping} identificam dez grandes áreas de interesse para pesquisadores em Educação de Computação. As dez áreas são: a compreensão do aluno, sistemas de animação/visualização/simulação, métodos de ensino, avaliação, tecnologia educacional, a transferência de prática profissional em sala de aula, a incorporação de um novo desenvolvimento e novas tecnologias na sala de aula, transferindo para o ensino à distância (“EaD” ou “\textit{e-learning}”), recrutamento e retenção de alunos, e finalmente, a construção da disciplina em à distância (“EaD” ou “\textit{e-learning}”), recrutamento e retenção de alunos, e finalmente, a construção da disciplina em à distância (“EaD” ou “\textit{e-learning}”), recrutamento e retenção de alunos, e finalmente, a construção da disciplina em à distância (“EaD” ou “\textit{e-learning}”), recrutamento e retenção de alunos, e finalmente, a construção da disciplina em si. 
+\citeonline{fincher2005mapping} identificam dez grandes áreas de interesse para pesquisadores em Educação de Computação. As dez áreas são: a compreensão do aluno, sistemas de animação/visualização/simulação, métodos de ensino, avaliação, tecnologia educacional, a transferência de prática profissional em sala de aula, a incorporação de um novo desenvolvimento e novas tecnologias na sala de aula, transferindo para o ensino à distância (“EaD” ou “\textit{e-learning}”), recrutamento e retenção de alunos, a construção da disciplina em à distância (“EaD” ou “\textit{e-learning}”), e finalmente, a construção da disciplina em si. 
 
 %Artigos ============================
 %{\color{red}LER}\cite{da2014metodos}
@@ -408,7 +411,7 @@ Para \citeonline{datrino2015avaliaccao}, avaliação vista como uma etapa da apr
 
 Os métodos avaliativos são de suma importância no processo de ensino-aprendizagem. Diversos autores demonstram os benefícios resultantes de uma boa avaliação durante as aprendizagens e conhecimentos adquiridos pelos discentes. Porém, é preciso que sejam escolhidos e aplicados no cotidiano do aluno de forma a conduzi-lo à aprendizagem, obtendo assim resultados satisfatórios a partir de sua avaliação e evitando análises errôneas e estresse por parte dos educadores e educandos. \cite{da2014alunos}
 
-Segundo \citeonline{libaneo1994didatica}, o entendimento correto da avaliação consiste em considerar a relação mútua entre os aspectos quantitativos e qualitativos. A avaliação não pode ser vista apenas como "medida", mas também não pode ser baseada na subjetividade de professores e alunos.
+Segundo \citeonline{libaneo1994didatica}, o entendimento correto da avaliação consiste em considerar a relação mútua entre os aspectos quantitativos e qualitativos. A avaliação não pode ser vista apenas como ``medida'', mas também não pode ser baseada na subjetividade de professores e alunos.
 
 \citeonline{bloom1983manual} classificaram a avaliação em três tipos, sendo eles:
 avaliação diagnóstica; avaliação formativa e avaliação somativa.
@@ -486,7 +489,7 @@ Algumas plataformas de GBL foram utilizadas por autores no processo de ensino-ap
 \label{sec:Kahoot!}
 Kahoot! é uma plataforma de aprendizado baseada em jogos, usada como tecnologia educacional em escolas, universidades e outras instituições de ensino. Kahoot! foi fundada por Johan Brand, Jamie Brooker e MortenVersvik em um projeto conjunto com a Universidade Norueguesa de tecnologia e ciência \cite{kahoot2018}
 
-Seus jogos de aprendizado, "Kahoots", são \textit{quizzes}, perguntas de múltipla escolha, que permitem a criação de usuários e podem ser acessados por meio de um navegador da Web, telefone ou pelo aplicativo.
+Seus jogos de aprendizado, ``Kahoots'', são \textit{quizzes}, perguntas de múltipla escolha, que permitem a criação de usuários e podem ser acessados por meio de um navegador da Web, telefone ou pelo aplicativo.
 
 Kahoot! foi projetado para a aprendizagem social, com os alunos reunidos em torno de uma tela comum, como um quadro interativo, projetor ou um monitor de computador. O site também pode ser usado por meio de ferramentas de compartilhamento de tela, como Skype ou Google hangouts. Kahoot! pode ser usado para revisar o conhecimento dos alunos, para avaliação formativa \cite{kahootFormative}, ou como uma pausa com as atividades tradicionais em sala de aula. 
 
@@ -533,21 +536,21 @@ O objetivo deste levantamento bibliográfico é fazer uma revisão, seleção e 
 %Questões de pesquisa
 \subsection{Questões de Pesquisa}
 \label{sec:QP}
-Para nortear esta pesquisa, foram definidas questões que levantem pontos relevantes a serem estudados.
+Para nortear esta levantamento, foram definidas questões que elenquem pontos relevantes a serem estudados.
 \begin{itemize}
-    \item \textbf{Questão 1}: Quais métodos existem para identificar alunos com risco de reprovação em disciplinas?
-    \item \textbf{Questão 2}: Qual o grau de precisão e acurácia destes métodos?
-    \item \textbf{Questão 3}: Redes Neurais Artificias são assertivas na predição de alunos em situação de risco?
-    \item \textbf{Questão 4}: Quais são as vantagens de se utilizar Redes Neurais Artificiais para esta tal?
+    \item \textbf{Questão 1}: Quais métodos foram propostos para identificar alunos com risco de reprovação em disciplinas?
+    \item \textbf{Questão 2}: Quais os graus de precisão e acurácia alcançados ao utilizar-se destes métodos?
+    \item \textbf{Questão 3}: Redes Neurais Artificias foram utilizadas? Se sim, são assertivas na predição de alunos em situação de risco?
+    \item \textbf{Questão 4}: Quais são as vantagens de se utilizar Redes Neurais Artificiais para tal?
 \end{itemize}
 
 \subsection{Método de pesquisa}
 \label{sec:MP}
-Nesta seção serão descritos: o escopo da pesquisa, o idioma considerado, os termos utilizados, a \textit{string} de busca e os critérios de seleção de artigos.
+Nesta seção serão descritos alguns elementos utilizados para o levantamento bibliográfico, de acordo com \citeonline{kitchenham2004procedures}. São estes: o escopo da pesquisa, o idioma considerado, os termos utilizados, a \textit{string} de busca e os critérios de seleção de artigos.
+
 
 \subsubsection{Máquinas de busca utilizadas}
-%As fontes consideradas no escopo desta pesquisa foram adotadas com base no portal de periódicos CAPES.
-Aplicou-se o método de pesquisa para a identificação de potenciais trabalhos correlatos ao tema deste mapeamento. As máquinas de busca utilizadas para a pesquisa foram:
+Para este levantamento bibliográfico, foram escolhidos três das principais máquinas de buscas disponíveis atualmente. Aplicou-se as \textit{Strings} de buscas que serão mais a frente, a fim de identificar potenciais trabalhos correlatos ao tema deste. As máquinas de busca utilizadas para a pesquisa foram:
 \begin{itemize}
     \item ACM Digital Library
     \item Google Scholar
@@ -555,12 +558,7 @@ Aplicou-se o método de pesquisa para a identificação de potenciais trabalhos 
 \end{itemize}
 
 \subsubsection{Idiomas dos Artigos}
-Os idiomas escolhido para os artigos foram:
-
-\begin{itemize}
-    \item Português
-    \item Inglês
-\end{itemize}
+Por se tratarem da língua oficial brasileira e uma das línguas mais faladas, respectivamente, Português e Inglês foram os idiomas escolhido para a pesquisa dos artigos.
 
 \subsection{Palavras-chave e \textit{strings} de busca}
 
@@ -590,29 +588,30 @@ A \autoref{string-busca} mostra as \textit{strings} de busca foram geradas a par
 
 \begin{enumerate}
     \item Pesquisas as quais tratam sobre utilização de métodos para identificação de alunos em situação de risco de reprovação;
-    \item Pesquisas as quais tratam sobre inteligência artificial no contexto de avaliação de aprendizagem;
+    \item Pesquisas as quais tratam sobre inteligência artificial no contexto educação de computação e no processo de ensino-aprendizagem;
     \item Pesquisas as quais tratam sobre previsão do desempenho acadêmico com uso de aprendizado de máquina.
 \end{enumerate}
 
 \subsubsection{Critérios para Exclusão de Artigos}
 \begin{enumerate}
-    \item Apresentar necessidade de identificar os alunos em situação de riscos;
-    \item Não serão selecionadas pesquisas que não satisfaçam a nenhum critério de inclusão;
-    \item A pesquisa não apresentou a forma utilizada para coletar dados;
-    \item A pesquisa não apresentou os métodos utilizados para analisar os dados obtidos;
+    \item Não apresentar necessidade de identificar os alunos em situação de riscos;
+    \item Não satisfaçam a nenhum critério de inclusão;
+    \item Não apresentar a forma utilizada para coletar dados;
+    \item Não apresentou os métodos utilizados para analisar os dados obtidos;
     \item Não foi possível ter acesso a pesquisa completa;
     \item A pesquisa não está disponível na \textit{web};
     \item A pesquisa é publicada apenas como resumo;
-    \item A pesquisa é uma versão mais antiga de outro estudo já considerado;
-    \item Trabalhos que são réplicas ou projetos de pesquisas iniciais, priorizando o trabalho mais completo (Geralmente, o mais recente);
-    \item Foram considerados apenas trabalhos publicados a partir de 2013.
+    \item Trabalhos que são réplicas ou continuações/evoluções de projetos de pesquisas iniciais, incluindo o trabalho mais completo (Geralmente, o mais recente);
+    \item Ter sido publicado em período anterior a 2013.
 \end{enumerate}
 
 \subsection{Processo de triagem}
 Foi realizada uma primeira triagem, que consistiu na leitura do título, do resumo (\textit{abstract}) e das palavras-chave (\textit{keywords}) dos trabalhos previamente recuperados, aplicando os critérios de inclusão e exclusão e as \textit{Strings} de busca.
-A etapa seguinte consiste em  realizar a leitura completa e minuciosa dos artigos selecionados na primeira fase. Desta forma, a segunda fase do processo de triagem tem como objetivo fazer uma análise mais apurada dos estudos, identificando e extraindo dados de acordo com os critérios de inclusão e exclusão descritos anteriormente.
+A etapa seguinte teve como objetivo realizar a leitura completa e minuciosa dos artigos selecionados na primeira fase. Desta forma, a segunda fase do processo de triagem possibilita fazer uma análise mais apurada dos estudos, identificando e extraindo dados de acordo com os critérios de inclusão e exclusão descritos anteriormente.
 
-\section{Trabalhos}
+\section{Trabalhos Relacionados selecionados}
+Após os processos de seleção e triagem, quatro artigos foram considerados fortemente relacionados a este projeto de pesquisa. A seguir, será feito um breve resumo do que foi proposto em cada um deles. Após, será apresentada a \autoref{tab:my-table} com um comparativo de características elencadas para que se faça um paralelo do que já foi proposto por outros autores e o que é alvitrado por este projeto. Por fim, uma breve discussão, destrinchando cada elemento característico dos trabalhos correlatos.
+
 \subsection{Early Identification of Novice Programmers' Challenges in Coding using Machine Learning Techniques}
 \label{sec:Early}
 Em sua tese de Doutorado, \citeonline{ahadi2016early} usou Mineração de Dados Educacionais e técnicas de \textit{Machine Learning} para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios.
@@ -631,34 +630,60 @@ Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio
 
 \section{Tabela e descrição de características}
 
+\begin{table}[htb]
+	\centering
+	\caption{Características dos Trabalhos Relacionados e deste projeto de pesquisa}
+	\vspace{0.5cm}
+	\begin{tabular}{
+			>{\centering\arraybackslash}m{5.8cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+	}
+		\hline
+		Artigos/Características 	& C1	& C2	& C3		& C4 \\
+		\hline
+		\citeonline{ahadi2016early} &  & X &  &  \\
+        \citeonline{Castro-Wunsch2017} &  & X &  &  \\
+        \citeonline{gotardo2013prediccao} &  &  &  & X \\
+        \citeonline{DeBrito2014} &  & X &  & X \\ \hline
+        Esse trabalho & X & X & X & X \\ \hline
+		
+\label{tab:trabalhos}
+		
+	\end{tabular}
+\end{table}
+
+\begin{comment}
 \begin{table}[]
-\caption{Características em relação a esse projeto de pesquisa}
+\caption{Características dos Trabalhos Relacionados e deste projeto de pesquisa}
 \label{tab:my-table}
 \resizebox{\textwidth}{!}{%
-\begin{tabular}{c|cl|cc|cl|cc}
- & \multicolumn{2}{c|}{Coleta de Dados} & \multicolumn{2}{c|}{Técnicas/Métodos} & \multicolumn{2}{c|}{Disciplinas} & \multicolumn{2}{c}{Contexto Geográfico} \\ \hline
-\begin{tabular}[c]{@{}c@{}}Artigos/\\Características\end{tabular} & \textit{\begin{tabular}[c]{@{}c@{}}Ferramentas\\ou Notas\end{tabular}} & \multicolumn{1}{c|}{Kahoot!} & \begin{tabular}[c]{@{}c@{}}Machine Learning\\ ou WEKA\end{tabular} & \begin{tabular}[c]{@{}c@{}}Rede Neural\\ Artificial\end{tabular} & \begin{tabular}[c]{@{}c@{}}CS1 ou\\ 1º Período\end{tabular} & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Interface\\ Humano-Computador\end{tabular}} & Brasil & \begin{tabular}[c]{@{}c@{}}Outros\\ países\end{tabular} \\ \hline
-\citeonline{ahadi2016early} & X &  & X &  & X &  &  & X \\
-\citeonline{Castro-Wunsch2017} & X &  &  & X & X &  &  & X \\
-\citeonline{gotardo2013prediccao} & X &  & X &  & X &  & X &  \\
-\citeonline{DeBrito2014} & X &  & X &  & X &  & X &  \\
-\hline
-Esse trabalho &  & \multicolumn{1}{c|}{X} &  & X &  & \multicolumn{1}{c|}{X} & X & 
+\begin{tabular}{c|c|c|c|c}
+\begin{tabular}[c]{@{}c@{}}Artigos/Características\end{tabular} & C1 & C2 & C3 & C4 \\ \hline
+\citeonline{ahadi2016early} &  & X &  &  \\
+\citeonline{Castro-Wunsch2017} &  & X &  &  \\
+\citeonline{gotardo2013prediccao} &  &  &  & X \\
+\citeonline{DeBrito2014} &  & X &  & X \\ \hline
+Esse trabalho & X & X & X & X
 \end{tabular}%
 }
 \end{table}
+\end{comment}
 
-\textbf{Coletas de Dados}
+\textbf{Critério 1 (C1) - A ferramenta de Coletas de Dados usada era alguma Plataforma Baseada em Jogos?}
+{\color{red}MELHORAR ITENS}
 \begin{itemize} 
     \item \textit{Snapshots} de códigos-fonte gerados: Foi utilizada uma ferramenta que capturava trechos dos códigos-fonte produzido pelos alunos.
-    \item Iteração dos alunos no ambiente \textit{Moodle}: Contabilizava o número, e quais eram, de iterações feitas pelos alunos no ambiente \textit{Moodle}. \textit{Moodle} é o acrônimo de "\textit{Modular Object-Oriented Dynamic Learning Environment}", um software livre, de apoio à aprendizagem, executado num ambiente virtual.
-    \item Notas - fornecidos pela STI da Universidade - de ingresso e do primeiro período do curso: Notas obtidas pelos alunos ao ingressarem na Universidade e as notas obtidas nas disciplinas do primeiro período (\ref{sec:1p}). As notas foram fornecidas pela STI - SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO da UFPB - Universidade Federal da Paraíba (\ref{sec:BR}).
+    \item Iteração dos alunos no ambiente \textit{Moodle}: Contabilizava o número, e quais eram, de iterações feitas pelos alunos no ambiente \textit{Moodle}. \textit{Moodle} é o acrônimo de ``\textit{Modular Object-Oriented Dynamic Learning Environment}'', um software livre, de apoio à aprendizagem, executado num ambiente virtual.
+    \item Notas - fornecidos pela STI da Universidade - de ingresso e do primeiro período do curso: Notas obtidas pelos alunos ao ingressarem na Universidade e as notas obtidas nas disciplinas do primeiro período. As notas foram fornecidas pela STI - Superintendência de Tecnologia da Informação da UFPB - Universidade Federal da Paraíba.
     \item Kahoot!: Plataforma de Aprendizado Baseado em jogos que será usada neste trabalho. Descrita em: \ref{sec:Kahoot!}.
 \end{itemize}
 
 
-\textbf{Técnica/Método de Análise dos Dados}
-
+\textbf{Critério 2 (C2) - Rede Neural Artificial foi especificada como técnica de Análise de Dados no trabalho?}
+{\color{red}MELHORAR ITENS}
 
 \begin{itemize}
     \item Ferramentas de \textit{Machine Learning}: Uso de ferramentas que implementam e/ou acoplam técnicas de \textit{Machine Learning} para análise dos dados. ML foi descrita na seção.
@@ -666,7 +691,8 @@ Esse trabalho &  & \multicolumn{1}{c|}{X} &  & X &  & \multicolumn{1}{c|}{X} & X
     \item WEKA - Redes Bayesianas, Árvore de Decisão e RNA: Ferramenta que tem implementada algumas técnicas de aprendizado de máquina.
 \end{itemize}
 
-\textbf{Unidade Local de Análise - Disciplina}
+\textbf{Critério 3 (C3) - A disciplina onde os trabalhos fizeram a análise de dados eram disciplinas do núcleo específico do curso de Ciência da Computação}
+{\color{red}MELHORAR ITENS}
 
 \begin{itemize}
     \item Introdução a Progrmação/CS1 em Python e CS1 em Java: Disciplinas introdutórias em programação.
@@ -674,7 +700,8 @@ Esse trabalho &  & \multicolumn{1}{c|}{X} &  & X &  & \multicolumn{1}{c|}{X} & X
     \item Interface Humano-Computador: Disciplina onde será aplicada o estudo de caso deste projeto de pesquisa.
 \end{itemize}
 
-\textbf{Contexto Geográfico}
+\textbf{Critério 4 (C4) - Os trabalhos foram realizados no Contexto Brasileiro?}
+{\color{red}MELHORAR ITENS}
 
 \begin{itemize}
     \item Brasil: As universidades que aplicaram foram:
@@ -688,27 +715,30 @@ Esse trabalho &  & \multicolumn{1}{c|}{X} &  & X &  & \multicolumn{1}{c|}{X} & X
     \item Austrália: University of Technology, Sydney.
 \end{itemize}
 
+%===== Seção de Metodologia ==============
+
+\chapter{Metodologia}
+
 \begin{figure}
     \centering
     \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/Diagrama.jpeg}
     \caption{Diagrama esquemático dos processos do projeto de pesquisa}
     \label{fig:my_label}
 \end{figure}
-%===== Seção de Metodologia ==============
 
-\chapter{Metodologia}
-Um estudo de caso é uma investigação empírica que investiga um fenômeno contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre o fenômeno e o contexto não estão claramente deﬁnidos \cite{yin2001planejamento}. Esta investigação enfrenta uma situação tecnicamente única em que haverá muito mais variáveis de interesse do que fonte de dados, e, como resultado, (1) baseia-se em fontes de evidências, com os dados precisando assimilar-se a trabalhos correlatos, e, como outro resultado, (2)beneﬁcia-se do desenvolvimento prévio de proposições teóricas para conduzir a coleta e análise de dados.
+
+Um estudo de caso é uma investigação empírica que investiga um fenômeno contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre o fenômeno e o contexto não estão claramente definidos \cite{yin2001planejamento}. Esta investigação enfrenta uma situação tecnicamente única em que haverá muito mais variáveis de interesse do que fonte de dados, e, como resultado, (1) baseia-se em fontes de evidências, com os dados precisando assimilar-se a trabalhos correlatos, e, como outro resultado, (2)beneficia-se do desenvolvimento prévio de proposições teóricas para conduzir a coleta e análise de dados.
 
 \section{Descrição do estudo de caso}
-Este é um estudo de caso {\color{red} Descrever}, utilizando uma estratégia exploratória. A justiﬁcativa deste estudo reside no caso revelador que é o uso de Redes Neurais Artificiais na predição de desempenho acadêmico dos alunos em Educação de Computação no Brasil. Os estudos do levantamento bibliográﬁco concentram-se principalmente em países da América do Norte, Europa e Oceania, como descrito no \autoref{sec:TR}.
-Segundo \citeonline{yin2001planejamento} para um estudo de caso são especialmente importantes cinco componentes de um projeto de pesquisa, que serão descritos a seguir.
+Este é um estudo de caso único holístico, utilizando uma estratégia exploratória. A justiﬁcativa deste estudo reside no caso revelador que é o uso de RNA na predição de desempenho acadêmico dos alunos em Educação de Computação no Brasil. Os estudos do levantamento bibliográfico concentram-se principalmente em países da América do Norte, Europa e Oceania, como descrito no \autoref{sec:TR}.
+Segundo \citeonline{yin2001planejamento}, um estudo de caso contém, em especial, cinco componentes importantes de um projeto de pesquisa que serão descritos a seguir.
 
 \subsection{Questões do estudo}
-Para nortear este estudo de caso, a questão principal levantada foi \textbf{Q1: "É possível prever, de forma satisfatória, o desempenho acadêmico dos alunos em Educação de Computação no contexto Brasileiro?"}
+Para nortear este estudo de caso, a questão principal levantada foi \textbf{Q1: ``É possível prever, de forma satisfatória, o desempenho acadêmico dos alunos em Educação de Computação no contexto Brasileiro?''}
 
 \subsection{Proposições}
 \label{sec:HS}
-A seguinte proposição foi estabelecida a fim de ser investigada. \textbf{R1: "Sim, é possível alcançar um nível satisfatório de precisão e acurácia da previsão de desemepnho acadêmico dos alunos."}
+A seguinte proposição foi estabelecida a fim de ser investigada. \textbf{P1: ``Sim, é possível alcançar um nível satisfatório de precisão e acurácia da previsão de desempenho acadêmico dos alunos.''}
 
 \subsection{Unidade de análise}
 A unidade de análise do estudo é a turma de 2019.2 da disciplina de Interface Humano-Computador do Bacharelado em Ciência da Computação da Universidade Federal de Jataí, localizada no sudoeste goiano.
@@ -716,24 +746,26 @@ A unidade de análise do estudo é a turma de 2019.2 da disciplina de Interface 
 \subsection{Coleta de Dados}
 A coleta dos dados terá duas fontes: as respostas e o desempenho final dos alunos da turma de 2018.2 (D1) e as respostas e o desempenho final dos alunos da turma de 2019.2 (D2) da disciplina de Interface Humano-Computador. 
 
-Os dados coletados consistem em dois conjuntos: as respostas dadas pelos alunos no decorrer das aulas, às perguntas elaboradas pelo professor que ministra a disciplina, através da ferramenta de tecnologia educacional, "Kahoot!", que foi descrita na seção \ref{sec:Kahoot!} e os resultados acadêmicos obtidos - aprovado ou reprovado - por esses alunos.
+Os dados coletados consistem em dois conjuntos: as respostas dadas pelos alunos no decorrer das aulas, às perguntas elaboradas pelo professor que ministra a disciplina, através da ferramenta de tecnologia educacional, ``Kahoot!'', que foi descrita na seção \ref{sec:Kahoot!} e os resultados acadêmicos obtidos - aprovado ou reprovado - por esses alunos.
 
 \subsection{Análise dos Dados}
-Para verificar se há ligação entre os dados coletados e a proposição estabelecida, tomaremos como métrica para "previsão satisfatória" os resultados de precisão e acurácia obtidos por trabalhos correlatos. Os dados coletados servirão como suporte para a proposição através da métrica adotada. 
+Para verificar se há ligação entre os dados coletados e a proposição estabelecida, tomaremos como métrica para ``previsão satisfatória'', os resultados de \textbf{precisão} e \textbf{acurácia} obtidos por trabalhos correlatos. Os dados coletados servirão como suporte para a proposição através da métrica adotada. Para melhor compreensão, os conceitos Acurácia e Precisão são importantes de serem explicados.
 
 \subsubsection{Precisão e Acurácia}
-Dois conceitos são importantes de serem explicados, Acurácia e Precisão.
 
 \textbf{Precisão} se define como a proximidade entre os valores obtidos pela repetição do processo de mensuração. Quanto menor é a diferença destes valores, melhor é a precisão. \textbf{Acurácia} se define como a proximidade da medida em relação ao verdadeiro valor, um valor definido, que se deseja obter. Quanto mais próximo do valor real, melhor é a acurácia. A \autoref{fig:PrecAcur} esclarece isso de maneira bem didática.
 
 \begin{figure}
     \centering
     \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/PrecisaoAcuracia.jpg}
-    \caption{Diferença entre Acurácia e Precisão. Disponível em: http://www.baseaerofoto.com.br/faq/}
+    \caption{Diferença entre Acurácia e Precisão}
     \label{fig:PrecAcur}
 \end{figure}
 
+%\footnote[4]{Figura disponível em: }
+
 \section{Classificação da pesquisa}
+A classificação desse projeto de pesquisa pode ser feito em termos de gêneros da mesma. Estes gêneros dizem respeito à natureza, os objetivos, os procedimentos, o objeto e à forma de abordagem desta.
 
 \begin{comment}
 
@@ -744,7 +776,7 @@ Essa pesquisa apresenta um \textbf{Estudo de Caso}. Ele será realizadona turma 
 Nesta pesquisa serão envolvidos alunos do curso de Ciência da Computação da Universidade Federal de Goias/Jatai, tendo a população da pesquisa de 162 alunos. E como amostragem, serão usados dados da turma de IHC-2019.2, com aproximadamente 20 alunos {\color{red}[Turma ainda não aberta. Baseando nas últimas duas turmas, média de 20 alunos matriculados]}.
 
 \subsection{Coleta de Dados}
-A coleta dos dados - respostas dos alunos às perguntas elaboradas pelo professor que ministra a disciplina - será feita através da ferramenta de tecnologia educacional, "Kahoot!", que foi descrita na seção \ref{sec:Kahoot!}
+A coleta dos dados - respostas dos alunos às perguntas elaboradas pelo professor que ministra a disciplina - será feita através da ferramenta de tecnologia educacional, ``Kahoot!'', que foi descrita na seção \ref{sec:Kahoot!}
 
 \subsection{Análise e Interpretação dos Resultados/Critérios de Análise}
 Como esta se trata de uma pesquisa quantitativa, será usada estatística inferencial para realizar a análise dos dados coletados e dos resultados obtidos.
@@ -766,7 +798,7 @@ Pesquisa de Campo: Todos os procedimentos que serão usados nesta pesquisa serã
 Pesquisa de campo: O principal objeto desta pesquisa é justamente a identificação prévia de alunos em risco de reprovação e o uso de Redes Neurais Artificiais como método preditivo. O conceito sobre o objeto, o problema relacionado ao mesmo, assim como a justificativa, são oriundos de uma coleta de dados realizada em local, tornando esta pesquisa de campo quanto aos objetos.
 
 \subsubsection{Quanto à forma de abordagem}
-Pesquisa quantitativa: Serão coletadas as respostas dadas pelos alunos, analisando os dados gerados com o modelo de Rede Neural criado e produzindo, assim, uma saída classificada.
+Pesquisa quantitativa: Serão coletadas as respostas dadas pelos alunos, analisando os dados gerados, com o modelo de Rede Neural criado, e produzindo, assim, uma saída classificada.
 
 \begin{comment}{
 %===========================================================================================
@@ -845,7 +877,7 @@ Pesquisa de laboratório – pesquisador procura refazer as condições de um fe
 \chapter{Cronograma}
 
 \index{elementos textuais}
-O cronograma tem por objetivo prever as ações distribuídas de acordo com o tempo previsto de pesquisa. O cronograma deve estar alinhado com os objetivos específicos e com a metodologia. Nos objetivos específicos tem-se “o que vou fazer”, na metodologia, “como vou fazer” e no cronograma, “quando vou fazer”.
+    O cronograma tem por objetivo prever as ações distribuídas de acordo com o tempo previsto de pesquisa. Alinhado com os objetivos específicos e com a metodologia, o cronograma descreva em quais prazos os objetivos específicos serão feitos.
 
 A \autoref{tabela_cronog} apresenta o cronograma de execução da pesquisa. 
 
