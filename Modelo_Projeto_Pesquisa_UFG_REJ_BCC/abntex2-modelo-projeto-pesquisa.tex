@@ -673,51 +673,113 @@ Esse trabalho & X & X & X & X
 \end{comment}
 
 \textbf{Critério 1 (C1) - A ferramenta de Coletas de Dados usada era alguma Plataforma Baseada em Jogos?}
-{\color{red}MELHORAR ITENS}
-\begin{itemize} 
-    \item \textit{Snapshots} de códigos-fonte gerados: Foi utilizada uma ferramenta que capturava trechos dos códigos-fonte produzido pelos alunos.
-    \item Iteração dos alunos no ambiente \textit{Moodle}: Contabilizava o número, e quais eram, de iterações feitas pelos alunos no ambiente \textit{Moodle}. \textit{Moodle} é o acrônimo de ``\textit{Modular Object-Oriented Dynamic Learning Environment}'', um software livre, de apoio à aprendizagem, executado num ambiente virtual.
-    \item Notas - fornecidos pela STI da Universidade - de ingresso e do primeiro período do curso: Notas obtidas pelos alunos ao ingressarem na Universidade e as notas obtidas nas disciplinas do primeiro período. As notas foram fornecidas pela STI - Superintendência de Tecnologia da Informação da UFPB - Universidade Federal da Paraíba.
-    \item Kahoot!: Plataforma de Aprendizado Baseado em jogos que será usada neste trabalho. Descrita em: \ref{sec:Kahoot!}.
+
+\begin{itemize}
+    \item O trabalho de \citeonline{Ahadi} utilizou Mineiração de Dados Educacionais e Snapshots de códigos-fonte. \citeonline{Castro-Wunsch2017} também usou Snapshots. \textit{Snapshots} de códigos-fonte gerados são feitos através de uma ferramenta que captura trechos dos códigos-fonte produzido pelos alunos.
+    \item \citeonline{gotardo2013prediccao} abordou o uso da interação dos alunos no ambiente \textit{Moodle}, onde se contabilizava o número de interações. e quais eram, feitas pelos alunos no ambiente. \textit{Moodle} é o acrônimo de ``\textit{Modular Object-Oriented Dynamic Learning Environment}'', um software livre, de apoio à aprendizagem, executado num ambiente virtual.
+    \item E outra fonte de dados são as notas dos alunos. No trabalho de \citeonline{DeBrito2014}, as notas --- fornecidas pela STI - Superintendência de Tecnologia da Informação da UFPB - Universidade Federal da Paraíba --- de ingresso, sendo atributos considerados: Média Geral no vestibular, Média de Matemática e a média em Física obtidos no processo seletivo para a entrada na UFPB, e as notas obtidas nas disciplinas do primeiro período do curso foram utilizadas para se analisar. Neste trabalho, duas das fontes de dados são notas finais/parciais do processo de avaliação somativa da disciplina do estudo de caso.
+    \item Um dos diferenciais deste projeto de pesquisa é a utilização da Plataforma de Aprendizado Baseado em jogos, ``Kahoot!'', descrita em: \ref{sec:Kahoot!}. O Kahoot! será a ferramenta utilizada na coleta de duas das quatro fontes de dados desse projeto.
 \end{itemize}
 
 
 \textbf{Critério 2 (C2) - Rede Neural Artificial foi especificada como técnica de Análise de Dados no trabalho?}
-{\color{red}MELHORAR ITENS}
+
+Os trabalhos selecionados utiliazaram técnicas de Machine Learning para a análise dos dados. Em alguns a técnica utilizada foi especificada, em outros não.
 
 \begin{itemize}
-    \item Ferramentas de \textit{Machine Learning}: Uso de ferramentas que implementam e/ou acoplam técnicas de \textit{Machine Learning} para análise dos dados. ML foi descrita na seção.
-    \item Redes Neurais Artificiais: Técnica que será usada nesse trabalho. Foi decrita em  
-    \item WEKA - Redes Bayesianas, Árvore de Decisão e RNA: Ferramenta que tem implementada algumas técnicas de aprendizado de máquina.
+    \item Em seu trabalho, \citeonline{ahadi2016early} utilizou técnicas de \textit{Machine Learning}, mas não as especificaram, e comparou os resultados encontrados entre elas. ou uso de ferramentas que implementam e/ou acoplam técnicas de \textit{Machine Learning} para análise dos dados. \citeonline{gotardo2013prediccao} utilizou uma ferramenta que faz o aprendizado baseado em acoplamento de algoritmos classificadores, não explicitando se Redes Neurais estava entre eles.
+    \item \citeonline{DeBrito2014} e \citeonline{Castro-Wunsch2017} utilizaram Redes Neurais Artificiais em seus trabalhos. Eles utilizaram a ferramenta WEKA que, dentre outras, implementa a técnica de RNA. Este trabalho tem como um dos objetivos específicos, implementar uma Rede Neural, projetando uma arquitetura que atenda as necessidades encontradas. RNA foi descrita em \autoref{sec:RNA}.
 \end{itemize}
 
 \textbf{Critério 3 (C3) - A disciplina onde os trabalhos fizeram a análise de dados eram disciplinas do núcleo específico do curso de Ciência da Computação}
-{\color{red}MELHORAR ITENS}
+
+O curso de Ciência da Computação é extremamente amplo, tendo um vasto leque de opções de áreas de atuação e interesse. O curso pode ser dividido em disciplinas introdutórias e de base, chamadas de núcleo básico da grade curricular, e disciplinas que abranjam especificidades de cada área, chamadas de núcleo específico.
 
 \begin{itemize}
-    \item Introdução a Progrmação/CS1 em Python e CS1 em Java: Disciplinas introdutórias em programação.
-    \item Primeiro Período: Contemplam as disciplinas de: Cálculo Diferencial e Integral 1, Física Aplicada à Computação 1, Cálculo Vetorial e Geometria Analítica.
-    \item Interface Humano-Computador: Disciplina onde será aplicada o estudo de caso deste projeto de pesquisa.
+    \item O trabalho de \citeonline{Castro-Wunsch2017}, trabalha com disciplinas do núcleo básico, sendo elas Introdução a Progrmação\footnote[4]{Do inglês, \textit{CS1 - Computer Science 1}, que são disciplinas que fazem uma introdução do conteúdo básico de programação} em \textit{Python} e em Java. \citeonline{ahadi2016early} também usou dados oriundos de uma disciplina de introdução a programação.
+    \item \citeonline{gotardo2013prediccao} não especifica as disciplinas em que os dados serão coletados.
+    \item No trabalho de \citeonline{DeBrito2014}, além das notas obtidas no processo seletivo, como já descrito anteriormente, as notas obtidas nas matérias do núcleo básico do curso foram considerados na disciplina. As disciplinas em questão foram: Cálculo Diferencial e Integral 1, Física Aplicada à Computação 1, Cálculo Vetorial e Geometria Analítica, disciplinas ofertadas no primeiro período do curso de Ciência da Computação da UFPB.
+    \item Já este trabalho se propõe a analisar dados coletados em uma disciplina do núcleo específico do curso, Interface Humano-Computador, com dados provenientes das turmas de 2018.2 e 2019.2, na UFG.
 \end{itemize}
 
 \textbf{Critério 4 (C4) - Os trabalhos foram realizados no Contexto Brasileiro?}
-{\color{red}MELHORAR ITENS}
+
+O contexto onde o trabalho foi realizado pode influenciar no resultado final por diversos fatores. É interessante aplicar para verificar-se a aplicabilidade em contexto Brasileiro.
 
 \begin{itemize}
-    \item Brasil: As universidades que aplicaram foram:
+    \item O trabalho de \citeonline{Castro-Wunsch2017} foi realizado em uma Universidade Norte-Americana de Pesquisa Intensiva que foi omitida, Esse trabalho foi realizado também em outra Universidade.
+    \item A Universidade supracitada foi uma Universidade Europeia de Pesquisa Intensiva. Essa Universidade já proveu dados para outro trabalho de Ahadi.
+    \item \citeonline{ahadi2016early} que teve um de seus trabalhos escolhidos como fortemente relacionados com esse, realizou o estudo em duas Universidades. Uma foi a University of Helsinki, Finland, na Europa.
+    \item A outra Universidade, onde o trabalho anterior foi aplicado, é a University of Technology, Sydney, Austrália.
+    \item No contexto brasileiro, dois trabalhos foram identificados como fortemente correlatos a proposto deste.
         \begin{itemize}
-            \item Universidade Federal da Paraíba
-            \item Uma Universidade à Distância omitida
-            \item E este trabalho, na Universidade Federal de Goiás.
+            \item \citeonline{DeBrito2014} realizou seu trabalho na Universidade Federal da Paraíba.
+            \item Já no trabalho de \citeonline{gotardo2013prediccao}, foi realizado o estudo em uma Universidade à Distância que foi omitida
+            \item E este trabalho, onde será realizado um estudo de caso na Universidade Federal de Goiás, situada no sudoeste goiano.
     \end{itemize}
-    \item Estados Unidos: Uma Universidade Norte-Americana de Pesquisa Intensiva omitida.
-    \item Europa: University of Helsinki, Finland e Uma Universidade Europeia de Pesquisa Intensiva omitida.
-    \item Austrália: University of Technology, Sydney.
 \end{itemize}
 
 %===== Seção de Metodologia ==============
 
 \chapter{Metodologia}
+
+Na \autoref{sec:metodo} será descrito os passos que serão realizados, os processos metodológicos adotados na pesquisa e como ocorrerá cada etapa do projeto. Já na \autoref{sec:estudo} serão abordados os elementos essenciais de um estudo de caso e a descrição de como será realizado o estudo de caso deste projeto de pesquisa. E, por fim, na \autoref{sec:classif} será realizado a classificação do projeto de pesquisa quanto aos gêneros identificados.
+
+\section{Descrição do processo metodológico} \label{sec:metodo}
+
+Nesta seção serão descritos os processos que serão realizados para se alcançar os objetivos geral e específicos estabelecidos.
+
+\subsection{Coleta de Dados}
+Para este projeto de pesquisa, serão adotadas 4 fontes de dados. Esses dados coletados darão suporte para proposições que serão feitas para solucionar o problema. As quatro fontes de dados que serão usadas são: as respostas do Kahoot! de 2018.2, os resultados finais do processo de avaliação somativa de 2018.2, as respostas do Kahoot! de 2019.2 e os resultados parciais de 2019.2, as quatro na disciplina de Interface Humano-Computador.
+
+\subsubsection{Respostas ao Kahoot!}
+O Kahoot! é uma plataforma de GBL e foi descrita melhor na \autoref{sec:Kahoot!}. Na disciplina de Interface Humano-Computador, ela foi utilizada em 2018.2 e será utilizada em 2019.2 novamente. O Kahoot! tem um caráter fortemente formativo, sendo aplicado ao final de cada aula, com questões elaboradas pelo professor que abordem assuntos que foram ministrados na aula. 
+
+As perguntas são de múltipla-escolha, tendo entre duas e cinco alternativas de respostas para o aluno. Neste projeto de pesquisa, serão usados os dados provenientes de respostas dadas pelos alunos aos questionários aplicados nas turmas de 2018.2 e 2019.2 da disciplina de Interface Humano-Computador da UFG, localizada em Jataí, sudoeste goiano.
+
+Na \autoref{fig:kahoot} é apresentado um \textit{Screenshot} de um exemplo de pergunta no Kahoot!
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/KahootScreenshot.png}
+    \caption{Exemplo de uma ``Kahoot!''}
+    \label{fig:kahoot}
+\end{figure}
+
+\subsubsection{Resultados parciais e finais da Avaliação Somativa}
+
+O processo de Avaliação Somativa foi descrito na \autoref{sec:AvaSom}. O Kahoot! além de caráter formativo, ele também tem, ainda que pouco, caráter somativo. Além disso, serão utilizadas os resultados parciais e finais da disciplina de IHC para a analise dos resultados do projeto.
+
+Na turma de 2018.2, serão usados os resultados finais da Avaliação Somativa. A disciplina já se encerrou, tendo que apenas a posse desses dados para realizar a análise. Já na turma de 2019.2, os resultados da Avaliação Somativa que serão usados são os parciais, consistindo de 2/3 da disciplina já tendo sido realizadas. O motivo desse ocorrido se dá em função do período de obtenção e análise destes, visto que para se ter os resultados finais não haveria tempo hábil para realizar a análise completa destes, tendo assim uma perca. Acredita-se que, com este porção de dados, será suficiente para se ter resultados significativos e, assim, apresentar uma contribuição relevante para a comunidade científica.
+ 
+\subsection{Projeto e Implementação da Rede Neural}
+
+O projeto da Rede consiste em pegar um conjunto de dados de entrada, aplicar essa entrada em neurônios, onde esses reajustarão os pesos destas. A rede produz uma saída com a ``previsão'' da rede, aprovado ou reprovado --- sendo depois indicado o grau, fortemente ou provavelmente. O conjunto de entrada da Rede é composto por um vetor onde estará as respostas dadas pelos alunos.
+
+A Rede Neural Artificial será a técnica de aprendizagem de máquina usada por este projeto de pesquisa. A descrição desta foi feita na \autoref{sec:RNA}. Para isso, será projetada uma Rede Neural Artificial, adotando uma arquitetura de rede especifica.
+
+A implementação da rede será feita na linguagem de programação \textit{Python}, que é uma linguagem interpretada, de \textit{script}, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Python é uma das opções mais comuns, quando se trata de Inteligência Artificial, talvez a que tenha mais biblioteca para Aprendizado de Máquina e Análise de Dados.
+
+Uma destas bibliotecas é a TensorFlow, que é de código-aberto. É com ela que será criada e treinada a Rede Neural proposta por esta pesquisa. Essa biblioteca consiste em detectar e decifrar padrões e correlações, análogo à maneira com que o seres-humanos aprendem e raciocinam.
+
+\subsection{Treinamento da Rede Neural}
+
+Como dito, o treinamento da Rede Neural será feito com a biblioteca TensorFlow na linguagem Python. Os dados usados para esse treinamento da rede seram os dados de 2018.2 e 2019.2 de IHC. O projeto consiste em dividir as resposta pelo período em que elas foram aplicadas, sendo estes em 3 subdivisões.
+
+A primeira rede será a rede com as entradas de dados dos primeiros 15 dias de aula, sendo estas entradas as respostas dadas nesse período às questões do Kahoot!, a segunda divisão será feita da mesma forma, porém as entradas serão as respostas dos primeiros 30 dias de aula. E, por fim, a última rede consistirá das respostas dadas nos primeiros 60 dias de aula.
+
+Nas figuras {\color{red}Colocar figuras}, está ilustrado como serão feitas as redes, os conjuntos de entrada 
+
+\subsection{Teste e Validação}
+
+O teste e a validação serão feitos nas semanas subsequentes às estabelecidas para o treinamento, com as redes já com os ``neurônios'' com seu respectivo peso, feito através do processo de treino da rede. Ao fazer o teste e a validação, os alunos serão classificados em 4 grupos, que apresentará o grau de risco e a situação dos alunos frente às previsões realizadas pela rede.
+
+\subsection{Classificação dos alunos}
+Após a análise ser feita pela Rede, o conjunto de saída apontará o aluno para que este integre um entre quatro grupos que serão estabelecidos. Os grupos seriam definidos como: Fortemente Reprovados (FR), Provavelmente Reprovados (PR), Provavelmente Aprovados (PA) e Fortemente Aprovados (FA). Esses níveis dizem respeito ao quão o aluno está propenso à reprovar. Pensando em um plano cartesiano, seria como se no eixo das abcissas fosse posto esses níveis classificatórios. Nessa analogia, quanto mais à esquerda o aluno fosse classificado, maior seria a chance do aluno ser reprovado na disciplina, quanto mais à direita o aluno fosse classificado, maior seria a chance desse aluno ser aprovado.
+
+A questão que aparece ao se fazer essa classificação é a seguinte: ``Um aluno não pode ser classificado de forma errada?''. Sim, ele pode, e isso é descrito por quatro conceitos importantes de serem definidos neste projeto de pesquisa, que são: Falsos-positivos, Falsos-negativos, Verdadeiros-negativos, Verdadeiros-positivos. 
+
+\subsection{Análise dos Resultados}
 
 \begin{figure}
     \centering
@@ -727,24 +789,24 @@ Esse trabalho & X & X & X & X
 \end{figure}
 
 
+\section{Estudo de caso}
+\label{sec:estudo}
 Um estudo de caso é uma investigação empírica que investiga um fenômeno contemporâneo dentro de seu contexto da vida real, especialmente quando os limites entre o fenômeno e o contexto não estão claramente definidos \cite{yin2001planejamento}. Esta investigação enfrenta uma situação tecnicamente única em que haverá muito mais variáveis de interesse do que fonte de dados, e, como resultado, (1) baseia-se em fontes de evidências, com os dados precisando assimilar-se a trabalhos correlatos, e, como outro resultado, (2)beneficia-se do desenvolvimento prévio de proposições teóricas para conduzir a coleta e análise de dados.
 
-\section{Descrição do estudo de caso}
+\subsection{Descrição do estudo de caso}
 Este é um estudo de caso único holístico, utilizando uma estratégia exploratória. A justiﬁcativa deste estudo reside no caso revelador que é o uso de RNA na predição de desempenho acadêmico dos alunos em Educação de Computação no Brasil. Os estudos do levantamento bibliográfico concentram-se principalmente em países da América do Norte, Europa e Oceania, como descrito no \autoref{sec:TR}.
 Segundo \citeonline{yin2001planejamento}, um estudo de caso contém, em especial, cinco componentes importantes de um projeto de pesquisa que serão descritos a seguir.
 
-\subsection{Questões do estudo}
-Para nortear este estudo de caso, a questão principal levantada foi \textbf{Q1: ``É possível prever, de forma satisfatória, o desempenho acadêmico dos alunos em Educação de Computação no contexto Brasileiro?''}
+%\subsection{Questões do estudo}
+Para nortear este estudo de caso, a questão principal levantada foi \textbf{Q1: ``Quais são os resultados ao se utilizar a RNA na previsão de alunos em situação de risco de reprovação em Educação de Computação no contexto Brasileiro?''}
 
-\subsection{Proposições}
-\label{sec:HS}
-A seguinte proposição foi estabelecida a fim de ser investigada. \textbf{P1: ``Sim, é possível alcançar um nível satisfatório de precisão e acurácia da previsão de desempenho acadêmico dos alunos.''}
+%\subsection{Proposições} \label{sec:HS}
+As seguintes proposições foram estabelecidas a fim de serem investigadas. A Proposição 1 \textbf{(P1): ``A precisão da RNA alcançou um nível satisfatório.''}, Proposição 2 \textbf{(P2): ``A acurácia da RNA teve um desempenho satisfatório''} e Proposição 3 \textbf{(P3): ``A cobertura (\textit{Recall}) atingiu um nível satisfatório''}.
 
-\subsection{Unidade de análise}
+\subsection{Unidade de análise, Coleta de Dados e Análise dos dados}
 A unidade de análise do estudo é a turma de 2019.2 da disciplina de Interface Humano-Computador do Bacharelado em Ciência da Computação da Universidade Federal de Jataí, localizada no sudoeste goiano.
 
-\subsection{Coleta de Dados}
-A coleta dos dados terá duas fontes: as respostas e o desempenho final dos alunos da turma de 2018.2 (D1) e as respostas e o desempenho final dos alunos da turma de 2019.2 (D2) da disciplina de Interface Humano-Computador. 
+A coleta dos dados terá quatro fontes: as respostas dos alunos no Kahoot! de 2018.2 (F1), o resultado final do processo de avaliação somativa dos alunos da turma de 2018.2 (F2), as respostas ao Kahoot! de 2019.2 (F3) e o resultado parcial da avaliação formativa dos alunos da turma de 2019.2 (F4). As duas turmas são da disciplina de Interface Humano-Computador. 
 
 Os dados coletados consistem em dois conjuntos: as respostas dadas pelos alunos no decorrer das aulas, às perguntas elaboradas pelo professor que ministra a disciplina, através da ferramenta de tecnologia educacional, ``Kahoot!'', que foi descrita na seção \ref{sec:Kahoot!} e os resultados acadêmicos obtidos - aprovado ou reprovado - por esses alunos.
 
@@ -765,6 +827,7 @@ Para verificar se há ligação entre os dados coletados e a proposição estabe
 %\footnote[4]{Figura disponível em: }
 
 \section{Classificação da pesquisa}
+\label{sec:classif}
 A classificação desse projeto de pesquisa pode ser feito em termos de gêneros da mesma. Estes gêneros dizem respeito à natureza, os objetivos, os procedimentos, o objeto e à forma de abordagem desta.
 
 \begin{comment}
