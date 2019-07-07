@@ -338,7 +338,7 @@ Desta forma, um dos problemas na Educação em Computação é a investigação 
 \citeonline{liao2016lightweight} utilizaram o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[2]{Do inglês, \textit{Peer Instruction} (PI)}, juntamente com o \textit{Clicker}, pelos alunos, para tentar identificar os que estariam com tendência a baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados - ``falsos negativos''\footnote[3]{``Falsos negativos'': Quando os alunos são previamente classificados como não-integrantes do ``Grupo de risco'', mas que, ao final da disciplina, acabaram reprovando}.
 
 %Modelo de Regressão Linear aplicado à previsão de desempenho de estudantes em ambiente de aprendizagem
-\textbf{ARL} também foi usada no trabalho de \citeonline{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o desempenho de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
+\textbf{ARL} também foi usada no trabalho de \citeonline{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o resultado acadêmico de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
 
 %Importance of early performance in CS1: two conflicting assessment stories
 \citeonline{porter2014importance} usam os dados coletados durante o uso do IpC, além dos dados de provas, para explorar as relações entre as avaliações e o desempenho em sala de aula no final do prazo. Para examinar a relação entre as notas dos alunos em avaliações diferentes, foi utilizada a \textbf{Correlação de Pearson}.
@@ -729,6 +729,13 @@ Na \autoref{sec:metodo} será descrito os passos que serão realizados, os proce
 
 Nesta seção serão descritos os processos que serão realizados para se alcançar os objetivos geral e específicos estabelecidos.
 
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/ProcessoMetodologico.png}
+    \caption{Diagrama esquemático dos processos do projeto de pesquisa}
+    \label{fig:my_label}
+\end{figure}
+
 \subsection{Coleta de Dados}
 Para este projeto de pesquisa, serão adotadas 4 fontes de dados. Esses dados coletados darão suporte para proposições que serão feitas para solucionar o problema. As quatro fontes de dados que serão usadas são: as respostas do Kahoot! de 2018.2, os resultados finais do processo de avaliação somativa de 2018.2, as respostas do Kahoot! de 2019.2 e os resultados parciais de 2019.2, as quatro na disciplina de Interface Humano-Computador.
 
@@ -768,7 +775,28 @@ Como dito, o treinamento da Rede Neural será feito com a biblioteca TensorFlow 
 
 A primeira rede será a rede com as entradas de dados dos primeiros 15 dias de aula, sendo estas entradas as respostas dadas nesse período às questões do Kahoot!, a segunda divisão será feita da mesma forma, porém as entradas serão as respostas dos primeiros 30 dias de aula. E, por fim, a última rede consistirá das respostas dadas nos primeiros 60 dias de aula.
 
-Nas figuras {\color{red}Colocar figuras}, está ilustrado como serão feitas as redes, os conjuntos de entrada 
+Nas figuras \ref{fig:rede01}, \ref{fig:rede02} e \ref{fig:rede03}, estão ilustradas como serão feitas as redes, com os conjuntos de entradas. 
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/rede01_15.png}
+    \caption{Rede 01 - 15 dias de respostas}
+    \label{fig:rede01}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/rede02_30.png}
+    \caption{Rede 02 - 30 dias de respostas}
+    \label{fig:rede02}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/rede03_60.png}
+    \caption{Rede 03 - 60 dias de respostas}
+    \label{fig:rede03}
+\end{figure}
 
 \subsection{Teste e Validação}
 
@@ -777,17 +805,32 @@ O teste e a validação serão feitos nas semanas subsequentes às estabelecidas
 \subsection{Classificação dos alunos}
 Após a análise ser feita pela Rede, o conjunto de saída apontará o aluno para que este integre um entre quatro grupos que serão estabelecidos. Os grupos seriam definidos como: Fortemente Reprovados (FR), Provavelmente Reprovados (PR), Provavelmente Aprovados (PA) e Fortemente Aprovados (FA). Esses níveis dizem respeito ao quão o aluno está propenso à reprovar. Pensando em um plano cartesiano, seria como se no eixo das abcissas fosse posto esses níveis classificatórios. Nessa analogia, quanto mais à esquerda o aluno fosse classificado, maior seria a chance do aluno ser reprovado na disciplina, quanto mais à direita o aluno fosse classificado, maior seria a chance desse aluno ser aprovado.
 
-A questão que aparece ao se fazer essa classificação é a seguinte: ``Um aluno não pode ser classificado de forma errada?''. Sim, ele pode, e isso é descrito por quatro conceitos importantes de serem definidos neste projeto de pesquisa, que são: Falsos-positivos, Falsos-negativos, Verdadeiros-negativos, Verdadeiros-positivos. 
+A questão que aparece ao se fazer essa classificação é a seguinte: ``Um aluno não pode ser classificado de forma errada?''. Sim, ele pode, e isso é descrito por quatro conceitos (ver \autoref{fig:Venn} importantes de serem definidos neste projeto de pesquisa, que são:
 
-\subsection{Análise dos Resultados}
+\begin{itemize}
+    \item \textbf{Falsos-negativos (FN)}: Com os resultados alcançados pela rede, alunos podem ser classificados como se não estivessem no grupo de risco de reprovação, mas acabam reprovando. São os chamados falsos-negativos.
+    \item \textbf{Falsos-positivos (FP)}: Os alunos podem ainda ser classificados como alunos em situação de risco de reprovação, mas ao final da disciplina alguns desses alunos serem aprovados, constatando assim os chamados Falsos-positivos.
+    \item \textbf{Verdadeiros-negativos (VN)}: Os alunos classificados como não pertencentes ao grupo de risco de reprovação e que acabam aprovados, sendo assim corretamente classificados previamente, são denominados Verdadeiros-negativos.
+    \item \textbf{Verdadeiros-positivos (VP)}: Já os alunos que são classificados como alunos em situação de risco de reprovação e, ao final da disciplina, acabam realmente reprovando, são chamados de Verdadeiros-positivos.
+\end{itemize}
 
 \begin{figure}
     \centering
-    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/Diagrama.jpeg}
-    \caption{Diagrama esquemático dos processos do projeto de pesquisa}
-    \label{fig:my_label}
+    \includegraphics[width=0.9\textwidth]{Modelo_Projeto_Pesquisa_UFG_REJ_BCC/DiagramaVenn.png}
+    \caption{Diagrama de Venn para Falsos/verdadeiros negativos e positivos}
+    \label{fig:Venn}
 \end{figure}
 
+\subsection{Análise dos Resultados}
+\label{ss:analise}
+Após a produção dos resultados e e classificação da situação dos alunos, o passo seguinte do projeto de pesquisa é analisar os resultados para saber se estes foram satisfatório e estão de acordo com o esperado. Para isso serão usados como métrica os índices de Precisão, Acurácia e Cobertura (\textit{Recall}). As formalizações propostas em outras literaturas para essas três métricas são as seguintes:
+
+
+$Acurácia = \frac{VP+VN}{VP+VN+FP+FN}*100$
+
+$Precisão = \frac{VP}{VP+FP}*100$
+
+$\textit{Recall} = \frac{VP}{VP+FN}*100$
 
 \section{Estudo de caso}
 \label{sec:estudo}
@@ -803,17 +846,26 @@ Para nortear este estudo de caso, a questão principal levantada foi \textbf{Q1:
 %\subsection{Proposições} \label{sec:HS}
 As seguintes proposições foram estabelecidas a fim de serem investigadas. A Proposição 1 \textbf{(P1): ``A precisão da RNA alcançou um nível satisfatório.''}, Proposição 2 \textbf{(P2): ``A acurácia da RNA teve um desempenho satisfatório''} e Proposição 3 \textbf{(P3): ``A cobertura (\textit{Recall}) atingiu um nível satisfatório''}.
 
-\subsection{Unidade de análise, Coleta de Dados e Análise dos dados}
+\subsection{Unidade de análise, Coleta de Dados}
 A unidade de análise do estudo é a turma de 2019.2 da disciplina de Interface Humano-Computador do Bacharelado em Ciência da Computação da Universidade Federal de Jataí, localizada no sudoeste goiano.
 
 A coleta dos dados terá quatro fontes: as respostas dos alunos no Kahoot! de 2018.2 (F1), o resultado final do processo de avaliação somativa dos alunos da turma de 2018.2 (F2), as respostas ao Kahoot! de 2019.2 (F3) e o resultado parcial da avaliação formativa dos alunos da turma de 2019.2 (F4). As duas turmas são da disciplina de Interface Humano-Computador. 
 
-Os dados coletados consistem em dois conjuntos: as respostas dadas pelos alunos no decorrer das aulas, às perguntas elaboradas pelo professor que ministra a disciplina, através da ferramenta de tecnologia educacional, ``Kahoot!'', que foi descrita na seção \ref{sec:Kahoot!} e os resultados acadêmicos obtidos - aprovado ou reprovado - por esses alunos.
+As respostas são dadas pelos alunos, no final de cada aulas, às perguntas elaboradas pelo professor que ministra a disciplina, através da ferramenta de tecnologia educacional, ``Kahoot!'', que foi descrita na seção \ref{sec:Kahoot!} e os resultados parciais e finais no processo de avaliação somativa - aprovado ou reprovado - obtidos por esses alunos.
+
+Ao final da disciplina e do processo de avaliação somativa, os alunos alcançam certo resultado - aprovado ou reprovado - que será um dos dados que formará o conjunto que será analisado.
 
 \subsection{Análise dos Dados}
-Para verificar se há ligação entre os dados coletados e a proposição estabelecida, tomaremos como métrica para ``previsão satisfatória'', os resultados de \textbf{precisão} e \textbf{acurácia} obtidos por trabalhos correlatos. Os dados coletados servirão como suporte para a proposição através da métrica adotada. Para melhor compreensão, os conceitos Acurácia e Precisão são importantes de serem explicados.
+Para demonstrar a ligação entre os dados coletados e as proposições estabelecidas, serão adotadas três métricas, os resultados de \textbf{precisão}, \textbf{Acurácia} e Cobertura (\textit{Recall} obtidos por trabalhos correlatos. Os dados coletados servirão como suporte para a proposição através da métrica adotada. Se os resultados alcançados forem próximos às métricas, podemos dizer que a previsão feita pela RNA atingiu um nível satisfatório. Mais detalhes serão descritos a seguir. Para melhor compreensão, os conceitos de Acurácia e Precisão são importantes de serem explicados e diferenciados e serão na \autoref{dif}. As fórmulas que os descrevem já foram explicitadas na \autoref{ss:analise}.
 
-\subsubsection{Precisão e Acurácia}
+As métricas usadas serão usadas como suporte para dizer se os resultados alcançados neste projeto satisfizeram as proposições estabelecidas, ou seja, os níveis alcançados foram satisfatórios. Para definir os valores estabelecidos, tomaremos como base os valores obtidos para os atributos de métrica descritos, evidenciando resultados concretos já alcançados. Os trabalhos em questão serão os Trabalhos Relacionados da\autoref{sec:TR}, onde se alcançaram níveis próximos ao que será estabelecido para este, que terá uma margem de consideração. Formalmente, podemos dizer que as métricas que servirão de base, serão:
+
+$Cobertura = \left \{ x | x >= 70\% \right \}$
+
+$Precisão = \left \{ y | y >= 75\% \right \}$
+
+$Recall = \left \{ z | z >= n\% \right \}$
+\subsubsection{Diferença entre Precisão e Acurácia} \label{dif}
 
 \textbf{Precisão} se define como a proximidade entre os valores obtidos pela repetição do processo de mensuração. Quanto menor é a diferença destes valores, melhor é a precisão. \textbf{Acurácia} se define como a proximidade da medida em relação ao verdadeiro valor, um valor definido, que se deseja obter. Quanto mais próximo do valor real, melhor é a acurácia. A \autoref{fig:PrecAcur} esclarece isso de maneira bem didática.
 
@@ -852,7 +904,7 @@ Como esta se trata de uma pesquisa quantitativa, será usada estatística infere
 Empírica, pois a pesquisa dedica-se recolher dados diretamente da realidade do objeto de estudo, mensurar a realidade, formular observações e propor transformações do mesmo enquanto objeto de investigação, mas não intervem de forma concreta no ambiente durante o trajeto da pesquisa.
 
 \subsubsection{Quanto aos objetivos}
-Pesquisa exploratória: Apesar de haverem pesquisas em relação à métodos para a predição de desempenho acadêmico, há a necessidade de se relatar casos no Brasil, que ocorram experimentos da aplicação desses métodos no processo de avaliação de aprendizagem, identificando alunos em situação de risco.
+Pesquisa exploratória: Apesar de haverem pesquisas em relação à métodos para a predição dos resultados do processo de avaliação somativa --- aprovado ou reprovado ---, há a necessidade de se relatar casos no Brasil, que ocorram experimentos da aplicação desses métodos no processo de avaliação de aprendizagem, identificando alunos em situação de risco.
 
 \subsubsection{Quanto aos procedimentos}
 Pesquisa de Campo: Todos os procedimentos que serão usados nesta pesquisa serão derivados de coletas de dados realizadas em fontes diretas. Desta forma, esta pesquisa quantos aos procedimentos é de campo, pois baseia-se em dados coletados no local da ocorrência dos fatos.
@@ -951,11 +1003,13 @@ A \autoref{tabela_cronog} apresenta o cronograma de execução da pesquisa.
 \begin{tabular}{@{}llll@{}}
 \toprule
 \textit{Atividades}                    & \textit{Mês}       & \textit{Ano}   \\ \midrule
-Revisão literária                      & Agosto              & 2019      \\
+Revisão literária                      & Agosto             & 2019      \\
 Projeto e implementação da Rede Neural & Agosto e Setembro  & 2019      \\
+Coleta de Dados - IHC/2018.2           & Agosto             & 2019      \\
 Coleta de Dados - IHC/2019.2           & Agosto e Setembro  & 2019      \\
-Treinamento da Rede Neural             & Outubro            & 2019      \\
-Análise dos resultados obtidos          & Novembro e Dezembro& 2019      \\
+Treinamento da Rede Neural             & Setembro           & 2019      \\
+Análise dos resultados obtidos         & Outubro e Novembro & 2019      \\
+Submissão para o comitê de ética       & Novembro           & 2019      \\
                                 %       &                    &           \\ 
                                 \bottomrule
 \end{tabular}
