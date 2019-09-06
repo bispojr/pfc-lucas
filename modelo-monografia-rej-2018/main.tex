@@ -1,0 +1,686 @@
+%% abtex2-modelo-projeto-pesquisa.tex, v-1 PFC 2 2018
+%% Copyright 2012-2015 by abnTeX2 group at http://www.abntex.net.br/ 
+%%
+%% This work consists of the files abntex2-modelo-projeto-pesquisa.tex
+%% and abntex2-modelo-references.bib
+%%
+
+% ---------------------------------------------------------------------
+% ---------------------------------------------------------------------
+% abnTeX2: Modelo Adaptado de Monografia em conformidade com 
+% ABNT NBR 15287:2011 Informação e documentação - Monografia 
+% --------------------------------------------------------------------- 
+% ---------------------------------------------------------------------
+\documentclass[
+	% -- opções da classe memoir --
+	12pt,				% tamanho da fonte
+	%openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	oneside,
+    %twoside,			% para impressão em verso e anverso. Oposto a oneside
+	a4paper,			% tamanho do papel. 
+	% -- opções da classe abntex2 --
+    sumario=tradicional,%Sumario diferente
+	chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	french,				% idioma adicional para hifenização
+	spanish,			% idioma adicional para hifenização
+	brazil,				% o último idioma é o principal do documento
+	]{abntex2}
+
+
+% ---
+% Pacotes básicos 
+% ---
+\usepackage{lmodern}			% Usa a fonte Latin Modern			
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{lastpage}			% Usado pela Ficha catalográfica
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% para melhorias de justificação
+% ---
+	
+
+
+% ---
+		
+% ---
+% Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
+% ---
+\usepackage{lipsum}				% para geração de dummy text
+% ---
+
+
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{enumerate} % http://ctan.org/pkg/enumerate
+\usepackage{listings}     
+
+
+% Altera o nome padrão do rótulo usado no comando \autoref{}
+\renewcommand{\lstlistingname}{Código}
+\renewcommand{\appendixautorefname}{Anexo} %%%% ===> aqui o teste
+\renewcommand{\tableautorefname}{Tabela} 
+% Altera o rótulo a ser usando no elemento pré-textual "Lista de código"
+\renewcommand{\lstlistlistingname}{Lista de códigos}
+
+
+
+
+
+% Configura a ``Lista de Códigos'' conforme as regras da ABNT (para abnTeX2)
+\begingroup\makeatletter
+\let\newcounter\@gobble\let\setcounter\@gobbletwo
+  \globaldefs\@ne \let\c@loldepth\@ne
+  \newlistof{listings}{lol}{\lstlistlistingname}
+  \newlistentry{lstlisting}{lol}{0}
+\endgroup
+
+\renewcommand{\cftlstlistingaftersnum}{\hfill--\hfill}
+
+\let\oldlstlistoflistings\lstlistoflistings
+\renewcommand{\lstlistoflistings}{%
+   \begingroup%
+   \let\oldnumberline\numberline%
+   \renewcommand{\numberline}{\lstlistingname\space\oldnumberline}%
+   \oldlstlistoflistings%
+   \endgroup}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\definecolor{light-gray}{gray}{0.25}
+
+\lstdefinestyle{java}{
+  language=Java,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\footnotesize\ttfamily},
+  numberstyle={\tiny},
+  numbers=left,
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+\lstdefinestyle{bytecode}{
+  otherkeywords={invokedynamic},
+  language=JVMIS,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\footnotesize\ttfamily},
+  numberstyle={\tiny},
+  numbers=left,
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
+\lstdefinestyle{fsharp} {	
+  morekeywords={let, new, match, with, rec, 
+    open, module, namespace, type, of, member, 
+    and, for, while, true, false, in, do, begin, 
+    end, fun, function, return, yield, try, val, 
+    mutable, if, then, else, cloud, async, static, 
+    use, abstract, interface, inherit, finally, maybe, option },
+  otherkeywords={ let!, return!, do!, yield!, use!, var, from, select, where, order},
+  keywordstyle=\color{blue},
+  sensitive=true,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false, 
+  columns=flexible,
+  basicstyle={\footnotesize\ttfamily},
+  numberstyle={\tiny},
+  numbers=left,
+  breaklines=true,
+  upquote=true,
+  tabsize=3,
+  morecomment=[l][\color{dkgreen}]{///},
+  morecomment=[l][\color{dkgreen}]{//},
+  morecomment=[s][\color{dkgreen}]{{(*}{*)}},
+  morestring=[b]",
+  showstringspaces=false,
+  literate={`}{\`}1,
+  stringstyle=\color{mauve}
+}
+
+\lstdefinestyle{csharp} {
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\footnotesize\ttfamily},
+  numberstyle={\tiny},
+  numbers=left,
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3,
+  morecomment = [l]{//}, 
+  morecomment = [l]{///},
+  morecomment = [s]{/*}{*/},
+  morestring=[b]", 
+  sensitive = true,
+  morekeywords = {async, await, abstract,  
+    event,  new,  struct,
+    as,  explicit,  null,  switch,
+    base,  extern,  object,  this,
+    bool,  false,  operator,  throw,
+    break,  finally,  out,  true,
+    byte,  fixed,  override,  try,
+    case,  float,  params,  typeof,
+    catch,  for,  private,  uint,
+    char,  foreach,  protected,  ulong,
+    checked,  goto,  public,  unchecked,
+    class,  if,  readonly,  unsafe,
+    const,  implicit,  ref,  ushort,
+    continue,  in,  return,  using,
+    decimal,  int,  sbyte,  virtual,
+    default,  interface,  sealed,  volatile,
+    delegate,  internal,  short,  void,
+    do,  is,  sizeof,  while,
+    double,  lock,  stackalloc,   
+    else,  long,  static,   
+    enum,  namespace,  string }
+}
+
+\lstdefinestyle{scala} {  
+  morekeywords={ abstract,case,catch,
+    char,class,
+    def,else,extends,final,
+    if,import,
+    match,module,new,null,object,
+    override,package,private,protected,
+    public,return,super,this,throw,
+    trait,try,type,val,var,with,implicit,
+    macro,sealed
+  },
+  sensitive,
+  morecomment=[l]//,
+  morecomment=[s]{/*}{*/},
+  morestring=[b]",
+  morestring=[b]',
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\footnotesize\ttfamily},
+  numberstyle={\tiny},
+  numbers=left,
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+\lstset{escapechar=@,style=java}
+
+% ---
+% Pacotes de citações
+% ---
+\usepackage[brazilian,hyperpageref]{backref}	 
+% Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	
+% Citações padrão ABNT
+
+
+
+
+\usepackage[table,xcdraw]{xcolor}
+
+% --- 
+% CONFIGURAÇÕES DE PACOTES
+% --- 
+\include{comandos}
+
+
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+		Nenhuma citação no texto.%
+	\or
+		Citado na página #2.%
+	\else
+		Citado #1 vezes nas páginas #2.%
+	\fi}%
+% ---
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+\titulo{Uso de Redes Neurais Artificiais na Predição do
+Risco de Reprovação de Alunos na Educação
+em Computação}
+\autor{Lucas Rodrigues Costa}
+\local{Jataí-Goiás}
+\data{2019}
+\orientador{Professor Me. Esdras Lins Bispo Jr.}
+\coorientador{}
+\instituicao{%
+  Universidade Federal de Goiás - Regional Jataí - UFG-REJ
+  \par
+  Instituto de Ciências Exatas e Tecnológicas (ICET)
+  \par
+  Bacharelado em Ciências da Computação}
+\tipotrabalho{Monografia (Graduação)}
+% O preambulo deve conter o tipo do trabalho, o objetivo, 
+% o nome da instituição e a área de concentração 
+\preambulo{Monografia apresentada}
+% ---
+
+
+% ---
+% Configurações de aparência do PDF final
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title}, 
+		pdfauthor={\@author},
+    	pdfsubject={\imprimirpreambulo},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico}, 
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      		% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% --- 
+% Espaçamentos entre linhas e parágrafos 
+% --- 
+
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.3cm}
+
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+\selectlanguage{brazil}
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+
+% ----------------------------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ----------------------------------------------------------
+% \pretextual
+
+% ---
+% Capa
+% ---
+\imprimircapa
+% ---
+
+% ---
+% Folha de rosto
+% (o * indica que haverá a ficha bibliográfica)
+% ---
+\imprimirfolhaderosto*
+% ---
+
+% ---
+% Inserir a ficha bibliografica
+% ---
+
+% Isto é um exemplo de Ficha Catalográfica, ou ``Dados internacionais de
+% catalogação-na-publicação''. Você pode utilizar este modelo como referência. 
+%
+% \begin{fichacatalografica}
+%     \includepdf{fig_ficha_catalografica.pdf}
+% \end{fichacatalografica}
+\begin{fichacatalografica}
+	\vspace*{\fill}					% Posição vertical
+	\hrule							% Linha horizontal
+	\begin{center}					% Minipage Centralizado
+	\begin{minipage}[c]{12.5cm}		% Largura
+	
+	\imprimirautor
+	
+	\hspace{0.5cm} \imprimirtitulo  / \imprimirautor. --
+	\imprimirlocal, \imprimirdata-
+	
+	\hspace{0.5cm} \pageref{LastPage} p. : il. (algumas color.) ; 30 cm.\\
+	
+	\hspace{0.5cm} \imprimirorientadorRotulo~\imprimirorientador\\
+	
+	\hspace{0.5cm}
+	\parbox[t]{\textwidth}{\imprimirtipotrabalho~--~\imprimirinstituicao,
+	\imprimirdata.}\\
+	
+	\hspace{0.5cm}
+		1. Palavra-Chave1.
+		2. Palavra-Chave2.
+% 		I. Nome do Alno.
+% 		II. Universidade Federal de Goiás.
+% 		III. Bacharelado em Ciências da Computação.
+% 		IV. Título\\ {\@title}
+	
+	\hspace{8.75cm}\\
+	
+	\end{minipage}
+	\end{center}
+	\hrule
+\end{fichacatalografica}
+% ---
+
+
+
+% ---
+% Inserir folha de aprovação
+% ---
+
+\begin{folhadeaprovacao}
+
+  \begin{center}
+    {\ABNTEXchapterfont\large\imprimirautor}
+
+    \vspace*{\fill}\vspace*{\fill}
+    \begin{center}
+      \ABNTEXchapterfont\bfseries\Large\imprimirtitulo
+    \end{center}
+    \vspace*{\fill}
+    
+    \hspace{.45\textwidth}
+    \begin{minipage}{.5\textwidth}
+        \imprimirpreambulo
+    \end{minipage}%
+    \vspace*{\fill}
+   \end{center}
+        
+   Trabalho aprovado. \imprimirlocal, data da defesa:
+
+   \assinatura{\textbf{\imprimirorientador} \\ Orientador} 
+   \assinatura{\textbf{Avaliador1} \\ Avaliador}
+   \assinatura{\textbf{Avaliador2} \\ Avaliador}
+   %\assinatura{\textbf{Professor} \\ Convidado 3}
+   %\assinatura{\textbf{Professor} \\ Convidado 4}
+      
+   \begin{center}
+    \vspace*{0.5cm}
+    {\large\imprimirlocal}
+    \par
+    {\large\imprimirdata}
+    \vspace*{1cm}
+  \end{center}
+  
+\end{folhadeaprovacao}
+% ---
+
+% ---
+% Dedicatória
+% ---
+\begin{dedicatoria}
+   \vspace*{\fill}
+   \centering
+   \noindent
+   \textit{
+   Este trabalho é dedicado  à ...
+   } \vspace*{\fill}
+\end{dedicatoria}
+% ---
+
+% ---
+% Agradecimentos
+% ---
+\begin{agradecimentos}
+
+ \vspace*{\fill}
+   \centering
+   \noindent
+   \textit{
+   Agradeço  à ...
+   } \vspace*{\fill}
+
+\end{agradecimentos}
+% ---
+
+% ---
+% Epígrafe
+% ---
+\begin{epigrafe}
+    \vspace*{\fill}
+	\begin{flushright}
+		\textit{``Epígrafe.\\
+		(Autor da Epígrafe)}
+	\end{flushright}
+\end{epigrafe}
+% ---
+
+% ---
+% RESUMOS
+% ---
+
+% resumo em português
+\setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
+\begin{resumo}
+
+Resumo na língua vernácula, elaborado em folha separada, deve indicar, concisamente, os pontos relevantes do trabalho: objeto de estudo, problema, tema objetivos, justificativas,  metodologia, resultados esperados ou obtidos, o valor científico do trabalho e sua originalidade, contendo, no máximo 400 palavras e no mínimo 200. Deve ser composto de uma sequência de frases concisas e não deve ser elaborado na forma de tópicos. Deve ser seguido das palavras-chave ou descritores, precedido de dois espaços simples, tendo no mínimo de 3 e no máximo de 5 palavras, isto é, inserir palavras que mais representam o conteúdo do trabalho, ressaltando que as mesmas devem vir separadas por ponto. O resumo deve ser em texto corrido e sem parágrafo, digitado em espaço simples. 
+
+ \textbf{Palavras-chaves}: \textit{PalavraChave1;Palavra-Chave2; Palavra-Chave3.} 
+
+
+\end{resumo}
+
+% resumo em inglês
+\begin{resumo}[Abstract]
+ \begin{otherlanguage*}{english}
+ Abstract (Resumo na língua estrangeira),contém as orientações do resumo em língua estrangeira, digitado em folha separada. Por ser elaborado em idioma de comunicação internacional (inglês – Abstract). Deve, também, ser seguido das palavras-chave (inglês - Keywords). Os critérios de formatação do Abstract seguem os mesmos do Resumo na língua vernácula.  
+   
+   \textbf{Key-words}: 
+   \textit{Keyword1; Keyword2; Keyword3}.
+ \end{otherlanguage*}
+\end{resumo}
+
+
+
+% ---
+
+% ---
+% inserir lista de ilustrações
+% ---
+\pdfbookmark[0]{\listfigurename}{lof}
+\listoffigures*
+\cleardoublepage
+% ---
+
+% ---
+% inserir lista de tabelas
+% ---
+\pdfbookmark[0]{\listtablename}{lot}
+\listoftables*
+\cleardoublepage
+% ---
+
+% ---
+% inserir lista de abreviaturas e siglas
+% ---
+\begin{siglas}
+
+  \item[ARL] Análise de Regressão Linear
+  \item[EaD] Ensino à Distância
+  \item[GBL] \textit{Games-Based Learning}
+  \item[IpC] Instrução pelos Colegas
+  \item[IA] Inteligência Artificial
+  \item[INEP] Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+  \item[MDE] Mineração de Dados Educacionais
+  \item[MEC] Ministério da Educação
+  \item[PEC] Pesquisa em Educação de Computação
+  \item[PI] \textit{Peer Instruction}
+  \item[RNA] Redes Neurais Artificiais
+\item[SBC]	Sociedade Brasileira de Computação
+  \item[SIGCSE] \textit{Special Interest Group on Computer Science Education}
+  \item[STI] Superintendência de Tecnologia da Informação
+  \item[UFG] Universidade Federal de Goiás
+  \item[UFPB] Universidade Federal da Paraíba
+  \item[WEI] Workshop sobre Educação em Computação
+  \item[WEKA] \textit{Waikato Environment for Knowledge Analysis}
+
+
+
+\end{siglas}
+% ---
+
+% ---
+% inserir lista de símbolos
+% ---
+% \begin{simbolos}
+%   \item[$ \Gamma $] Letra grega Gama
+%   \item[$ \Lambda $] Lambda
+%   \item[$ \zeta $] Letra grega minúscula zeta
+%   \item[$ \in $] Pertence
+% \end{simbolos}
+% % ---
+
+% ---
+% inserir o sumario
+% ---
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+% ---
+
+
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+
+\chapter[Introdução]{Introdução}\label{cap:introducao}
+\addcontentsline{toc}{chapter}{INTRODUÇÃO}
+\input{capitulos/0Introd}
+
+\chapter{Referencial Teórico}\label{cap:referencial}
+\input{capitulos/1RefTeorico}
+
+\chapter{Trabalhos relacionados}\label{cap:relacionados}
+\input{capitulos/2TrabRelac}
+
+
+\chapter{Arquitetura ou Metodologia ou Análise}\label{cap:arquitetura}
+\input{capitulos/3ArqMetAnal}
+
+\chapter{Implementação ou Construção}\label{cap:implementacao}
+\input{capitulos/4ImpConst}
+
+\chapter{Funcionamento ou Demonstração}\label{cap:funcionamento}
+\input{capitulos/5FuncDemo}
+
+\chapter{Avaliação e Testes}\label{cap:analise}
+\input{capitulos/6AvalTest}
+
+\chapter{Conclusões e Trabalhos Futuros}\label{cap:conclusao}
+\input{capitulos/7ConcTrabFut}
+
+
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+\postextual
+% ----------------------------------------------------------
+
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+\bibliography{bib}
+
+% ----------------------------------------------------------
+% Glossário
+% ----------------------------------------------------------
+%
+% Consulte o manual da classe abntex2 para orientações sobre o glossário.
+%
+%\glossary
+
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+
+
+
+
+% ----------------------------------------------------------
+% Anexos
+% ----------------------------------------------------------
+
+% ---
+% Inicia os anexos
+% ---
+% ---
+% Inicia os anexos
+% ---
+\begin{anexosenv}
+
+% Imprime uma página indicando o início dos anexos
+\partanexos
+
+\chapter{Exemplo de Formulário}\label{anexo:formAluno}
+
+Este formulário tem como objetivo ...:
+
+1.	Quanto ...?\\
+
+
+2.	Qual o nível...?\\
+Ruim 0 (   )      1 (   )     2 (   )      3 (    )     4 (   )	Ótimo\\
+
+
+3.	Qual o nível de ...?\\
+Ruim 0 (   )      1 (   )     2 (   )      3 (    )     4 (   )	Ótimo\\	
+
+
+
+\end{anexosenv}
+
+%---------------------------------------------------------------------
+% INDICE REMISSIVO
+%---------------------------------------------------------------------
+%\phantompart
+\printindex
+%---------------------------------------------------------------------
+
+\end{document}

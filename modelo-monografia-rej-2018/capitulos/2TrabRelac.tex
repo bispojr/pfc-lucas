@@ -1,0 +1,271 @@
+No decorrer dessa pesquisa foram encontrados alguns trabalhos que propõem métodos para a predição de desempenho acadêmico. Nesta seção, serão apresentados do levantamento bibliográfico feito para encontrar esses trabalhos, os trabalhos correlatos que estão fortemente ligados com este projeto de pesquisa, seguido de breve resumo do que cada autor propôs e obteve como resultado, e uma tabela apresentado as  características de cada um dos trabalhos.
+
+\section{Levantamento Bibliográfico} \label{sec:Lev}
+{\color{red} COLOCAR FRASE}
+
+%Objetivos
+\subsection{Objetivo}
+\label{sec:Obj}
+O objetivo deste levantamento bibliográfico é fazer uma revisão, seleção e organização dos artigos que possam identificar os alunos em situação de risco, analisando os métodos propostos.
+
+%Questões de pesquisa
+\subsection{Questões de Pesquisa}
+\label{sec:QP}
+Para nortear esta levantamento, foram definidas questões que elenquem pontos relevantes a serem estudados.
+\begin{itemize}
+    \item \textbf{Questão 1}: Quais métodos foram propostos para identificar alunos com risco de reprovação em disciplinas?
+    \item \textbf{Questão 2}: Quais os graus de precisão e acurácia alcançados ao utilizar-se destes métodos?
+    \item \textbf{Questão 3}: Redes Neurais Artificias foram utilizadas? Se sim, são assertivas na predição de alunos em situação de risco?
+    \item \textbf{Questão 4}: Quais são as vantagens de se utilizar Redes Neurais Artificiais para tal?
+\end{itemize}
+
+\subsection{Método de pesquisa} \label{sec:MP}
+Nesta seção serão descritos alguns elementos utilizados para o levantamento bibliográfico, de acordo com \citeonline{kitchenham2004procedures}. São estes: o escopo da pesquisa, o idioma considerado, os termos utilizados, a \textit{string} de busca e os critérios de seleção de artigos.
+
+
+\subsubsection{Máquinas de busca utilizadas}
+Para este levantamento bibliográfico, foram escolhidos três das principais máquinas de buscas disponíveis atualmente. Aplicou-se as \textit{Strings} de buscas - no período de 2013 a 2018 - que serão apresentadas mais a frente, a fim de identificar potenciais trabalhos correlatos ao tema deste. As máquinas de busca utilizadas para a pesquisa foram:
+
+\begin{itemize}
+    \item ACM Digital Library
+    \item Google Scholar
+    \item IEEE Xplore
+\end{itemize}
+
+\subsubsection{Idiomas dos Artigos}
+Por se tratarem da língua oficial brasileira e uma das línguas mais faladas, respectivamente, Português e Inglês foram os idiomas escolhido para a pesquisa dos artigos.
+
+\subsection{Palavras-chave e \textit{strings} de busca}
+
+As palavras-chave que compõem a busca são (em português e inglês, respectivamente): 
+Educação de Computação, Ensino de Computação, Introdução a Computação, Avaliação, Estimativa, Previsão, Inteligência Artificial, Mineração de Dados, Aprendizado em Profundidade, Redes Neurais Artificiais, RNA, \textit{Computer Education}, \textit{CS1}, \textit{Assessment}, \textit{Prediction}, \textit{Artificial Intelligence}, \textit{Data Mining}, \textit{Clicker}, \textit{Deep Learning}, \textit{Artificial Neural Network}, \textit{ANN}.
+
+A \autoref{string-busca} mostra as \textit{strings} de busca foram geradas a partir da combinação das palavras chave, dividida pelos idiomas estabelecidos.
+
+\begin{comment}
+\begin{center}
+\begin{longtable}{|| p{3cm} || p{10cm} ||}
+\caption{String de Busca}
+\label{string-busca}
+\hline
+\textit{\textbf{Português}} & (``Educação de computação'' OR ``ensino de computação'' AND ``Introdução a Computação'' OR ``Avaliação'') AND (``estimativa'' OR ``previsão'' AND ``Inteligência Artificial'' OR ``mineração de dados'' OR ``Aprendizado em Profundidade'' OR ``Redes Neurais Artificiais'' OR ``RNA'')\\
+\hline \hline
+\textit{\textbf{Inglês}} & \textit{(``Computer Education'' AND ``cs1'' OR ``assessment'') AND (``prediction'' OR ``data mining'' OR ``artificial intelligence'' OR ``deep learning'' OR ``Artificial neural network'' OR ``ANN''))}\\
+ \hline \hline
+\end{longtable}
+\end{center}
+\end{comment}
+
+{\color{red} CORRIGIR TABELA}
+
+\begin{table}[]
+\caption{Strings de Busca}
+\label{Strings}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l|l}
+\textit{\textbf{Português}} & \begin{tabular}[c]{@{}l@{}}(``Educação de computação'' OR ``ensino de computação'' AND \\ ``Introdução a Computação'' OR ``Avaliação'') AND \\ (``estimativa'' OR ``previsão'' AND ``Inteligência Artificial'' \\ OR ``mineração de dados'' OR ``Aprendizado em Profundidade'' \\ OR ``Redes Neurais Artificiais'' OR ``RNA'')\end{tabular} \\ \hline
+\textit{\textbf{Inglês}} & \textit{\begin{tabular}[c]{@{}l@{}}(``Computer Education'' AND ``cs1'' OR ``assessment'') AND \\ (``prediction'' OR ``data mining'' OR ``artificial intelligence'' \\ OR ``deep learning'' OR ``Artificial neural network'' OR ``ANN''))\end{tabular}}
+\end{tabular}%
+}
+\end{table}
+
+
+
+\subsubsection{Critérios de Seleção de Artigos e Procedimentos}
+\citeonline{kitchenham2004procedures} diz que devem ser seguidos critérios de inclusão e exclusão para os artigos que são retornados pela \textit{string} de busca. Sendo assim, foram definidos os seguintes critérios:
+
+\subsubsection{Critérios para Inclusão de Artigos}
+
+\begin{enumerate}
+    \item Pesquisas as quais tratam sobre utilização de métodos para identificação de alunos em situação de risco de reprovação;
+    \item Pesquisas as quais tratam sobre inteligência artificial no contexto educação de computação e no processo de ensino-aprendizagem;
+    \item Pesquisas as quais tratam sobre previsão do desempenho acadêmico com uso de aprendizado de máquina.
+\end{enumerate}
+
+\subsubsection{Critérios para Exclusão de Artigos}
+\begin{enumerate}
+    \item Não apresentar necessidade de identificar os alunos em situação de riscos;
+    \item Não apresentar a forma utilizada para coletar dados;
+    \item Não apresentou os métodos utilizados para analisar os dados obtidos;
+    \item Não foi possível ter acesso a pesquisa completa;
+    \item A pesquisa não está disponível na \textit{web};
+    \item A pesquisa é publicada apenas como resumo;
+    \item Trabalhos que são réplicas ou continuações/evoluções de projetos de pesquisas iniciais, incluindo o trabalho mais completo (Geralmente, o mais recente);
+    \item Ter sido publicado em período anterior a 2013.
+\end{enumerate}
+
+\subsection{Processo de triagem}
+Foi realizada uma primeira triagem, que consistiu na leitura do título, do resumo (\textit{abstract}) e das palavras-chave (\textit{keywords}) dos trabalhos previamente recuperados, aplicando os critérios de inclusão e exclusão e as \textit{Strings} de busca.
+A etapa seguinte teve como objetivo realizar a leitura completa e minuciosa dos artigos selecionados na primeira fase. Desta forma, a segunda fase do processo de triagem possibilita fazer uma análise mais apurada dos estudos, identificando e extraindo dados de acordo com os critérios de inclusão e exclusão descritos anteriormente.
+
+\section{Trabalhos Relacionados selecionados}
+Após os processos de seleção e triagem, quatro artigos foram considerados fortemente relacionados a este projeto de pesquisa. A seguir, será feito um breve resumo do que foi proposto em cada um deles. Após, será apresentada a \autoref{tab:trabalhos} com um comparativo de características elencadas, onde cada característica é descrita através de um critério, para que se faça um paralelo do que já foi proposto por outros autores e o que é alvitrado por este projeto. Por fim, uma breve discussão, destrinchando cada elemento característico dos trabalhos correlatos.
+
+{\color{red} [CONCLUSÕES]}
+
+\subsection{\textit{Early Identification of Novice Programmers' Challenges in Coding using Machine Learning Techniques}} \label{sec:Early}
+Em sua tese de Doutorado, \citeonline{ahadi2016early} usou Mineração de Dados Educacionais e técnicas de \textit{Machine Learning} para analisar dados coletados de programadores novatos no primeiro semestre, durante a realização de exercícios semanais nos laboratórios.
+
+\subsection{\textit{Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance}} \label{sec:Evaluating}
+O trabalho de \citeonline{Castro-Wunsch2017} teve o objetivo de explorar a eficácia das Redes Neurais na identificação precoce de alunos que necessitavam de auxílio. Eles usaram trechos de códigos através de capturas instantânea de tela --- \textit{Snapshots} --- e, assim, puderam aplicar a técnica de RNA para analisar a solução usada pelos alunos para os problemas propostos.
+
+\subsection{Predição do Desempenho do Aluno usando Sistemas de Recomendação e Acoplamento de Classificadores} \label{sec:Pred1}
+\citeonline{gotardo2013prediccao}, em um de seus trabalhos, apresenta uma abordagem que usa algoritmos de aprendizado de máquina acoplados para integrar as diferentes técnicas para explorar um conjunto de dados educacionais oferecendo recomendação sobre o desempenho do aluno.
+
+\subsection{Predição de desempenho de alunos do primeiro período baseado nas notas de ingresso utilizando métodos de aprendizagem de máquina} \label{sec:Pred2}
+Outro trabalho com objetivo de identificar os estudantes que necessitam de apoio didático foi o de \citeonline{DeBrito2014}, onde nas disciplinas do primeiro período do curso de Ciência da Computação da Universidade Federal da Paraíba (UFPB) foi avaliada a relação entre as notas de ingresso do aluno e o seu desempenho no primeiro período do curso. No trabalho, foram utilizados algoritmos de aprendizado de máquina implementados pela ferramenta WEKA (\textit{Waikato Environment for Knowledge Analysis}) - dentre eles, Redes Neurais, Árvore de Decisão e Redes Bayesianas - na análise dos dados. Os resultados deram indícios de que essa relação existe.
+
+\section{Tabela e descrição de características}
+
+\begin{table}[htb]
+	\centering
+	\caption{Características dos Trabalhos Relacionados e deste projeto de pesquisa}
+	\vspace{0.5cm}
+	\begin{tabular}{
+			>{\centering\arraybackslash}m{5.8cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+			>{\centering\arraybackslash}m{1.2cm}|
+	}
+		\hline
+		Artigos/Critérios   	& C1	& C2	& C3		& C4 \\
+		\hline
+		\citeonline{ahadi2016early} &  & X &  &  \\
+        \citeonline{Castro-Wunsch2017} &  & X &  &  \\
+        \citeonline{gotardo2013prediccao} &  &  &  & X \\
+        \citeonline{DeBrito2014} &  & X &  & X \\ \hline
+        Esse trabalho & X & X & X & X \\ \hline
+		
+\label{tab:trabalhos}
+		
+	\end{tabular}
+\end{table}
+
+\\ {\color{red} CORRIGIR TABELA}
+
+\begin{comment}
+\begin{table}[]
+\caption{Características dos Trabalhos Relacionados e deste projeto de pesquisa}
+\label{tab:my-table}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{c|c|c|c|c}
+\begin{tabular}[c]{@{}c@{}}Artigos/Características\end{tabular} & C1 & C2 & C3 & C4 \\ \hline
+\citeonline{ahadi2016early} &  & X &  &  \\
+\citeonline{Castro-Wunsch2017} &  & X &  &  \\
+\citeonline{gotardo2013prediccao} &  &  &  & X \\
+\citeonline{DeBrito2014} &  & X &  & X \\ \hline
+Esse trabalho & X & X & X & X
+\end{tabular}%
+}
+\end{table}
+\end{comment}
+
+\textbf{Critério 1 (C1) - A ferramenta de Coletas de Dados usada era alguma Plataforma Baseada em Jogos?}
+
+\begin{itemize}
+    \item O trabalho de \citeonline{ahadi2016early} utilizou Mineração de Dados Educacionais e \textit{Snapshots} de códigos-fonte. \citeonline{Castro-Wunsch2017} também usou \textit{Snapshots}. \textit{Snapshots} de códigos-fonte gerados são feitos através de uma ferramenta que captura trechos dos códigos-fonte produzido pelos alunos.
+    \item \citeonline{gotardo2013prediccao} abordou o uso da interação dos alunos no ambiente \textit{Moodle}, onde se contabilizava o número de interações, e quais, eram feitas pelos alunos no ambiente. \textit{Moodle} é o acrônimo de ``\textit{Modular Object-Oriented Dynamic Learning Environment}'', um software livre de apoio à aprendizagem executado num ambiente virtual.
+    \item E outra fonte de dados são as notas dos alunos. No trabalho de \citeonline{DeBrito2014}, as notas --- fornecidas pela STI - Superintendência de Tecnologia da Informação da UFPB - Universidade Federal da Paraíba --- de ingresso, sendo atributos considerados: Média Geral no vestibular, Média de Matemática e a média em Física obtidos no processo seletivo para a entrada na UFPB, e as notas obtidas nas disciplinas do primeiro período do curso foram utilizadas para se analisar. Neste trabalho, duas das fontes de dados são notas finais/parciais do processo de avaliação somativa da disciplina do estudo de caso.
+    \item Um dos diferenciais deste projeto de pesquisa é a utilização da Plataforma de Aprendizado Baseado em jogos, ``Kahoot!'', descrita em: \ref{sec:Kahoot!}. O Kahoot! será a ferramenta utilizada na coleta de duas das quatro fontes de dados desse projeto.
+\end{itemize}
+
+
+\textbf{Critério 2 (C2) - Rede Neural Artificial foi especificada como técnica de Análise de Dados no trabalho?}
+
+Os trabalhos selecionados utilizaram técnicas de \textit{Machine Learning} para a análise dos dados. Em alguns a técnica utilizada foi especificada, em outros não.
+
+\begin{itemize}
+    \item Em seu trabalho, \citeonline{ahadi2016early} utilizou técnicas de \textit{Machine Learning}, mas não as especificaram, e comparou os resultados encontrados entre elas. %ou uso de ferramentas que implementam e/ou acoplam técnicas de \textit{Machine Learning} para análise dos dados.
+    \citeonline{gotardo2013prediccao} utilizaram uma ferramenta que faz o aprendizado baseado em acoplamento de algoritmos classificadores, não explicitando se Redes Neurais estava entre eles.
+    \item \citeonline{DeBrito2014} e \citeonline{Castro-Wunsch2017} utilizaram Redes Neurais Artificiais em seus trabalhos. Eles utilizaram a ferramenta WEKA que, dentre outras, implementa a técnica de RNA. Este trabalho tem como um dos objetivos específicos, implementar uma Rede Neural, projetando uma arquitetura que atenda as necessidades encontradas. RNA foi descrita em \autoref{sec:RNA}.
+\end{itemize}
+
+\textbf{Critério 3 (C3) - A disciplina onde os trabalhos fizeram a análise de dados eram disciplinas do núcleo específico do curso de Ciência da Computação?}
+
+O curso de Ciência da Computação é extremamente amplo, tendo um vasto leque de opções de áreas de atuação e interesse. O curso pode ser dividido em disciplinas introdutórias e de base, chamadas de núcleo básico da grade curricular, e disciplinas que abranjam especificidades de cada área, chamadas de núcleo específico.
+
+\begin{itemize}
+    \item O trabalho de \citeonline{Castro-Wunsch2017}, trabalha com disciplinas do núcleo básico, sendo elas Introdução a Programação\footnote[4]{Do inglês, \textit{CS1 - Computer Science 1}, que são disciplinas que fazem uma introdução do conteúdo básico de programação} em \textit{Python} e em Java. \citeonline{ahadi2016early} também usou dados oriundos de uma disciplina de introdução a programação.
+    \item \citeonline{gotardo2013prediccao} não especifica as disciplinas em que os dados foram coletados.
+    \item No trabalho de \citeonline{DeBrito2014}, além das notas obtidas no processo seletivo, como já descrito anteriormente, as notas obtidas nas matérias do núcleo básico do curso foram considerados na disciplina. As disciplinas em questão foram: Cálculo Diferencial e Integral 1, Física Aplicada à Computação 1, Cálculo Vetorial e Geometria Analítica, disciplinas ofertadas no primeiro período do curso de Ciência da Computação da UFPB.
+    \item Já este trabalho se propõe a analisar dados coletados em uma disciplina do núcleo específico do curso, Interface Humano-Computador, com dados provenientes das turmas de 2018.2 e 2019.2, na UFG.
+\end{itemize}
+
+\textbf{Critério 4 (C4) - Os trabalhos foram realizados no Contexto Brasileiro?}
+
+O contexto onde o trabalho foi realizado pode influenciar no resultado final por diversos fatores. É interessante aplicar para verificar-se a aplicabilidade em contexto Brasileiro.
+
+\begin{itemize}
+    \item O trabalho de \citeonline{Castro-Wunsch2017} foi realizado em uma Universidade Norte-Americana de Pesquisa Intensiva que foi omitida. Esse trabalho foi aplicado também em outra Universidade.
+    \item A Universidade supracitada foi uma Universidade Europeia de Pesquisa Intensiva. Essa Universidade já proveu dados para outro trabalho de Ahadi.
+    \item \citeonline{ahadi2016early}, que teve um de seus trabalhos escolhidos como fortemente relacionados com esse, realizou o estudo em duas Universidades. Uma foi a University of Helsinki, Finland, na Europa.
+    \item A outra Universidade, onde o trabalho anterior foi aplicado, é a University of Technology, Sydney, Austrália.
+    \item No contexto brasileiro, dois trabalhos foram identificados como fortemente correlatos a proposto deste.
+        \begin{itemize}
+            \item \citeonline{DeBrito2014} realizou seu trabalho na Universidade Federal da Paraíba.
+            \item Já no trabalho de \citeonline{gotardo2013prediccao}, foi realizado o estudo em uma Universidade à Distância que foi omitida
+            \item E este trabalho, onde será realizado um estudo de caso na Universidade Federal de Goiás, situada no sudoeste goiano.
+    \end{itemize}
+\end{itemize}
+
+
+\begin{comment}
+\section{Introdução}
+
+Neste capítulo, são apresentadas publicações relacionadas a este trabalho, que ....
+
+\section{Critérios de busca}
+Os trabalhos apresentados foram filtrados por meio do sistema de busca de periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), que possui bases referenciais importantes para este trabalho. As bases utilizadas forma ACM Digital Library, ACM Computing Reviews, PubMed Central (PMC), Scopus, IEEE Explore.
+
+Desse modo, os trabalhos elencados neste capítulo englobam 
+
+\section{Metodologia de análise}
+
+Foi considerada uma metodologia para a análise dos trabalhos relacionados... Os seguintes critérios foram adotados:
+
+\subsection{Critério 1 (C1)}
+...
+\subsection{Critério 2 (C2)}
+...
+\subsection{Critério 3 (C3)}
+...
+\subsection{Critério 4 (C4)}
+...
+
+
+\section{Trabalhos analisados}
+
+Com base nos critérios apresentados na seção anterior, foram analisados X trabalhos...
+
+\subsection{Trabalho 1 (T1)}
+...
+\subsection{Trabalho 2 (T2)}
+...
+\subsection{Trabalho 3 (T3)}
+...
+
+
+\section{Resumo Comparativo}
+
+Observa-se que...
+
+Como verificado na Tabela \ref{comparativo}, os trabalhos T1 e T2 utilizam ...
+\begin{table}[h]
+\centering 
+\caption{Comparativo entre trabalhos}
+\label{comparativo}
+    \begin{tabular}{cccccc}
+    ~  & C1  & C2  & C3 $\alpha$  & C3 $\beta$ & C4  \\ \hline
+    T1 			& Sim & Não & Sim & Não & Sim 	\\ \hline
+    T2 			& Não & Não & Nao & Não & Sim	\\ \hline
+    T3 			& Sim & Sim & Sim & Não & Sim 	\\ \hline
+    TR			& Sim & Sim & Sim & Sim & Sim 	\\ \hline
+    
+    \end{tabular}
+\end{table}
+
+Dessa forma, os trabalhos elencados neste capitulo ...
+
+\end{comment}
+

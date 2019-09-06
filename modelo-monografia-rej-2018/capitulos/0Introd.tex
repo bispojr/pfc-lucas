@@ -1,0 +1,60 @@
+%***************************************************************************************
+A Educação em Computação é uma área emergente e amplamente discutida pela comunidade acadêmica internacional \cite{fincher2005mapping}. No contexto brasileiro, o \textit{Workshop} sobre Educação em Computação (WEI) \footnote{Evento anual promovido pela Sociedade Brasileira de Computação (SBC), desde 1993. A sigla foi designada em relação à antiga nomenclatura: \textit{Workshop} sobre Educação em Informática} tem sido um dos principais fóruns para esta discussão. O SIGCSE (\textit{Special Interest Group on Computer Science Education}) \textit{Technical Symposium} é um dos maiores eventos, em âmbito internacional, da área. Pode-se definir, como um dos objetivos principais da PEC (Pesquisa em Educação de Computação), o aperfeiçoamento do processo de ensino e aprendizagem da Computação como ciência \cite{holmboe2001research}.
+
+%Problema
+Muitos alunos ingressantes em Computação apresentam dificuldades na aprendizagem, assim como em outras áreas de exatas \cite{blando2015dificuldades}. Em virtude destas dificuldades, alguns alunos não alcançam um desempenho satisfatório e reprovam em alguma disciplina. Estas reprovações podem ter, dentre outros fatores, forte influência em uma eventual evasão \cite{evasaoMatheus2014}. Segundo dados do Censo da Educação Superior de 2017 \cite{Inep2017}, publicado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) do Ministério da Educação (MEC), a taxa de evasão do Bacharelado em Ciência da Computação, nas universidades públicas e privadas de todo o Brasil, alcançou cerca de 60,2\%, enquanto a taxa geral - média dentre todos os cursos - ficou em torno dos 26\%.
+
+Desta forma, um dos problemas na Educação em Computação é a investigação de meios mais eficazes de realizar a avaliação de aprendizagem dos alunos {\color{red}[REFERENCIAR]}. Um destes interesses consiste em identificar previamente aqueles alunos que apresentam maior dificuldade na disciplina e, assim, têm maior risco de reprovação \cite{martins2012assistente}. Esses alunos que se encontram em situação de risco de reprovação são integrantes do chamado ``grupo de risco''\footnote[1]{Alunos em risco: Os alunos em situação de risco são aqueles que estão propensos a não concluir um curso, seja por insuficiência de presença ou de desempenho \cite{da2014alunos}.}. Diversos autores propõem diferentes métodos para solucionar este problema. Alguns destes autores abordam modelos preditivos em relação à situação dos alunos.
+
+%Justificativa
+%Muitas vezes os ingressantes não conseguem acompanhar o fluxo de estudos, têm baixo desempenho e assim acabam evadindo ou reprovando nas matérias introdutórias do curso.
+%Um dos pontos está no interesse 
+ %{\color{red}[TERMINAR]}
+
+%Alguns autores propuseram métodos para solucionar esse problema. Podemos citar alguns autores e seus trabalhos, que abordaram modelos preditivos quanto a situação dos alunos.
+
+
+
+%Lightweight, Early Identification of At-Risk CS1 Students
+\citeonline{liao2016lightweight} utilizaram o modelo de \textbf{ARL (Análise de Regressão Linear)}, para fazer a análise dos dados gerados através do uso do IpC (Instrução pelos Colegas)\footnote[2]{Do inglês, \textit{Peer Instruction} (PI).}, juntamente com o \textit{Clicker}, pelos alunos, para tentar identificar os que estariam com tendência à baixo desempenho na disciplina, baseado nas respostas dadas nas 3 primeiras semanas de aulas. O modelo proposto alcançou, aproximadamente, 70\% de acurácia na identificação de alunos com risco de reprovação, com 17\% dos alunos reprovados sendo erroneamente classificados --- ``falsos negativos''\footnote[3]{``Falsos negativos'': Quando os alunos são previamente classificados como não-integrantes do ``Grupo de risco'' --- Grupo de alunos em risco de reprovação ---, mas que, ao final da disciplina, acabaram reprovando.}.
+
+%Modelo de Regressão Linear aplicado à previsão de desempenho de estudantes em ambiente de aprendizagem
+\textbf{ARL} também foi usada no trabalho de \citeonline{rodrigues2013modelo}, onde investigou-se a viabilidade da aplicação de técnicas de modelagem de regressão linear para realizar inferências relativas ao desempenho de estudantes. Os resultados obtidos com o experimento confirmam que é viável, podendo afirmar que é possível estimar o resultado acadêmico de alunos baseado na quantidade de interações em ferramentas do tipo fórum de discussão. 
+
+%Importance of early performance in CS1: two conflicting assessment stories
+\citeonline{porter2014importance} usam os dados coletados durante o uso do IpC, além dos dados de provas, para explorar as relações entre as avaliações e o desempenho em sala de aula no final do prazo. Para examinar a relação entre as notas dos alunos em avaliações diferentes, foi utilizada a \textbf{Correlação de Pearson}.
+
+%Automatically Classifying Students in Need of Support by Detecting Changes in Programming Behaviour
+\citeonline{estey2017automatically} propuseram um método preditor que detecta, com 81\% de precisão, os estudantes em situação de risco de reprovação na disciplina de programação. O estudo foi desenhado para avaliar a aprendizagem do aluno através da detecção de \textbf{mudanças no comportamento} de programação ao longo do tempo.
+
+ Uma outra proposta é o uso do \textbf{modelo PreSS} que usa fatores comparativos - como a eficiência de programação, a habilidade matemática  e as horas dedicadas em exercícios - para auxiliar a identificação dos alunos em risco de reprovação \cite{quille2018}. Existem até ferramentas capazes de realizarem capturas de telas, que exibem código-fonte, para auxiliar na identificação das dificuldades apresentadas pelos alunos usando \textbf{aprendizado de máquina} \cite{ahadi2016early}.
+ 
+%Objetivos Geral/Específico
+O objetivo geral deste trabalho é prever o desempenho acadêmico, na Educação de Computação, dos alunos --- no contexto brasileiro --- ainda no inicio da disciplina, identificando os que estejam no grupo de risco, possibilitando ao professor intervir. Este projeto de pesquisa tem como objetivos específicos: a implementação do projeto de Rede Neural Artificial, o treinamento e a validação desta e a análise dos resultados através de um estudo de caso no sudoeste goiano, coletando dados com o uso da plataforma ``Kahoot!''.
+
+%propôr um modelo de Rede Neural Artificial, como método preditivo de desempenho acadêmico, além de suprir a falta de relatos de casos no Brasil, apresentando um estudo de caso no sudoeste goiano, coletando dados na disciplina, durante o uso da plataforma de Aprendizagem Baseado em Jogos, ``Kahoot!'', como forma de avaliação formativa.
+%na disciplina de Interface Humano-Computador, no curso de Ciência da Computação da Universidade Federal de Goiás - Regional Jataí/Universidade Federal de Jataí.
+
+%Objeto de estudo
+%Esta pesquisa tem como objeto de estudo a Avaliação da Aprendizagem de Ciência da Computação. e o problema de avaliação e identificação preditiva do desempenho acadêmico de alunos, com base os dados coletados dos alunos em avaliações formativas no inicio da disciplina.
+
+%______________________________________________________________________________________
+
+O trabalho está dividido em sete capítulos, descritos resumidamente a seguir: o \autoref{cap:referencial} -- que apresentará alguns conceitos importantes para o entendimento deste, \autoref{cap:relacionados} -- onde serão apresentados trabalhos correlatos identificados durante o processo de pesquisa, \autoref{cap:arquitetura} -- ..., \autoref{cap:implementacao} -- ..., \autoref{cap:funcionamento} -- ..., \autoref{cap:analise} -- ... -- e \autoref{cap:conclusao} -- ....
+
+\begin{comment}
+\section{Motivação (objeto de estudo e problema)}
+...
+\section{Objetivo do Trabalho}
+...
+\section{Referencial Teórico Resumido}
+...
+\section{Contribuição do Trabalho}
+...
+\section{Organização da Monografia}
+O trabalho está dividido em sete capítulos, descritos resumidamente a seguir:
+...
+\end{comment}
+
+
+
