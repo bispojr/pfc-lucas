@@ -1,0 +1,19 @@
+12/09: A, C, D, B, D,
+
+12/09: A, (A, C), B, D, A,
+
+02/10: A, A, C, C, C,
+
+24/10: C, C, C, B, C, D, A,
+
+25/10: B, A, C, B, D,
+
+26/10: B, A, C, D, A,
+
+30/10: A, C, B, C, A, A, C,
+
+31/10: C, D, A, C, B, A, A, B, C,
+
+B, D, A, C, C, B, A, D, D, B, C, D,
+
+B, C, D, B, A, D, A, C, A.

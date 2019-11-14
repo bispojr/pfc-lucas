@@ -16,6 +16,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ParserXLS {
 
@@ -24,10 +27,31 @@ public class ParserXLS {
     //DadosAluno[] dadosAula12_09 = new DadosAluno[18];
     ArrayList<DadosAluno> alunos = new ArrayList<>();
     //Aulas
-    DadosAula turmaAula02_10 = new DadosAula();
+    List<DadosAula> aula = new ArrayList<>();
+    
     DadosAula turmaAula12_09 = new DadosAula();
+    DadosAula turmaAula12_09_2 = new DadosAula();
+    DadosAula turmaAula02_10 = new DadosAula();
+    DadosAula turmaAula24_10 = new DadosAula();
+    DadosAula turmaAula25_10 = new DadosAula();
+    DadosAula turmaAula26_10 = new DadosAula();
+    DadosAula turmaAula30_10 = new DadosAula();
+    DadosAula turmaAula31_10 = new DadosAula();
+    DadosAula turmaAula13_11 = new DadosAula();
+    DadosAula turmaAula14_11 = new DadosAula();
+    DadosAula notas = new DadosAula();
+
     ArrayList<DadosAula> aulas = new ArrayList<>();
 
+    ArrayList vetor1_3 = new ArrayList();
+    ArrayList vetor2_3 = new ArrayList();
+    ArrayList vetor3_3 = new ArrayList();
+    ArrayList vetorSet = new ArrayList();
+    ArrayList vetorOut = new ArrayList();
+    ArrayList vetorNov = new ArrayList();
+    ArrayList vetorTot = new ArrayList();
+    
+    ArrayList vetorSituacao = new ArrayList();
     //Arquivos
     //File arquivo_0210;
     //File arquivo_1209;
@@ -35,40 +59,120 @@ public class ParserXLS {
 
     //Global
     List<Character> respostasCorretas = new ArrayList<>();
-
+    int total;
+    
     public ParserXLS() throws IOException {
 
         Ler ler;
+        EscreverArquivo escrever = new EscreverArquivo();
         try {
 
-            ler = new Ler(this.lerNomesAlunos());
-
-            ler.ler("kahoot_02_10_2018.xlsx", turmaAula02_10);
-            ler.ler("kahoot_12_09_2018.xlsx", turmaAula12_09);
-
+            ler = new Ler(this.lerNomesAlunos("mapeamentos-e-notas-finais.xlsx", 27));
+            
             this.alunos = ler.getAlunos();
             respostasCorretas = ler.getAlternativasCorretas();
             System.out.println("Corretas = " + respostasCorretas + "\n");
-            ler.questoesAcertadas(alunos);
-            ler.imprimirAula(turmaAula02_10);
+            
+            int qtd = 0, i=0;
+            
+            // Setembro
+            ler.ler("kahoot_12_09_2018.xlsx", turmaAula12_09);
+            ler.ler("kahoot_12_09_2018_processos_design_ihc.xlsx", turmaAula12_09_2);
+            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
+            aulas.add(turmaAula12_09); qtd += aulas.get(i).getQuestoes(); i++;
+            aulas.add(turmaAula12_09_2); qtd += aulas.get(i).getQuestoes(); i++;
+            escrever.escrever(arquivo, "arquivoIHC2018_divSet.arff", alunos, aulas, qtd);
+            for(int vet = 0; vet < alunos.size(); vet++){
+                vetorSet.add(alunos.get(vet).getNumSituacao());
+            }
+            
+            // 1/3
+            ler.ler("kahoot_02_10_2018.xlsx", turmaAula02_10);
+            ler.ler("kahoot_24_10_2018.xlsx", turmaAula24_10);
+            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
+            aulas.add(turmaAula02_10); qtd += aulas.get(i).getQuestoes(); i++;
+            aulas.add(turmaAula24_10); qtd += aulas.get(i).getQuestoes(); i++;
+            for(int vet = 0; vet < alunos.size(); vet++){
+                vetor1_3.add(alunos.get(vet).getNumSituacao());
+            }
+            escrever.escrever(arquivo, "arquivoIHC2018_div1-3.arff", alunos, aulas, qtd);
+            
+            // 2/3
+            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            ler.ler("kahoot_25_10_2018.xlsx", turmaAula25_10);
+            ler.ler("kahoot_26_10_2018.xlsx", turmaAula26_10);
+            ler.ler("kahoot_30_10_2018.xlsx", turmaAula30_10);            
+            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
+            aulas.add(turmaAula25_10); qtd += aulas.get(i).getQuestoes(); i++;
+            aulas.add(turmaAula26_10); qtd += aulas.get(i).getQuestoes(); i++;
+            aulas.add(turmaAula30_10); qtd += aulas.get(i).getQuestoes(); i++;
+            escrever.escrever(arquivo, "arquivoIHC2018_div2-3.arff", alunos, aulas, qtd);
+            for(int vet = 0; vet < alunos.size(); vet++){
+                vetor2_3.add(alunos.get(vet).getNumSituacao());
+            }
+            
+            // Outubro
+            ler.ler("kahoot_31_10_2018.xlsx", turmaAula31_10);  
+            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
+            aulas.add(turmaAula31_10); qtd += aulas.get(i).getQuestoes(); i++;
+            escrever.escrever(arquivo, "arquivoIHC2018_divOut.arff", alunos, aulas, qtd);
+            for(int vet = 0; vet < alunos.size(); vet++){
+                vetorOut.add(alunos.get(vet).getNumSituacao());
+            }
+            
+            // Novembro
+            ler.ler("kahoot_13_11_2018.xlsx", turmaAula13_11);
+            ler.ler("kahoot_14_11_2018.xlsx", turmaAula14_11);
+            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
+            aulas.add(turmaAula13_11); qtd += aulas.get(i).getQuestoes(); i++;
+            aulas.add(turmaAula14_11); qtd += aulas.get(i).getQuestoes(); i++;
+            escrever.escrever(arquivo, "arquivoIHC2018_div3-3.arff", alunos, aulas, qtd);            
+            escrever.escrever(arquivo, "arquivoIHC2018_divNov.arff", alunos, aulas, qtd);            
+            for(int vet = 0; vet < alunos.size(); vet++){
+                vetor3_3.add(alunos.get(vet).getNumSituacao());
+                vetorNov.add(alunos.get(vet).getNumSituacao());
+            }
+            
             ler.imprimirAula(turmaAula12_09);
+            ler.imprimirAula(turmaAula12_09_2);
+            ler.imprimirAula(turmaAula02_10);
+            ler.imprimirAula(turmaAula24_10);
+            ler.imprimirAula(turmaAula25_10);
+            ler.imprimirAula(turmaAula26_10);
+            ler.imprimirAula(turmaAula30_10);
+            ler.imprimirAula(turmaAula31_10);
+            ler.imprimirAula(turmaAula13_11);
+            ler.imprimirAula(turmaAula14_11);
             ler.imprimir(alunos);
-
-            aulas.add(turmaAula02_10);
-            aulas.add(turmaAula12_09);
-
         } catch (Exception ex) {
             Logger.getLogger(ParserXLS.class.getName()).log(Level.SEVERE, null, ex);
         }
-
-        EscreverArquivo escrever = new EscreverArquivo();
-        escrever.escrever(arquivo, "arquivoIHC2018.arff", alunos, aulas);
+        escrever.escrever(arquivo, "arquivoIHC2018_TOTAL.arff", alunos, aulas, respostasCorretas.size());
+        for(int vet = 0; vet < alunos.size(); vet++){
+                vetorTot.add(alunos.get(vet).getNumSituacao());
+            }
+        
+        System.out.println("1/3: " + vetor1_3 + "\n" + 
+                           "2/3: " + vetor2_3 + "\n" +
+                           "3/3: " + vetor3_3 + "\n" +
+                           "Set: " + vetorSet + "\n" +
+                           "Out: " + vetorOut + "\n" +
+                           "Nov: " + vetorNov + "\n" +
+                           "Tot: " + vetorTot);
     }
 
-    public List<String> lerNomesAlunos() throws Exception {
-
+    public List<String> lerNomesAlunos(String caminhoArquivo, int n) throws Exception {
+        XSSFWorkbook lerNome = new XSSFWorkbook(new FileInputStream(caminhoArquivo));
+        XSSFSheet planilha = lerNome.getSheetAt(0);
+        
         List<String> result = new ArrayList<>();
-	       BufferedReader br = null;
+	
+        /*BufferedReader br = null;
 
 	try {
 
@@ -86,26 +190,19 @@ public class ParserXLS {
 			br.close();
 		}
 	}
+        */
         
+        DadosAluno dadosAluno;
+            String id = "";
+
+            //Pegar nome
+            for(int i=1;i<n;i++){
+                XSSFRow row = planilha.getRow(i);
+                id = row.getCell(0).getStringCellValue();
+                result.add(id);
+            }
+            
         return result;
-        
-        /*List<String> result = new ArrayList<>();
-        BufferedReader in = null;
-        File fileDir = new File("Nomes.txt");
-
-        in = new BufferedReader(
-                new InputStreamReader(
-                    new FileInputStream(fileDir), "UTF8"));
-
-        String str;
-
-        while ((str = in.readLine()) != null) {
-            result.add(str.trim());
-        }
-          
-        in.close();
-
-        return result;*/
     }
 
     public static void main(String[] args) throws FileNotFoundException, IOException {

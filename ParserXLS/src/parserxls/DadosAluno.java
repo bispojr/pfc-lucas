@@ -9,6 +9,8 @@ public class DadosAluno {
     ArrayList score = new ArrayList();
     int totalScore, totalQuest, corretasResp, incorretasResp, naoResp;
     String situacao;
+    int numSituacao;
+    float notaFinal;
     
     public DadosAluno() {
 
@@ -25,7 +27,7 @@ public class DadosAluno {
     public char getAlternativa(int index) {
         
         if (index >= alternativa.size()) {
-            return '-';
+            return '#';
         }
         
         return (char) alternativa.get(index);
@@ -104,21 +106,22 @@ public class DadosAluno {
         this.situacao = situacao;
     }
 
-//    public String toString() {
-//        return "DadosAlunos{\n" + "Id = " + getNome()
-//                + "\nAlternativa Marcada = [" + getAlternativa(0)
-//                + ", " + getAlternativa(1) + ", " + getAlternativa(2) + ", "
-//                + getAlternativa(3) + ", " + getAlternativa(4) + "]"
-//                + "\nTempo de Resposta = [" + getTempo(0)
-//                + ", " + getTempo(1) + ", " + getTempo(2) + ", "
-//                + getTempo(3) + ", " + getTempo(4) + "]" 
-//                + "\nScore Total = " + getTotalScore()
-//                + "\nSituação = " +getSituacao()
-//                /*+ "\nQestões corretas = " + getCorretasResp() 
-//                + "\nQestões incorretas = " + getIncorretasResp()*/
-//                + '}' + "\n";
-//    }
+    public float getNotaFinal() {
+        return notaFinal;
+    }
 
+    public void setNotaFinal(float notaFinal) {
+        this.notaFinal = notaFinal;
+    }
+
+    public int getNumSituacao() {
+        return numSituacao;
+    }
+
+    public void setNumSituacao(int numSituacao) {
+        this.numSituacao = numSituacao;
+    }
+    
     @Override
     public String toString() {
         return "DadosAluno{" + 
@@ -131,7 +134,8 @@ public class DadosAluno {
             ",\n\tQestões corretas = " + corretasResp + 
             ",\n\tQestões incorretas = " + incorretasResp + 
 //            ",\n\tnaoResp=" + naoResp + 
-            ",\n\tsituacao=" + situacao + 
+            ",\n\tSituacao = " + situacao + ", " +numSituacao+
+            ",\n\tNota = " +notaFinal +
         "\n}";
     }
 }

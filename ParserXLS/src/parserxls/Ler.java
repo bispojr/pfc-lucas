@@ -1,6 +1,7 @@
 package parserxls;
 
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -29,14 +30,13 @@ public class Ler {
     private final Map<String, DadosAluno> mapAlunos = new HashMap<>();
 
     public void ler(String caminhoArquivo, DadosAula aula) throws IOException {
-
         aulas_Planilhas.add(new XSSFWorkbook(new FileInputStream(caminhoArquivo)));
         this.alunosLidos = new ArrayList<>();
 
         XSSFWorkbook workbook = new XSSFWorkbook(new FileInputStream(caminhoArquivo));
 
         int posAtual = aulas_Planilhas.size() - 1;
-        int qtdQuestoes = workbook.getNumberOfSheets() - 4;
+        int qtdQuestoes = workbook.getNumberOfSheets() - 3;
         aula.setQuestoes(qtdQuestoes);
 
         XSSFSheet over = workbook.getSheetAt(0);
@@ -72,6 +72,8 @@ public class Ler {
                 dadosAluno.setScore(0);
             }
         });
+
+        //if(notas == true) this.lerNotas();
     }
 
     public void extrairDadosS(DadosAula dateAula, XSSFSheet planilha) {
@@ -130,6 +132,7 @@ public class Ler {
 
             //Pegar nome
             if (check == true) {
+                if(row.getCell(1).getStringCellValue().equals("ProfaAna")) continue;
                 id = row.getCell(1).getStringCellValue();
             }
 
@@ -144,7 +147,7 @@ public class Ler {
             }
 
             this.alunosLidos.add(id);
-            
+
             //System.out.println(this.mapAlunos.size());
             //Pegar tempo de resposta
             //dados[i].setTempoResposta((float)row.getCell(4).getNumericCellValue(), index);
@@ -171,13 +174,14 @@ public class Ler {
         }
     }
 
-    public void questoesAcertadas(ArrayList<DadosAluno> date){
-        //this.getAlunos().get(0).getAlternativa(0);
+    public void questoesAcertadas(ArrayList<DadosAluno> date, int total) {
+        int questoesAcertadas = 0, totalQuestoes = total, acertos = 0;
+        float percentualNormalizado;
+        ArrayList vetorSituacao = new ArrayList();
         
-        int questoesAcertadas = 0, totalQuestoes = date.get(0).alternativa.size();
-        float percentual;
-
-        for(int all=0; all<date.size();all++){
+        //System.out.println(date.get(0).getAlternativa(0));
+        //System.out.println(this.getAlternativasCorretas().get(0));
+        for (int all = 0; all < date.size(); all++) {
             //System.out.println("Aluno: "+ date.get(all).getNome() +": " + date.get(all).alternativa + "\t" + this.getAlternativasCorretas().get(0));
             questoesAcertadas = 0;
             for (int c = 0; c < totalQuestoes; c++) {
@@ -185,23 +189,85 @@ public class Ler {
                     questoesAcertadas++;
                 }
             }
+            date.get(all).setCorretasResp(questoesAcertadas);
             //System.out.println("Aluno: "+ date.get(all).getNome() +": " + date.get(all).alternativa + "\t" + questoesAcertadas);
-            percentual = (float) questoesAcertadas/totalQuestoes;
-            //System.out.println(percentual + "\t" + totalQuestoes + "\t" + questoesAcertadas);
-            if (percentual < 0.3) {
-                date.get(all).setSituacao("fortemente_reprovado");
-            } else if (percentual < 0.6) {
-                date.get(all).setSituacao("provavelmente_reprovado");
-            } else if (percentual < 0.8) {
-                date.get(all).setSituacao("provavelmente_aprovado");
-            } //if(percentual >= 0.8 && percentual <= 1.0)
-            else {
-                date.get(all).setSituacao("fortemente_aprovado");
+        }
+
+        int maior = 0;
+        for (int more = 0; more < date.size(); more++) {
+            if (date.get(more).getCorretasResp() > maior) {
+                maior = date.get(more).getCorretasResp();
             }
         }
-        
+
+//        System.out.println(maior);
+        for (int set = 0; set < date.size(); set++) {
+            acertos = date.get(set).getCorretasResp();
+            //System.out.println(acertos);
+            percentualNormalizado = (float) acertos / maior;
+            //System.out.println(percentualNormalizado + "\t" + totalQuestoes + "\t" + questoesAcertadas);
+            if (percentualNormalizado < 0.3) {
+                date.get(set).setSituacao("fortemente_reprovado");
+                date.get(set).setNumSituacao(0);
+            } else if (percentualNormalizado < 0.6) {
+                date.get(set).setSituacao("provavelmente_reprovado");
+                date.get(set).setNumSituacao(1);
+            } else if (percentualNormalizado < 0.8) {
+                date.get(set).setSituacao("provavelmente_aprovado");
+                date.get(set).setNumSituacao(2);
+            } //if(percentualNormalizado >= 0.8 && percentualNormalizado <= 1.0)
+            else {
+                date.get(set).setSituacao("fortemente_aprovado");
+                date.get(set).setNumSituacao(3);
+            }
+        }
+        date.get(0).getNumSituacao();
     }
-    
+
+    public void lerNotas(String caminho, ArrayList<DadosAluno> date) throws FileNotFoundException, IOException {
+        XSSFWorkbook workNotas = new XSSFWorkbook(new FileInputStream(caminho));
+        XSSFSheet planilha = workNotas.getSheetAt(0);
+
+        XSSFRow linha;
+        
+        ArrayList vetorSitu = new ArrayList();
+
+        for (int i = 1; i < date.size(); i++) {
+            linha = planilha.getRow(i);
+
+            final String nome = linha.getCell(0).getStringCellValue();
+            
+            /*if(nome.equals("ProfAna")){ 
+                date.get(i).setNumSituacao(5);
+                        continue;
+            }*/
+            //System.out.println("Aluno "+(i)+" = "+nome);
+            //System.out.println("Aluno "+(i)+" = "+date.get(i).getNome());
+            
+            DadosAluno  aluno = date.stream().filter(al -> al.getNome().equals(nome)).findFirst().get();
+            
+            aluno.setNotaFinal((float) linha.getCell(1).getNumericCellValue());
+
+            if (aluno.getNome().equals("ProfaAna")){
+                aluno.setSituacao("null");
+                aluno.setNumSituacao(-1);
+            } else if (aluno.getNotaFinal() < 3) {
+                aluno.setSituacao("fortemente_reprovado");
+                aluno.setNumSituacao(0);
+            } else if (aluno.getNotaFinal() < 6) {
+                aluno.setSituacao("provavelmente_reprovado");
+                aluno.setNumSituacao(1);
+            } else if (aluno.getNotaFinal() < 8) {
+                aluno.setSituacao("provavelmente_aprovado");
+                aluno.setNumSituacao(2);
+            } //if(percentualNormalizado >= 0.8 && percentualNormalizado <= 1.0)
+            else{
+                aluno.setSituacao("fortemente_aprovado");
+                aluno.setNumSituacao(3);
+            }
+        }
+    }
+
     public void imprimir(ArrayList<DadosAluno> date) {
         //System.out.println(date.get(19).toString());
         for (int j = 0; j < date.size(); j++) {
@@ -209,7 +275,7 @@ public class Ler {
             System.out.println(date.get(j).toString());
         }
     }
-    
+
     public void imprimirAula(DadosAula date) {
         System.out.println("||============= " + date.getAula() + " =============||");
         System.out.println("||\t\t  Alunos = " + date.getJogadores() + "\t\t||");

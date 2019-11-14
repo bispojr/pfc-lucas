@@ -11,6 +11,7 @@ public class DadosAula {
     ArrayList acertosAlt = new ArrayList();
     ArrayList respostasAlt = new ArrayList();
     ArrayList tempoMedioRes = new ArrayList();
+    ArrayList vetorSituacao = new ArrayList();
     //ArrayList<DadosAluno> vetorAluno = new ArrayList<>();
 
     public DadosAula() {
@@ -96,15 +97,13 @@ public class DadosAula {
         this.tempoMedioRes.add(tempoMedioRes);
     }
 
-    /*
-    public DadosAluno getVetorAluno(int index) {
-        return (DadosAluno) vetorAluno.get(index);
+    public int getVetorSituacao(int index) {
+        return (int) vetorSituacao.get(index);
     }
 
-    public void setVetorAluno(DadosAluno vetorAluno) {
-        this.vetorAluno.add(vetorAluno);
+    public void setVetorSituacao(int situacao) {
+        this.respostasAlt.add(situacao);
     }
-    */
     
     @Override
     public String toString() {

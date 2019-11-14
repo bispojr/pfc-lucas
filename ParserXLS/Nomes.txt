@@ -22,3 +22,4 @@ Leao
 Bode
 Cachorro
 Cavalo
+Desconhecido

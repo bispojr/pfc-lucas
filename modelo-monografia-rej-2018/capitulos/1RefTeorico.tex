@@ -1,4 +1,4 @@
-Para melhor compreensão do texto, é importante estabelecer as definições de alguns conceitos que serão adotados neste projeto de pesquisa. 
+Para melhor compreensão do texto, é importante estabelecer as definições de alguns conceitos que serão adotados neste projeto de pesquisa. Esta seção apresentará estas definições, baseadas em referências bibliográficas reconhecidas e adotadas pela comunidade científica.
 
 \begin{comment}{
 {\color{red}[MODELO]
@@ -86,7 +86,10 @@ Umas das técnicas de aprendizado de máquina são as Redes Neurais Artificiais.
 \subsection{Redes Neurais Artificiais}
 \label{sec:RNA}
 
-Uma parte do trabalho inicial da IA teve como objetivo criar \textbf{Redes Neurais Artificiais} (RNA) \cite{russell2004inteligencia}. As RNA's podem ser consideradas análogas às conexões sinápticas do cérebro humano, e o conjunto de entrada às células do sistema nervoso, chamadas de neurônios. Nesta seção serão apresentados os conceitos e diferenças envolvidas entre o neurônio biológico e o artficial, definição de Redes Neurais Artificiais, formalizações matemáticas, modelos, ilustrações, e alguns conceitos importantes, como: Processamento de entrada, Aprendizagem, Perceptron, Regra de Delta, Camadas da Rede, Retro-propagação e critérios de avaliação do desempenho da Rede Neural.
+Uma parte do trabalho inicial da IA teve como objetivo criar \textbf{Redes Neurais Artificiais} (RNA) \cite{russell2004inteligencia}. As RNA's podem ser consideradas análogas às conexões sinápticas do cérebro humano, e o conjunto de entrada às células do sistema nervoso, chamadas de neurônios. 
+
+Nesta seção serão apresentados alguns conceitos, termos envolvidos na concepção, construção e desenvolvimento de Redes Neurais e da área, apresentando também diferenças entre o neurônio biológico e o artificial, bem como, formalizações matemáticas, modelos, ilustrações, e alguns conceitos importantes, como: Processamento de entrada, Aprendizagem, Perceptron, Regra de Delta, Camadas da Rede, Retro-propagação e critérios de avaliação do desempenho da Rede Neural.
+
 {\color{red} MELHORAR TEXTO}
 %Estas são funções não-lineares complexas com muitos parâmetros. 
 
@@ -124,23 +127,22 @@ Uma parte do trabalho inicial da IA teve como objetivo criar \textbf{Redes Neura
 Uma rede neural extrai seu poder computacional através de sua estrutura maciçamente paralelamente distribuída e de sua habilidade de aprender e portanto de generalizar --- refere-se ao fato de a rede neural produzir saídas adequadas para entradas que não estavam presentes durante o treinamento (aprendizagem). O uso de redes neurais fornecem algumas propriedades úteis e capacidades, são elas:
 
     \begin{enumerate}
-        \item {\color{red} TERMINAR}
         \item Não-linearidade:
         \item Mapeamento de Entrada-Saída:
         \item Adaptabilidade:
         \item Resposta à Evidências:
         \item Informação Contextual:
         \item Tolerância a Falhas:
-        \item Implementação em VLSI:
+        \item Implementação em VLSI -- \textit{Very-large-scale-integration}
         \item Uniformidade de Análise de Projeto:
         \item Analogia Neurobiológica
     \end{enumerate}
     
     Como dito anteriormente, o neurônio é uma unidade de processamento de informação que é fundamental para a operação de uma rede neural. A \autoref{fig:MoudeloNeuroNL} mostra o modelo de um neurônio, que forma a base para o projeto de redes neurais artificiais. Três elementos podem ser identificados na ilustração:
     \begin{itemize}
-        \item Um conjunto de sinapses ou conexões, caracterizada por um "peso". O sinal de entrada é multiplicado pelo peso sináptico.
+        \item Um conjunto de sinapses ou conexões, caracterizada por um ``peso''. O sinal de entrada é multiplicado pelo peso sináptico.
         \item Um somador para somar os sinais de entrada, ponderados pelas respectivas sinapses do neurônio; Um combinador linear.
-        \item Uma função de ativação para restringir a amplitude da saída de um neurônio. É também referida como função restritiva já que limita o intervalo permissível de amplitude do sinal de saída a um valor finito.
+        \item Uma função de ativação para restringir a amplitude da saída de um neurônio. É também referida como função restritiva já que limita o intervalo permissível de amplitude do sinal de saída a um valor finito.v"
         \item A figura inclui também um \textit{bias} aplicado externamente, que tem o efeito de aumentar ou diminuir a entrada líquida da função de ativação, dependendo se ele é positivo ou negativo, respectivamente. 
     \end{itemize}
     
@@ -167,13 +169,13 @@ A maneira pela qual os neurônios de uma rede neural estão estruturados está i
     \begin{itemize}
         \item Redes Alimentadas Adiante com Camada Única: A forma mais simples de uma rede em camadas, temos a entrada de nós sobre uma camada de saída de neurônios, mas não vice-versa. Essa rede é chamada de Rede de Camada Única, referindo-se a camada saída de nós computacionais. A ilustração (a) na \autoref{fig:SLPMLP} apresenta uma rede acíclica de camada única.
         \item Redes Alimentadas Diretamente com Múltiplas Camadas: Se distingue pela presença de uma ou mais camadas ocultas. A função dos neurônios ocultos é intervir entre a entrada externa e a saída da rede de uma maneira útil. A ilustração (b) na \autoref{fig:SLPMLP} apresenta uma rede de camadas ocultas, com 10 nós de entrada, 4 camadas ocultas e 2 nós de saída, sendo assim uma rede 10-4-2.
-        \item Rede Recorrentes: Se distinguem das duas anteriores por ter pelo menos um laço de realimentação. Uma rede recorrente pode consistir de uma única camada de neurônio com cada neurônio alimentando seu sinal de saida de volta para as entradas.
+        \item Rede Recorrentes: Se distinguem das duas anteriores por ter pelo menos um laço de realimentação. Uma rede recorrente pode consistir de uma única camada de neurônio com cada neurônio alimentando seu sinal de saída de volta para as entradas.
     \end{itemize}
     
     \begin{figure}
     \centering
     \includegraphics[width=0.9\textwidth]{modelo-monografia-rej-2018/img/Figura-1-a-Rede-de-camada-unica-b-Rede-de-multiplas-camadas.png}
-    \caption{Redess Neurais de Camada Única e Múltiplas}
+    \caption{Redes Neurais de Camada Única e Múltiplas}
     \label{fig:SLPMLP}
     \end{figure}
 
@@ -215,7 +217,7 @@ A minimização da função de custo $E(n)$ resulta na \textbf{Regra Delta} ou \
 Na \autoref{eq:delta}, $\eta$ é uma contante positiva que determina a taxa de aprendizado quando avançamos em um passo no processo de aprendizagem. A regra delta pode ser formulada como: 
     
     \begin{citacao}
-        O ajuste foito em um peso sináptico de um neurônio é proporcional ao produto do sinal de erro pela sinal de entrada da sinapse em questão. \cite{haykin2001redes}
+        O ajuste feito em um peso sináptico de um neurônio é proporcional ao produto do sinal de erro pela sinal de entrada da sinapse em questão. \cite{haykin2001redes}
     \end{citacao}
 
 Após o calculo do ajuste sináptico $\Delta w_{kj}(n)$, o valor atualizado do peso sináptico $w_{kj}(n)$ é determinado pela  \autoref{eq:atualPeso}
@@ -245,8 +247,8 @@ O postulado de aprendizagem de Hebb é a mais antiga e mais famosas das regras d
         \item Se dois neurônios em ambos os lados de uma sinapse são ativados assincronamente, então aquela sinapse é seletivamente enfraquecida ou eliminada.
     \end{enumerate}
 
-Uma sinapse assim é denominada sinapse \textit{hebbiana}. (A regra de Hebb original não contém a parte 2). A sinapse hebbiana pode ser definida como uma sinapse que usa um mecanismo dependente do tempo, altamente local e fortemente interativo para aumentar a eficiência sináptica como uma função da correlação entre as atividades pré-sinápticas e pós-sináptica.
-A aprendizagem hebbiana é definida em termos matemáticos, considerando um peso sináptico $w_{kj}$ do neurônio k com sinais pré-sinápticas e pós-sináptica representados por $x_{j}$ e $y_{k}$, respectivamente. O ajuste aplicado ao peo sináptico $w_{kj}$ no passo de tempo n é expresso na forma geral:
+Uma sinapse assim é denominada sinapse hebbiana. (A regra de Hebb original não contém a parte 2). A sinapse hebbiana pode ser definida como uma sinapse que usa um mecanismo dependente do tempo, altamente local e fortemente interativo para aumentar a eficiência sináptica como uma função da correlação entre as atividades pré-sinápticas e pós-sináptica.
+A aprendizagem hebbiana é definida em termos matemáticos, considerando um peso sináptico $w_{kj}$ do neurônio k com sinais pré-sinápticas e pós-sináptica representados por $x_{j}$ e $y_{k}$, respectivamente. O ajuste aplicado ao peso sináptico $w_{kj}$ no passo de tempo n é expresso na forma geral:
 
 \begin{equation} \label{eq:hebb1}
     \Delta w_{kj}(n) = F(y_{k}(n), x_{j}(n))
@@ -258,7 +260,7 @@ onde F(,) é uma função tanto do sinal pré-sinápticas como do pós-sináptic
     \Delta w_{kj}(n) = \eta y_{k}(n), x_{j}(n)
 \end{equation}
 
-A aplicação repetida do sinal de entrada $x_{j}$ resulta em um aumento de $y_{k}$ e, portanto, em um crescimento exponencial que ao final leva a conexão sináptica à saturação. Naquele ponto nenhuma informação será armazenada na sinapse e a seletividade é perdida. Uma forma de superar a limitação da hipótese de Hebb é através da utilização da hipótese dde covariância introduzida por \citeonline{sejnowski1977storing}, que os sinais pré-sinápticos e pós-sinápticos da \autoref{eq:hebb2} são substituídos pelo desvio dos sinais em relação aos ses respectivos valores médios em um certo intervalo de temo. O ajuste aplicado ao peso sináptico é definido por:
+A aplicação repetida do sinal de entrada $x_{j}$ resulta em um aumento de $y_{k}$ e, portanto, em um crescimento exponencial que ao final leva a conexão sináptica à saturação. Naquele ponto nenhuma informação será armazenada na sinapse e a seletividade é perdida. Uma forma de superar a limitação da hipótese de Hebb é através da utilização da hipótese de covariância introduzida por \citeonline{sejnowski1977storing}, que os sinais pré-sinápticos e pós-sinápticos da \autoref{eq:hebb2} são substituídos pelo desvio dos sinais em relação aos seus respectivos valores médios em um certo intervalo de temo. O ajuste aplicado ao peso sináptico é definido por:
 
 \begin{equation} \label{eq:hebb2}
     \Delta w_{kj}(n) = \eta(x_{j} - \bar{x})(y_{k} - \bar{y})
@@ -291,7 +293,8 @@ Na aprendizagem competitiva, os neurônios de saída de uma rede neural competem
     \end{equation}
     
 \subsubsubsection{Aprendizagem de Boltzmann}
-A regra de aprendizagem de Boltzmann, em homenagem a Ludwig Boltzmann, é um algoritmo de aprendizagem estocástico derivado de idéias enraizadas na mecânica estatística. Uma rede neural projetada com base na regra de aprendizagem de Boltzmann é denominada uma máquina de Boltzmann \cite{ackley1985learning}. 
+A regra de aprendizagem de Boltzmann, em homenagem a Ludwig Boltzmann, é um algoritmo de aprendizagem estocástico derivado de ideias
+enraizadas na mecânica estatística. Uma rede neural projetada com base na regra de aprendizagem de Boltzmann é denominada uma máquina de Boltzmann \cite{ackley1985learning}. 
 
 Em uma máquina de Boltzmann, os neurônios constituem uma estrutura recorrente e operam de uma maneira binária, uma vez que eles estão em um estado ``ligado'' ou ``desligado'', representados por 1 e -1, respectivamente. A máquina é caracterizada por uma função de energia, E, cujo valor é determinado pelos estados particulares ocupados pelos neurônios individuais da máquina, sendo escrito da seguinte forma:
     
@@ -331,7 +334,7 @@ O neurônio único também forma a base de um filtro adaptativo, um bloco funcio
 \subsubsection{Perceptron de Múltiplas Camadas}
 Tipicamente, a rede consiste de um conjunto de unidades sensoriais (nós de fonte) que constituem a camada de entrada, uma ou mais camadas ocultas de nós computacionais e uma camada de saída de nós computacionais. O sinal de entrada se propaga para frente através da rede, camada por camada. Estas redes são chamadas de perceptron múltiplas camadas (MLP, \textit{Multilayer perceptron}). 
 
-Os perceptrons de múltiplas camadas têm sido aplicados com sucesso para resolver diversos problemas difíceis, através do seu treinamento de forma supervisionada com um algoritmo, conhecido como algoritmo de retro propagação de erro (error back-propagation), que é baseado na regra de aprendizagem por correção de erro. 
+Os perceptrons de múltiplas camadas têm sido aplicados com sucesso para resolver diversos problemas difíceis, através do seu treinamento de forma supervisionada com um algoritmo, conhecido como algoritmo de retro propagação de erro (\textit{error back-propagation}), que é baseado na regra de aprendizagem por correção de erro. 
 
 Basicamente, a aprendizagem por retro-propagação de erro consistem de dois passos através das diferentes camadas da rede: um passo para frente, a propagação, e um passo pra trás, a retro-propagação. Na propagação, um padrão de atividade (vetor de entrada é aplicado aos nós sensoriais da rede e seu efeito se propaga através da rede. Finalmente, um conjunto de saídas é produzido como a resposta real da rede, sendo os pesos sinápticos da rede fixos. Durante o passo para trás, os pesos sinápticos são todos ajustados de acordo com uma regra de correção de erro. O perceptron de múltiplas camadas usa uma variação da regra delta, a regra delta generalizada. A regra delta generalizada funciona quando são utilizadas na rede unidades com uma função de ativação semi-linear, que é uma função diferenciável e não decrescente. Uma função de ativação amplamente utilizada, nestes casos, é a função sigmoide. A regra delta generalizada pode ser definida como: {\color{red} A CONFIRMAR}
 
@@ -347,12 +350,34 @@ Basicamente, a aprendizagem por retro-propagação de erro consistem de dois pas
     E(w) = \frac{1}{2}\sum_{l=1}^{L}(f(w^{t}x_{l}^{d})-y_{l}^{d})^{2}
 \end{equation}
 
+Gradiente:
+
+\begin{equation}
+    \nabla E[\vec{w}] = \left [ \frac{\partial E}{\partial w_{0}}, \frac{\partial E}{\partial w_{1}}, ..., \frac{\partial E}{\partial w_{n}} \right ]
+\end{equation}
+
+Regra de treinamento:
+
+\begin{equation}
+    \Delta \vec{w} = -\eta \nabla E [\vec{w}]
+\end{equation}
+
+i.e.,
+
+\begin{equation}
+    \Delta \vec{w_{i}} = -\eta \left [ \frac{\partial E}{\partial w_{i}} \right ]
+\end{equation}
+
+\begin{equation}
+    \left [ \frac{\partial E}{\partial w_{i}} \right ] = \sum_d (t_{d} - O_{d})(x_{i,d})
+\end{equation}
+
 \subsubsection{Processamento de entrada e Algoritmo de Treinamento}
 {\color{red}TEXTO}
 
 \subsubsection{Avaliação de RNA}
 A RNA pode ser avaliada em relação à sua Precisão, Acurácia e Recall.
-{\color{red}TEXTO}
+{\color{red}MELHORAR TEXTO}
 
 \subsubsubsection{Acurácia}
 {\color{red}TEXTO}
@@ -367,6 +392,7 @@ A RNA pode ser avaliada em relação à sua Precisão, Acurácia e Recall.
 \begin{figure}
     \centering
     \includegraphics[width=0.9\textwidth]{modelo-monografia-rej-2018/img/PrecisaoAcuracia.jpg}
+    
     \caption{Diferença entre Acurácia e Precisão}
     \label{fig:PrecAcur}
 \end{figure}
