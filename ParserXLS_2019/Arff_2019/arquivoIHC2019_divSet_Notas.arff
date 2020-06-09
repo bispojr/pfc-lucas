@@ -1,0 +1,40 @@
+%******************************************
+%||======================================||
+
+@relation Aulas_IHC2018 
+
+
+@attribute Questao_1{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_2{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_3{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_4{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_5{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_6{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_7{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_8{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_9{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_10{'A', 'B', 'C', 'D', '#'} 
+@attribute situacao{'aprovado', 'reprovado'} 
+
+@data
+'A', 'A', 'A', '#', 'B', 'B', '#', 'C', 'D', 'B', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'C', 'A', 'D', 'A', 'D', 'C', 'C', 'B', 'A', 'A', 'provavelmente_aprovado'
+'B', 'C', 'C', 'B', 'D', 'A', 'C', 'A', 'B', 'D', 'provavelmente_reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'A', 'A', '#', 'B', 'B', 'A', 'C', 'A', 'A', 'A', 'provavelmente_aprovado'
+'B', 'C', 'D', 'A', 'D', 'B', 'A', 'B', 'D', 'A', 'provavelmente_aprovado'
+'A', 'C', 'A', 'B', 'D', 'B', 'C', 'B', 'D', 'C', 'provavelmente_aprovado'
+'A', 'C', 'D', 'A', 'B', 'B', 'D', 'B', 'B', 'A', 'provavelmente_reprovado'
+'#', '#', '#', '#', '#', 'C', 'D', 'A', 'A', '#', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'fortemente_reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_reprovado'
+'C', 'C', 'C', 'A', 'D', 'A', 'A', 'B', 'B', 'A', 'fortemente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'fortemente_reprovado'
+'#', '#', '#', '#', '#', 'A', 'C', 'B', 'B', 'D', 'fortemente_reprovado'
+'A', 'C', 'C', 'B', 'B', 'B', '#', 'B', 'C', 'A', 'provavelmente_aprovado'
+'A', 'C', 'C', 'A', 'D', 'A', 'C', 'B', 'B', 'A', 'fortemente_aprovado'
+'B', 'A', 'D', 'C', 'A', 'C', 'D', 'B', 'B', 'A', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_reprovado'

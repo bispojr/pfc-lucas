@@ -1,0 +1,72 @@
+%******************************************
+%||======================================||
+
+@relation Aulas_IHC2018 
+
+
+@attribute Questao_1{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_2{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_3{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_4{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_5{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_6{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_7{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_8{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_9{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_10{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_11{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_12{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_13{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_14{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_15{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_16{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_17{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_18{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_19{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_20{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_21{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_22{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_23{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_24{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_25{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_26{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_27{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_28{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_29{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_30{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_31{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_32{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_33{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_34{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_35{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_36{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_37{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_38{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_39{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_40{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_41{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_42{'A', 'B', 'C', 'D', '#'} 
+@attribute situacao{'aprovado', 'reprovado'} 
+
+@data
+'A', 'A', 'A', '#', 'B', 'B', '#', 'C', 'D', 'B', 'C', 'A', 'B', 'A', 'B', 'B', 'B', 'B', 'B', 'B', 'D', 'B', 'C', 'C', 'B', '#', '#', '#', '#', '#', 'B', 'A', 'A', 'C', 'C', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'C', 'A', 'B', 'A', 'B', 'B', 'B', 'A', 'B', 'B', 'A', 'A', 'B', 'C', 'B', 'B', 'A', 'B', 'B', 'D', 'B', 'A', 'C', 'D', 'A', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'D', 'A', 'B', 'B', 'B', 'A', 'B', 'C', 'B', 'B', 'D', 'A', 'B', 'C', 'B', 'A', 'A', 'C', 'B', 'C', 'C', 'A', 'C', 'D', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'C', 'A', 'D', 'A', 'D', 'C', 'C', 'B', 'A', 'A', 'C', 'B', 'B', 'A', 'B', 'B', 'B', 'A', 'B', 'A', 'A', 'D', 'B', 'A', 'B', 'B', '#', 'C', 'A', 'D', 'B', 'C', 'C', 'D', 'A', 'A', 'C', 'D', 'C', 'A', 'A', 'C', 'provavelmente_aprovado'
+'B', 'C', 'C', 'B', 'D', 'A', 'C', 'A', 'B', 'D', 'C', 'A', 'B', 'A', 'B', 'A', 'B', 'C', 'B', 'B', 'C', 'C', 'B', 'A', 'D', 'B', 'D', 'C', 'B', 'D', 'D', 'A', 'C', 'D', 'C', 'A', 'C', 'B', 'D', 'A', 'B', 'C', 'provavelmente_reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'A', 'A', '#', 'B', 'B', 'A', 'C', 'A', 'A', 'A', 'C', 'B', 'B', 'B', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'B', 'A', 'B', 'A', 'D', 'C', 'A', 'C', 'D', 'A', 'A', 'C', 'D', 'B', 'A', 'B', 'C', 'provavelmente_aprovado'
+'B', 'C', 'D', 'A', 'D', 'B', 'A', 'B', 'D', 'A', '#', '#', '#', '#', 'B', 'B', 'B', 'A', 'B', 'B', 'D', 'A', 'B', 'C', 'B', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'A', 'C', 'A', 'B', 'D', 'B', 'C', 'B', 'D', 'C', 'C', 'A', 'B', 'B', 'B', 'B', 'B', 'B', 'A', 'B', 'B', 'A', 'C', 'B', 'D', 'B', 'A', 'C', 'B', 'A', 'B', 'A', 'C', 'D', 'C', 'A', 'C', 'A', 'C', 'A', 'A', 'C', 'provavelmente_aprovado'
+'A', 'C', 'D', 'A', 'B', 'B', 'D', 'B', 'B', 'A', 'C', 'A', 'B', 'A', 'B', 'A', 'A', 'C', 'B', 'B', '#', '#', '#', '#', '#', 'A', 'D', 'C', 'A', 'D', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_reprovado'
+'#', '#', '#', '#', '#', 'C', 'D', 'A', 'A', '#', 'D', 'A', 'C', 'A', 'B', 'A', 'B', 'C', 'B', 'B', 'D', 'A', 'B', 'C', 'B', 'A', 'A', 'C', 'D', 'D', 'B', 'A', 'C', 'D', 'A', 'C', 'C', 'D', 'B', 'B', 'A', 'C', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'B', 'B', 'B', 'A', 'B', 'B', 'B', 'C', 'B', 'B', 'D', 'A', 'B', 'B', 'D', 'A', 'A', 'B', 'B', 'D', '#', '#', '#', '#', '#', 'B', 'C', 'B', 'C', 'A', 'A', 'C', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'fortemente_reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'B', 'B', 'A', 'B', 'B', 'B', 'B', 'B', 'B', 'B', 'C', 'A', 'A', 'D', 'A', 'D', 'C', 'B', 'D', 'B', 'B', 'D', 'D', 'A', 'B', 'C', 'B', 'C', 'A', 'B', 'A', 'provavelmente_reprovado'
+'C', 'C', 'C', 'A', 'D', 'A', 'A', 'B', 'B', 'A', 'B', 'A', 'C', 'B', 'B', 'B', 'B', 'C', 'B', 'B', 'D', 'D', 'B', 'B', 'D', 'B', 'B', 'C', 'B', 'D', 'B', 'D', 'C', 'D', 'A', 'A', 'C', 'B', 'C', 'A', 'A', 'C', 'fortemente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'fortemente_reprovado'
+'#', '#', '#', '#', '#', 'A', 'C', 'B', 'B', 'D', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'B', 'A', 'B', 'A', 'D', '#', '#', '#', '#', '#', 'D', 'A', 'C', 'D', 'A', 'C', 'C', 'B', 'A', 'A', 'A', 'C', 'fortemente_reprovado'
+'A', 'C', 'C', 'B', 'B', 'B', '#', 'B', 'C', 'A', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'B', 'A', 'D', 'A', 'D', '#', '#', '#', '#', '#', 'B', 'B', 'C', 'D', 'B', '#', '#', '#', '#', '#', '#', '#', 'provavelmente_aprovado'
+'A', 'C', 'C', 'A', 'D', 'A', 'C', 'B', 'B', 'A', 'C', 'A', 'B', 'A', 'B', 'B', 'B', 'C', 'B', 'B', 'D', 'A', 'B', 'C', 'B', '#', '#', '#', '#', '#', 'B', 'A', 'C', 'D', 'A', 'A', 'D', 'B', 'B', 'A', 'A', 'C', 'fortemente_aprovado'
+'B', 'A', 'D', 'C', 'A', 'C', 'D', 'B', 'B', 'A', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'D', 'A', 'B', 'C', 'D', 'B', 'A', 'D', 'B', 'D', 'D', 'A', 'C', 'D', 'C', 'A', 'C', 'B', 'A', 'D', 'B', 'C', 'provavelmente_aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'A', 'B', '#', 'B', 'B', 'A', 'A', 'B', 'A', 'B', 'D', 'B', 'C', 'D', 'A', 'D', 'C', 'A', 'C', 'B', 'C', 'D', 'D', 'A', 'B', 'C', 'C', 'C', 'A', 'A', 'D', 'provavelmente_reprovado'

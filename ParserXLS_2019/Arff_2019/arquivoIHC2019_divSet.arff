@@ -1,0 +1,41 @@
+%******************************************
+%||======================================||
+
+@relation Aulas_IHC2018 
+
+
+@attribute Questao_1{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_2{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_3{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_4{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_5{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_6{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_7{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_8{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_9{'A', 'B', 'C', 'D', '#'} 
+@attribute Questao_10{'A', 'B', 'C', 'D', '#'} 
+@attribute situacao{'aprovado', 'reprovado'} 
+
+@data
+'A', 'A', 'A', '#', 'B', 'B', '#', 'C', 'D', 'B', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'C', 'A', 'D', 'A', 'D', 'C', 'C', 'B', 'A', 'A', 'reprovado'
+'B', 'C', 'C', 'B', 'D', 'A', 'C', 'A', 'B', 'D', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'A', 'A', '#', 'B', 'B', 'A', 'C', 'A', 'A', 'A', 'reprovado'
+'B', 'C', 'D', 'A', 'D', 'B', 'A', 'B', 'D', 'A', 'aprovado'
+'A', 'C', 'A', 'B', 'D', 'B', 'C', 'B', 'D', 'C', 'aprovado'
+'A', 'C', 'D', 'A', 'B', 'B', 'D', 'B', 'B', 'A', 'aprovado'
+'#', '#', '#', '#', '#', 'C', 'D', 'A', 'A', '#', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'C', 'C', 'C', 'A', 'D', 'A', 'A', 'B', 'B', 'A', 'aprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'#', '#', '#', '#', '#', 'A', 'C', 'B', 'B', 'D', 'reprovado'
+'A', 'C', 'C', 'B', 'B', 'B', '#', 'B', 'C', 'A', 'aprovado'
+'A', 'C', 'C', 'A', 'D', 'A', 'C', 'B', 'B', 'A', 'aprovado'
+'B', 'A', 'D', 'C', 'A', 'C', 'D', 'B', 'B', 'A', 'reprovado'
+'#', '#', '#', '#', '#', '#', '#', '#', '#', '#', 'reprovado'
+'D', 'C', 'B', 'B', 'D', 'B', 'C', 'B', 'D', 'A', 'aprovado'

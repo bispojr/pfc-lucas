@@ -78,6 +78,7 @@ public class ParserXLS {
             // Setembro
             ler.ler("kahoot_12_09_2018.xlsx", turmaAula12_09);
             ler.ler("kahoot_12_09_2018_processos_design_ihc.xlsx", turmaAula12_09_2);
+            System.out.println(respostasCorretas.size());
             ler.questoesAcertadas(alunos, respostasCorretas.size());
             //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
             aulas.add(turmaAula12_09); qtd += aulas.get(i).getQuestoes(); i++;
