@@ -5,8 +5,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class EscreverArquivo {
-    public EscreverArquivo(){
+public class File_Writer {
+    public File_Writer(){
         
     }
     
@@ -28,9 +28,17 @@ public class EscreverArquivo {
         print.write("@attribute questao_03 {'A', 'B', 'C', 'D', '#'} " + "\n");
         print.write("@attribute questao_04 {'A', 'B', 'C', 'D', '#'} " + "\n");
         print.write("@attribute questao_05 {'A', 'B', 'C', 'D', '#'} " + "\n");*/
-        print.write("@attribute situacao{'fortemente_aprovado', 'provavelmente_aprovado', 'provavelmente_reprovado', 'fortemente_reprovado'} " + "\n\n");
+        print.write("@attribute situacao{'fora_de_risco', 'em_risco'} " + "\n\n");
         
-        print.write("@data" + "\n");
+        for(int k=0;k<aulas.size();k++){
+            //for(int l=0;l<qtdQ;l++){
+                print.write("'"+aulas.get(k).getAlternativasCorretas() +"', ");
+                //print.write("'"+aulas.get(k).getAlternativaCorreta(l)+"', ");
+
+            //}
+        }
+        
+        print.write("\n" + "@data" + "\n");
         for(int i=0;i<alunos.size();i++){
             if (alunos.get(i).getSituacao() == null) continue;
             if (alunos.get(i).getNome().equals("ProfaAna")) continue;
@@ -40,6 +48,16 @@ public class EscreverArquivo {
             }
             print.write("'"+alunos.get(i).getSituacao()+"'" + "\n");
             situacao.add(alunos.get(i).getNumSituacao());
+            
+            //---
+            for(int q2=0;q2<qtdQ;q2++){
+                print.write("'"+alunos.get(i).getAlternativa_101(q2)+"', ");
+                       //+"'"+alunos.get(i).getSituacao()+"'" + "\n");
+            }
+            print.write("'"+alunos.get(i).getSituacao()+"'" + "\n");
+            //---
+            
+            print.write("\n");
         }
         //print.write(situacao.toString());
         print.close();

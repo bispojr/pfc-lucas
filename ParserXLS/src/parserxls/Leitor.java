@@ -12,13 +12,13 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class Ler {
+public class Leitor {
 
     ArrayList<XSSFWorkbook> aulas_Planilhas = new ArrayList<>();
     private List<String> alunosLidos;
     private List<Character> alternativasCorretas = new ArrayList<>();
 
-    public Ler(List<String> nomesAlunos) {
+    public Leitor(List<String> nomesAlunos) {
 
         nomesAlunos.forEach(nomeALuno -> {
             DadosAluno dadosAluno = new DadosAluno();
@@ -90,7 +90,7 @@ public class Ler {
         dateAula.setErrosTotal((float) linhaErro.getCell(2).getNumericCellValue());
 
         XSSFRow linhaMedia = planilha.getRow(9);
-        dateAula.setMédiaScore((float) linhaMedia.getCell(2).getNumericCellValue());
+        dateAula.setMediaScore((float) linhaMedia.getCell(2).getNumericCellValue());
     }
 
     public void extrairDadosQ(XSSFSheet planilha, int index,
@@ -158,18 +158,46 @@ public class Ler {
             if (checkScore == true) {
                 dadosAluno.setScore((int) row.getCell(6).getNumericCellValue());
             }
-
+            
+            char resposta;
+            
             //Pegar resposta
-            if (row.getCell(3).getStringCellValue() == null ? rowComp.getCell(3).getStringCellValue() == null : row.getCell(3).getStringCellValue().equals(rowComp.getCell(3).getStringCellValue())) {
+            if (row.getCell(3).getStringCellValue() == null ?rowComp.getCell(3).getStringCellValue() == null : row.getCell(3).getStringCellValue().equals(rowComp.getCell(3).getStringCellValue())) {
                 dadosAluno.setAlternativa('A');
+                resposta = 'A';
+                if(resposta == date.getAlternativaCorreta(index)){
+                    dadosAluno.setAlternativa_101(1);
+                } else{
+                    dadosAluno.setAlternativa_101(-1);
+                }
             } else if (row.getCell(3).getStringCellValue() == null ? rowComp.getCell(5).getStringCellValue() == null : row.getCell(3).getStringCellValue().equals(rowComp.getCell(5).getStringCellValue())) {
                 dadosAluno.setAlternativa('B');
+                resposta = 'B';
+                if(resposta == date.getAlternativaCorreta(index)){
+                    dadosAluno.setAlternativa_101(1);
+                } else{
+                    dadosAluno.setAlternativa_101(-1);
+                }
             } else if (row.getCell(3).getStringCellValue() == null ? rowComp.getCell(7).getStringCellValue() == null : row.getCell(3).getStringCellValue().equals(rowComp.getCell(7).getStringCellValue())) {
                 dadosAluno.setAlternativa('C');
+                resposta = 'C';
+                if(resposta == date.getAlternativaCorreta(index)){
+                    dadosAluno.setAlternativa_101(1);
+                } else{
+                    dadosAluno.setAlternativa_101(-1);
+                }
             } else if (row.getCell(3).getStringCellValue() == null ? rowComp.getCell(9).getStringCellValue() == null : row.getCell(3).getStringCellValue().equals(rowComp.getCell(9).getStringCellValue())) {
                 dadosAluno.setAlternativa('D');
+                resposta = 'D';
+                if(resposta == date.getAlternativaCorreta(index)){
+                    dadosAluno.setAlternativa_101(1);
+                } else{
+                    dadosAluno.setAlternativa_101(-1);
+                }
             } else {
                 dadosAluno.setAlternativa('#');
+                resposta = '#';
+                dadosAluno.setAlternativa_101(0);
             }
         }
     }
@@ -206,19 +234,27 @@ public class Ler {
             //System.out.println(acertos);
             percentualNormalizado = (float) acertos / maior;
             //System.out.println(percentualNormalizado + "\t" + totalQuestoes + "\t" + questoesAcertadas);
-            if (percentualNormalizado < 0.3) {
-                date.get(set).setSituacao("fortemente_reprovado");
+//            if (percentualNormalizado < 0.3) {
+//                date.get(set).setSituacao("fortemente_reprovado");
+//                date.get(set).setNumSituacao(0);
+//            } else if (percentualNormalizado < 0.6) {
+//                date.get(set).setSituacao("provavelmente_reprovado");
+//                date.get(set).setNumSituacao(1);
+//            } else if (percentualNormalizado < 0.8) {
+//                date.get(set).setSituacao("provavelmente_aprovado");
+//                date.get(set).setNumSituacao(2);
+//            } //if(percentualNormalizado >= 0.8 && percentualNormalizado <= 1.0)
+//            else {
+//                date.get(set).setSituacao("fortemente_aprovado");
+//                date.get(set).setNumSituacao(3);
+//            }
+
+            if (percentualNormalizado < 0.6) {
+                date.get(set).setSituacao("em_risco");
                 date.get(set).setNumSituacao(0);
-            } else if (percentualNormalizado < 0.6) {
-                date.get(set).setSituacao("provavelmente_reprovado");
+            } else {
+                date.get(set).setSituacao("fora_de_risco");
                 date.get(set).setNumSituacao(1);
-            } else if (percentualNormalizado < 0.8) {
-                date.get(set).setSituacao("provavelmente_aprovado");
-                date.get(set).setNumSituacao(2);
-            } //if(percentualNormalizado >= 0.8 && percentualNormalizado <= 1.0)
-            else {
-                date.get(set).setSituacao("fortemente_aprovado");
-                date.get(set).setNumSituacao(3);
             }
         }
         date.get(0).getNumSituacao();
@@ -251,19 +287,19 @@ public class Ler {
             if (aluno.getNome().equals("ProfaAna")){
                 aluno.setSituacao("null");
                 aluno.setNumSituacao(-1);
-            } else if (aluno.getNotaFinal() < 3) {
+            } /*else if (aluno.getNotaFinal() < 3) {
                 aluno.setSituacao("fortemente_reprovado");
                 aluno.setNumSituacao(0);
-            } else if (aluno.getNotaFinal() < 6) {
-                aluno.setSituacao("provavelmente_reprovado");
-                aluno.setNumSituacao(1);
-            } else if (aluno.getNotaFinal() < 8) {
+            } */else if (aluno.getNotaFinal() < 6) {
+                aluno.setSituacao("em_risco");
+                aluno.setNumSituacao(0);
+            } /*else if (aluno.getNotaFinal() < 8) {
                 aluno.setSituacao("provavelmente_aprovado");
                 aluno.setNumSituacao(2);
             } //if(percentualNormalizado >= 0.8 && percentualNormalizado <= 1.0)
-            else{
-                aluno.setSituacao("fortemente_aprovado");
-                aluno.setNumSituacao(3);
+            */else{
+                aluno.setSituacao("fora_de_risco");
+                aluno.setNumSituacao(1);
             }
         }
     }
@@ -282,7 +318,7 @@ public class Ler {
         System.out.println("||\t\t  Questões = " + date.getQuestoes() + "\t\t||");
         System.out.println("||\t Total de acertos = " + Math.round(date.getAcertosTotal() * 100) + "%\t\t||");
         System.out.println("||\t Total de erros = " + Math.round(date.getErrosTotal() * 100) + "%\t\t||");
-        System.out.println("||\t Média de pontos = " + date.getMédiaScore() + "\t||");
+        System.out.println("||\t Média de pontos = " + date.getMediaScore() + "\t||");
         //System.out.println("|| Questões corretas = " +date.alternativaCorreta); 
         //for(int cont=0;cont<date.getQuestoes();cont++){ System.out.println(date.getAlternativaCorreta(cont)); }
         //System.out.println("]\n");

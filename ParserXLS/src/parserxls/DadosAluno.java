@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class DadosAluno {
     String nome;
     ArrayList alternativa = new ArrayList();
+    ArrayList alternativa_101 = new ArrayList();
     ArrayList tempo = new ArrayList();
     ArrayList score = new ArrayList();
     int totalScore, totalQuest, corretasResp, incorretasResp, naoResp;
@@ -35,6 +36,19 @@ public class DadosAluno {
 
     public void setAlternativa(char alternativa) {
         this.alternativa.add(alternativa);
+    }
+    
+    public int getAlternativa_101(int index) {
+        
+        if (index >= alternativa_101.size()) {
+            return 0;
+        }
+        
+        return (int) alternativa_101.get(index);
+    }
+
+    public void setAlternativa_101(int alternativa_101) {
+        this.alternativa_101.add(alternativa_101);
     }
     
     public float getTempo(int index) {
@@ -127,6 +141,7 @@ public class DadosAluno {
         return "DadosAluno{" + 
             "\n\tId=" + nome + 
             ",\n\tAlternativa Marcada = " + alternativa + 
+            ",\n\tResultado = " + alternativa_101 +
             ",\n\tTempo de Resposta = " + tempo + 
             ",\n\tScore Total = " + score + 
 //            ",\n\ttotalScore=" + totalScore + 

@@ -1,13 +1,14 @@
 package parserxls;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class DadosAula {
 
     String aula;
     int jogadores = 0, questoes;
-    float acertosTotal, errosTotal, médiaScore;
-    ArrayList alternativaCorreta = new ArrayList();
+    float acertosTotal, errosTotal, mediaScore;
+    List<Character> alternativaCorreta = new ArrayList<>();
     ArrayList acertosAlt = new ArrayList();
     ArrayList respostasAlt = new ArrayList();
     ArrayList tempoMedioRes = new ArrayList();
@@ -57,12 +58,12 @@ public class DadosAula {
         this.errosTotal = errosTotal;
     }
 
-    public float getMédiaScore() {
-        return médiaScore;
+    public float getMediaScore() {
+        return mediaScore;
     }
 
-    public void setMédiaScore(float médiaScore) {
-        this.médiaScore = médiaScore;
+    public void setMediaScore(float médiaScore) {
+        this.mediaScore = médiaScore;
     }
 
     public char getAlternativaCorreta(int index) {
@@ -113,7 +114,7 @@ public class DadosAula {
                 + "\n||\t\t  Questões = " + getQuestoes() + "\t\t||"
                 + "\n||\t Total de acertos = " + getAcertosTotal() * 100 + "\t||"
                 + "\n||\t Total de erros = " + getErrosTotal() * 100 + "\t||"
-                + "\n||\t Média de pontos = " + getMédiaScore() + "\t||"
+                + "\n||\t Média de pontos = " + getMediaScore() + "\t||"
                 + "\n|| Número de resposta = [A = " + getRespostas(0)
                 + ", B = " + getRespostas(1) + ", C = "
                 + getRespostas(2) + ", D = " + getRespostas(3) + "] ||"
@@ -123,7 +124,7 @@ public class DadosAula {
                 + "\n||======================================||\n";
     }
     
-    public ArrayList getAlternativasCorretas() {
+    public List<Character> getAlternativasCorretas() {
         return alternativaCorreta;
     }
 }

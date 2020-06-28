@@ -59,101 +59,99 @@ public class ParserXLS {
 
     //Global
     List<Character> respostasCorretas = new ArrayList<>();
-    int total;
+    int total_quantidade_aulas;
     
     public ParserXLS() throws IOException {
 
-        Ler ler;
-        EscreverArquivo escrever = new EscreverArquivo();
+        Leitor leitor;
+        File_Writer fw = new File_Writer();
         try {
-
-            ler = new Ler(this.lerNomesAlunos("mapeamentos-e-notas-finais.xlsx", 27));
+            leitor = new Leitor(this.lerNomesAlunos("mapeamentos-e-notas-finais.xlsx", 27));
             
-            this.alunos = ler.getAlunos();
-            respostasCorretas = ler.getAlternativasCorretas();
-            System.out.println("Corretas = " + respostasCorretas + "\n");
+            this.alunos = leitor.getAlunos();
+            respostasCorretas = leitor.getAlternativasCorretas();
+            //System.out.println("Corretas = " + respostasCorretas + "\n");
             
             int qtd = 0, i=0;
             
             // Setembro
-            ler.ler("kahoot_12_09_2018.xlsx", turmaAula12_09);
-            ler.ler("kahoot_12_09_2018_processos_design_ihc.xlsx", turmaAula12_09_2);
-            System.out.println(respostasCorretas.size());
-            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            leitor.ler("kahoot_12_09_2018.xlsx", turmaAula12_09);
+            leitor.ler("kahoot_12_09_2018_processos_design_ihc.xlsx", turmaAula12_09_2);
+            leitor.questoesAcertadas(alunos, respostasCorretas.size());
             //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
             aulas.add(turmaAula12_09); qtd += aulas.get(i).getQuestoes(); i++;
             aulas.add(turmaAula12_09_2); qtd += aulas.get(i).getQuestoes(); i++;
-            escrever.escrever(arquivo, "arquivoIHC2018_divSet.arff", alunos, aulas, qtd);
+            fw.escrever(arquivo, "arquivoIHC2018_divSet.arff", alunos, aulas, qtd);
             for(int vet = 0; vet < alunos.size(); vet++){
                 vetorSet.add(alunos.get(vet).getNumSituacao());
             }
             
             // 1/3
-            ler.ler("kahoot_02_10_2018.xlsx", turmaAula02_10);
-            ler.ler("kahoot_24_10_2018.xlsx", turmaAula24_10);
-            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            leitor.ler("kahoot_02_10_2018.xlsx", turmaAula02_10);
+            leitor.ler("kahoot_24_10_2018.xlsx", turmaAula24_10);
+            leitor.questoesAcertadas(alunos, respostasCorretas.size());
             //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
             aulas.add(turmaAula02_10); qtd += aulas.get(i).getQuestoes(); i++;
             aulas.add(turmaAula24_10); qtd += aulas.get(i).getQuestoes(); i++;
             for(int vet = 0; vet < alunos.size(); vet++){
                 vetor1_3.add(alunos.get(vet).getNumSituacao());
             }
-            escrever.escrever(arquivo, "arquivoIHC2018_div1-3.arff", alunos, aulas, qtd);
+            fw.escrever(arquivo, "arquivoIHC2018_div1-3.arff", alunos, aulas, qtd);
             
             // 2/3
-            ler.questoesAcertadas(alunos, respostasCorretas.size());
-            ler.ler("kahoot_25_10_2018.xlsx", turmaAula25_10);
-            ler.ler("kahoot_26_10_2018.xlsx", turmaAula26_10);
-            ler.ler("kahoot_30_10_2018.xlsx", turmaAula30_10);            
-            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            leitor.questoesAcertadas(alunos, respostasCorretas.size());
+            leitor.ler("kahoot_25_10_2018.xlsx", turmaAula25_10);
+            leitor.ler("kahoot_26_10_2018.xlsx", turmaAula26_10);
+            leitor.ler("kahoot_30_10_2018.xlsx", turmaAula30_10);            
+            leitor.questoesAcertadas(alunos, respostasCorretas.size());
             //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
             aulas.add(turmaAula25_10); qtd += aulas.get(i).getQuestoes(); i++;
             aulas.add(turmaAula26_10); qtd += aulas.get(i).getQuestoes(); i++;
             aulas.add(turmaAula30_10); qtd += aulas.get(i).getQuestoes(); i++;
-            escrever.escrever(arquivo, "arquivoIHC2018_div2-3.arff", alunos, aulas, qtd);
             for(int vet = 0; vet < alunos.size(); vet++){
                 vetor2_3.add(alunos.get(vet).getNumSituacao());
             }
+            fw.escrever(arquivo, "arquivoIHC2018_div2-3.arff", alunos, aulas, qtd);
             
             // Outubro
-            ler.ler("kahoot_31_10_2018.xlsx", turmaAula31_10);  
-            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            leitor.ler("kahoot_31_10_2018.xlsx", turmaAula31_10);  
+            leitor.questoesAcertadas(alunos, respostasCorretas.size());
             //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
             aulas.add(turmaAula31_10); qtd += aulas.get(i).getQuestoes(); i++;
-            escrever.escrever(arquivo, "arquivoIHC2018_divOut.arff", alunos, aulas, qtd);
             for(int vet = 0; vet < alunos.size(); vet++){
                 vetorOut.add(alunos.get(vet).getNumSituacao());
             }
+            fw.escrever(arquivo, "arquivoIHC2018_divOut.arff", alunos, aulas, qtd);
             
             // Novembro
-            ler.ler("kahoot_13_11_2018.xlsx", turmaAula13_11);
-            ler.ler("kahoot_14_11_2018.xlsx", turmaAula14_11);
-            ler.questoesAcertadas(alunos, respostasCorretas.size());
+            leitor.ler("kahoot_13_11_2018.xlsx", turmaAula13_11);
+            leitor.ler("kahoot_14_11_2018.xlsx", turmaAula14_11);
+            leitor.questoesAcertadas(alunos, respostasCorretas.size());
             //ler.lerNotas("mapeamentos-e-notas-finais.xlsx", alunos);
             aulas.add(turmaAula13_11); qtd += aulas.get(i).getQuestoes(); i++;
             aulas.add(turmaAula14_11); qtd += aulas.get(i).getQuestoes(); i++;
-            escrever.escrever(arquivo, "arquivoIHC2018_div3-3.arff", alunos, aulas, qtd);            
-            escrever.escrever(arquivo, "arquivoIHC2018_divNov.arff", alunos, aulas, qtd);            
+            fw.escrever(arquivo, "arquivoIHC2018_div3-3.arff", alunos, aulas, qtd);            
+            fw.escrever(arquivo, "arquivoIHC2018_divNov.arff", alunos, aulas, qtd);            
             for(int vet = 0; vet < alunos.size(); vet++){
                 vetor3_3.add(alunos.get(vet).getNumSituacao());
                 vetorNov.add(alunos.get(vet).getNumSituacao());
             }
             
-            ler.imprimirAula(turmaAula12_09);
-            ler.imprimirAula(turmaAula12_09_2);
-            ler.imprimirAula(turmaAula02_10);
-            ler.imprimirAula(turmaAula24_10);
-            ler.imprimirAula(turmaAula25_10);
-            ler.imprimirAula(turmaAula26_10);
-            ler.imprimirAula(turmaAula30_10);
-            ler.imprimirAula(turmaAula31_10);
-            ler.imprimirAula(turmaAula13_11);
-            ler.imprimirAula(turmaAula14_11);
-            ler.imprimir(alunos);
+            leitor.imprimirAula(turmaAula12_09);
+            leitor.imprimirAula(turmaAula12_09_2);
+            leitor.imprimirAula(turmaAula02_10);
+            leitor.imprimirAula(turmaAula24_10);
+            leitor.imprimirAula(turmaAula25_10);
+            leitor.imprimirAula(turmaAula26_10);
+            leitor.imprimirAula(turmaAula30_10);
+            leitor.imprimirAula(turmaAula31_10);
+            leitor.imprimirAula(turmaAula13_11);
+            leitor.imprimirAula(turmaAula14_11);
+            leitor.imprimir(alunos);
         } catch (Exception ex) {
             Logger.getLogger(ParserXLS.class.getName()).log(Level.SEVERE, null, ex);
         }
-        escrever.escrever(arquivo, "arquivoIHC2018_TOTAL.arff", alunos, aulas, respostasCorretas.size());
+        fw.escrever(arquivo, "arquivoIHC2018_TOTAL.arff", alunos, aulas, respostasCorretas.size());
         for(int vet = 0; vet < alunos.size(); vet++){
                 vetorTot.add(alunos.get(vet).getNumSituacao());
             }
