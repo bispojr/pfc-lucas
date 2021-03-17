@@ -242,6 +242,11 @@ for quest in range(0, 5):
     wsq_TimeToAnsCircle.append(wsQues[quest].cell(row=11, column=7).value)
     wsq_TimeToAnsSquare.append(wsQues[quest].cell(row=11, column=9).value)
 
+    if wsq_alunos[0][2] == "✔︎":
+        wsq_alunos[0][2] = True
+    else:
+        wsq_alunos[0][2] = False
+
     questions = { 1: {
         'statement': wsq_statement,
         'correctAnswers': wsq_correctAnswers, 
@@ -273,15 +278,19 @@ for quest in range(0, 5):
         'answerTime': wsq_alunos[0][8]
     }
 }}
-    for alunos in range(2, nOfPlayers):
+    for alunos in range(1, qtdAlunos):
         questions[alunos] = {}
-        
-        questions[alunos]['player'] = wsq_alunos[alunos][0]
-        questions[alunos]['alias'] = wsq_alunos[alunos][1]
-        questions[alunos]['answerIsCorrect'] = wsq_alunos[alunos][2]
-        questions[alunos]['statement'] = wsq_alunos[alunos][3]
-        questions[alunos]['score'] = wsq_alunos[alunos][4]
-        questions[alunos]['acumulateScore'] = wsq_alunos[alunos][6]
-        questions[alunos]['answerTime'] = wsq_alunos[alunos][8]
+        _alunos = alunos-1
+        questions[alunos]['player'] = wsq_alunos[_alunos][0]
+        questions[alunos]['alias'] = wsq_alunos[_alunos][1]
+        if wsq_alunos[_alunos][2] == "✔︎":
+            wsq_alunos[_alunos][2] = True
+        else:
+            wsq_alunos[_alunos][2] = False
+        questions[alunos]['answerIsCorrect'] = wsq_alunos[_alunos][2]
+        questions[alunos]['statement'] = wsq_alunos[_alunos][3]
+        questions[alunos]['score'] = wsq_alunos[_alunos][4]
+        questions[alunos]['acumulateScore'] = wsq_alunos[_alunos][6]
+        questions[alunos]['answerTime'] = wsq_alunos[_alunos][8]
      
-print(questions)
+    #print(questions[19])
