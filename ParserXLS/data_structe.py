@@ -11,47 +11,13 @@
 
 #=================================================
 #       Estruturas
-overview = { 1: { 'playedOn': "", 'hostedBy': "", 'playedWith': "", 'played': "", 'CorrectAnswers' : "", 'IncorrectAnswers': "", 'Average score': ""}}
 
-finalScore = { 1: { 'rank': "", 'player': "", 'totalScore': "", 'correctAnswers': "", 'incorrectAnswers': ""}}
-
-questionSummary = { 1: { 'rank': "", 'player': "", 'totalScore': "", 
-                    1: {'score': "", 'statement': "", 'answer': ""
-                        }
-                    }
-                }
-
-questions = {
-    'statement': "",
-    'correctAnswers': "", 
-    'playersCorrect': "",
-    'questionDuration': "",
-    'ansOptTriangle': "",
-    'ansOptLosangle': "",
-    'ansOptCircle': "",
-    'ansOptSquare': "",
-    'IsAnswerCorrectTriangle': "",  
-    'IsAnswerCorrectLosangle': "",
-    'IsAnswerCorrectCircle': "",
-    'IsAnswerCorrectSquare': "",
-    'NumOfAnsReceivedTriangle': "",  
-    'NumOfAnsReceivedLosangle': "",
-    'NumOfAnsReceivedCircle': "",
-    'NumOfAnsReceivedSquare': "",
-    'TimeToAnsTriangle': "",  
-    'TimeToAnsLosangle': "",
-    'TimeToAnsCircle': "",
-    'TimeToAnsSquare': "",
-    1: {
-        'player': "",
-        'alias': "",
-        'answerIsCorrect': "",
-        'statement': "",
-        'score': "",
-        'acumulateScore': "",
-        'answerTime': ""
-    }
-}
+#overview = { 1: { 'playedOn': "", 'hostedBy': "", 'playedWith': "", 'played': "", 'CorrectAnswers' : "", 'IncorrectAnswers': "", 'Average score': ""}}
+#finalScore = { 1: { 'rank': "", 'player': "", 'totalScore': "", 'correctAnswers': "", 'incorrectAnswers': ""}}
+#questionSummary = { 1: { 'rank': "", 'player': "", 'totalScore': "", 1: {'score': "", 'statement': "", 'answer': ""}}}
+#questions = {'statement': "",'correctAnswers': "", 'playersCorrect': "",'questionDuration': "",'ansOptTriangle': "",'ansOptLosangle': "",'ansOptCircle': "",'ansOptSquare': "",'IsAnswerCorrectTriangle': "",'IsAnswerCorrectLosangle': "",'IsAnswerCorrectCircle': "",'IsAnswerCorrectSquare': "",'NumOfAnsReceivedTriangle': "", 'NumOfAnsReceivedLosangle': "",'NumOfAnsReceivedCircle': "",'NumOfAnsReceivedSquare': "",'TimeToAnsTriangle': "", 'TimeToAnsLosangle': "", 'TimeToAnsCircle': "", 'TimeToAnsSquare': "",
+ #   1: {
+  #      'player': "", 'alias': "", 'answerIsCorrect': "", 'statement': "", 'score': "", 'acumulateScore': "", 'answerTime': ""}}
 
 #=============================================
 
@@ -90,6 +56,18 @@ totalCorrect = wsOver.cell(row=8, column=3).value
 totalIncorrect = wsOver.cell(row=9, column=3).value
 averageScore = wsOver.cell(row=10, column=3).value
 
+overview = { 1: { 
+    'playedOn': date, 
+    'hostedBy': teacher, 
+    'playedWith': nOfPlayers, 
+    'played': nOfQuestions, 
+    'CorrectAnswers' : totalCorrect, 
+    'IncorrectAnswers': totalIncorrect, 
+    'Average score': averageScore
+    }
+}
+
+#print(overview)
 '''
 print(date)
 print(teacher)
@@ -138,6 +116,17 @@ for iqc in range(4, stopCount):
 for iqi in range(4, stopCount):
     quesIncorrect.append(wsFinal.cell(row=iqi, column=5).value)
 
+finalScore = { 1: { 
+    'rank': idAl,
+    'player': student, 
+    'totalScore': score, 
+    'correctAnswers': quesCorrect, 
+    'incorrectAnswers': quesIncorrect
+    }
+}
+
+#print(finalScore)
+
 '''
 for iprint in range(0, stopCount-4):
     print(idAl[iprint], "|", student[iprint], "|", score[iprint], "|", quesCorrect[iprint], "|", quesIncorrect[iprint])
@@ -149,6 +138,7 @@ qs_totalScore = []
 
 qs_count = (int(nOfQuestions))+1
 qs_score = [[] for _ in range(qs_count)]
+qs_statement = [[] for _s_ in range(qs_count)]
 qs_answer = [[] for __ in range(qs_count)]
 
 for i in range(4, stopCount):
@@ -158,9 +148,24 @@ for i in range(4, stopCount):
     for j in range(0, qs_count):
         col = 4+2*j
         col2 = 5+2*j
+        p = i-1
         qs_score[j].append(wsQS.cell(row=i, column=col).value)
+        qs_statement[j].append(wsQS.cell(row=p, column=col2).value)
         qs_answer[j].append(wsQS.cell(row=i, column=col2).value)         
 
+questionSummary = { 1: { 
+    'rank': qs_idAl, 
+    'player': qs_student, 
+    'totalScore': qs_totalScore, 
+                    1: {
+    'score': qs_score, 
+    'statement': qs_statement, 
+    'answer': qs_answer
+                        }
+                    }
+                }
+
+#print(questionSummary)    
 '''
 for iprint in range(0, stopCount-4):
     print(qs_idAl[iprint], "|", qs_student[iprint], "|", qs_totalScore[iprint], "|")
@@ -169,6 +174,7 @@ for iprint in range(0, stopCount-4):
     print("")
 '''
 
+qtdAlunos = nOfPlayers+1
 for quest in range(0, 5):
 
     wsq_statement = []
@@ -183,7 +189,7 @@ for quest in range(0, 5):
     wsq_IsAnswerCorrectLosangle = []
     wsq_IsAnswerCorrectCircle = []
     wsq_IsAnswerCorrectSquare = []
-    wsq_NumOfAnsReceivedTriangle = []  
+    wsq_NumOfAnsReceivedTriangle = []
     wsq_NumOfAnsReceivedLosangle = []
     wsq_NumOfAnsReceivedCircle = []
     wsq_NumOfAnsReceivedSquare = []
@@ -192,11 +198,11 @@ for quest in range(0, 5):
     wsq_TimeToAnsCircle = []
     wsq_TimeToAnsSquare = []
 
-    wsq_alunos = [[] for ____ in range(nOfPlayers)]
+    wsq_alunos = [[] for ____ in range(qtdAlunos)]
 
-    for k in range(0, nOfPlayers):
+    for k in range(0, qtdAlunos):
         for l in range(1, 11):
-            wsq_alunos[k].append(wsQues[quest].cell(row=15, column=l).value)
+            wsq_alunos[k].append(wsQues[quest].cell(row=k+15, column=l).value)
 
     wsq_statement.append(wsQues[quest].cell(row=2, column=2).value)
     wsq_correctAnswers.append(wsQues[quest].cell(row=3, column=3).value)
@@ -236,70 +242,46 @@ for quest in range(0, 5):
     wsq_TimeToAnsCircle.append(wsQues[quest].cell(row=11, column=7).value)
     wsq_TimeToAnsSquare.append(wsQues[quest].cell(row=11, column=9).value)
 
-    '''
-    
-    wsq_statement = []
-    wsq_correctAnswers = []
-    wsq_playersCorrect = []
-    wsq_questionDuration = []
-    wsq_ansOptTriangle = []
-    wsq_ansOptLosangle = []
-    wsq_ansOptCircle = []
-    wsq_ansOptSquare = []
-    wsq_IsAnswerCorrectTriangle = []
-    wsq_IsAnswerCorrectLosangle = []
-    wsq_IsAnswerCorrectCircle = []
-    wsq_IsAnswerCorrectSquare = []
-    wsq_NumOfAnsReceivedTriangle = []  
-    wsq_NumOfAnsReceivedLosangle = []
-    wsq_NumOfAnsReceivedCircle = []
-    wsq_NumOfAnsReceivedSquare = []
-    wsq_TimeToAnsTriangle = []
-    wsq_TimeToAnsLosangle = []
-    wsq_TimeToAnsCircle = []
-    wsq_TimeToAnsSquare = []
-
-    wsq_alunos = [[] for ____ in range(nOfPlayers)]
-
-    for k in range(0, nOfPlayers):
-        for l in range(1, 11):
-            wsq_alunos[k].append(wsQues[0].cell(row=15, column=l).value)
-
-    wsq_statement.append(wsQues[0].cell(row=2, column=2).value)
-    wsq_correctAnswers.append(wsQues[0].cell(row=3, column=3).value)
-    wsq_playersCorrect.append(wsQues[0].cell(row=4, column=3).value)
-    wsq_questionDuration.append(wsQues[0].cell(row=5, column=3).value)
-    wsq_ansOptTriangle.append(wsQues[0].cell(row=8, column=4).value)
-    wsq_ansOptLosangle.append(wsQues[0].cell(row=8, column=6).value)
-    wsq_ansOptCircle.append(wsQues[0].cell(row=8, column=8).value)
-    wsq_ansOptSquare.append(wsQues[0].cell(row=8, column=10).value)
-
-    if (wsQues[0].cell(row=9, column=3).value) == "✔︎":
-        wsq_IsAnswerCorrectTriangle.append(True)
-    else:
-        wsq_IsAnswerCorrectTriangle.append(False)
-
-    if (wsQues[0].cell(row=9, column=5).value) == "✔︎":
-        wsq_IsAnswerCorrectLosangle.append(True)
-    else:
-        wsq_IsAnswerCorrectLosangle.append(False)
-
-    if (wsQues[0].cell(row=9, column=7).value) == "✔︎":
-        wsq_IsAnswerCorrectCircle.append(True)
-    else:
-        wsq_IsAnswerCorrectCircle.append(False)
-
-    if (wsQues[0].cell(row=9, column=9).value) == "✔︎":
-        wsq_IsAnswerCorrectSquare.append(True)
-    else:
-        wsq_IsAnswerCorrectSquare.append(False)
-
-    wsq_NumOfAnsReceivedTriangle.append(wsQues[0].cell(row=10, column=3).value) 
-    wsq_NumOfAnsReceivedLosangle.append(wsQues[0].cell(row=10, column=5).value)
-    wsq_NumOfAnsReceivedCircle.append(wsQues[0].cell(row=10, column=7).value)
-    wsq_NumOfAnsReceivedSquare.append(wsQues[0].cell(row=10, column=9).value) 
-    wsq_TimeToAnsTriangle.append(wsQues[0].cell(row=11, column=3).value) 
-    wsq_TimeToAnsLosangle.append(wsQues[0].cell(row=11, column=5).value)
-    wsq_TimeToAnsCircle.append(wsQues[0].cell(row=11, column=7).value)
-    wsq_TimeToAnsSquare.append(wsQues[0].cell(row=11, column=9).value)
-    '''
+    questions = { 1: {
+        'statement': wsq_statement,
+        'correctAnswers': wsq_correctAnswers, 
+        'playersCorrect': wsq_playersCorrect,
+        'questionDuration': wsq_questionDuration,
+        'ansOptTriangle': wsq_ansOptTriangle,
+        'ansOptLosangle': wsq_ansOptLosangle,
+        'ansOptCircle': wsq_ansOptCircle,
+        'ansOptSquare': wsq_ansOptSquare,
+        'IsAnswerCorrectTriangle': wsq_IsAnswerCorrectTriangle,  
+        'IsAnswerCorrectLosangle': wsq_IsAnswerCorrectLosangle,
+        'IsAnswerCorrectCircle': wsq_IsAnswerCorrectCircle,
+        'IsAnswerCorrectSquare': wsq_IsAnswerCorrectSquare,
+        'NumOfAnsReceivedTriangle': wsq_NumOfAnsReceivedTriangle,  
+        'NumOfAnsReceivedLosangle': wsq_NumOfAnsReceivedLosangle,
+        'NumOfAnsReceivedCircle': wsq_NumOfAnsReceivedCircle,
+        'NumOfAnsReceivedSquare': wsq_NumOfAnsReceivedSquare,
+        'TimeToAnsTriangle': wsq_TimeToAnsTriangle,  
+        'TimeToAnsLosangle': wsq_TimeToAnsLosangle,
+        'TimeToAnsCircle': wsq_TimeToAnsCircle,
+        'TimeToAnsSquare': wsq_TimeToAnsSquare,
+    1: {
+        'player': wsq_alunos[0][0],
+        'alias': wsq_alunos[0][1],
+        'answerIsCorrect': wsq_alunos[0][2],
+        'statement': wsq_alunos[0][3],
+        'score': wsq_alunos[0][4],
+        'acumulateScore': wsq_alunos[0][6],
+        'answerTime': wsq_alunos[0][8]
+    }
+}}
+    for alunos in range(2, nOfPlayers):
+        questions[alunos] = {}
+        
+        questions[alunos]['player'] = wsq_alunos[alunos][0]
+        questions[alunos]['alias'] = wsq_alunos[alunos][1]
+        questions[alunos]['answerIsCorrect'] = wsq_alunos[alunos][2]
+        questions[alunos]['statement'] = wsq_alunos[alunos][3]
+        questions[alunos]['score'] = wsq_alunos[alunos][4]
+        questions[alunos]['acumulateScore'] = wsq_alunos[alunos][6]
+        questions[alunos]['answerTime'] = wsq_alunos[alunos][8]
+     
+print(questions)
