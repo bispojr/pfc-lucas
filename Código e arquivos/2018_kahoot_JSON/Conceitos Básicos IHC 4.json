@@ -1,0 +1,1893 @@
+{"Overview": {
+	"Conceitos Básicos IHC 4": {
+		"Played on": "12 Sep 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "18 players", 
+		"Played": "5 of 5 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.474999994039536", 
+		"Total incorrect answers (%)": "0.524999976158142", 
+		"Average score (points)": "1549.55554199219"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Conceitos Básicos IHC 4": 
+	[		{
+			"Rank": "1", 
+			"Player": "ProfaAna", 
+			"Total Score": "4973", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Urubu", 
+			"Total Score": "3018", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Gato", 
+			"Total Score": "2361", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Lebre", 
+			"Total Score": "1870", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Zebra", 
+			"Total Score": "1684", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Peixe", 
+			"Total Score": "1552", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Mosca", 
+			"Total Score": "1434", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Jacaré", 
+			"Total Score": "1416", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Minhoca", 
+			"Total Score": "1387", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Coelho", 
+			"Total Score": "1376", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Escorpião", 
+			"Total Score": "1245", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Camaleão", 
+			"Total Score": "1188", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Cobra", 
+			"Total Score": "1107", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Galo", 
+			"Total Score": "720", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Misterioso", 
+			"Total Score": "710", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Hipopótamo", 
+			"Total Score": "654", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Lagarto", 
+			"Total Score": "653", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "18", 
+			"Player": "Corvo", 
+			"Total Score": "544", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "1"
+		}
+	]
+},
+"Question Summary": {
+	"Conceitos Básicos IHC 4": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "ProfaAna", 
+				"Total Score": "4973", 
+				"Q1": {
+						"Score": "796", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "823", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "926", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "1147", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}, 
+				"Q5": {
+						"Score": "1281", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Urubu", 
+				"Total Score": "3018", 
+				"Q1": {
+						"Score": "588", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "823", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de avaliação"
+				}, 
+				"Q4": {
+						"Score": "713", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}, 
+				"Q5": {
+						"Score": "894", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Gato", 
+				"Total Score": "2361", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que permite criar cenários"
+				}, 
+				"Q2": {
+						"Score": "723", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "890", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "748", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Lebre", 
+				"Total Score": "1870", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "549", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "710", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "611", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Zebra", 
+				"Total Score": "1684", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que permite criar cenários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de avaliação"
+				}, 
+				"Q4": {
+						"Score": "865", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}, 
+				"Q5": {
+						"Score": "819", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Peixe", 
+				"Total Score": "1552", 
+				"Q1": {
+						"Score": "728", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "824", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Travessia dos golfos"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Mosca", 
+				"Total Score": "1434", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "724", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "710", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Jacaré", 
+				"Total Score": "1416", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "723", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "693", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Avaliar o estado do ambiente."
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de avaliação"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Minhoca", 
+				"Total Score": "1387", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que permite criar cenários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "663", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "724", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Coelho", 
+				"Total Score": "1376", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de mapeamento e Controle"
+				}, 
+				"Q4": {
+						"Score": "547", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}, 
+				"Q5": {
+						"Score": "829", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Escorpião", 
+				"Total Score": "1245", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir objetivos."
+				}, 
+				"Q2": {
+						"Score": "723", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "522", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Camaleão", 
+				"Total Score": "1188", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que permite criar cenários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de avaliação"
+				}, 
+				"Q4": {
+						"Score": "561", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}, 
+				"Q5": {
+						"Score": "627", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Cobra", 
+				"Total Score": "1107", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "589", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de mapeamento e Controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Avaliar o estado do ambiente."
+				}, 
+				"Q5": {
+						"Score": "518", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de execução"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Galo", 
+				"Total Score": "720", 
+				"Q1": {
+						"Score": "720", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": ""
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de avaliação"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Misterioso", 
+				"Total Score": "710", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "710", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de mapeamento e Controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Golfo de avaliação"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Hipopótamo", 
+				"Total Score": "654", 
+				"Q1": {
+						"Score": "654", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": "Avaliar o estado do ambiente."
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": "Travessia dos golfos"
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Lagarto", 
+				"Total Score": "653", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir objetivos."
+				}, 
+				"Q2": {
+						"Score": "653", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": ""
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": ""
+				}
+			}, 
+			{
+				"Rank": "18", 
+				"Player": "Corvo", 
+				"Total Score": "544", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "544", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": ""
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+						"Answer": ""
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+						"Answer": ""
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Conceitos Básicos IHC 4": {
+		"Q1": {
+			"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+			"Correct Answer": "Recurso de comunicação que facilita a comunicabilidade.", 
+			"Players Correct": "0.3125", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Recurso de comunicação que facilita a comunicabilidade."", 
+					"Losangle": ""Recurso de design para definir personas."", 
+					"Circle": ""Recurso de comunicação que permite criar cenários"", 
+					"Square": ""Recurso de design para definir objetivos.""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "5", 
+					"Circle": "4", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.1118", 
+					"Losangle": "18.85", 
+					"Circle": "14.6285", 
+					"Square": "18.1235"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de design para definir objetivos." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "17.869"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de comunicação que permite criar cenários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "14.185"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de comunicação que permite criar cenários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.99"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "588", 
+				"Current Total Score (points)": "588", 
+				"Answer time (seconds)": "16.49"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.807"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de comunicação que permite criar cenários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.903"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.993"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "720", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "11.194"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.153"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.67"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir objetivos." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.378"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "796", 
+				"Current Total Score (points)": "796", 
+				"Answer time (seconds)": "8.167"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de comunicação que permite criar cenários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.436"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.627"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "728", 
+				"Current Total Score (points)": "728", 
+				"Answer time (seconds)": "10.883"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "654", 
+				"Current Total Score (points)": "654", 
+				"Answer time (seconds)": "13.825"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Conceitos Básicos IHC 4": {
+		"Q2": {
+			"Statement": "Observe a imagem e assinale a resposta correta:", 
+			"Correct Answer": "Esta interface é de um antivírus.", 
+			"Players Correct": "0.75", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Esta interface é de um reprodutor de música."", 
+					"Losangle": ""Esta interface é de um sistema para gravação de CD"", 
+					"Circle": ""Esta interface é de um antivírus."", 
+					"Square": ""Esta interface é de um sistema para gravação de áudio.""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "0", 
+					"Circle": "12", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.46175", 
+					"Losangle": "0", 
+					"Circle": "12.9730833333333", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "11.09"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "11.076"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "823", 
+				"Current Total Score (points)": "1411", 
+				"Answer time (seconds)": "11.094"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "549", 
+				"Current Total Score (points)": "549", 
+				"Answer time (seconds)": "18.048"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.099"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.104"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "12.228"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "544", 
+				"Current Total Score (points)": "544", 
+				"Answer time (seconds)": "18.234"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "710", 
+				"Current Total Score (points)": "710", 
+				"Answer time (seconds)": "11.606"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "589", 
+				"Current Total Score (points)": "589", 
+				"Answer time (seconds)": "16.422"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "653", 
+				"Current Total Score (points)": "653", 
+				"Answer time (seconds)": "13.867"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "823", 
+				"Current Total Score (points)": "1619", 
+				"Answer time (seconds)": "11.063"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "724", 
+				"Current Total Score (points)": "724", 
+				"Answer time (seconds)": "11.053"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.416"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "11.083"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "824", 
+				"Current Total Score (points)": "1552", 
+				"Answer time (seconds)": "11.041"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "654", 
+				"Answer time (seconds)": "0"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Conceitos Básicos IHC 4": {
+		"Q3": {
+			"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+			"Correct Answer": "Mapeamento, Controle e Avaliação", 
+			"Players Correct": "0.3125", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Dificuldade de mapeamento e Controle"", 
+					"Losangle": ""Dificuldade de avaliação"", 
+					"Circle": ""Dificuldade de controle"", 
+					"Square": ""Mapeamento, Controle e Avaliação""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "5", 
+					"Circle": "3", 
+					"Square": "5"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.5316666666667", 
+					"Losangle": "13.0004", 
+					"Circle": "13.9316666666667", 
+					"Square": "12.9374"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dificuldade de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "19.117"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "890", 
+				"Current Total Score (points)": "1613", 
+				"Answer time (seconds)": "8.382"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "663", 
+				"Current Total Score (points)": "663", 
+				"Answer time (seconds)": "13.491"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1411", 
+				"Answer time (seconds)": "12.837"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "710", 
+				"Current Total Score (points)": "1259", 
+				"Answer time (seconds)": "15.605"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.528"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de mapeamento e Controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.104"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "544", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de mapeamento e Controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "710", 
+				"Answer time (seconds)": "19.919"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de mapeamento e Controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "589", 
+				"Answer time (seconds)": "8.572"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "653", 
+				"Answer time (seconds)": "17.837"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "926", 
+				"Current Total Score (points)": "2545", 
+				"Answer time (seconds)": "10.942"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "724", 
+				"Answer time (seconds)": "17.388"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.545"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "693", 
+				"Current Total Score (points)": "1416", 
+				"Answer time (seconds)": "16.267"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1552", 
+				"Answer time (seconds)": "4.975"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "654", 
+				"Answer time (seconds)": "6.57"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Conceitos Básicos IHC 4": {
+		"Q4": {
+			"Statement": "Levando em consideração o processo de interação, Golfo de execução é a dificuldade de:", 
+			"Correct Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas", 
+			"Players Correct": "0.3125", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Detecção e interpretação do estado do sistema"", 
+					"Losangle": ""Atuar sobre o ambiente e ao sucesso que ações são apoiadas"", 
+					"Circle": ""Avaliar o estado do ambiente."", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "5", 
+					"Circle": "3", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.310125", 
+					"Losangle": "11.7322", 
+					"Circle": "11.5906666666667", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "17.365"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1613", 
+				"Answer time (seconds)": "7.085"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "663", 
+				"Answer time (seconds)": "7.801"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "713", 
+				"Current Total Score (points)": "2124", 
+				"Answer time (seconds)": "11.468"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1259", 
+				"Answer time (seconds)": "14.881"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "865", 
+				"Answer time (seconds)": "5.411"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "547", 
+				"Current Total Score (points)": "547", 
+				"Answer time (seconds)": "18.126"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "18.412"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "544", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "710", 
+				"Answer time (seconds)": "9.517"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar o estado do ambiente." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "589", 
+				"Answer time (seconds)": "13.909"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "653", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "1147", 
+				"Current Total Score (points)": "3692", 
+				"Answer time (seconds)": "6.103"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "724", 
+				"Answer time (seconds)": "7.612"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "561", 
+				"Current Total Score (points)": "561", 
+				"Answer time (seconds)": "17.553"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar o estado do ambiente." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1416", 
+				"Answer time (seconds)": "7.281"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1552", 
+				"Answer time (seconds)": "7.808"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar o estado do ambiente." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "654", 
+				"Answer time (seconds)": "13.582"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Conceitos Básicos IHC 4": {
+		"Q5": {
+			"Statement": "Observe a imagem e identifique o que seria a parte em destaque:", 
+			"Correct Answer": "Golfo de execução", 
+			"Players Correct": "0.6875", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Travessia dos golfos"", 
+					"Losangle": ""Formulação de ações"", 
+					"Circle": ""Golfo de avaliação"", 
+					"Square": ""Golfo de execução""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "0", 
+					"Circle": "3", 
+					"Square": "11"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.9225", 
+					"Losangle": "0", 
+					"Circle": "10.75", 
+					"Square": "12.7888181818182"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "522", 
+				"Current Total Score (points)": "1245", 
+				"Answer time (seconds)": "19.108"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "748", 
+				"Current Total Score (points)": "2361", 
+				"Answer time (seconds)": "10.07"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "724", 
+				"Current Total Score (points)": "1387", 
+				"Answer time (seconds)": "11.028"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "894", 
+				"Current Total Score (points)": "3018", 
+				"Answer time (seconds)": "8.224"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "611", 
+				"Current Total Score (points)": "1870", 
+				"Answer time (seconds)": "15.566"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "819", 
+				"Current Total Score (points)": "1684", 
+				"Answer time (seconds)": "11.242"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "829", 
+				"Current Total Score (points)": "1376", 
+				"Answer time (seconds)": "10.844"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Golfo de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "11.98"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "544", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Golfo de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "710", 
+				"Answer time (seconds)": "11.436"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "518", 
+				"Current Total Score (points)": "1107", 
+				"Answer time (seconds)": "19.289"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "653", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "1281", 
+				"Current Total Score (points)": "4973", 
+				"Answer time (seconds)": "4.779"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "710", 
+				"Current Total Score (points)": "1434", 
+				"Answer time (seconds)": "11.62"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Golfo de execução" 
+				},
+				"Score (points)": "627", 
+				"Current Total Score (points)": "1188", 
+				"Answer time (seconds)": "18.907"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Golfo de avaliação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1416", 
+				"Answer time (seconds)": "8.834"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Travessia dos golfos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1552", 
+				"Answer time (seconds)": "12.633"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Travessia dos golfos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "654", 
+				"Answer time (seconds)": "13.212"
+			}
+		]
+	}
+}
+}

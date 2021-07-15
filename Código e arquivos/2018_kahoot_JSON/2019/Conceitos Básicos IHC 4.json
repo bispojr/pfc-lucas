@@ -1,0 +1,1034 @@
+{"Overview": {
+	"Conceitos Básicos IHC 4": {
+		"Played on": "4 Sep 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "13", 
+		"Played": "5 of 5"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.49230769276619", 
+		"Total incorrect answers (%)": "0.507692337036133", 
+		"Average score (points)": "1862.61535644531"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Conceitos Básicos IHC 4": 
+	[		{
+			"Rank": "1", 
+			"Player": "Sidney", 
+			"Total Score": "3346", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Bagdá", 
+			"Total Score": "2466", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Moscow", 
+			"Total Score": "2390", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Madrid", 
+			"Total Score": "2366", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Tel-aviv", 
+			"Total Score": "2353", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Cairo", 
+			"Total Score": "2338", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Cape Town", 
+			"Total Score": "2168", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Recife", 
+			"Total Score": "1663", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Estocolmo", 
+			"Total Score": "1538", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Nova Iorque", 
+			"Total Score": "1266", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Praga", 
+			"Total Score": "1120", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		}
+	]
+},
+"Question Summary": {
+	"Conceitos Básicos IHC 4": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Sidney", 
+				"Total Score": "3346", 
+				"Q1": {
+						"Score": "750", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "998", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de mapeamento e Controle"
+				}, 
+				"Q4": {
+						"Score": "735", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Bagdá", 
+				"Total Score": "2466", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "795", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "878", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Moscow", 
+				"Total Score": "2390", 
+				"Q1": {
+						"Score": "740", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "890", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "760", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Madrid", 
+				"Total Score": "2366", 
+				"Q1": {
+						"Score": "588", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "958", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Tel-aviv", 
+				"Total Score": "2353", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir objetivos."
+				}, 
+				"Q2": {
+						"Score": "875", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de avaliação"
+				}, 
+				"Q4": {
+						"Score": "553", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Cairo", 
+				"Total Score": "2338", 
+				"Q1": {
+						"Score": "678", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "965", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "695", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Cape Town", 
+				"Total Score": "2168", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de design para definir personas."
+				}, 
+				"Q2": {
+						"Score": "778", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "695", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Recife", 
+				"Total Score": "1663", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que permite criar cenários"
+				}, 
+				"Q2": {
+						"Score": "893", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um antivírus."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Dificuldade de controle"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Estocolmo", 
+				"Total Score": "1538", 
+				"Q1": {
+						"Score": "755", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "783", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Avaliar o estado do ambiente."
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Nova Iorque", 
+				"Total Score": "1266", 
+				"Q1": {
+						"Score": "568", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que facilita a comunicabilidade."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": ""
+				}, 
+				"Q4": {
+						"Score": "698", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Praga", 
+				"Total Score": "1120", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+						"Answer": "Recurso de comunicação que permite criar cenários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Observe a imagem e assinale a resposta correta:", 
+						"Answer": "Esta interface é de um reprodutor de música."
+				}, 
+				"Q3": {
+						"Score": "520", 
+						"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+						"Answer": "Mapeamento, Controle e Avaliação"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+						"Answer": "Detecção e interpretação do estado do sistema"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Conceitos Básicos IHC 4": {
+		"1 Quiz": {
+			"Statement": "Para melhorar a comunicabilidade podemos fazer uso de analogias, que podem ser definidas como:", 
+			"Correct Answer": "Recurso de comunicação que facilita a comunicabilidade.", 
+			"Players Correct": "0.538461538461538", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Recurso de comunicação que facilita a comunicabilidade.", 
+					"Losangle": "Recurso de design para definir personas.", 
+					"Circle": "Recurso de comunicação que permite criar cenários", 
+					"Square": "Recurso de design para definir objetivos."
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "7", 
+					"Losangle": "3", 
+					"Circle": "2", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "13.7571428571429", 
+					"Losangle": "16.3", 
+					"Circle": "15.55", 
+					"Square": "13"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "515", 
+				"Current Total Score (points)": "515", 
+				"Answer time (seconds)": "19.4"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "755", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "9.8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "740", 
+				"Current Total Score (points)": "740", 
+				"Answer time (seconds)": "10.4"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "588", 
+				"Current Total Score (points)": "588", 
+				"Answer time (seconds)": "16.5"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "568", 
+				"Current Total Score (points)": "568", 
+				"Answer time (seconds)": "17.3"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de comunicação que permite criar cenários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "14"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "750", 
+				"Current Total Score (points)": "750", 
+				"Answer time (seconds)": "10"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Praga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de comunicação que permite criar cenários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "17.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recurso de design para definir personas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.8"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recurso de comunicação que facilita a comunicabilidade." 
+				},
+				"Score (points)": "678", 
+				"Current Total Score (points)": "678", 
+				"Answer time (seconds)": "12.9"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Conceitos Básicos IHC 4": {
+		"2 Quiz": {
+			"Statement": "Observe a imagem e assinale a resposta correta:", 
+			"Correct Answer": "Esta interface é de um antivírus.", 
+			"Players Correct": "0.615384615384615", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Esta interface é de um reprodutor de música.", 
+					"Losangle": "Esta interface é de um sistema para gravação de CD", 
+					"Circle": "Esta interface é de um antivírus.", 
+					"Square": "Esta interface é de um sistema para gravação de áudio."
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "0", 
+					"Circle": "8", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.76", 
+					"Losangle": "0", 
+					"Circle": "6.25", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "515", 
+				"Answer time (seconds)": "6.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "8.4"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "890", 
+				"Current Total Score (points)": "1630", 
+				"Answer time (seconds)": "8.4"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.6"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "958", 
+				"Current Total Score (points)": "1546", 
+				"Answer time (seconds)": "5.7"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "568", 
+				"Answer time (seconds)": "8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "4.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "998", 
+				"Current Total Score (points)": "1748", 
+				"Answer time (seconds)": "4.1"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Praga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esta interface é de um reprodutor de música." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "778", 
+				"Current Total Score (points)": "778", 
+				"Answer time (seconds)": "8.9"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Esta interface é de um antivírus." 
+				},
+				"Score (points)": "965", 
+				"Current Total Score (points)": "1643", 
+				"Answer time (seconds)": "5.4"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Conceitos Básicos IHC 4": {
+		"3 Quiz": {
+			"Statement": "Conforme Engenharia Cognitiva, marque a alternativa que apresenta todos problemas desta imagem", 
+			"Correct Answer": "Mapeamento, Controle e Avaliação", 
+			"Players Correct": "0.384615384615385", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Dificuldade de mapeamento e Controle", 
+					"Losangle": "Dificuldade de avaliação", 
+					"Circle": "Dificuldade de controle", 
+					"Square": "Mapeamento, Controle e Avaliação"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "1", 
+					"Circle": "4", 
+					"Square": "5"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "17.8", 
+					"Losangle": "8.9", 
+					"Circle": "13.3", 
+					"Square": "13.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dificuldade de mapeamento e Controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "515", 
+				"Answer time (seconds)": "19.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "1538", 
+				"Answer time (seconds)": "8.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "760", 
+				"Current Total Score (points)": "2390", 
+				"Answer time (seconds)": "17.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "685", 
+				"Current Total Score (points)": "685", 
+				"Answer time (seconds)": "12.6"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1546", 
+				"Answer time (seconds)": "8.6"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "568", 
+				"Answer time (seconds)": "20"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "16.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de mapeamento e Controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1748", 
+				"Answer time (seconds)": "15.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Praga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Mapeamento, Controle e Avaliação" 
+				},
+				"Score (points)": "520", 
+				"Current Total Score (points)": "520", 
+				"Answer time (seconds)": "19.2"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "778", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dificuldade de controle" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1643", 
+				"Answer time (seconds)": "17.4"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Conceitos Básicos IHC 4": {
+		"4 Quiz": {
+			"Statement": "Levando em consideração o processo de interação, <b>Golfo de execução</b> é a dificuldade de:", 
+			"Correct Answer": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas", 
+			"Players Correct": "0.384615384615385", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Detecção e interpretação do estado do sistema", 
+					"Losangle": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas", 
+					"Circle": "Avaliar o estado do ambiente.", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "5", 
+					"Circle": "2", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "16.1", 
+					"Losangle": "13", 
+					"Circle": "15.2", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "515", 
+				"Answer time (seconds)": "20"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar o estado do ambiente." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1538", 
+				"Answer time (seconds)": "15.3"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2390", 
+				"Answer time (seconds)": "18.8"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar o estado do ambiente." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "685", 
+				"Answer time (seconds)": "15.1"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1546", 
+				"Answer time (seconds)": "17.7"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "698", 
+				"Current Total Score (points)": "1266", 
+				"Answer time (seconds)": "12.1"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "14.7"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "735", 
+				"Current Total Score (points)": "2483", 
+				"Answer time (seconds)": "10.6"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Praga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detecção e interpretação do estado do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "520", 
+				"Answer time (seconds)": "13.5"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "695", 
+				"Current Total Score (points)": "1473", 
+				"Answer time (seconds)": "12.2"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Atuar sobre o ambiente e ao sucesso que ações são apoiadas" 
+				},
+				"Score (points)": "695", 
+				"Current Total Score (points)": "2338", 
+				"Answer time (seconds)": "12.2"
+			}
+		]
+	}
+}
+}

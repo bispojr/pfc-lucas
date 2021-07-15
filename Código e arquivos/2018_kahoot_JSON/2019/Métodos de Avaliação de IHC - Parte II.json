@@ -1,0 +1,2454 @@
+{"Overview": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Played on": "19 Nov 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "17", 
+		"Played": "9 of 9"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.653594791889191", 
+		"Total incorrect answers (%)": "0.346405237913132", 
+		"Average score (points)": "5464.94140625"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "4", 
+		"Did you learn something?": {
+			"Yes": "5", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "1", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Métodos de Avaliação de IHC - Parte II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Tóquio", 
+			"Total Score": "8703", 
+			"Correct Answers": "8", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Denver", 
+			"Total Score": "7480", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Recife", 
+			"Total Score": "6577", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Toronto", 
+			"Total Score": "6488", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Madrid", 
+			"Total Score": "6276", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Bogotá", 
+			"Total Score": "5775", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Tel-aviv", 
+			"Total Score": "5606", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Dubai", 
+			"Total Score": "5422", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Estocolmo", 
+			"Total Score": "5194", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Pequim", 
+			"Total Score": "5165", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Bagdá", 
+			"Total Score": "4915", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Cairo", 
+			"Total Score": "4508", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Lisboa", 
+			"Total Score": "4388", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Praga", 
+			"Total Score": "4337", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Cape Town", 
+			"Total Score": "4278", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		}
+	]
+},
+"Question Summary": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Tóquio", 
+				"Total Score": "8703", 
+				"Q1": {
+						"Score": "983", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "728", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1093", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1263", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "1018", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "1320", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "1338", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar necessidades dos usuários"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Denver", 
+				"Total Score": "7480", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Percurso Cognitivo e Aval Comunicabilidade"
+				}, 
+				"Q2": {
+						"Score": "830", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "748", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1097", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "1155", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "1290", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "1397", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Recife", 
+				"Total Score": "6577", 
+				"Q1": {
+						"Score": "975", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "802", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "995", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1220", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "848", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "692", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Toronto", 
+				"Total Score": "6488", 
+				"Q1": {
+						"Score": "967", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "623", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "860", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1065", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "930", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "885", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Madrid", 
+				"Total Score": "6276", 
+				"Q1": {
+						"Score": "980", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "870", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1018", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1083", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "547", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "843", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Bogotá", 
+				"Total Score": "5775", 
+				"Q1": {
+						"Score": "1000", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "1025", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1130", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1278", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "1342", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Tel-aviv", 
+				"Total Score": "5606", 
+				"Q1": {
+						"Score": "980", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "733", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção Semiótica"
+				}, 
+				"Q4": {
+						"Score": "947", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "668", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "887", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "593", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Dubai", 
+				"Total Score": "5422", 
+				"Q1": {
+						"Score": "908", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "850", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "942", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1112", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "965", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Estocolmo", 
+				"Total Score": "5194", 
+				"Q1": {
+						"Score": "980", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "737", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1022", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q5": {
+						"Score": "850", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "683", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Pequim", 
+				"Total Score": "5165", 
+				"Q1": {
+						"Score": "983", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q3": {
+						"Score": "722", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "850", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "768", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "782", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Bagdá", 
+				"Total Score": "4915", 
+				"Q1": {
+						"Score": "970", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "975", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1112", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "940", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar necessidades dos usuários"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Cairo", 
+				"Total Score": "4508", 
+				"Q1": {
+						"Score": "972", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "760", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção Semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "853", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "998", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Lisboa", 
+				"Total Score": "4388", 
+				"Q1": {
+						"Score": "958", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "815", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q5": {
+						"Score": "708", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "932", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Praga", 
+				"Total Score": "4337", 
+				"Q1": {
+						"Score": "987", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "837", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "987", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "643", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Cape Town", 
+				"Total Score": "4278", 
+				"Q1": {
+						"Score": "940", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "745", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção da interface por meio de heurísticas"
+				}, 
+				"Q4": {
+						"Score": "923", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "738", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"1 Quiz": {
+			"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+			"Correct Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel", 
+			"Players Correct": "0.882352941176471", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Aval. heurística, Percurso Cognitivo e Aval Comunicabilidade", 
+					"Losangle": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel", 
+					"Circle": "Usabilidade e Avaliação heurística", 
+					"Square": "Percurso Cognitivo e Aval Comunicabilidade"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "15", 
+					"Circle": "0", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "1.72", 
+					"Circle": "0", 
+					"Square": "1.1"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "None" 
+				},
+				"Score (points)": "None", 
+				"Current Total Score (points)": "None", 
+				"Answer time (seconds)": "None"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"2 Quiz": {
+			"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+			"Correct Answer": "Não percebe ou não compreende as respostas do sistema", 
+			"Players Correct": "0.764705882352941", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Não sabe o que fazer para concluir a tarefa", 
+					"Losangle": "Cometeu um equívoco,  percebe o engano rapidamente", 
+					"Circle": "Não percebe ou não compreende as respostas do sistema", 
+					"Square": "Não consegue expressar intenção com os signos na interface"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "0", 
+					"Circle": "13", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "23.5333333333333", 
+					"Losangle": "0", 
+					"Circle": "16.5615384615385", 
+					"Square": "19.6"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "728", 
+				"Current Total Score (points)": "1711", 
+				"Answer time (seconds)": "22.3"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "737", 
+				"Current Total Score (points)": "1717", 
+				"Answer time (seconds)": "21.8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "830", 
+				"Current Total Score (points)": "830", 
+				"Answer time (seconds)": "10.2"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "850", 
+				"Current Total Score (points)": "1758", 
+				"Answer time (seconds)": "15"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "870", 
+				"Current Total Score (points)": "1850", 
+				"Answer time (seconds)": "13.8"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "992", 
+				"Answer time (seconds)": "27.4"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "802", 
+				"Current Total Score (points)": "1777", 
+				"Answer time (seconds)": "17.9"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "1025", 
+				"Current Total Score (points)": "2025", 
+				"Answer time (seconds)": "4.5"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "833", 
+				"Current Total Score (points)": "833", 
+				"Answer time (seconds)": "10"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "983", 
+				"Answer time (seconds)": "19.6"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "745", 
+				"Current Total Score (points)": "1685", 
+				"Answer time (seconds)": "21.3"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "623", 
+				"Current Total Score (points)": "1590", 
+				"Answer time (seconds)": "28.6"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "760", 
+				"Current Total Score (points)": "1732", 
+				"Answer time (seconds)": "20.4"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "1945", 
+				"Answer time (seconds)": "7.5"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "733", 
+				"Current Total Score (points)": "1713", 
+				"Answer time (seconds)": "22"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"3 Quiz": {
+			"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+			"Correct Answer": "Observações de experiências de uso", 
+			"Players Correct": "0.705882352941177", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Inspeção Semiótica", 
+					"Losangle": "Inspeção da interface por meio de heurísticas", 
+					"Circle": "Percurso Cognitivo", 
+					"Square": "Observações de experiências de uso"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "2", 
+					"Circle": "0", 
+					"Square": "12"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "15.8333333333333", 
+					"Losangle": "19.55", 
+					"Circle": "0", 
+					"Square": "12.0333333333333"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1093", 
+				"Current Total Score (points)": "2804", 
+				"Answer time (seconds)": "6.4"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1022", 
+				"Current Total Score (points)": "2739", 
+				"Answer time (seconds)": "10.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "748", 
+				"Current Total Score (points)": "1578", 
+				"Answer time (seconds)": "21.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "2700", 
+				"Answer time (seconds)": "15.5"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1018", 
+				"Current Total Score (points)": "2868", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção Semiótica" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "992", 
+				"Answer time (seconds)": "13.6"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "995", 
+				"Current Total Score (points)": "2772", 
+				"Answer time (seconds)": "12.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1130", 
+				"Current Total Score (points)": "3155", 
+				"Answer time (seconds)": "4.2"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção da interface por meio de heurísticas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "833", 
+				"Answer time (seconds)": "12.4"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "722", 
+				"Current Total Score (points)": "1705", 
+				"Answer time (seconds)": "16.7"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção da interface por meio de heurísticas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1685", 
+				"Answer time (seconds)": "26.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "2450", 
+				"Answer time (seconds)": "20.4"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção Semiótica" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1732", 
+				"Answer time (seconds)": "22.1"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1112", 
+				"Current Total Score (points)": "3057", 
+				"Answer time (seconds)": "5.3"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção Semiótica" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1713", 
+				"Answer time (seconds)": "11.8"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"4 Quiz": {
+			"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+			"Correct Answer": "Cometeu um equívoco,  percebe o engano rapidamente", 
+			"Players Correct": "0.705882352941177", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Não sabe o que fazer para concluir a tarefa", 
+					"Losangle": "Cometeu um equívoco,  percebe o engano rapidamente", 
+					"Circle": "Não percebe ou não compreende as respostas do sistema", 
+					"Square": "Não consegue expressar intenção com os signos na interface"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "12", 
+					"Circle": "1", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "4.85", 
+					"Losangle": "7.425", 
+					"Circle": "2.4", 
+					"Square": "8.2"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1263", 
+				"Current Total Score (points)": "4067", 
+				"Answer time (seconds)": "2.2"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2739", 
+				"Answer time (seconds)": "2.4"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1097", 
+				"Current Total Score (points)": "2675", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1112", 
+				"Current Total Score (points)": "3812", 
+				"Answer time (seconds)": "11.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1083", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "13"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "992", 
+				"Answer time (seconds)": "30"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1220", 
+				"Current Total Score (points)": "3992", 
+				"Answer time (seconds)": "4.8"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1278", 
+				"Current Total Score (points)": "4433", 
+				"Answer time (seconds)": "1.3"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "890", 
+				"Current Total Score (points)": "1723", 
+				"Answer time (seconds)": "6.6"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "850", 
+				"Current Total Score (points)": "2555", 
+				"Answer time (seconds)": "15"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "923", 
+				"Current Total Score (points)": "2608", 
+				"Answer time (seconds)": "4.6"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1065", 
+				"Current Total Score (points)": "3515", 
+				"Answer time (seconds)": "14.1"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1732", 
+				"Answer time (seconds)": "7"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3057", 
+				"Answer time (seconds)": "8.2"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "947", 
+				"Current Total Score (points)": "2660", 
+				"Answer time (seconds)": "3.2"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"5 Quiz": {
+			"Statement": "A Inspeção semiótica avalia qualidade da:", 
+			"Correct Answer": "Emissão da metacomunicação do designer", 
+			"Players Correct": "0.529411764705882", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Emissão da metacomunicação do designer", 
+					"Losangle": "Recepção da metacomunicação do designer", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "9", 
+					"Losangle": "8", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "17.9444444444444", 
+					"Losangle": "15.3125", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "1018", 
+				"Current Total Score (points)": "5085", 
+				"Answer time (seconds)": "22.9"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "850", 
+				"Current Total Score (points)": "3589", 
+				"Answer time (seconds)": "9"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "1155", 
+				"Current Total Score (points)": "3830", 
+				"Answer time (seconds)": "8.7"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "965", 
+				"Current Total Score (points)": "4777", 
+				"Answer time (seconds)": "26.1"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "14.5"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "563", 
+				"Current Total Score (points)": "1555", 
+				"Answer time (seconds)": "26.2"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3992", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "1342", 
+				"Current Total Score (points)": "5775", 
+				"Answer time (seconds)": "3.5"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1723", 
+				"Answer time (seconds)": "5.7"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2555", 
+				"Answer time (seconds)": "21.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "738", 
+				"Current Total Score (points)": "3346", 
+				"Answer time (seconds)": "21.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3515", 
+				"Answer time (seconds)": "24.6"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1732", 
+				"Answer time (seconds)": "13.2"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3057", 
+				"Answer time (seconds)": "7.1"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "668", 
+				"Current Total Score (points)": "3328", 
+				"Answer time (seconds)": "25.9"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"6 Quiz": {
+			"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+			"Correct Answer": "Não consegue expressar intenção com os signos na interface", 
+			"Players Correct": "0.647058823529412", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Não sabe o que fazer para concluir a tarefa", 
+					"Losangle": "Cometeu um equívoco,  percebe o engano rapidamente", 
+					"Circle": "Não percebe ou não compreende as respostas do sistema", 
+					"Square": "Não consegue expressar intenção com os signos na interface"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "6", 
+					"Losangle": "0", 
+					"Circle": "0", 
+					"Square": "11"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "14.75", 
+					"Losangle": "0", 
+					"Circle": "0", 
+					"Square": "13.7181818181818"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "1320", 
+				"Current Total Score (points)": "6405", 
+				"Answer time (seconds)": "10.8"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "683", 
+				"Current Total Score (points)": "4272", 
+				"Answer time (seconds)": "25"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "1290", 
+				"Current Total Score (points)": "5120", 
+				"Answer time (seconds)": "6.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4777", 
+				"Answer time (seconds)": "26"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "547", 
+				"Current Total Score (points)": "4498", 
+				"Answer time (seconds)": "27.2"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "2448", 
+				"Answer time (seconds)": "12.4"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "848", 
+				"Current Total Score (points)": "4840", 
+				"Answer time (seconds)": "9.1"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5775", 
+				"Answer time (seconds)": "1.6"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "2586", 
+				"Answer time (seconds)": "8.2"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "768", 
+				"Current Total Score (points)": "3323", 
+				"Answer time (seconds)": "13.9"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3346", 
+				"Answer time (seconds)": "8.4"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3515", 
+				"Answer time (seconds)": "20.8"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "853", 
+				"Current Total Score (points)": "2585", 
+				"Answer time (seconds)": "8.8"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3057", 
+				"Answer time (seconds)": "3.3"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "887", 
+				"Current Total Score (points)": "4215", 
+				"Answer time (seconds)": "18.8"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"7 Quiz": {
+			"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+			"Correct Answer": "Recepção da metacomunicação do designer", 
+			"Players Correct": "0.411764705882353", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Recepção da metacomunicação do designer", 
+					"Losangle": "Emissão da metacomunicação do designer", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "7", 
+					"Losangle": "10", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.42857142857143", 
+					"Losangle": "3.81", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "1338", 
+				"Current Total Score (points)": "7743", 
+				"Answer time (seconds)": "9.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4272", 
+				"Answer time (seconds)": "0.9"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "1397", 
+				"Current Total Score (points)": "6517", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4777", 
+				"Answer time (seconds)": "2.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "843", 
+				"Current Total Score (points)": "5341", 
+				"Answer time (seconds)": "15.4"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "970", 
+				"Current Total Score (points)": "3418", 
+				"Answer time (seconds)": "13.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4840", 
+				"Answer time (seconds)": "2.4"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5775", 
+				"Answer time (seconds)": "6.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2586", 
+				"Answer time (seconds)": "4.9"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3323", 
+				"Answer time (seconds)": "3.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3346", 
+				"Answer time (seconds)": "4.1"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "930", 
+				"Current Total Score (points)": "4445", 
+				"Answer time (seconds)": "4.2"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "998", 
+				"Current Total Score (points)": "3583", 
+				"Answer time (seconds)": "6.1"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "940", 
+				"Current Total Score (points)": "3997", 
+				"Answer time (seconds)": "3.6"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4215", 
+				"Answer time (seconds)": "1.3"
+			}
+		]
+	}
+},
+"Question 8": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"8 Quiz": {
+			"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+			"Correct Answer": "Identificar rupturas de comunicação", 
+			"Players Correct": "0.294117647058824", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Identificar a metamensagem", 
+					"Losangle": "Identificar sucessos na comunicação", 
+					"Circle": "Identificar rupturas de comunicação", 
+					"Square": "Identificar necessidades dos usuários"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "5", 
+					"Circle": "5", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "23.2", 
+					"Losangle": "21.26", 
+					"Circle": "18.06", 
+					"Square": "27.2"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "7743", 
+				"Answer time (seconds)": "27.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4272", 
+				"Answer time (seconds)": "28.1"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6517", 
+				"Answer time (seconds)": "24.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4777", 
+				"Answer time (seconds)": "27.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5341", 
+				"Answer time (seconds)": "27.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3418", 
+				"Answer time (seconds)": "22.3"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "692", 
+				"Current Total Score (points)": "5532", 
+				"Answer time (seconds)": "18.5"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5775", 
+				"Answer time (seconds)": "12.5"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2586", 
+				"Answer time (seconds)": "16"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "782", 
+				"Current Total Score (points)": "4105", 
+				"Answer time (seconds)": "13.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3346", 
+				"Answer time (seconds)": "26.9"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "885", 
+				"Current Total Score (points)": "5330", 
+				"Answer time (seconds)": "12.9"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3583", 
+				"Answer time (seconds)": "20.2"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3997", 
+				"Answer time (seconds)": "26.7"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "593", 
+				"Current Total Score (points)": "4808", 
+				"Answer time (seconds)": "24.4"
+			}
+		]
+	}
+}
+}

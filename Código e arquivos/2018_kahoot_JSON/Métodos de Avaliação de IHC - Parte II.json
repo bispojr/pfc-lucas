@@ -1,0 +1,3357 @@
+{"Overview": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Played on": "14 Nov 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "19 players", 
+		"Played": "9 of 9 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.59171599149704", 
+		"Total incorrect answers (%)": "0.408284038305283", 
+		"Average score (points)": "4664.89453125"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Métodos de Avaliação de IHC - Parte II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Lagarto", 
+			"Total Score": "7094", 
+			"Correct Answers": "8", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Peixe", 
+			"Total Score": "6212", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Lebre", 
+			"Total Score": "6198", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Escorpião", 
+			"Total Score": "5906", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Gato", 
+			"Total Score": "5892", 
+			"Correct Answers": "Le", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Formiga", 
+			"Total Score": "5860", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Carneiro", 
+			"Total Score": "5730", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Urubu", 
+			"Total Score": "5711", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Cachorro", 
+			"Total Score": "5433", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Zebra", 
+			"Total Score": "5263", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Leão", 
+			"Total Score": "4471", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Coelho", 
+			"Total Score": "4440", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Camaleão", 
+			"Total Score": "4305", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Bode", 
+			"Total Score": "3703", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Hipopótamo", 
+			"Total Score": "3487", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Mosca", 
+			"Total Score": "3352", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Minhoca", 
+			"Total Score": "2378", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "18", 
+			"Player": "Cavalo", 
+			"Total Score": "1641", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "7"
+		},
+		{
+			"Rank": "19", 
+			"Player": "Corvo", 
+			"Total Score": "1557", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "7"
+		}
+	]
+},
+"Question Summary": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Lagarto", 
+				"Total Score": "7094", 
+				"Q1": {
+						"Score": "760", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "609", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1032", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "999", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "761", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "1031", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "707", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "1195", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Peixe", 
+				"Total Score": "6212", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade e Avaliação heurística"
+				}, 
+				"Q2": {
+						"Score": "745", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "859", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "952", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "783", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "833", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "989", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "1051", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Lebre", 
+				"Total Score": "6198", 
+				"Q1": {
+						"Score": "843", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "640", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "857", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1185", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "820", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "860", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "993", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Escorpião", 
+				"Total Score": "5906", 
+				"Q1": {
+						"Score": "774", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "635", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1077", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "857", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "836", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "795", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}, 
+				"Q9": {
+						"Score": "932", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Gato", 
+				"Total Score": "5892", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade e Avaliação heurística"
+				}, 
+				"Q2": {
+						"Score": "720", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção da interface por meio de heurísticas"
+				}, 
+				"Q4": {
+						"Score": "917", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "865", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "1053", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "1089", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "1248", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Formiga", 
+				"Total Score": "5860", 
+				"Q1": {
+						"Score": "726", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "647", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "920", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "1004", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "926", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "688", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "949", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Carneiro", 
+				"Total Score": "5730", 
+				"Q1": {
+						"Score": "714", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "921", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1083", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1208", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "794", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "1010", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Urubu", 
+				"Total Score": "5711", 
+				"Q1": {
+						"Score": "801", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "859", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1032", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1221", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q7": {
+						"Score": "897", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}, 
+				"Q9": {
+						"Score": "901", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Cachorro", 
+				"Total Score": "5433", 
+				"Q1": {
+						"Score": "649", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "832", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1012", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1226", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "756", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}, 
+				"Q9": {
+						"Score": "958", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Zebra", 
+				"Total Score": "5263", 
+				"Q1": {
+						"Score": "755", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "752", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "999", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "948", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "766", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "1043", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Leão", 
+				"Total Score": "4471", 
+				"Q1": {
+						"Score": "653", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "945", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1036", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "922", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}, 
+				"Q9": {
+						"Score": "915", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Coelho", 
+				"Total Score": "4440", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade e Avaliação heurística"
+				}, 
+				"Q2": {
+						"Score": "736", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "737", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "1130", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": ""
+				}, 
+				"Q7": {
+						"Score": "909", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar necessidades dos usuários"
+				}, 
+				"Q9": {
+						"Score": "928", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Camaleão", 
+				"Total Score": "4305", 
+				"Q1": {
+						"Score": "783", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "758", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1055", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "766", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não consegue expressar intenção com os signos na interface"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar a metamensagem"
+				}, 
+				"Q9": {
+						"Score": "943", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Bode", 
+				"Total Score": "3703", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Percurso Cognitivo e Aval Comunicabilidade"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "843", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "880", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "902", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar rupturas de comunicação"
+				}, 
+				"Q9": {
+						"Score": "1078", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Hipopótamo", 
+				"Total Score": "3487", 
+				"Q1": {
+						"Score": "626", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "896", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q3": {
+						"Score": "1060", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar necessidades dos usuários"
+				}, 
+				"Q9": {
+						"Score": "905", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Mosca", 
+				"Total Score": "3352", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Aval. heurística, Percurso Cognitivo e Aval Comunicabilidade"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "676", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Observações de experiências de uso"
+				}, 
+				"Q4": {
+						"Score": "925", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não percebe ou não compreende as respostas do sistema"
+				}, 
+				"Q7": {
+						"Score": "798", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}, 
+				"Q9": {
+						"Score": "953", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Minhoca", 
+				"Total Score": "2378", 
+				"Q1": {
+						"Score": "578", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção da interface por meio de heurísticas"
+				}, 
+				"Q4": {
+						"Score": "863", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar necessidades dos usuários"
+				}, 
+				"Q9": {
+						"Score": "937", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "18", 
+				"Player": "Cavalo", 
+				"Total Score": "1641", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Aval. heurística, Percurso Cognitivo e Aval Comunicabilidade"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção da interface por meio de heurísticas"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q5": {
+						"Score": "854", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}, 
+				"Q9": {
+						"Score": "787", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}
+			}, 
+			{
+				"Rank": "19", 
+				"Player": "Corvo", 
+				"Total Score": "1557", 
+				"Q1": {
+						"Score": "632", 
+						"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+						"Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+						"Answer": "Inspeção da interface por meio de heurísticas"
+				}, 
+				"Q4": {
+						"Score": "925", 
+						"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "A Inspeção semiótica avalia qualidade da:", 
+						"Answer": "Recepção da metacomunicação do designer"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+						"Answer": "Não sabe o que fazer para concluir a tarefa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+						"Answer": "Emissão da metacomunicação do designer"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+						"Answer": "Identificar sucessos na comunicação"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+						"Answer": "Cometeu um equívoco,  percebe o engano rapidamente"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q1": {
+			"Statement": "Os métodos de observação permitem coletar dados sobre situações reais de uso. Alguns métodos:", 
+			"Correct Answer": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel", 
+			"Players Correct": "0.684210526315789", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Aval. heurística, Percurso Cognitivo e Aval Comunicabilidade"", 
+					"Losangle": ""Usabilidade, Aval. de Comunicabilidade,Prototipação em papel"", 
+					"Circle": ""Usabilidade e Avaliação heurística"", 
+					"Square": ""Percurso Cognitivo e Aval Comunicabilidade""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "13", 
+					"Circle": "3", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.966", 
+					"Losangle": "11.4033846153846", 
+					"Circle": "14.6973333333333", 
+					"Square": "10.621"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "774", 
+				"Current Total Score (points)": "774", 
+				"Answer time (seconds)": "9.053"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Usabilidade e Avaliação heurística" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.427"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "578", 
+				"Current Total Score (points)": "578", 
+				"Answer time (seconds)": "16.878"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "801", 
+				"Current Total Score (points)": "801", 
+				"Answer time (seconds)": "7.966"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "843", 
+				"Current Total Score (points)": "843", 
+				"Answer time (seconds)": "6.272"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "714", 
+				"Current Total Score (points)": "714", 
+				"Answer time (seconds)": "11.422"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "653", 
+				"Current Total Score (points)": "653", 
+				"Answer time (seconds)": "13.863"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "755", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "9.792"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Usabilidade e Avaliação heurística" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.439"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "632", 
+				"Current Total Score (points)": "632", 
+				"Answer time (seconds)": "14.738"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Percurso Cognitivo e Aval Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.621"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "726", 
+				"Current Total Score (points)": "726", 
+				"Answer time (seconds)": "10.966"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Aval. heurística, Percurso Cognitivo e Aval Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.317"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "760", 
+				"Current Total Score (points)": "760", 
+				"Answer time (seconds)": "9.603"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "783", 
+				"Answer time (seconds)": "8.678"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "649", 
+				"Current Total Score (points)": "649", 
+				"Answer time (seconds)": "14.034"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Usabilidade e Avaliação heurística" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.226"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Aval. heurística, Percurso Cognitivo e Aval Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.615"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Usabilidade, Aval. de Comunicabilidade,Prototipação em papel" 
+				},
+				"Score (points)": "626", 
+				"Current Total Score (points)": "626", 
+				"Answer time (seconds)": "14.979"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q2": {
+			"Statement": "A etiqueta UÉ, O QUE HOUVE? serve para quando o usuário:", 
+			"Correct Answer": "Não percebe ou não compreende as respostas do sistema", 
+			"Players Correct": "0.666666666666667", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Não sabe o que fazer para concluir a tarefa"", 
+					"Losangle": ""Cometeu um equívoco,  percebe o engano rapidamente"", 
+					"Circle": ""Não percebe ou não compreende as respostas do sistema"", 
+					"Square": ""Não consegue expressar intenção com os signos na interface""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "1", 
+					"Circle": "12", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.3582", 
+					"Losangle": "6.009", 
+					"Circle": "12.0125833333333", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "635", 
+				"Current Total Score (points)": "1409", 
+				"Answer time (seconds)": "18.597"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "720", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "11.184"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "578", 
+				"Answer time (seconds)": "16.494"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "859", 
+				"Current Total Score (points)": "1660", 
+				"Answer time (seconds)": "9.625"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "640", 
+				"Current Total Score (points)": "1483", 
+				"Answer time (seconds)": "18.418"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "921", 
+				"Current Total Score (points)": "1635", 
+				"Answer time (seconds)": "7.163"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "945", 
+				"Current Total Score (points)": "1598", 
+				"Answer time (seconds)": "6.197"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "736", 
+				"Current Total Score (points)": "736", 
+				"Answer time (seconds)": "10.558"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "632", 
+				"Answer time (seconds)": "14.724"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "3.295"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "726", 
+				"Answer time (seconds)": "15.921"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.009"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "609", 
+				"Current Total Score (points)": "1369", 
+				"Answer time (seconds)": "19.628"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "758", 
+				"Current Total Score (points)": "1541", 
+				"Answer time (seconds)": "13.665"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "832", 
+				"Current Total Score (points)": "1481", 
+				"Answer time (seconds)": "10.734"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "745", 
+				"Current Total Score (points)": "745", 
+				"Answer time (seconds)": "10.207"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.357"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "896", 
+				"Current Total Score (points)": "1522", 
+				"Answer time (seconds)": "8.175"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q3": {
+			"Statement": "O teste de usabilidade avalia a usabilidade a partir de:", 
+			"Correct Answer": "Observações de experiências de uso", 
+			"Players Correct": "0.789473684210526", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Inspeção Semiótica"", 
+					"Losangle": ""Inspeção da interface por meio de heurísticas"", 
+					"Circle": ""Percurso Cognitivo"", 
+					"Square": ""Observações de experiências de uso""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "4", 
+					"Circle": "0", 
+					"Square": "15"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "8.64475", 
+					"Circle": "0", 
+					"Square": "8.6494"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1077", 
+				"Current Total Score (points)": "2486", 
+				"Answer time (seconds)": "4.928"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção da interface por meio de heurísticas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "720", 
+				"Answer time (seconds)": "9.256"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção da interface por meio de heurísticas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "578", 
+				"Answer time (seconds)": "10.974"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1032", 
+				"Current Total Score (points)": "2692", 
+				"Answer time (seconds)": "6.74"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "857", 
+				"Current Total Score (points)": "2340", 
+				"Answer time (seconds)": "13.729"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1083", 
+				"Current Total Score (points)": "2718", 
+				"Answer time (seconds)": "4.666"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1036", 
+				"Current Total Score (points)": "2634", 
+				"Answer time (seconds)": "6.561"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "752", 
+				"Current Total Score (points)": "1507", 
+				"Answer time (seconds)": "9.934"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "737", 
+				"Current Total Score (points)": "1473", 
+				"Answer time (seconds)": "14.505"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção da interface por meio de heurísticas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "632", 
+				"Answer time (seconds)": "8.57"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "843", 
+				"Current Total Score (points)": "843", 
+				"Answer time (seconds)": "6.271"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "647", 
+				"Current Total Score (points)": "1373", 
+				"Answer time (seconds)": "14.113"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Inspeção da interface por meio de heurísticas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.779"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1032", 
+				"Current Total Score (points)": "2401", 
+				"Answer time (seconds)": "6.735"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1055", 
+				"Current Total Score (points)": "2596", 
+				"Answer time (seconds)": "5.789"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1012", 
+				"Current Total Score (points)": "2493", 
+				"Answer time (seconds)": "7.536"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "859", 
+				"Current Total Score (points)": "1604", 
+				"Answer time (seconds)": "9.653"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "676", 
+				"Current Total Score (points)": "676", 
+				"Answer time (seconds)": "12.978"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Observações de experiências de uso" 
+				},
+				"Score (points)": "1060", 
+				"Current Total Score (points)": "2582", 
+				"Answer time (seconds)": "5.603"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q4": {
+			"Statement": "A etiqueta EPA! serve para quando o usuário:", 
+			"Correct Answer": "Cometeu um equívoco,  percebe o engano rapidamente", 
+			"Players Correct": "0.736842105263158", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Não sabe o que fazer para concluir a tarefa"", 
+					"Losangle": ""Cometeu um equívoco,  percebe o engano rapidamente"", 
+					"Circle": ""Não percebe ou não compreende as respostas do sistema"", 
+					"Square": ""Não consegue expressar intenção com os signos na interface""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "14", 
+					"Circle": "0", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.07325", 
+					"Losangle": "6.21035714285714", 
+					"Circle": "0", 
+					"Square": "1.277"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "857", 
+				"Current Total Score (points)": "3343", 
+				"Answer time (seconds)": "17.71"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "917", 
+				"Current Total Score (points)": "1637", 
+				"Answer time (seconds)": "3.337"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "1441", 
+				"Answer time (seconds)": "5.483"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1221", 
+				"Current Total Score (points)": "3913", 
+				"Answer time (seconds)": "3.159"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1185", 
+				"Current Total Score (points)": "3525", 
+				"Answer time (seconds)": "4.586"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1208", 
+				"Current Total Score (points)": "3926", 
+				"Answer time (seconds)": "3.671"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2634", 
+				"Answer time (seconds)": "1.277"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "999", 
+				"Current Total Score (points)": "2506", 
+				"Answer time (seconds)": "4.043"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1130", 
+				"Current Total Score (points)": "2603", 
+				"Answer time (seconds)": "2.805"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "925", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "2.984"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "843", 
+				"Answer time (seconds)": "5.75"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "920", 
+				"Current Total Score (points)": "2293", 
+				"Answer time (seconds)": "7.216"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "2.021"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "999", 
+				"Current Total Score (points)": "3400", 
+				"Answer time (seconds)": "12.031"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2596", 
+				"Answer time (seconds)": "10.114"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "1226", 
+				"Current Total Score (points)": "3719", 
+				"Answer time (seconds)": "2.978"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "952", 
+				"Current Total Score (points)": "2556", 
+				"Answer time (seconds)": "9.94"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "925", 
+				"Current Total Score (points)": "1601", 
+				"Answer time (seconds)": "7.002"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2582", 
+				"Answer time (seconds)": "10.408"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q5": {
+			"Statement": "A Inspeção semiótica avalia qualidade da:", 
+			"Correct Answer": "Emissão da metacomunicação do designer", 
+			"Players Correct": "0.105263157894737", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Emissão da metacomunicação do designer"", 
+					"Losangle": ""Recepção da metacomunicação do designer"", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "17", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "6.8355", 
+					"Losangle": "10.1720588235294", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3343", 
+				"Answer time (seconds)": "19.347"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1637", 
+				"Answer time (seconds)": "2.137"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1441", 
+				"Answer time (seconds)": "13.888"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3913", 
+				"Answer time (seconds)": "3.821"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3525", 
+				"Answer time (seconds)": "18.381"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3926", 
+				"Answer time (seconds)": "7.559"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2634", 
+				"Answer time (seconds)": "4.126"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2506", 
+				"Answer time (seconds)": "9.789"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2603", 
+				"Answer time (seconds)": "19.947"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "4.375"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "843", 
+				"Answer time (seconds)": "9.028"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "1004", 
+				"Current Total Score (points)": "3297", 
+				"Answer time (seconds)": "7.825"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "854", 
+				"Current Total Score (points)": "854", 
+				"Answer time (seconds)": "5.846"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3400", 
+				"Answer time (seconds)": "17.237"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2596", 
+				"Answer time (seconds)": "3.18"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3719", 
+				"Answer time (seconds)": "5.015"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2556", 
+				"Answer time (seconds)": "15.748"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1601", 
+				"Answer time (seconds)": "14.597"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2582", 
+				"Answer time (seconds)": "4.75"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q6": {
+			"Statement": "A etiqueta CADÊ? serve para quando o usuário:", 
+			"Correct Answer": "Não consegue expressar intenção com os signos na interface", 
+			"Players Correct": "0.444444444444444", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Não sabe o que fazer para concluir a tarefa"", 
+					"Losangle": ""Cometeu um equívoco,  percebe o engano rapidamente"", 
+					"Circle": ""Não percebe ou não compreende as respostas do sistema"", 
+					"Square": ""Não consegue expressar intenção com os signos na interface""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "0", 
+					"Circle": "2", 
+					"Square": "8"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.6045", 
+					"Losangle": "0", 
+					"Circle": "4.1015", 
+					"Square": "8.295"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "836", 
+				"Current Total Score (points)": "4179", 
+				"Answer time (seconds)": "6.562"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "2502", 
+				"Answer time (seconds)": "5.382"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1441", 
+				"Answer time (seconds)": "4.614"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3913", 
+				"Answer time (seconds)": "4.192"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3525", 
+				"Answer time (seconds)": "17.681"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3926", 
+				"Answer time (seconds)": "4.187"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2634", 
+				"Answer time (seconds)": "6.558"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "948", 
+				"Current Total Score (points)": "3454", 
+				"Answer time (seconds)": "2.084"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2603", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "6.553"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "843", 
+				"Answer time (seconds)": "6.378"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "926", 
+				"Current Total Score (points)": "4223", 
+				"Answer time (seconds)": "14.949"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "854", 
+				"Answer time (seconds)": "9.205"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "761", 
+				"Current Total Score (points)": "4161", 
+				"Answer time (seconds)": "9.554"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "766", 
+				"Current Total Score (points)": "3362", 
+				"Answer time (seconds)": "9.379"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "756", 
+				"Current Total Score (points)": "4475", 
+				"Answer time (seconds)": "9.778"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não consegue expressar intenção com os signos na interface" 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "3339", 
+				"Answer time (seconds)": "8.672"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não percebe ou não compreende as respostas do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1601", 
+				"Answer time (seconds)": "4.011"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2582", 
+				"Answer time (seconds)": "5.66"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q7": {
+			"Statement": "A Avaliação da Comunicabilidade avalia qualidade da:", 
+			"Correct Answer": "Recepção da metacomunicação do designer", 
+			"Players Correct": "0.526315789473684", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Recepção da metacomunicação do designer"", 
+					"Losangle": ""Emissão da metacomunicação do designer"", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "10", 
+					"Losangle": "9", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "5.8407", 
+					"Losangle": "4.23977777777778", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "795", 
+				"Current Total Score (points)": "4974", 
+				"Answer time (seconds)": "12.187"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "1053", 
+				"Current Total Score (points)": "3555", 
+				"Answer time (seconds)": "1.866"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1441", 
+				"Answer time (seconds)": "2.545"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "897", 
+				"Current Total Score (points)": "4810", 
+				"Answer time (seconds)": "4.128"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "820", 
+				"Current Total Score (points)": "4345", 
+				"Answer time (seconds)": "7.189"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3926", 
+				"Answer time (seconds)": "5.327"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "922", 
+				"Current Total Score (points)": "3556", 
+				"Answer time (seconds)": "3.115"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3454", 
+				"Answer time (seconds)": "1.69"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "909", 
+				"Current Total Score (points)": "3512", 
+				"Answer time (seconds)": "3.629"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "3.633"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "880", 
+				"Current Total Score (points)": "1723", 
+				"Answer time (seconds)": "4.79"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4223", 
+				"Answer time (seconds)": "12.001"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "854", 
+				"Answer time (seconds)": "3.454"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "1031", 
+				"Current Total Score (points)": "5192", 
+				"Answer time (seconds)": "2.756"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3362", 
+				"Answer time (seconds)": "3.639"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4475", 
+				"Answer time (seconds)": "2.94"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "833", 
+				"Current Total Score (points)": "4172", 
+				"Answer time (seconds)": "10.662"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Recepção da metacomunicação do designer" 
+				},
+				"Score (points)": "798", 
+				"Current Total Score (points)": "2399", 
+				"Answer time (seconds)": "8.085"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Emissão da metacomunicação do designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2582", 
+				"Answer time (seconds)": "2.929"
+			}
+		]
+	}
+},
+"Question 8": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q8": {
+			"Statement": "Para interpretação da avaliação de comunicabilidade, etiqueta-se os vídeos de interação para:", 
+			"Correct Answer": "Identificar rupturas de comunicação", 
+			"Players Correct": "0.421052631578947", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Identificar a metamensagem"", 
+					"Losangle": ""Identificar sucessos na comunicação"", 
+					"Circle": ""Identificar rupturas de comunicação"", 
+					"Square": ""Identificar necessidades dos usuários""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "5", 
+					"Circle": "8", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.473", 
+					"Losangle": "13.348", 
+					"Circle": "10.025125", 
+					"Square": "14.9393333333333"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4974", 
+				"Answer time (seconds)": "17.554"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "1089", 
+				"Current Total Score (points)": "4644", 
+				"Answer time (seconds)": "4.431"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1441", 
+				"Answer time (seconds)": "13.332"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4810", 
+				"Answer time (seconds)": "8.614"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "5205", 
+				"Answer time (seconds)": "9.605"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "794", 
+				"Current Total Score (points)": "4720", 
+				"Answer time (seconds)": "8.248"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3556", 
+				"Answer time (seconds)": "8.789"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "766", 
+				"Current Total Score (points)": "4220", 
+				"Answer time (seconds)": "9.356"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3512", 
+				"Answer time (seconds)": "18.329"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "16.032"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "902", 
+				"Current Total Score (points)": "2625", 
+				"Answer time (seconds)": "7.936"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "688", 
+				"Current Total Score (points)": "4911", 
+				"Answer time (seconds)": "12.489"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "854", 
+				"Answer time (seconds)": "9.907"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "707", 
+				"Current Total Score (points)": "5899", 
+				"Answer time (seconds)": "19.712"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3362", 
+				"Answer time (seconds)": "8.963"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar a metamensagem" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4475", 
+				"Answer time (seconds)": "16.842"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar rupturas de comunicação" 
+				},
+				"Score (points)": "989", 
+				"Current Total Score (points)": "5161", 
+				"Answer time (seconds)": "8.424"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar sucessos na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2399", 
+				"Answer time (seconds)": "14.458"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2582", 
+				"Answer time (seconds)": "13.157"
+			}
+		]
+	}
+},
+"Question 9": {
+	"Métodos de Avaliação de IHC - Parte II": {
+		"Q9": {
+			"Statement": "A etiqueta E AGORA? serve para quando o usuário:", 
+			"Correct Answer": "Não sabe o que fazer para concluir a tarefa", 
+			"Players Correct": "0.947368421052632", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Não sabe o que fazer para concluir a tarefa"", 
+					"Losangle": ""Cometeu um equívoco,  percebe o engano rapidamente"", 
+					"Circle": ""Não percebe ou não compreende as respostas do sistema"", 
+					"Square": ""Não consegue expressar intenção com os signos na interface""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "18", 
+					"Losangle": "1", 
+					"Circle": "0", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "4.16211111111111", 
+					"Losangle": "8.711", 
+					"Circle": "0", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "932", 
+				"Current Total Score (points)": "5906", 
+				"Answer time (seconds)": "2.708"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "1248", 
+				"Current Total Score (points)": "5892", 
+				"Answer time (seconds)": "2.09"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "937", 
+				"Current Total Score (points)": "2378", 
+				"Answer time (seconds)": "2.531"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "901", 
+				"Current Total Score (points)": "5711", 
+				"Answer time (seconds)": "3.965"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "993", 
+				"Current Total Score (points)": "6198", 
+				"Answer time (seconds)": "8.266"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "1010", 
+				"Current Total Score (points)": "5730", 
+				"Answer time (seconds)": "3.619"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "915", 
+				"Current Total Score (points)": "4471", 
+				"Answer time (seconds)": "3.382"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "1043", 
+				"Current Total Score (points)": "5263", 
+				"Answer time (seconds)": "2.264"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "928", 
+				"Current Total Score (points)": "4440", 
+				"Answer time (seconds)": "2.881"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Cometeu um equívoco,  percebe o engano rapidamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "8.711"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "1078", 
+				"Current Total Score (points)": "3703", 
+				"Answer time (seconds)": "4.891"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "949", 
+				"Current Total Score (points)": "5860", 
+				"Answer time (seconds)": "6.039"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "787", 
+				"Current Total Score (points)": "1641", 
+				"Answer time (seconds)": "8.509"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "1195", 
+				"Current Total Score (points)": "7094", 
+				"Answer time (seconds)": "4.197"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "943", 
+				"Current Total Score (points)": "4305", 
+				"Answer time (seconds)": "2.268"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "958", 
+				"Current Total Score (points)": "5433", 
+				"Answer time (seconds)": "1.698"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "1051", 
+				"Current Total Score (points)": "6212", 
+				"Answer time (seconds)": "9.942"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "953", 
+				"Current Total Score (points)": "3352", 
+				"Answer time (seconds)": "1.875"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não sabe o que fazer para concluir a tarefa" 
+				},
+				"Score (points)": "905", 
+				"Current Total Score (points)": "3487", 
+				"Answer time (seconds)": "3.793"
+			}
+		]
+	}
+}
+}

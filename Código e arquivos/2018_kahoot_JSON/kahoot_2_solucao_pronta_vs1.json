@@ -1,0 +1,1525 @@
+{"Overview": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"Played on": "1 Oct 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "16", 
+		"Played": "6 of 6"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.6875", 
+		"Total incorrect answers (%)": "0.3125", 
+		"Average score (points)": "3792.375"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"kahoot_2_solucao_pronta_vs1": 
+	[		{
+			"Rank": "1", 
+			"Player": "Bogotá", 
+			"Total Score": "5493", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Recife", 
+			"Total Score": "5490", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Madrid", 
+			"Total Score": "5288", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Praga", 
+			"Total Score": "4898", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Cape Town", 
+			"Total Score": "3785", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Berlim", 
+			"Total Score": "3762", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Estocolmo", 
+			"Total Score": "3716", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Bagdá", 
+			"Total Score": "3634", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Lisboa", 
+			"Total Score": "3583", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Tel-aviv", 
+			"Total Score": "3530", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Helsink", 
+			"Total Score": "3271", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Sidney", 
+			"Total Score": "3103", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Tóquio", 
+			"Total Score": "3071", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Dubai", 
+			"Total Score": "2870", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		}
+	]
+},
+"Kahoot! Summary": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"Kahoot! Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Bogotá", 
+				"Total Score": "5493", 
+				"Q1": {
+						"Score": "893", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "988", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1155", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "1197", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "1260", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Recife", 
+				"Total Score": "5490", 
+				"Q1": {
+						"Score": "942", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "933", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1158", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "1217", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "1240", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Madrid", 
+				"Total Score": "5288", 
+				"Q1": {
+						"Score": "932", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "1053", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1163", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "1115", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "1025", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Praga", 
+				"Total Score": "4898", 
+				"Q1": {
+						"Score": "835", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "1060", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1145", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo que faz sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "850", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Cape Town", 
+				"Total Score": "3785", 
+				"Q1": {
+						"Score": "915", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "952", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "958", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "960", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Berlim", 
+				"Total Score": "3762", 
+				"Q1": {
+						"Score": "832", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "917", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "968", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "1045", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Estocolmo", 
+				"Total Score": "3716", 
+				"Q1": {
+						"Score": "783", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "893", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1155", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo que faz sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "885", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Bagdá", 
+				"Total Score": "3634", 
+				"Q1": {
+						"Score": "903", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "655", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1143", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo que faz sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "933", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Lisboa", 
+				"Total Score": "3583", 
+				"Q1": {
+						"Score": "890", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "838", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1132", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo originado no mundo do usuário que sofre transformação"
+				}, 
+				"Q5": {
+						"Score": "723", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Tel-aviv", 
+				"Total Score": "3530", 
+				"Q1": {
+						"Score": "903", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "960", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "False"
+				}, 
+				"Q4": {
+						"Score": "662", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "1005", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Helsink", 
+				"Total Score": "3271", 
+				"Q1": {
+						"Score": "838", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "813", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "937", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo originado no mundo do usuário que sofre transformação"
+				}, 
+				"Q5": {
+						"Score": "683", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Sidney", 
+				"Total Score": "3103", 
+				"Q1": {
+						"Score": "907", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "1068", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1128", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo originado no mundo do usuário que sofre transformação"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": "impede que o usuário emita falas inválidas que cause ruptura de comunicação"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Tóquio", 
+				"Total Score": "3071", 
+				"Q1": {
+						"Score": "650", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "770", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "948", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo que faz sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "703", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Dubai", 
+				"Total Score": "2870", 
+				"Q1": {
+						"Score": "707", 
+						"Statement": "Objetivos finais são:", 
+						"Answer": "aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "832", 
+						"Statement": "O exemplo na imagem é um mapa de interação?", 
+						"Answer": "True"
+				}, 
+				"Q4": {
+						"Score": "613", 
+						"Statement": "O significado de signo de domínio é:", 
+						"Answer": "Signo Encontrado no mundo do usuário"
+				}, 
+				"Q5": {
+						"Score": "718", 
+						"Statement": "Na Prevenção Passiva o preposto do designer:", 
+						"Answer": " tenta evitar que haja uma ruptura de comunicação."
+				}
+			}
+		]
+	}
+},
+
+"1 Quiz": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"1 Quiz": {
+			"Statement": "Objetivos finais são:", 
+			"Correct Answer": "aqueles que levam o usuário a utilizar o sistema", 
+			"Players Correct": "1", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "utilizados como facilitadores ", 
+					"Losangle": "aqueles que levam o usuário a utilizar o sistema", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "16", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "9.5875", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "650", 
+				"Current Total Score (points)": "650", 
+				"Answer time (seconds)": "21"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "838", 
+				"Current Total Score (points)": "838", 
+				"Answer time (seconds)": "9.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "890", 
+				"Current Total Score (points)": "890", 
+				"Answer time (seconds)": "6.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "783", 
+				"Answer time (seconds)": "13"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "832", 
+				"Current Total Score (points)": "832", 
+				"Answer time (seconds)": "10.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "928", 
+				"Current Total Score (points)": "928", 
+				"Answer time (seconds)": "4.3"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "707", 
+				"Current Total Score (points)": "707", 
+				"Answer time (seconds)": "17.6"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "932", 
+				"Current Total Score (points)": "932", 
+				"Answer time (seconds)": "4.1"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "942", 
+				"Answer time (seconds)": "3.5"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "6.4"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "907", 
+				"Current Total Score (points)": "907", 
+				"Answer time (seconds)": "5.6"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "915", 
+				"Current Total Score (points)": "915", 
+				"Answer time (seconds)": "5.1"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "585", 
+				"Current Total Score (points)": "585", 
+				"Answer time (seconds)": "24.9"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "903", 
+				"Current Total Score (points)": "903", 
+				"Answer time (seconds)": "5.8"
+			}
+		]
+	}
+},
+"2 Quiz": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"2 Quiz": {
+			"Statement": "Objetivo instrumental indireto prepara o terreno para que o objetivo seja atingido no futuro", 
+			"Correct Answer": "True", 
+			"Players Correct": "0.75", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "12", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.65", 
+					"Losangle": "7.40833333333333", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "770", 
+				"Current Total Score (points)": "1420", 
+				"Answer time (seconds)": "13.2"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "813", 
+				"Current Total Score (points)": "1651", 
+				"Answer time (seconds)": "11.5"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "838", 
+				"Current Total Score (points)": "1728", 
+				"Answer time (seconds)": "10.5"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "1676", 
+				"Answer time (seconds)": "8.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "832", 
+				"Answer time (seconds)": "19.3"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "928", 
+				"Answer time (seconds)": "3.1"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "707", 
+				"Answer time (seconds)": "15.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1053", 
+				"Current Total Score (points)": "1985", 
+				"Answer time (seconds)": "1.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "933", 
+				"Current Total Score (points)": "1875", 
+				"Answer time (seconds)": "6.7"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "988", 
+				"Current Total Score (points)": "1881", 
+				"Answer time (seconds)": "4.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1068", 
+				"Current Total Score (points)": "1975", 
+				"Answer time (seconds)": "1.3"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "915", 
+				"Answer time (seconds)": "8.9"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "950", 
+				"Current Total Score (points)": "1535", 
+				"Answer time (seconds)": "6"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "655", 
+				"Current Total Score (points)": "1558", 
+				"Answer time (seconds)": "17.8"
+			}
+		]
+	}
+},
+"3 Quiz": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"3 Quiz": {
+			"Statement": "O exemplo na imagem é um mapa de interação?", 
+			"Correct Answer": "True", 
+			"Players Correct": "0.8125", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "13", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.1", 
+					"Losangle": "5.7", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "948", 
+				"Current Total Score (points)": "2368", 
+				"Answer time (seconds)": "15.1"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "937", 
+				"Current Total Score (points)": "2588", 
+				"Answer time (seconds)": "15.8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1132", 
+				"Current Total Score (points)": "2860", 
+				"Answer time (seconds)": "4.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1155", 
+				"Current Total Score (points)": "2831", 
+				"Answer time (seconds)": "2.7"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "917", 
+				"Current Total Score (points)": "1749", 
+				"Answer time (seconds)": "5"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "928", 
+				"Answer time (seconds)": "4.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "832", 
+				"Current Total Score (points)": "1539", 
+				"Answer time (seconds)": "10.1"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1163", 
+				"Current Total Score (points)": "3148", 
+				"Answer time (seconds)": "2.2"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1158", 
+				"Current Total Score (points)": "3033", 
+				"Answer time (seconds)": "2.5"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1155", 
+				"Current Total Score (points)": "3036", 
+				"Answer time (seconds)": "2.7"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1128", 
+				"Current Total Score (points)": "3103", 
+				"Answer time (seconds)": "4.3"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "952", 
+				"Current Total Score (points)": "1867", 
+				"Answer time (seconds)": "2.9"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1535", 
+				"Answer time (seconds)": "16.6"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1143", 
+				"Current Total Score (points)": "2701", 
+				"Answer time (seconds)": "3.4"
+			}
+		]
+	}
+},
+"4 Quiz": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"4 Quiz": {
+			"Statement": "O significado de signo de domínio é:", 
+			"Correct Answer": "Signo Encontrado no mundo do usuário", 
+			"Players Correct": "0.5", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Signo que faz sentido apenas dentro do sistema", 
+					"Losangle": "Signo originado no mundo do usuário que sofre transformação", 
+					"Circle": "Signo Encontrado no mundo do usuário", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "3", 
+					"Circle": "8", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "15", 
+					"Losangle": "12.2333333333333", 
+					"Circle": "14.2125", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo que faz sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2368", 
+				"Answer time (seconds)": "20.1"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signo originado no mundo do usuário que sofre transformação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2588", 
+				"Answer time (seconds)": "16.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signo originado no mundo do usuário que sofre transformação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2860", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signo que faz sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2831", 
+				"Answer time (seconds)": "23"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "968", 
+				"Current Total Score (points)": "2717", 
+				"Answer time (seconds)": "7.9"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "575", 
+				"Current Total Score (points)": "1503", 
+				"Answer time (seconds)": "25.5"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "613", 
+				"Current Total Score (points)": "2152", 
+				"Answer time (seconds)": "29.2"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "1115", 
+				"Current Total Score (points)": "4263", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "1217", 
+				"Current Total Score (points)": "4250", 
+				"Answer time (seconds)": "5"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "1197", 
+				"Current Total Score (points)": "4233", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signo originado no mundo do usuário que sofre transformação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3103", 
+				"Answer time (seconds)": "10.5"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signo Encontrado no mundo do usuário" 
+				},
+				"Score (points)": "958", 
+				"Current Total Score (points)": "2825", 
+				"Answer time (seconds)": "8.5"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signo que faz sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1535", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signo que faz sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2701", 
+				"Answer time (seconds)": "9.7"
+			}
+		]
+	}
+},
+"5 Quiz": {
+	"kahoot_2_solucao_pronta_vs1": {
+		"5 Quiz": {
+			"Statement": "Na Prevenção Passiva o preposto do designer:", 
+			"Correct Answer": " tenta evitar que haja uma ruptura de comunicação.", 
+			"Players Correct": "0.9375", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "impede que o usuário emita falas inválidas que cause ruptura de comunicação", 
+					"Losangle": " tenta evitar que haja uma ruptura de comunicação.", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "15", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.4", 
+					"Losangle": "9.54666666666667", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "703", 
+				"Current Total Score (points)": "3071", 
+				"Answer time (seconds)": "11.9"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "683", 
+				"Current Total Score (points)": "3271", 
+				"Answer time (seconds)": "12.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "3583", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "885", 
+				"Current Total Score (points)": "3716", 
+				"Answer time (seconds)": "4.6"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "1045", 
+				"Current Total Score (points)": "3762", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "2348", 
+				"Answer time (seconds)": "10.2"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "718", 
+				"Current Total Score (points)": "2870", 
+				"Answer time (seconds)": "19.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "1025", 
+				"Current Total Score (points)": "5288", 
+				"Answer time (seconds)": "15"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "1240", 
+				"Current Total Score (points)": "5490", 
+				"Answer time (seconds)": "6.4"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "1260", 
+				"Current Total Score (points)": "5493", 
+				"Answer time (seconds)": "5.6"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "impede que o usuário emita falas inválidas que cause ruptura de comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3103", 
+				"Answer time (seconds)": "12.4"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "960", 
+				"Current Total Score (points)": "3785", 
+				"Answer time (seconds)": "9.6"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "548", 
+				"Current Total Score (points)": "2083", 
+				"Answer time (seconds)": "18.1"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": " tenta evitar que haja uma ruptura de comunicação." 
+				},
+				"Score (points)": "933", 
+				"Current Total Score (points)": "3634", 
+				"Answer time (seconds)": "2.7"
+			}
+		]
+	}
+}
+}

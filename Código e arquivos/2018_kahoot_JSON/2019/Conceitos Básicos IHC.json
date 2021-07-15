@@ -1,0 +1,2077 @@
+{"Overview": {
+	"Conceitos Básicos IHC": {
+		"Played on": "2 Oct 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "20 players", 
+		"Played": "5 of 5 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.68478262424469", 
+		"Total incorrect answers (%)": "0.315217405557632", 
+		"Average score (points)": "2762.55004882813"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Conceitos Básicos IHC": 
+	[		{
+			"Rank": "1", 
+			"Player": "Gato", 
+			"Total Score": "5040", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Coelho", 
+			"Total Score": "4683", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Urubu", 
+			"Total Score": "3944", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Minhoca", 
+			"Total Score": "3870", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Peixe", 
+			"Total Score": "3756", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Hipopotamo", 
+			"Total Score": "3723", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Camaleão", 
+			"Total Score": "3427", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Escorpião", 
+			"Total Score": "3249", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Cachorro", 
+			"Total Score": "2862", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Bode", 
+			"Total Score": "2636", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Lagarto", 
+			"Total Score": "2631", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Jacaré", 
+			"Total Score": "2556", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Leão", 
+			"Total Score": "2464", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Cavalo", 
+			"Total Score": "2419", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Carneiro", 
+			"Total Score": "2383", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Mosca", 
+			"Total Score": "2090", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Galo", 
+			"Total Score": "2050", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "18", 
+			"Player": "Corvo", 
+			"Total Score": "1468", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "19", 
+			"Player": "Borboleta", 
+			"Total Score": "0", 
+			"Correct Answers": "0", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "20", 
+			"Player": "Zebra", 
+			"Total Score": "0", 
+			"Correct Answers": "0", 
+			"Incorrect Answers": "1"
+		}
+	]
+},
+"Question Summary": {
+	"Conceitos Básicos IHC": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Gato", 
+				"Total Score": "5040", 
+				"Q1": {
+						"Score": "795", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "877", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "1060", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1108", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "1200", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema, parceiro de discurso, mídia e ferramenta"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Coelho", 
+				"Total Score": "4683", 
+				"Q1": {
+						"Score": "615", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "836", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "1065", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1165", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "1002", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema, parceiro de discurso, mídia e ferramenta"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Urubu", 
+				"Total Score": "3944", 
+				"Q1": {
+						"Score": "790", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "902", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "1082", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1170", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Minhoca", 
+				"Total Score": "3870", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Não se preocupar com impactos negativos"
+				}, 
+				"Q2": {
+						"Score": "824", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "960", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1012", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "1074", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema, parceiro de discurso, mídia e ferramenta"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Peixe", 
+				"Total Score": "3756", 
+				"Q1": {
+						"Score": "761", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "836", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "1042", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1117", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Hipopotamo", 
+				"Total Score": "3723", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Projetar sistemas baseado apenas nos melhores usuários"
+				}, 
+				"Q2": {
+						"Score": "742", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "991", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1008", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "982", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema, parceiro de discurso, mídia e ferramenta"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Camaleão", 
+				"Total Score": "3427", 
+				"Q1": {
+						"Score": "535", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "779", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "1009", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1104", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como mídia e parceiro de discurso"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Escorpião", 
+				"Total Score": "3249", 
+				"Q1": {
+						"Score": "766", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "768", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "879", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "836", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Cachorro", 
+				"Total Score": "2862", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Esquecer salvaguardas para impactos negativos imprevistos"
+				}, 
+				"Q2": {
+						"Score": "863", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "982", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "1017", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Bode", 
+				"Total Score": "2636", 
+				"Q1": {
+						"Score": "782", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que apenas recebem entradas"
+				}, 
+				"Q3": {
+						"Score": "914", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "940", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Perspectiva de ferramenta"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Lagarto", 
+				"Total Score": "2631", 
+				"Q1": {
+						"Score": "747", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "810", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "1074", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de sequência de  respostas."
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Jacaré", 
+				"Total Score": "2556", 
+				"Q1": {
+						"Score": "857", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "882", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Utilizar Unity"
+				}, 
+				"Q4": {
+						"Score": "817", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Leão", 
+				"Total Score": "2464", 
+				"Q1": {
+						"Score": "805", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "837", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Utilizar Unity"
+				}, 
+				"Q4": {
+						"Score": "822", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Cavalo", 
+				"Total Score": "2419", 
+				"Q1": {
+						"Score": "790", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "794", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Utilizar Unity"
+				}, 
+				"Q4": {
+						"Score": "835", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema pode ser usado como ferramenta"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Carneiro", 
+				"Total Score": "2383", 
+				"Q1": {
+						"Score": "632", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "907", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Utilizar Unity"
+				}, 
+				"Q4": {
+						"Score": "844", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": ""
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Mosca", 
+				"Total Score": "2090", 
+				"Q1": {
+						"Score": "619", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que apenas exibem mensagens e saídas"
+				}, 
+				"Q3": {
+						"Score": "882", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de sequência de  respostas."
+				}, 
+				"Q5": {
+						"Score": "589", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Sistema, parceiro de discurso, mídia e ferramenta"
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Galo", 
+				"Total Score": "2050", 
+				"Q1": {
+						"Score": "551", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas"
+				}, 
+				"Q2": {
+						"Score": "715", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que respondem às ações de pessoas."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Preparar suas aulas"
+				}, 
+				"Q4": {
+						"Score": "784", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Perspectiva de ferramenta"
+				}
+			}, 
+			{
+				"Rank": "18", 
+				"Player": "Corvo", 
+				"Total Score": "1468", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "654", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Programar games"
+				}, 
+				"Q4": {
+						"Score": "814", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É um processo de comunicação com/por meio da máquina"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": ""
+				}
+			}, 
+			{
+				"Rank": "19", 
+				"Player": "Borboleta", 
+				"Total Score": "0", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Não se preocupar com impactos negativos"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": "Dispositivos e sistemas que apenas recebem entradas"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": "Utilizar Unity"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": "É o layout do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": "Perspectiva de ferramenta"
+				}
+			}, 
+			{
+				"Rank": "20", 
+				"Player": "Zebra", 
+				"Total Score": "0", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+						"Answer": "Projetar sistemas baseado apenas nos melhores usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+						"Answer": ""
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+						"Answer": ""
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+						"Answer": ""
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Conceitos Básicos IHC": {
+		"Q1": {
+			"Statement": "Responsabilidade do desenvolvedor de TICs. Marque alternativa:", 
+			"Correct Answer": "Estar ciente de que seu trabalho afeta a vida de pessoas", 
+			"Players Correct": "0.736842105263158", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Estar ciente de que seu trabalho afeta a vida de pessoas"", 
+					"Losangle": ""Não se preocupar com impactos negativos"", 
+					"Circle": ""Projetar sistemas baseado apenas nos melhores usuários"", 
+					"Square": ""Esquecer salvaguardas para impactos negativos imprevistos""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "14", 
+					"Losangle": "2", 
+					"Circle": "2", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.2978571428571", 
+					"Losangle": "14.6405", 
+					"Circle": "9.3155", 
+					"Square": "10.296"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "766", 
+				"Current Total Score (points)": "766", 
+				"Answer time (seconds)": "9.348"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "795", 
+				"Current Total Score (points)": "795", 
+				"Answer time (seconds)": "8.201"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não se preocupar com impactos negativos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.539"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Borboleta", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Não se preocupar com impactos negativos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.742"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "790", 
+				"Current Total Score (points)": "790", 
+				"Answer time (seconds)": "8.387"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "632", 
+				"Current Total Score (points)": "632", 
+				"Answer time (seconds)": "14.732"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "805", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "7.812"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Projetar sistemas baseado apenas nos melhores usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.737"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "615", 
+				"Current Total Score (points)": "615", 
+				"Answer time (seconds)": "15.405"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "782", 
+				"Current Total Score (points)": "782", 
+				"Answer time (seconds)": "8.708"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esquecer salvaguardas para impactos negativos imprevistos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.296"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "790", 
+				"Current Total Score (points)": "790", 
+				"Answer time (seconds)": "8.408"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "747", 
+				"Current Total Score (points)": "747", 
+				"Answer time (seconds)": "10.109"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "619", 
+				"Current Total Score (points)": "619", 
+				"Answer time (seconds)": "15.223"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "535", 
+				"Current Total Score (points)": "535", 
+				"Answer time (seconds)": "18.595"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "857", 
+				"Current Total Score (points)": "857", 
+				"Answer time (seconds)": "5.723"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "551", 
+				"Current Total Score (points)": "551", 
+				"Answer time (seconds)": "17.97"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Estar ciente de que seu trabalho afeta a vida de pessoas" 
+				},
+				"Score (points)": "761", 
+				"Current Total Score (points)": "761", 
+				"Answer time (seconds)": "9.549"
+			},
+			{
+				"Player": "20", 
+				"Alias": "Hipop贸tamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Projetar sistemas baseado apenas nos melhores usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8.894"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Conceitos Básicos IHC": {
+		"Q2": {
+			"Statement": "O que são sistemas interativos? Marque a melhor resposta", 
+			"Correct Answer": "Dispositivos e sistemas que respondem às ações de pessoas.", 
+			"Players Correct": "0.833333333333333", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Dispositivos e sistemas que respondem às ações de pessoas."", 
+					"Losangle": ""Dispositivo que interage com máquina"", 
+					"Circle": ""Dispositivos e sistemas que apenas exibem mensagens e saídas"", 
+					"Square": ""Dispositivos e sistemas que apenas recebem entradas""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "15", 
+					"Losangle": "0", 
+					"Circle": "1", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.2112666666667", 
+					"Losangle": "0", 
+					"Circle": "15.57", 
+					"Square": "7.503"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "768", 
+				"Current Total Score (points)": "1534", 
+				"Answer time (seconds)": "13.276"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "877", 
+				"Current Total Score (points)": "1672", 
+				"Answer time (seconds)": "8.926"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "824", 
+				"Current Total Score (points)": "824", 
+				"Answer time (seconds)": "7.03"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Borboleta", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dispositivos e sistemas que apenas recebem entradas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.689"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "902", 
+				"Current Total Score (points)": "1692", 
+				"Answer time (seconds)": "7.923"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "907", 
+				"Current Total Score (points)": "1539", 
+				"Answer time (seconds)": "7.724"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "837", 
+				"Current Total Score (points)": "1642", 
+				"Answer time (seconds)": "10.54"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "836", 
+				"Current Total Score (points)": "1451", 
+				"Answer time (seconds)": "10.55"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dispositivos e sistemas que apenas recebem entradas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "782", 
+				"Answer time (seconds)": "9.317"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "863", 
+				"Answer time (seconds)": "5.5"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "794", 
+				"Current Total Score (points)": "1584", 
+				"Answer time (seconds)": "12.252"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "810", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "11.596"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Dispositivos e sistemas que apenas exibem mensagens e saídas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "619", 
+				"Answer time (seconds)": "15.57"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "779", 
+				"Current Total Score (points)": "1314", 
+				"Answer time (seconds)": "12.86"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "882", 
+				"Current Total Score (points)": "1739", 
+				"Answer time (seconds)": "8.711"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "715", 
+				"Current Total Score (points)": "1266", 
+				"Answer time (seconds)": "15.391"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "836", 
+				"Current Total Score (points)": "1597", 
+				"Answer time (seconds)": "10.556"
+			},
+			{
+				"Player": "20", 
+				"Alias": "Hipop贸tamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Dispositivos e sistemas que respondem às ações de pessoas." 
+				},
+				"Score (points)": "742", 
+				"Current Total Score (points)": "742", 
+				"Answer time (seconds)": "10.334"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Conceitos Básicos IHC": {
+		"Q3": {
+			"Statement": "Ana, em seu PC, utiliza Unity para programar games. Qual o objetivo de Ana, neste contexto?", 
+			"Correct Answer": "Programar games", 
+			"Players Correct": "0.684210526315789", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Utilizar o PC"", 
+					"Losangle": ""Preparar suas aulas"", 
+					"Circle": ""Programar games"", 
+					"Square": ""Utilizar Unity""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "1", 
+					"Circle": "13", 
+					"Square": "5"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "12.371", 
+					"Circle": "6.48415384615385", 
+					"Square": "4.1736"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "879", 
+				"Current Total Score (points)": "2413", 
+				"Answer time (seconds)": "12.821"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "1060", 
+				"Current Total Score (points)": "2732", 
+				"Answer time (seconds)": "5.606"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "960", 
+				"Current Total Score (points)": "1784", 
+				"Answer time (seconds)": "5.612"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Borboleta", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Utilizar Unity" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4.382"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "1082", 
+				"Current Total Score (points)": "2774", 
+				"Answer time (seconds)": "4.71"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Utilizar Unity" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1539", 
+				"Answer time (seconds)": "3.443"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Utilizar Unity" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1642", 
+				"Answer time (seconds)": "5.791"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "1065", 
+				"Current Total Score (points)": "2516", 
+				"Answer time (seconds)": "5.42"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "654", 
+				"Current Total Score (points)": "654", 
+				"Answer time (seconds)": "13.834"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "914", 
+				"Current Total Score (points)": "1696", 
+				"Answer time (seconds)": "3.45"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "982", 
+				"Current Total Score (points)": "1845", 
+				"Answer time (seconds)": "4.735"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Utilizar Unity" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1584", 
+				"Answer time (seconds)": "3.992"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "1074", 
+				"Current Total Score (points)": "2631", 
+				"Answer time (seconds)": "5.051"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "882", 
+				"Current Total Score (points)": "1501", 
+				"Answer time (seconds)": "4.722"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "1009", 
+				"Current Total Score (points)": "2323", 
+				"Answer time (seconds)": "7.653"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Utilizar Unity" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1739", 
+				"Answer time (seconds)": "3.26"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preparar suas aulas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1266", 
+				"Answer time (seconds)": "12.371"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "1042", 
+				"Current Total Score (points)": "2639", 
+				"Answer time (seconds)": "6.311"
+			},
+			{
+				"Player": "20", 
+				"Alias": "Hipop贸tamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Programar games" 
+				},
+				"Score (points)": "991", 
+				"Current Total Score (points)": "1733", 
+				"Answer time (seconds)": "4.369"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Conceitos Básicos IHC": {
+		"Q4": {
+			"Statement": "Escolha a melhor alternativa para o significado de interação:", 
+			"Correct Answer": "É um processo de comunicação com/por meio da máquina", 
+			"Players Correct": "0.842105263157895", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""É um processo de sequência de  respostas."", 
+					"Losangle": ""É apenas a comunicação por linguagem natural"", 
+					"Circle": ""É um processo de comunicação com/por meio da máquina"", 
+					"Square": ""É o layout do sistema""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "0", 
+					"Circle": "16", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.5395", 
+					"Losangle": "0", 
+					"Circle": "8.0180625", 
+					"Square": "1.05"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "836", 
+				"Current Total Score (points)": "3249", 
+				"Answer time (seconds)": "18.545"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1108", 
+				"Current Total Score (points)": "3840", 
+				"Answer time (seconds)": "7.683"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1012", 
+				"Current Total Score (points)": "2796", 
+				"Answer time (seconds)": "7.507"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Borboleta", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "É o layout do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.05"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1170", 
+				"Current Total Score (points)": "3944", 
+				"Answer time (seconds)": "5.201"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "844", 
+				"Current Total Score (points)": "2383", 
+				"Answer time (seconds)": "6.227"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "822", 
+				"Current Total Score (points)": "2464", 
+				"Answer time (seconds)": "7.11"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1165", 
+				"Current Total Score (points)": "3681", 
+				"Answer time (seconds)": "5.415"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "814", 
+				"Current Total Score (points)": "1468", 
+				"Answer time (seconds)": "11.454"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "940", 
+				"Current Total Score (points)": "2636", 
+				"Answer time (seconds)": "6.412"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1017", 
+				"Current Total Score (points)": "2862", 
+				"Answer time (seconds)": "7.301"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "835", 
+				"Current Total Score (points)": "2419", 
+				"Answer time (seconds)": "6.596"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "É um processo de sequência de  respostas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2631", 
+				"Answer time (seconds)": "10.798"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "É um processo de sequência de  respostas." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1501", 
+				"Answer time (seconds)": "8.281"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1104", 
+				"Current Total Score (points)": "3427", 
+				"Answer time (seconds)": "7.86"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "817", 
+				"Current Total Score (points)": "2556", 
+				"Answer time (seconds)": "7.33"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "784", 
+				"Current Total Score (points)": "2050", 
+				"Answer time (seconds)": "8.637"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1117", 
+				"Current Total Score (points)": "3756", 
+				"Answer time (seconds)": "7.321"
+			},
+			{
+				"Player": "20", 
+				"Alias": "Hipop贸tamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É um processo de comunicação com/por meio da máquina" 
+				},
+				"Score (points)": "1008", 
+				"Current Total Score (points)": "2741", 
+				"Answer time (seconds)": "7.69"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Conceitos Básicos IHC": {
+		"Q5": {
+			"Statement": "Perspectivas de interação  descrevem formas de se interpretar a interação usuário-sistema. São:", 
+			"Correct Answer": "Sistema, parceiro de discurso, mídia e ferramenta", 
+			"Players Correct": "0.294117647058824", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Sistema pode ser usado como mídia e parceiro de discurso"", 
+					"Losangle": ""Sistema pode ser usado como ferramenta"", 
+					"Circle": ""Sistema, parceiro de discurso, mídia e ferramenta"", 
+					"Square": ""Perspectiva de ferramenta""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "8", 
+					"Circle": "5", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "17.241", 
+					"Losangle": "11.8695", 
+					"Circle": "12.4326", 
+					"Square": "10.2363333333333"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3249", 
+				"Answer time (seconds)": "18.143"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema, parceiro de discurso, mídia e ferramenta" 
+				},
+				"Score (points)": "1200", 
+				"Current Total Score (points)": "5040", 
+				"Answer time (seconds)": "8.015"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema, parceiro de discurso, mídia e ferramenta" 
+				},
+				"Score (points)": "1074", 
+				"Current Total Score (points)": "3870", 
+				"Answer time (seconds)": "9.044"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Borboleta", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva de ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.675"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3944", 
+				"Answer time (seconds)": "6.852"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2383", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2464", 
+				"Answer time (seconds)": "11.013"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema, parceiro de discurso, mídia e ferramenta" 
+				},
+				"Score (points)": "1002", 
+				"Current Total Score (points)": "4683", 
+				"Answer time (seconds)": "15.935"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1468", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva de ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2636", 
+				"Answer time (seconds)": "16.859"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2862", 
+				"Answer time (seconds)": "6.554"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2419", 
+				"Answer time (seconds)": "9.944"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2631", 
+				"Answer time (seconds)": "18.623"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema, parceiro de discurso, mídia e ferramenta" 
+				},
+				"Score (points)": "589", 
+				"Current Total Score (points)": "2090", 
+				"Answer time (seconds)": "16.448"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como mídia e parceiro de discurso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3427", 
+				"Answer time (seconds)": "17.241"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2556", 
+				"Answer time (seconds)": "5.859"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva de ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2050", 
+				"Answer time (seconds)": "12.175"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema pode ser usado como ferramenta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3756", 
+				"Answer time (seconds)": "17.968"
+			},
+			{
+				"Player": "20", 
+				"Alias": "Hipop贸tamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema, parceiro de discurso, mídia e ferramenta" 
+				},
+				"Score (points)": "982", 
+				"Current Total Score (points)": "3723", 
+				"Answer time (seconds)": "12.721"
+			}
+		]
+	}
+}
+}

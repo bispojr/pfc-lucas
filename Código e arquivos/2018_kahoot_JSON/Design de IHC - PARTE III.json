@@ -1,0 +1,1414 @@
+{"Overview": {
+	"Design de IHC - PARTE III": {
+		"Played on": "9 Oct 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "18", 
+		"Played": "5 of 5"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.588888883590698", 
+		"Total incorrect answers (%)": "0.411111116409302", 
+		"Average score (points)": "2678"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "7", 
+		"Did you learn something?": {
+			"Yes": "5", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "1", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Design de IHC - PARTE III": 
+	[		{
+			"Rank": "1", 
+			"Player": "Bagdá", 
+			"Total Score": "5519", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Madrid", 
+			"Total Score": "5278", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Tel-aviv", 
+			"Total Score": "5175", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Berlim", 
+			"Total Score": "4399", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Dubai", 
+			"Total Score": "4124", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Denver", 
+			"Total Score": "3889", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Tóquio", 
+			"Total Score": "3758", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Bogotá", 
+			"Total Score": "2843", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Estocolmo", 
+			"Total Score": "2693", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Helsink", 
+			"Total Score": "2345", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Pequim", 
+			"Total Score": "1755", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Toronto", 
+			"Total Score": "1508", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Recife", 
+			"Total Score": "1482", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Praga", 
+			"Total Score": "1422", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Sidney", 
+			"Total Score": "733", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Cape Town", 
+			"Total Score": "688", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "4"
+		}
+	]
+},
+"Kahoot! Summary": {
+	"Design de IHC - PARTE III": {
+		"Kahoot! Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Bagdá", 
+				"Total Score": "5519", 
+				"Q1": {
+						"Score": "798", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "1030", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "1138", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "1213", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Madrid", 
+				"Total Score": "5278", 
+				"Q1": {
+						"Score": "893", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "1042", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "893", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "1172", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Tel-aviv", 
+				"Total Score": "5175", 
+				"Q1": {
+						"Score": "763", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "1067", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "948", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "1125", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Berlim", 
+				"Total Score": "4399", 
+				"Q1": {
+						"Score": "633", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "933", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "820", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "1098", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Dubai", 
+				"Total Score": "4124", 
+				"Q1": {
+						"Score": "655", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "740", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "872", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "910", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Denver", 
+				"Total Score": "3889", 
+				"Q1": {
+						"Score": "792", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "912", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "1047", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "1138", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Tóquio", 
+				"Total Score": "3758", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q2": {
+						"Score": "950", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "1043", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "922", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Bogotá", 
+				"Total Score": "2843", 
+				"Q1": {
+						"Score": "675", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "1038", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "1130", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface direta até a indireta"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Estocolmo", 
+				"Total Score": "2693", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q2": {
+						"Score": "805", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "1028", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "860", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Helsink", 
+				"Total Score": "2345", 
+				"Q1": {
+						"Score": "885", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Por manipulação direta"
+				}, 
+				"Q4": {
+						"Score": "715", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Pequim", 
+				"Total Score": "1755", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}, 
+				"Q2": {
+						"Score": "892", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "863", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface de tarefas até a de objetivos"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Toronto", 
+				"Total Score": "1508", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}, 
+				"Q3": {
+						"Score": "758", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "750", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface abstrata até a interface concreta"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Recife", 
+				"Total Score": "1482", 
+				"Q1": {
+						"Score": "827", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}, 
+				"Q3": {
+						"Score": "655", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface direta até a indireta"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Praga", 
+				"Total Score": "1422", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}, 
+				"Q3": {
+						"Score": "667", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface de tarefas até a de objetivos"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Sidney", 
+				"Total Score": "733", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}, 
+				"Q2": {
+						"Score": "733", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Por manipulação direta"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface direta até a indireta"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Cape Town", 
+				"Total Score": "688", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q3": {
+						"Score": "688", 
+						"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+						"Answer": "Através de menus"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+						"Answer": "Da interface de tarefas até a de objetivos"
+				}
+			}
+		]
+	}
+},
+
+"1 Quiz": {
+	"Design de IHC - PARTE III": {
+		"1 Quiz": {
+			"Statement": "Em uma interação em linguagem natural o usuário:", 
+			"Correct Answer": "O usuário se expressa como uma conversa com uma outra pessoa", 
+			"Players Correct": "0.5", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Deve digitar os comandos que realizam as ações na aplicação", 
+					"Losangle": "Seleciona no menu a opção que lhe interessa", 
+					"Circle": "Preenche campos conforme solicitado pelo sistema", 
+					"Square": "O usuário se expressa como uma conversa com uma outra pessoa"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "5", 
+					"Circle": "1", 
+					"Square": "9"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "22.3666666666667", 
+					"Losangle": "21.12", 
+					"Circle": "24.2", 
+					"Square": "13.8555555555556"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "22.6"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "885", 
+				"Current Total Score (points)": "885", 
+				"Answer time (seconds)": "6.9"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "21.8"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "25.2"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "633", 
+				"Current Total Score (points)": "633", 
+				"Answer time (seconds)": "22"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "792", 
+				"Current Total Score (points)": "792", 
+				"Answer time (seconds)": "12.5"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "655", 
+				"Current Total Score (points)": "655", 
+				"Answer time (seconds)": "20.7"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "6.4"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "827", 
+				"Current Total Score (points)": "827", 
+				"Answer time (seconds)": "10.4"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "675", 
+				"Current Total Score (points)": "675", 
+				"Answer time (seconds)": "19.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "20.3"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.6"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preenche campos conforme solicitado pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "24.2"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "24.5"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "22.4"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "798", 
+				"Current Total Score (points)": "798", 
+				"Answer time (seconds)": "12.1"
+			}
+		]
+	}
+},
+"2 Quiz": {
+	"Design de IHC - PARTE III": {
+		"2 Quiz": {
+			"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+			"Correct Answer": "Deve digitar os comandos que realizam as ações na aplicação", 
+			"Players Correct": "0.666666666666667", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Deve digitar os comandos que realizam as ações na aplicação", 
+					"Losangle": "Seleciona no menu a opção que lhe interessa", 
+					"Circle": "O usuário se expressa como uma conversa com uma outra pessoa", 
+					"Square": "Preenche campos conforme solicitado pelo sistema"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "12", 
+					"Losangle": "1", 
+					"Circle": "2", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.825", 
+					"Losangle": "11.9", 
+					"Circle": "14.95", 
+					"Square": "19.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "950", 
+				"Current Total Score (points)": "950", 
+				"Answer time (seconds)": "3"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "885", 
+				"Answer time (seconds)": "11.9"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "805", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "11.7"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "933", 
+				"Current Total Score (points)": "1566", 
+				"Answer time (seconds)": "10"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "912", 
+				"Current Total Score (points)": "1704", 
+				"Answer time (seconds)": "11.3"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "740", 
+				"Current Total Score (points)": "1395", 
+				"Answer time (seconds)": "21.6"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "1042", 
+				"Current Total Score (points)": "1935", 
+				"Answer time (seconds)": "3.5"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preenche campos conforme solicitado pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "827", 
+				"Answer time (seconds)": "19.9"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "1038", 
+				"Current Total Score (points)": "1713", 
+				"Answer time (seconds)": "3.7"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "733", 
+				"Current Total Score (points)": "733", 
+				"Answer time (seconds)": "16"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "892", 
+				"Current Total Score (points)": "892", 
+				"Answer time (seconds)": "6.5"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.8"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preenche campos conforme solicitado pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "21"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "593", 
+				"Current Total Score (points)": "593", 
+				"Answer time (seconds)": "24.4"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "1030", 
+				"Current Total Score (points)": "1828", 
+				"Answer time (seconds)": "4.2"
+			}
+		]
+	}
+},
+"3 Quiz": {
+	"Design de IHC - PARTE III": {
+		"3 Quiz": {
+			"Statement": "Neste tipo de interação, o sistema oferece um conjunto de opções dentre as quais o usuário deve selecionar", 
+			"Correct Answer": "Através de menus", 
+			"Players Correct": "0.777777777777778", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Através de formulários", 
+					"Losangle": "Através de menus", 
+					"Circle": "Por manipulação direta", 
+					"Square": "Linguagem de comando"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "14", 
+					"Circle": "2", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "16.1", 
+					"Losangle": "13.4928571428571", 
+					"Circle": "19.55", 
+					"Square": "24.5"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "1043", 
+				"Current Total Score (points)": "1993", 
+				"Answer time (seconds)": "3.4"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Por manipulação direta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "885", 
+				"Answer time (seconds)": "14.8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Através de formulários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "1028", 
+				"Current Total Score (points)": "1833", 
+				"Answer time (seconds)": "4.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "820", 
+				"Current Total Score (points)": "2386", 
+				"Answer time (seconds)": "22.8"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "1047", 
+				"Current Total Score (points)": "2751", 
+				"Answer time (seconds)": "9.2"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "872", 
+				"Current Total Score (points)": "2267", 
+				"Answer time (seconds)": "19.7"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "2828", 
+				"Answer time (seconds)": "18.4"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "655", 
+				"Current Total Score (points)": "1482", 
+				"Answer time (seconds)": "20.7"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "1130", 
+				"Current Total Score (points)": "2843", 
+				"Answer time (seconds)": "4.2"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Por manipulação direta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "733", 
+				"Answer time (seconds)": "24.3"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "1755", 
+				"Answer time (seconds)": "14.2"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "688", 
+				"Current Total Score (points)": "688", 
+				"Answer time (seconds)": "18.7"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "758", 
+				"Current Total Score (points)": "758", 
+				"Answer time (seconds)": "14.5"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Linguagem de comando" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "593", 
+				"Answer time (seconds)": "24.5"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Através de menus" 
+				},
+				"Score (points)": "1138", 
+				"Current Total Score (points)": "2966", 
+				"Answer time (seconds)": "3.7"
+			}
+		]
+	}
+},
+"4 Quiz": {
+	"Design de IHC - PARTE III": {
+		"4 Quiz": {
+			"Statement": "Design da interface pode ser realizado em diferentes níveis de abstração", 
+			"Correct Answer": "Da interface abstrata até a interface concreta", 
+			"Players Correct": "0.555555555555556", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Da interface de tarefas até a de objetivos", 
+					"Losangle": "Da interface direta até a indireta", 
+					"Circle": "Da interface abstrata até a interface concreta", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "3", 
+					"Circle": "10", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "13.32", 
+					"Losangle": "14.1", 
+					"Circle": "14.38", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "922", 
+				"Current Total Score (points)": "2915", 
+				"Answer time (seconds)": "16.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "715", 
+				"Current Total Score (points)": "1600", 
+				"Answer time (seconds)": "17.1"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface de tarefas até a de objetivos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.8"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "2693", 
+				"Answer time (seconds)": "20.4"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "1098", 
+				"Current Total Score (points)": "3484", 
+				"Answer time (seconds)": "12.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "1138", 
+				"Current Total Score (points)": "3889", 
+				"Answer time (seconds)": "9.7"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "910", 
+				"Current Total Score (points)": "3177", 
+				"Answer time (seconds)": "23.4"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "1172", 
+				"Current Total Score (points)": "4000", 
+				"Answer time (seconds)": "7.7"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface direta até a indireta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1482", 
+				"Answer time (seconds)": "12.6"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface direta até a indireta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2843", 
+				"Answer time (seconds)": "6.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface direta até a indireta" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "733", 
+				"Answer time (seconds)": "23.2"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface de tarefas até a de objetivos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1755", 
+				"Answer time (seconds)": "12.2"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface de tarefas até a de objetivos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "688", 
+				"Answer time (seconds)": "12.4"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "750", 
+				"Current Total Score (points)": "1508", 
+				"Answer time (seconds)": "21"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Da interface de tarefas até a de objetivos" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "593", 
+				"Answer time (seconds)": "19.1"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Da interface abstrata até a interface concreta" 
+				},
+				"Score (points)": "1213", 
+				"Current Total Score (points)": "4179", 
+				"Answer time (seconds)": "5.2"
+			}
+		]
+	}
+}
+}

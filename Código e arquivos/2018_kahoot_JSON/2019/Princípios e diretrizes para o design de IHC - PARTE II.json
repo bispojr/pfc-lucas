@@ -1,0 +1,1338 @@
+{"Overview": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Played on": "29 Oct 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "17", 
+		"Played": "5 of 5"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.764705896377563", 
+		"Total incorrect answers (%)": "0.235294118523598", 
+		"Average score (points)": "3646.82348632813"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "4", 
+		"Did you learn something?": {
+			"Yes": "5", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "1", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Tóquio", 
+			"Total Score": "5578", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Madrid", 
+			"Total Score": "5238", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Tel-aviv", 
+			"Total Score": "5200", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Dubai", 
+			"Total Score": "4410", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Pequim", 
+			"Total Score": "4178", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Sidney", 
+			"Total Score": "4093", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Nova Iorque", 
+			"Total Score": "4072", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Recife", 
+			"Total Score": "3812", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Praga", 
+			"Total Score": "3682", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Lisboa", 
+			"Total Score": "3344", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Cape Town", 
+			"Total Score": "2815", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Estocolmo", 
+			"Total Score": "2805", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Helsink", 
+			"Total Score": "2763", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Denver", 
+			"Total Score": "2725", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Cairo", 
+			"Total Score": "2560", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		}
+	]
+},
+"Question Summary": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Tóquio", 
+				"Total Score": "5578", 
+				"Q1": {
+						"Score": "860", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1075", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1063", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1270", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Madrid", 
+				"Total Score": "5238", 
+				"Q1": {
+						"Score": "628", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1003", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1115", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1255", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Tel-aviv", 
+				"Total Score": "5200", 
+				"Q1": {
+						"Score": "715", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1028", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1130", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1267", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Dubai", 
+				"Total Score": "4410", 
+				"Q1": {
+						"Score": "587", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "888", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "803", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1092", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Pequim", 
+				"Total Score": "4178", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q2": {
+						"Score": "868", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1025", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1117", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Sidney", 
+				"Total Score": "4093", 
+				"Q1": {
+						"Score": "908", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1048", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1052", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1085", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Nova Iorque", 
+				"Total Score": "4072", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q2": {
+						"Score": "702", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1053", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1177", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Recife", 
+				"Total Score": "3812", 
+				"Q1": {
+						"Score": "745", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q3": {
+						"Score": "887", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1052", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Praga", 
+				"Total Score": "3682", 
+				"Q1": {
+						"Score": "793", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q3": {
+						"Score": "807", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1035", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Lisboa", 
+				"Total Score": "3344", 
+				"Q1": {
+						"Score": "735", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "735", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q4": {
+						"Score": "962", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Cape Town", 
+				"Total Score": "2815", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q2": {
+						"Score": "783", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "877", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1155", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Estocolmo", 
+				"Total Score": "2805", 
+				"Q1": {
+						"Score": "845", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1040", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q4": {
+						"Score": "920", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Helsink", 
+				"Total Score": "2763", 
+				"Q1": {
+						"Score": "897", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "933", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "933", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Denver", 
+				"Total Score": "2725", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q2": {
+						"Score": "845", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "753", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1127", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Cairo", 
+				"Total Score": "2560", 
+				"Q1": {
+						"Score": "660", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q3": {
+						"Score": "837", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1063", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"1 Quiz": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+			"Correct Answer": "Quantidade de informação comunicada - "menos é mais"", 
+			"Players Correct": "0.705882352941177", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Qualidade  da informação comunicada - não devemos mentir", 
+					"Losangle": "Quantidade de informação comunicada - "menos é mais"", 
+					"Circle": "Tudo que for dito tem relação clara com tópicos da conversa", 
+					"Square": "Evite prolixidade e ambiguidade. Ordene a conversa"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "12", 
+					"Circle": "2", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "15", 
+					"Circle": "21.45", 
+					"Square": "16.2666666666667"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "860", 
+				"Answer time (seconds)": "8.4"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "897", 
+				"Current Total Score (points)": "897", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "845", 
+				"Answer time (seconds)": "9.3"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "23"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.4"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "587", 
+				"Current Total Score (points)": "587", 
+				"Answer time (seconds)": "24.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "628", 
+				"Current Total Score (points)": "628", 
+				"Answer time (seconds)": "22.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "745", 
+				"Current Total Score (points)": "745", 
+				"Answer time (seconds)": "15.3"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "908", 
+				"Current Total Score (points)": "908", 
+				"Answer time (seconds)": "5.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.6"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "21.8"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "627", 
+				"Current Total Score (points)": "627", 
+				"Answer time (seconds)": "22.4"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "660", 
+				"Current Total Score (points)": "660", 
+				"Answer time (seconds)": "20.4"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "715", 
+				"Current Total Score (points)": "715", 
+				"Answer time (seconds)": "17.1"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"2 Quiz": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+			"Correct Answer": "Qualidade  da informação comunicada - não devemos mentir", 
+			"Players Correct": "0.764705882352941", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Qualidade  da informação comunicada - não devemos mentir", 
+					"Losangle": "Quantidade de informação comunicada - "menos é mais"", 
+					"Circle": "Tudo que for dito tem relação clara com tópicos da conversa", 
+					"Square": "Evite prolixidade e ambiguidade. Ordene a conversa"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "12", 
+					"Losangle": "2", 
+					"Circle": "2", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.25833333333333", 
+					"Losangle": "16.05", 
+					"Circle": "17.55", 
+					"Square": "21.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1075", 
+				"Current Total Score (points)": "1935", 
+				"Answer time (seconds)": "1.5"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "933", 
+				"Current Total Score (points)": "1830", 
+				"Answer time (seconds)": "10"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1040", 
+				"Current Total Score (points)": "1885", 
+				"Answer time (seconds)": "3.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "633", 
+				"Current Total Score (points)": "633", 
+				"Answer time (seconds)": "22"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "845", 
+				"Answer time (seconds)": "9.3"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "888", 
+				"Current Total Score (points)": "1475", 
+				"Answer time (seconds)": "12.7"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1003", 
+				"Current Total Score (points)": "1631", 
+				"Answer time (seconds)": "5.8"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "702", 
+				"Current Total Score (points)": "702", 
+				"Answer time (seconds)": "17.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "745", 
+				"Answer time (seconds)": "21.4"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1048", 
+				"Current Total Score (points)": "1956", 
+				"Answer time (seconds)": "3.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "868", 
+				"Current Total Score (points)": "868", 
+				"Answer time (seconds)": "7.9"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "783", 
+				"Answer time (seconds)": "13"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "627", 
+				"Answer time (seconds)": "14.2"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "660", 
+				"Answer time (seconds)": "16.2"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1028", 
+				"Current Total Score (points)": "1743", 
+				"Answer time (seconds)": "4.3"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"3 Quiz": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+			"Correct Answer": "Tudo que for dito tem relação clara com tópicos da conversa", 
+			"Players Correct": "0.823529411764706", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Qualidade  da informação comunicada - não devemos mentir", 
+					"Losangle": "Quantidade de informação comunicada - "menos é mais"", 
+					"Circle": "Tudo que for dito tem relação clara com tópicos da conversa", 
+					"Square": "Evite prolixidade e ambiguidade. Ordene a conversa"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "0", 
+					"Circle": "13", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10", 
+					"Losangle": "0", 
+					"Circle": "10.6615384615385", 
+					"Square": "11.9333333333333"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1063", 
+				"Current Total Score (points)": "2998", 
+				"Answer time (seconds)": "8.2"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "933", 
+				"Current Total Score (points)": "2763", 
+				"Answer time (seconds)": "10"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1885", 
+				"Answer time (seconds)": "3.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "788", 
+				"Current Total Score (points)": "1421", 
+				"Answer time (seconds)": "18.7"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "753", 
+				"Current Total Score (points)": "1598", 
+				"Answer time (seconds)": "20.8"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "803", 
+				"Current Total Score (points)": "2278", 
+				"Answer time (seconds)": "23.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1115", 
+				"Current Total Score (points)": "2746", 
+				"Answer time (seconds)": "5.1"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1053", 
+				"Current Total Score (points)": "1755", 
+				"Answer time (seconds)": "2.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "887", 
+				"Current Total Score (points)": "1632", 
+				"Answer time (seconds)": "6.8"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1052", 
+				"Current Total Score (points)": "3008", 
+				"Answer time (seconds)": "8.9"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1025", 
+				"Current Total Score (points)": "1893", 
+				"Answer time (seconds)": "4.5"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "877", 
+				"Current Total Score (points)": "1660", 
+				"Answer time (seconds)": "13.4"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "627", 
+				"Answer time (seconds)": "12.7"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "837", 
+				"Current Total Score (points)": "1497", 
+				"Answer time (seconds)": "9.8"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1130", 
+				"Current Total Score (points)": "2873", 
+				"Answer time (seconds)": "4.2"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"4 Quiz": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+			"Correct Answer": "Evite prolixidade e ambiguidade. Ordene a conversa", 
+			"Players Correct": "0.941176470588235", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Qualidade  da informação comunicada - não devemos mentir", 
+					"Losangle": "Quantidade de informação comunicada - "menos é mais"", 
+					"Circle": "Tudo que for dito tem relação clara com tópicos da conversa", 
+					"Square": "Evite prolixidade e ambiguidade. Ordene a conversa"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "0", 
+					"Circle": "1", 
+					"Square": "16"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "0", 
+					"Circle": "14.3", 
+					"Square": "4.475"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1270", 
+				"Current Total Score (points)": "4268", 
+				"Answer time (seconds)": "1.8"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2763", 
+				"Answer time (seconds)": "14.3"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "920", 
+				"Current Total Score (points)": "2805", 
+				"Answer time (seconds)": "4.8"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1073", 
+				"Current Total Score (points)": "2494", 
+				"Answer time (seconds)": "7.6"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1127", 
+				"Current Total Score (points)": "2725", 
+				"Answer time (seconds)": "4.4"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1092", 
+				"Current Total Score (points)": "3370", 
+				"Answer time (seconds)": "12.5"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1255", 
+				"Current Total Score (points)": "4001", 
+				"Answer time (seconds)": "2.7"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1177", 
+				"Current Total Score (points)": "2932", 
+				"Answer time (seconds)": "1.4"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1052", 
+				"Current Total Score (points)": "2684", 
+				"Answer time (seconds)": "2.9"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1085", 
+				"Current Total Score (points)": "4093", 
+				"Answer time (seconds)": "12.9"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1117", 
+				"Current Total Score (points)": "3010", 
+				"Answer time (seconds)": "5"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1155", 
+				"Current Total Score (points)": "2815", 
+				"Answer time (seconds)": "2.7"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "958", 
+				"Current Total Score (points)": "1585", 
+				"Answer time (seconds)": "2.5"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1063", 
+				"Current Total Score (points)": "2560", 
+				"Answer time (seconds)": "2.2"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1267", 
+				"Current Total Score (points)": "4140", 
+				"Answer time (seconds)": "2"
+			}
+		]
+	}
+}
+}

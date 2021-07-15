@@ -1,0 +1,1801 @@
+{"Overview": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Played on": "26 Oct 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "17 players", 
+		"Played": "5 of 5 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.771084308624268", 
+		"Total incorrect answers (%)": "0.22891566157341", 
+		"Average score (points)": "3571.470703125"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "1"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Hipopótamo", 
+			"Total Score": "5620", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Escorpião", 
+			"Total Score": "5610", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Coelho", 
+			"Total Score": "5343", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Cachorro", 
+			"Total Score": "5177", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Peixe", 
+			"Total Score": "5057", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Zebra", 
+			"Total Score": "3774", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Camaleão", 
+			"Total Score": "3763", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Mosca", 
+			"Total Score": "3618", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Minhoca", 
+			"Total Score": "3545", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Boi", 
+			"Total Score": "3143", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Leão", 
+			"Total Score": "2738", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Corvo", 
+			"Total Score": "2651", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Cavalo", 
+			"Total Score": "2583", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Lebre", 
+			"Total Score": "2559", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Jacaré", 
+			"Total Score": "1976", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Formiga", 
+			"Total Score": "1964", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Desconhecido", 
+			"Total Score": "1594", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		}
+	]
+},
+"Question Summary": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Hipopótamo", 
+				"Total Score": "5620", 
+				"Q1": {
+						"Score": "902", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1052", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1097", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1261", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1308", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Escorpião", 
+				"Total Score": "5610", 
+				"Q1": {
+						"Score": "882", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "1042", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1088", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1257", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1341", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Coelho", 
+				"Total Score": "5343", 
+				"Q1": {
+						"Score": "722", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "981", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1055", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1250", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1335", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Cachorro", 
+				"Total Score": "5177", 
+				"Q1": {
+						"Score": "718", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "862", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "1050", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1274", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1273", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Peixe", 
+				"Total Score": "5057", 
+				"Q1": {
+						"Score": "755", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "823", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "969", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1229", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1281", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Zebra", 
+				"Total Score": "3774", 
+				"Q1": {
+						"Score": "727", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q3": {
+						"Score": "863", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1082", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1102", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Camaleão", 
+				"Total Score": "3763", 
+				"Q1": {
+						"Score": "750", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q3": {
+						"Score": "829", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1020", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1164", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Mosca", 
+				"Total Score": "3618", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q2": {
+						"Score": "668", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "946", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1125", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "879", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Minhoca", 
+				"Total Score": "3545", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q2": {
+						"Score": "527", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "780", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1044", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1194", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Boi", 
+				"Total Score": "3143", 
+				"Q1": {
+						"Score": "676", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q3": {
+						"Score": "533", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1036", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "898", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Leão", 
+				"Total Score": "2738", 
+				"Q1": {
+						"Score": "731", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Quantidade de informação comunicada - "menos é mais""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q4": {
+						"Score": "987", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "1020", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Corvo", 
+				"Total Score": "2651", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q3": {
+						"Score": "774", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "975", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "902", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Cavalo", 
+				"Total Score": "2583", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q2": {
+						"Score": "561", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "839", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "1183", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Visibilidade e Reconhecimento"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Lebre", 
+				"Total Score": "2559", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q2": {
+						"Score": "781", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "886", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "892", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Visibilidade e Reconhecimento"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Jacaré", 
+				"Total Score": "1976", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q4": {
+						"Score": "978", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "998", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Formiga", 
+				"Total Score": "1964", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q2": {
+						"Score": "574", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q3": {
+						"Score": "747", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Qualidade  da informação comunicada - não devemos mentir"
+				}, 
+				"Q5": {
+						"Score": "643", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Desconhecido", 
+				"Total Score": "1594", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+						"Answer": "Tudo que for dito tem relação clara com tópicos da conversa"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q4": {
+						"Score": "899", 
+						"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+						"Answer": "Evite prolixidade e ambiguidade. Ordene a conversa"
+				}, 
+				"Q5": {
+						"Score": "695", 
+						"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+						"Answer": "Projetar para o erro"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Q1": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUANTIDADE diz respeito a:", 
+			"Correct Answer": "Quantidade de informação comunicada - "menos é mais"", 
+			"Players Correct": "0.6", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Qualidade  da informação comunicada - não devemos mentir"", 
+					"Losangle": ""Quantidade de informação comunicada - \"menos é mais\""", 
+					"Circle": ""Tudo que for dito tem relação clara com tópicos da conversa"", 
+					"Square": ""Evite prolixidade e ambiguidade. Ordene a conversa""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "9", 
+					"Circle": "2", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.7336666666667", 
+					"Losangle": "9.49155555555556", 
+					"Circle": "14.144", 
+					"Square": "15.728"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "882", 
+				"Current Total Score (points)": "882", 
+				"Answer time (seconds)": "4.701"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "718", 
+				"Current Total Score (points)": "718", 
+				"Answer time (seconds)": "11.273"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.525"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "676", 
+				"Current Total Score (points)": "676", 
+				"Answer time (seconds)": "12.953"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "731", 
+				"Current Total Score (points)": "731", 
+				"Answer time (seconds)": "10.744"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "727", 
+				"Current Total Score (points)": "727", 
+				"Answer time (seconds)": "10.927"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "722", 
+				"Current Total Score (points)": "722", 
+				"Answer time (seconds)": "11.103"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.763"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.357"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.553"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "750", 
+				"Current Total Score (points)": "750", 
+				"Answer time (seconds)": "9.991"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.728"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.291"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "755", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "9.816"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "902", 
+				"Current Total Score (points)": "902", 
+				"Answer time (seconds)": "3.916"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Q2": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima QUALIDADE diz respeito a:", 
+			"Correct Answer": "Qualidade  da informação comunicada - não devemos mentir", 
+			"Players Correct": "0.588235294117647", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Qualidade  da informação comunicada - não devemos mentir"", 
+					"Losangle": ""Quantidade de informação comunicada - \"menos é mais\""", 
+					"Circle": ""Tudo que for dito tem relação clara com tópicos da conversa"", 
+					"Square": ""Evite prolixidade e ambiguidade. Ordene a conversa""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "10", 
+					"Losangle": "1", 
+					"Circle": "5", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.5173", 
+					"Losangle": "3.192", 
+					"Circle": "10.1046", 
+					"Square": "16.399"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1042", 
+				"Current Total Score (points)": "1924", 
+				"Answer time (seconds)": "2.316"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "862", 
+				"Current Total Score (points)": "1580", 
+				"Answer time (seconds)": "9.531"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "527", 
+				"Current Total Score (points)": "527", 
+				"Answer time (seconds)": "18.908"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "676", 
+				"Answer time (seconds)": "18.734"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "731", 
+				"Answer time (seconds)": "7.347"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "727", 
+				"Answer time (seconds)": "7.524"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "981", 
+				"Current Total Score (points)": "1703", 
+				"Answer time (seconds)": "4.761"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.399"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "574", 
+				"Current Total Score (points)": "574", 
+				"Answer time (seconds)": "17.032"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "561", 
+				"Current Total Score (points)": "561", 
+				"Answer time (seconds)": "17.567"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "668", 
+				"Current Total Score (points)": "668", 
+				"Answer time (seconds)": "13.283"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Quantidade de informação comunicada - "menos é mais"" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "750", 
+				"Answer time (seconds)": "3.192"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.179"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.739"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "781", 
+				"Current Total Score (points)": "781", 
+				"Answer time (seconds)": "8.755"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "823", 
+				"Current Total Score (points)": "1578", 
+				"Answer time (seconds)": "11.083"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "1052", 
+				"Current Total Score (points)": "1954", 
+				"Answer time (seconds)": "1.937"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Q3": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima RELEVÂNCIA diz respeito a:", 
+			"Correct Answer": "Tudo que for dito tem relação clara com tópicos da conversa", 
+			"Players Correct": "0.823529411764706", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Qualidade  da informação comunicada - não devemos mentir"", 
+					"Losangle": ""Quantidade de informação comunicada - \"menos é mais\""", 
+					"Circle": ""Tudo que for dito tem relação clara com tópicos da conversa"", 
+					"Square": ""Evite prolixidade e ambiguidade. Ordene a conversa""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "0", 
+					"Circle": "14", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "0", 
+					"Circle": "8.69914285714286", 
+					"Square": "4.274"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1088", 
+				"Current Total Score (points)": "3012", 
+				"Answer time (seconds)": "4.468"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1050", 
+				"Current Total Score (points)": "2630", 
+				"Answer time (seconds)": "5.992"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "780", 
+				"Current Total Score (points)": "1307", 
+				"Answer time (seconds)": "12.809"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "533", 
+				"Current Total Score (points)": "1209", 
+				"Answer time (seconds)": "18.68"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "731", 
+				"Answer time (seconds)": "4.294"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "1590", 
+				"Answer time (seconds)": "5.485"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1055", 
+				"Current Total Score (points)": "2758", 
+				"Answer time (seconds)": "5.82"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "774", 
+				"Current Total Score (points)": "774", 
+				"Answer time (seconds)": "9.057"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "747", 
+				"Current Total Score (points)": "1321", 
+				"Answer time (seconds)": "14.129"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "839", 
+				"Current Total Score (points)": "1400", 
+				"Answer time (seconds)": "10.424"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "946", 
+				"Current Total Score (points)": "1614", 
+				"Answer time (seconds)": "6.171"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "829", 
+				"Current Total Score (points)": "1579", 
+				"Answer time (seconds)": "6.846"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.507"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.021"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "886", 
+				"Current Total Score (points)": "1667", 
+				"Answer time (seconds)": "8.561"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "969", 
+				"Current Total Score (points)": "2547", 
+				"Answer time (seconds)": "9.224"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tudo que for dito tem relação clara com tópicos da conversa" 
+				},
+				"Score (points)": "1097", 
+				"Current Total Score (points)": "3051", 
+				"Answer time (seconds)": "4.122"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Q4": {
+			"Statement": "Dentro do tópico - Conteúdo relevante e expressão adequada a máxima CLAREZA diz respeito a:", 
+			"Correct Answer": "Evite prolixidade e ambiguidade. Ordene a conversa", 
+			"Players Correct": "0.941176470588235", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Qualidade  da informação comunicada - não devemos mentir"", 
+					"Losangle": ""Quantidade de informação comunicada - \"menos é mais\""", 
+					"Circle": ""Tudo que for dito tem relação clara com tópicos da conversa"", 
+					"Square": ""Evite prolixidade e ambiguidade. Ordene a conversa""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "0", 
+					"Circle": "0", 
+					"Square": "16"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.846", 
+					"Losangle": "0", 
+					"Circle": "0", 
+					"Square": "3.0179375"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1257", 
+				"Current Total Score (points)": "4269", 
+				"Answer time (seconds)": "1.719"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1274", 
+				"Current Total Score (points)": "3904", 
+				"Answer time (seconds)": "1.05"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1044", 
+				"Current Total Score (points)": "2351", 
+				"Answer time (seconds)": "6.241"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1036", 
+				"Current Total Score (points)": "2245", 
+				"Answer time (seconds)": "2.55"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "987", 
+				"Current Total Score (points)": "1718", 
+				"Answer time (seconds)": "0.523"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1082", 
+				"Current Total Score (points)": "2672", 
+				"Answer time (seconds)": "0.704"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1250", 
+				"Current Total Score (points)": "4008", 
+				"Answer time (seconds)": "1.986"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "1749", 
+				"Answer time (seconds)": "5.011"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Qualidade  da informação comunicada - não devemos mentir" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1321", 
+				"Answer time (seconds)": "8.846"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1183", 
+				"Current Total Score (points)": "2583", 
+				"Answer time (seconds)": "0.699"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1125", 
+				"Current Total Score (points)": "2739", 
+				"Answer time (seconds)": "3.009"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1020", 
+				"Current Total Score (points)": "2599", 
+				"Answer time (seconds)": "3.188"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "978", 
+				"Current Total Score (points)": "978", 
+				"Answer time (seconds)": "0.876"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "899", 
+				"Current Total Score (points)": "899", 
+				"Answer time (seconds)": "4.025"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "892", 
+				"Current Total Score (points)": "2559", 
+				"Answer time (seconds)": "12.325"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1229", 
+				"Current Total Score (points)": "3776", 
+				"Answer time (seconds)": "2.836"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Evite prolixidade e ambiguidade. Ordene a conversa" 
+				},
+				"Score (points)": "1261", 
+				"Current Total Score (points)": "4312", 
+				"Answer time (seconds)": "1.545"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Princípios e diretrizes para o design de IHC - PARTE II": {
+		"Q5": {
+			"Statement": "Facilidade para reverter operações e dificuldade para realizar ações irreversíveis relacionado", 
+			"Correct Answer": "Projetar para o erro", 
+			"Players Correct": "0.882352941176471", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Projetar para o erro"", 
+					"Losangle": ""Conteúdo Relevante e Expressão Adequada"", 
+					"Circle": ""Visibilidade e Reconhecimento"", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "15", 
+					"Losangle": "0", 
+					"Circle": "2", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.11693333333333", 
+					"Losangle": "0", 
+					"Circle": "5.5585", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1341", 
+				"Current Total Score (points)": "5610", 
+				"Answer time (seconds)": "2.354"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1273", 
+				"Current Total Score (points)": "5177", 
+				"Answer time (seconds)": "5.08"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1194", 
+				"Current Total Score (points)": "3545", 
+				"Answer time (seconds)": "4.253"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "898", 
+				"Current Total Score (points)": "3143", 
+				"Answer time (seconds)": "12.098"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1020", 
+				"Current Total Score (points)": "2738", 
+				"Answer time (seconds)": "3.216"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1102", 
+				"Current Total Score (points)": "3774", 
+				"Answer time (seconds)": "3.915"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1335", 
+				"Current Total Score (points)": "5343", 
+				"Answer time (seconds)": "2.613"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "902", 
+				"Current Total Score (points)": "2651", 
+				"Answer time (seconds)": "11.924"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "643", 
+				"Current Total Score (points)": "1964", 
+				"Answer time (seconds)": "14.289"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Visibilidade e Reconhecimento" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2583", 
+				"Answer time (seconds)": "5.324"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "879", 
+				"Current Total Score (points)": "3618", 
+				"Answer time (seconds)": "16.844"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1164", 
+				"Current Total Score (points)": "3763", 
+				"Answer time (seconds)": "1.432"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "998", 
+				"Current Total Score (points)": "1976", 
+				"Answer time (seconds)": "4.085"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "695", 
+				"Current Total Score (points)": "1594", 
+				"Answer time (seconds)": "16.215"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Visibilidade e Reconhecimento" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2559", 
+				"Answer time (seconds)": "5.793"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1281", 
+				"Current Total Score (points)": "5057", 
+				"Answer time (seconds)": "4.753"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Projetar para o erro" 
+				},
+				"Score (points)": "1308", 
+				"Current Total Score (points)": "5620", 
+				"Answer time (seconds)": "3.683"
+			}
+		]
+	}
+}
+}

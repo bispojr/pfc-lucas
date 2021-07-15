@@ -1,0 +1,999 @@
+{"Overview": {
+	"kahoot_1_solucao_pronta_vs1": {
+		"Played on": "1 Oct 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "16", 
+		"Played": "4 of 4"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.578125", 
+		"Total incorrect answers (%)": "0.421875", 
+		"Average score (points)": "1992.8125"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"kahoot_1_solucao_pronta_vs1": 
+	[		{
+			"Rank": "1", 
+			"Player": "Praga", 
+			"Total Score": "4188", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Nova Iorque", 
+			"Total Score": "2850", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Lisboa", 
+			"Total Score": "2609", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Bogotá", 
+			"Total Score": "2563", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Madrid", 
+			"Total Score": "2545", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Moscow", 
+			"Total Score": "2472", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Cape Town", 
+			"Total Score": "2460", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Helsink", 
+			"Total Score": "2445", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Tóquio", 
+			"Total Score": "2422", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Tel-aviv", 
+			"Total Score": "2018", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Estocolmo", 
+			"Total Score": "1815", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Sidney", 
+			"Total Score": "1559", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Dubai", 
+			"Total Score": "790", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Berlim", 
+			"Total Score": "592", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		}
+	]
+},
+"Kahoot! Summary": {
+	"kahoot_1_solucao_pronta_vs1": {
+		"Kahoot! Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Praga", 
+				"Total Score": "4188", 
+				"Q1": {
+						"Score": "918", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "1057", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1050", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Nova Iorque", 
+				"Total Score": "2850", 
+				"Q1": {
+						"Score": "660", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "1037", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "1153", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Lisboa", 
+				"Total Score": "2609", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "795", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "942", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Bogotá", 
+				"Total Score": "2563", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Historias"
+				}, 
+				"Q2": {
+						"Score": "798", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "955", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Madrid", 
+				"Total Score": "2545", 
+				"Q1": {
+						"Score": "635", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "970", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Moscow", 
+				"Total Score": "2472", 
+				"Q1": {
+						"Score": "940", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "617", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Cape Town", 
+				"Total Score": "2460", 
+				"Q1": {
+						"Score": "680", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "807", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Helsink", 
+				"Total Score": "2445", 
+				"Q1": {
+						"Score": "940", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "782", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Tóquio", 
+				"Total Score": "2422", 
+				"Q1": {
+						"Score": "713", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "942", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Tel-aviv", 
+				"Total Score": "2018", 
+				"Q1": {
+						"Score": "943", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "1075", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "True"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Conversa"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Estocolmo", 
+				"Total Score": "1815", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Interfaces"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "845", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Sidney", 
+				"Total Score": "1559", 
+				"Q1": {
+						"Score": "727", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Cenários de Interação"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "832", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Dubai", 
+				"Total Score": "790", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Interfaces"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Comunicação"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Berlim", 
+				"Total Score": "592", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+						"Answer": "Interfaces"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+						"Answer": "False"
+				}, 
+				"Q3": {
+						"Score": "592", 
+						"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+						"Answer": "Interação"
+				}
+			}
+		]
+	}
+},
+
+"1 Quiz": {
+	"kahoot_1_solucao_pronta_vs1": {
+		"1 Quiz": {
+			"Statement": "Preencha a lacuna "________ são narrativas sobre pessoas realizando uma atividade para alcançar um ou mais objetivos"", 
+			"Correct Answer": "Cenários de Interação", 
+			"Players Correct": "0.5625", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Quadros", 
+					"Losangle": "Historias", 
+					"Circle": "Cenários de Interação", 
+					"Square": "Interfaces"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "2", 
+					"Circle": "9", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "21.4", 
+					"Circle": "12.2888888888889", 
+					"Square": "6.16666666666667"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "713", 
+				"Current Total Score (points)": "713", 
+				"Answer time (seconds)": "17.2"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "940", 
+				"Current Total Score (points)": "940", 
+				"Answer time (seconds)": "3.6"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "30"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Interfaces" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Interfaces" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.2"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "940", 
+				"Current Total Score (points)": "940", 
+				"Answer time (seconds)": "3.6"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Interfaces" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "635", 
+				"Current Total Score (points)": "635", 
+				"Answer time (seconds)": "21.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "660", 
+				"Current Total Score (points)": "660", 
+				"Answer time (seconds)": "20.4"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Historias" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Historias" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "26.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "727", 
+				"Current Total Score (points)": "727", 
+				"Answer time (seconds)": "16.4"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cenários de Interação" 
+				},
+				"Score (points)": "680", 
+				"Current Total Score (points)": "680", 
+				"Answer time (seconds)": "19.2"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "30"
+			}
+		]
+	}
+},
+"2 Quiz": {
+	"kahoot_1_solucao_pronta_vs1": {
+		"2 Quiz": {
+			"Statement": "A frase: "Os cenários de interação não devem conter detalhes da interface, como rótulos" é:", 
+			"Correct Answer": "True", 
+			"Players Correct": "0.3125", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "11", 
+					"Losangle": "5", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.4363636363636", 
+					"Losangle": "6.46", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "713", 
+				"Answer time (seconds)": "6.6"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "940", 
+				"Answer time (seconds)": "16.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "795", 
+				"Current Total Score (points)": "795", 
+				"Answer time (seconds)": "12.3"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.9"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.6"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "940", 
+				"Answer time (seconds)": "2.4"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "27.2"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "635", 
+				"Answer time (seconds)": "12.5"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "1037", 
+				"Current Total Score (points)": "1697", 
+				"Answer time (seconds)": "3.8"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "True" 
+				},
+				"Score (points)": "798", 
+				"Current Total Score (points)": "798", 
+				"Answer time (seconds)": "12.1"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "727", 
+				"Answer time (seconds)": "8"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "680", 
+				"Answer time (seconds)": "13.8"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "False" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "23"
+			}
+		]
+	}
+},
+"3 Quiz": {
+	"kahoot_1_solucao_pronta_vs1": {
+		"3 Quiz": {
+			"Statement": "Preencha a lacuna "A __ é vista como uma conversa entre designer e usuário por meio da interface"", 
+			"Correct Answer": "Interação", 
+			"Players Correct": "0.8125", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Visão", 
+					"Losangle": "Interação", 
+					"Circle": "Comunicação", 
+					"Square": "Conversa"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "13", 
+					"Circle": "2", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "11.8076923076923", 
+					"Circle": "24.75", 
+					"Square": "2.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "1655", 
+				"Answer time (seconds)": "3.5"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "782", 
+				"Current Total Score (points)": "1722", 
+				"Answer time (seconds)": "13.1"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lisboa", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "1737", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "845", 
+				"Answer time (seconds)": "9.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "592", 
+				"Current Total Score (points)": "592", 
+				"Answer time (seconds)": "24.5"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "617", 
+				"Current Total Score (points)": "1557", 
+				"Answer time (seconds)": "23"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "29"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "970", 
+				"Current Total Score (points)": "1605", 
+				"Answer time (seconds)": "1.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "1153", 
+				"Current Total Score (points)": "2850", 
+				"Answer time (seconds)": "2.8"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "20.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "955", 
+				"Current Total Score (points)": "1753", 
+				"Answer time (seconds)": "8.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "832", 
+				"Current Total Score (points)": "1559", 
+				"Answer time (seconds)": "10.1"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "807", 
+				"Current Total Score (points)": "1487", 
+				"Answer time (seconds)": "11.6"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Interação" 
+				},
+				"Score (points)": "557", 
+				"Current Total Score (points)": "557", 
+				"Answer time (seconds)": "26.6"
+			}
+		]
+	}
+}
+}

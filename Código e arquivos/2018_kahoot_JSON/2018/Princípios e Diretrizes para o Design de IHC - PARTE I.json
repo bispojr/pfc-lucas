@@ -1,0 +1,1709 @@
+{"Overview": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Played on": "25 Oct 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "16 players", 
+		"Played": "5 of 5 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.519999980926514", 
+		"Total incorrect answers (%)": "0.479999989271164", 
+		"Average score (points)": "2160.8125"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": 
+	[		{
+			"Rank": "1", 
+			"Player": "Peixe", 
+			"Total Score": "5276", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Carneiro", 
+			"Total Score": "5141", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Galo", 
+			"Total Score": "3742", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Coelho", 
+			"Total Score": "3671", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Bode", 
+			"Total Score": "2704", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Escorpião", 
+			"Total Score": "2580", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Jacaré", 
+			"Total Score": "2542", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Cachorro", 
+			"Total Score": "1740", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Hipopótamo", 
+			"Total Score": "1600", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Desconhecido", 
+			"Total Score": "1388", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Mosca", 
+			"Total Score": "1201", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Cavalo", 
+			"Total Score": "780", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Corvo", 
+			"Total Score": "770", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Lagarto", 
+			"Total Score": "751", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Boi", 
+			"Total Score": "687", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Gato", 
+			"Total Score": "0", 
+			"Correct Answers": "0", 
+			"Incorrect Answers": "5"
+		}
+	]
+},
+"Question Summary": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Peixe", 
+				"Total Score": "5276", 
+				"Q1": {
+						"Score": "956", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "925", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "988", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "1105", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "1302", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Carneiro", 
+				"Total Score": "5141", 
+				"Q1": {
+						"Score": "811", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "808", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "1065", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "1195", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "1262", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Galo", 
+				"Total Score": "3742", 
+				"Q1": {
+						"Score": "807", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "820", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "936", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "1179", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Coelho", 
+				"Total Score": "3671", 
+				"Q1": {
+						"Score": "850", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "825", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "958", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "1038", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Bode", 
+				"Total Score": "2704", 
+				"Q1": {
+						"Score": "965", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "848", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q5": {
+						"Score": "891", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Escorpião", 
+				"Total Score": "2580", 
+				"Q1": {
+						"Score": "960", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "779", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "841", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Jacaré", 
+				"Total Score": "2542", 
+				"Q1": {
+						"Score": "956", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "840", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q5": {
+						"Score": "746", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Cachorro", 
+				"Total Score": "1740", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "886", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "854", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Consistência e padronização"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Hipopótamo", 
+				"Total Score": "1600", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "694", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q5": {
+						"Score": "906", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Desconhecido", 
+				"Total Score": "1388", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "530", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q5": {
+						"Score": "858", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Mosca", 
+				"Total Score": "1201", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Consistência e padronização"
+				}, 
+				"Q4": {
+						"Score": "518", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "683", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Cavalo", 
+				"Total Score": "780", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "780", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Consistência e padronização"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Corvo", 
+				"Total Score": "770", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Conteúdo relevante e expressão adequada"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q5": {
+						"Score": "770", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Lagarto", 
+				"Total Score": "751", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": ""
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q5": {
+						"Score": "751", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Boi", 
+				"Total Score": "687", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q5": {
+						"Score": "687", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Antecipação"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Gato", 
+				"Total Score": "0", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Consistência e padronização"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Q1": {
+			"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+			"Correct Answer": "FALSA", 
+			"Players Correct": "0.466666666666667", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""VERDADEIRA"", 
+					"Losangle": ""FALSA"", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "7", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.3785", 
+					"Losangle": "3.97128571428571", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "960", 
+				"Current Total Score (points)": "960", 
+				"Answer time (seconds)": "1.59"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.409"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.771"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "811", 
+				"Current Total Score (points)": "811", 
+				"Answer time (seconds)": "7.555"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "850", 
+				"Current Total Score (points)": "850", 
+				"Answer time (seconds)": "5.983"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.056"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "965", 
+				"Current Total Score (points)": "965", 
+				"Answer time (seconds)": "1.408"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "3.549"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "2.681"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.392"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "956", 
+				"Current Total Score (points)": "956", 
+				"Answer time (seconds)": "1.772"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "807", 
+				"Current Total Score (points)": "807", 
+				"Answer time (seconds)": "7.725"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "956", 
+				"Current Total Score (points)": "956", 
+				"Answer time (seconds)": "1.766"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.948"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.222"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Q2": {
+			"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+			"Correct Answer": "Correspondência com as expectativas dos usuários", 
+			"Players Correct": "0.307692307692308", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Correspondência com as expectativas dos usuários"", 
+					"Losangle": ""Promoção da eficiência do usuário"", 
+					"Circle": ""Projeto para erros"", 
+					"Square": ""Equilíbrio entre controle e liberdade do usuário""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "0", 
+					"Circle": "0", 
+					"Square": "9"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.031", 
+					"Losangle": "0", 
+					"Circle": "0", 
+					"Square": "12.3372222222222"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "779", 
+				"Current Total Score (points)": "1739", 
+				"Answer time (seconds)": "12.856"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.79"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "808", 
+				"Current Total Score (points)": "1619", 
+				"Answer time (seconds)": "11.695"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "850", 
+				"Answer time (seconds)": "15.777"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "17.631"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "965", 
+				"Answer time (seconds)": "12.682"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "886", 
+				"Current Total Score (points)": "886", 
+				"Answer time (seconds)": "4.563"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.598"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "956", 
+				"Answer time (seconds)": "6.837"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "807", 
+				"Answer time (seconds)": "14.575"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "925", 
+				"Current Total Score (points)": "1881", 
+				"Answer time (seconds)": "7.01"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.184"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.961"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Q3": {
+			"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+			"Correct Answer": "Equilíbrio entre Controle e Liberdade do Usuário", 
+			"Players Correct": "0.533333333333333", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Consistência e padronização"", 
+					"Losangle": ""Antecipação das necessidades do usuário"", 
+					"Circle": ""Equilíbrio entre Controle e Liberdade do Usuário"", 
+					"Square": ""Conteúdo relevante e expressão adequada""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "4", 
+					"Circle": "8", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "13.263", 
+					"Losangle": "11.84375", 
+					"Circle": "8.95225", 
+					"Square": "16.535"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1739", 
+				"Answer time (seconds)": "18.629"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Consistência e padronização" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8.641"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "530", 
+				"Current Total Score (points)": "530", 
+				"Answer time (seconds)": "18.799"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.763"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "1065", 
+				"Current Total Score (points)": "2684", 
+				"Answer time (seconds)": "5.395"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "825", 
+				"Current Total Score (points)": "1675", 
+				"Answer time (seconds)": "7.018"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conteúdo relevante e expressão adequada" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.535"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "848", 
+				"Current Total Score (points)": "1813", 
+				"Answer time (seconds)": "6.089"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "886", 
+				"Answer time (seconds)": "5.619"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Consistência e padronização" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "17.885"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "840", 
+				"Current Total Score (points)": "1796", 
+				"Answer time (seconds)": "6.415"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "820", 
+				"Current Total Score (points)": "1627", 
+				"Answer time (seconds)": "7.191"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "988", 
+				"Current Total Score (points)": "2869", 
+				"Answer time (seconds)": "8.47"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.364"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "694", 
+				"Current Total Score (points)": "694", 
+				"Answer time (seconds)": "12.241"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Q4": {
+			"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+			"Correct Answer": "Promovendo a Eficiência do Usuário", 
+			"Players Correct": "0.5", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Equilíbrio entre controle e liberdade do usuário"", 
+					"Losangle": ""Promovendo a Eficiência do Usuário"", 
+					"Circle": ""Conteúdo relevante e expressão adequada"", 
+					"Square": ""Antecipação das necessidades do usuário""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "6", 
+					"Losangle": "8", 
+					"Circle": "0", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.598", 
+					"Losangle": "8.066125", 
+					"Circle": "0", 
+					"Square": "12.865"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "841", 
+				"Current Total Score (points)": "2580", 
+				"Answer time (seconds)": "6.373"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.201"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "530", 
+				"Answer time (seconds)": "19.104"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.444"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "1195", 
+				"Current Total Score (points)": "3879", 
+				"Answer time (seconds)": "4.194"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "958", 
+				"Current Total Score (points)": "2633", 
+				"Answer time (seconds)": "5.67"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.929"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1813", 
+				"Answer time (seconds)": "6.543"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "854", 
+				"Current Total Score (points)": "1740", 
+				"Answer time (seconds)": "5.857"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "3.784"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "518", 
+				"Current Total Score (points)": "518", 
+				"Answer time (seconds)": "19.275"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1796", 
+				"Answer time (seconds)": "3.512"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "936", 
+				"Current Total Score (points)": "2563", 
+				"Answer time (seconds)": "6.548"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "1105", 
+				"Current Total Score (points)": "3974", 
+				"Answer time (seconds)": "7.803"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "780", 
+				"Current Total Score (points)": "780", 
+				"Answer time (seconds)": "8.809"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "694", 
+				"Answer time (seconds)": "6.801"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Q5": {
+			"Statement": "Forneça informações adicionais úteis, em vez de apenas responder a pergunta feita pelo usuário.", 
+			"Correct Answer": "Antecipação", 
+			"Players Correct": "0.75", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Consistência e padronização"", 
+					"Losangle": ""Equilíbrio entre Controle e Liberdade do Usuário"", 
+					"Circle": ""Correspondência com as expectativas dos usuários"", 
+					"Square": ""Antecipação""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "1", 
+					"Circle": "1", 
+					"Square": "12"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "5.841", 
+					"Losangle": "4.728", 
+					"Circle": "17.377", 
+					"Square": "7.42333333333333"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2580", 
+				"Answer time (seconds)": "17.377"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4.728"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Desconhecido", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "858", 
+				"Current Total Score (points)": "1388", 
+				"Answer time (seconds)": "5.698"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "687", 
+				"Current Total Score (points)": "687", 
+				"Answer time (seconds)": "12.534"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "1262", 
+				"Current Total Score (points)": "5141", 
+				"Answer time (seconds)": "5.527"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "1038", 
+				"Current Total Score (points)": "3671", 
+				"Answer time (seconds)": "6.496"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "770", 
+				"Current Total Score (points)": "770", 
+				"Answer time (seconds)": "9.189"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "891", 
+				"Current Total Score (points)": "2704", 
+				"Answer time (seconds)": "4.353"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Consistência e padronização" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1740", 
+				"Answer time (seconds)": "6.326"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "751", 
+				"Current Total Score (points)": "751", 
+				"Answer time (seconds)": "9.971"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "683", 
+				"Current Total Score (points)": "1201", 
+				"Answer time (seconds)": "16.671"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "746", 
+				"Current Total Score (points)": "2542", 
+				"Answer time (seconds)": "10.142"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "1179", 
+				"Current Total Score (points)": "3742", 
+				"Answer time (seconds)": "0.839"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "1302", 
+				"Current Total Score (points)": "5276", 
+				"Answer time (seconds)": "3.917"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Consistência e padronização" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "780", 
+				"Answer time (seconds)": "5.356"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação" 
+				},
+				"Score (points)": "906", 
+				"Current Total Score (points)": "1600", 
+				"Answer time (seconds)": "3.743"
+			}
+		]
+	}
+}
+}

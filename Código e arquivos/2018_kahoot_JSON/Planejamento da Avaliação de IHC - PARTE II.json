@@ -1,0 +1,2733 @@
+{"Overview": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Played on": "31 Oct 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "15 players", 
+		"Played": "9 of 9 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.488549619913101", 
+		"Total incorrect answers (%)": "0.511450409889221", 
+		"Average score (points)": "3750.66674804688"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Planejamento da Avaliação de IHC - PARTE II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Cobra", 
+			"Total Score": "8398", 
+			"Correct Answers": "8", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Lebre", 
+			"Total Score": "6860", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Gato", 
+			"Total Score": "5966", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Peixe", 
+			"Total Score": "4393", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Coelho", 
+			"Total Score": "4278", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Minhoca", 
+			"Total Score": "4140", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Hipopótamo", 
+			"Total Score": "4065", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Leão", 
+			"Total Score": "3323", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Lagarto", 
+			"Total Score": "3022", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Escorpião", 
+			"Total Score": "2738", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Formiga", 
+			"Total Score": "2562", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Bode", 
+			"Total Score": "2349", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Camaleão", 
+			"Total Score": "1693", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "7"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Corvo", 
+			"Total Score": "1550", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Mosca", 
+			"Total Score": "923", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "8"
+		}
+	]
+},
+"Question Summary": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Cobra", 
+				"Total Score": "8398", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "622", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "763", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "867", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "1082", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "1277", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "1175", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1293", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "1319", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Lebre", 
+				"Total Score": "6860", 
+				"Q1": {
+						"Score": "585", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "749", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "909", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "1134", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "895", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1236", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "1352", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Gato", 
+				"Total Score": "5966", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um ambiente controlado"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q3": {
+						"Score": "916", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "925", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "1055", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "1093", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "942", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "1035", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Peixe", 
+				"Total Score": "4393", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "796", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "718", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "678", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1061", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "1140", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Coelho", 
+				"Total Score": "4278", 
+				"Q1": {
+						"Score": "861", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "706", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q4": {
+						"Score": "878", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "926", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de Observação de uso"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q9": {
+						"Score": "907", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Minhoca", 
+				"Total Score": "4140", 
+				"Q1": {
+						"Score": "762", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "663", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "798", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "889", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "1028", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Hipopótamo", 
+				"Total Score": "4065", 
+				"Q1": {
+						"Score": "786", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "861", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "834", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": ""
+				}, 
+				"Q8": {
+						"Score": "606", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "978", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Leão", 
+				"Total Score": "3323", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "645", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "859", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "907", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de inspeção e observação"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q9": {
+						"Score": "912", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Lagarto", 
+				"Total Score": "3022", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "614", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q7": {
+						"Score": "545", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "921", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "942", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Escorpião", 
+				"Total Score": "2738", 
+				"Q1": {
+						"Score": "559", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "618", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "759", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de inspeção e observação"
+				}, 
+				"Q8": {
+						"Score": "802", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Formiga", 
+				"Total Score": "2562", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um ambiente controlado"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "763", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q7": {
+						"Score": "868", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "931", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Bode", 
+				"Total Score": "2349", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um ambiente controlado"
+				}, 
+				"Q2": {
+						"Score": "793", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "732", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q9": {
+						"Score": "824", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Camaleão", 
+				"Total Score": "1693", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "753", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q9": {
+						"Score": "940", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Corvo", 
+				"Total Score": "1550", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "658", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q9": {
+						"Score": "892", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Mosca", 
+				"Total Score": "923", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q9": {
+						"Score": "923", 
+						"Statement": "Métodos de observação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q1": {
+			"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+			"Correct Answer": "Contexto real de uso ou laboratório", 
+			"Players Correct": "0.357142857142857", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Em um ambiente controlado"", 
+					"Losangle": ""Em um contexto que simule o uso do sistema"", 
+					"Circle": ""Contexto real de uso ou laboratório"", 
+					"Square": ""Em um laboratório""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "6", 
+					"Circle": "5", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.414", 
+					"Losangle": "8.33966666666667", 
+					"Circle": "11.5796", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "559", 
+				"Current Total Score (points)": "559", 
+				"Answer time (seconds)": "17.648"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um ambiente controlado" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.995"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "762", 
+				"Current Total Score (points)": "762", 
+				"Answer time (seconds)": "9.506"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "585", 
+				"Current Total Score (points)": "585", 
+				"Answer time (seconds)": "16.613"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.358"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "861", 
+				"Current Total Score (points)": "861", 
+				"Answer time (seconds)": "5.557"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um ambiente controlado" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.742"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um ambiente controlado" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.505"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.885"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.695"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.837"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8.371"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.892"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "786", 
+				"Current Total Score (points)": "786", 
+				"Answer time (seconds)": "8.574"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q2": {
+			"Statement": "Os dados de intervalo representam:", 
+			"Correct Answer": "Períodos, faixas ou distâncias entre os dados ordinais", 
+			"Players Correct": "0.615384615384615", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Conceitos que não são representados numericamente"", 
+					"Losangle": ""Conceitos com relações que definem tipo de ordem entre eles"", 
+					"Circle": ""Conceitos na forma de rótulos ou categorias"", 
+					"Square": ""Períodos, faixas ou distâncias entre os dados ordinais""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "2", 
+					"Circle": "1", 
+					"Square": "8"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "16.553", 
+					"Losangle": "12.3475", 
+					"Circle": "15.299", 
+					"Square": "13.696875"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "618", 
+				"Current Total Score (points)": "1177", 
+				"Answer time (seconds)": "19.3"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.299"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "663", 
+				"Current Total Score (points)": "1425", 
+				"Answer time (seconds)": "17.467"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "585", 
+				"Answer time (seconds)": "8.108"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "645", 
+				"Current Total Score (points)": "645", 
+				"Answer time (seconds)": "14.216"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "706", 
+				"Current Total Score (points)": "1567", 
+				"Answer time (seconds)": "15.761"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "793", 
+				"Current Total Score (points)": "793", 
+				"Answer time (seconds)": "8.3"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.587"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "622", 
+				"Current Total Score (points)": "622", 
+				"Answer time (seconds)": "15.104"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "753", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "9.872"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.294"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "17.812"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "861", 
+				"Current Total Score (points)": "1647", 
+				"Answer time (seconds)": "9.555"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q3": {
+			"Statement": "Métodos de investigação permitem ao avaliador:", 
+			"Correct Answer": "Ratificar ou retificar o entendimento da situação atual", 
+			"Players Correct": "0.266666666666667", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Ratificar ou retificar o entendimento da situação atual"", 
+					"Losangle": ""Antever as possíveis consequências de  decisões de design"", 
+					"Circle": ""Identificar problemas reais que os usuários enfrentaram"", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "1", 
+					"Circle": "10", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.92475", 
+					"Losangle": "13.162", 
+					"Circle": "13.7483", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1177", 
+				"Answer time (seconds)": "19.406"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "916", 
+				"Current Total Score (points)": "916", 
+				"Answer time (seconds)": "3.372"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "798", 
+				"Current Total Score (points)": "2223", 
+				"Answer time (seconds)": "16.099"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "585", 
+				"Answer time (seconds)": "19.189"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "645", 
+				"Answer time (seconds)": "11.199"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1567", 
+				"Answer time (seconds)": "13.162"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.935"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "732", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "14.731"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.491"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "763", 
+				"Current Total Score (points)": "1385", 
+				"Answer time (seconds)": "13.497"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.57"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "9.825"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.669"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8.39"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1647", 
+				"Answer time (seconds)": "7.809"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q4": {
+			"Statement": "Os dados nominais representam:", 
+			"Correct Answer": "Conceitos na forma de rótulos ou categorias", 
+			"Players Correct": "0.6", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Conceitos que não são representados numericamente"", 
+					"Losangle": ""Conceitos com relações que definem tipo de ordem entre eles"", 
+					"Circle": ""Conceitos na forma de rótulos ou categorias"", 
+					"Square": ""Períodos, faixas ou distâncias entre os dados ordinais""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "0", 
+					"Circle": "9", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "15.3876666666667", 
+					"Losangle": "0", 
+					"Circle": "9.73611111111111", 
+					"Square": "10.2633333333333"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1177", 
+				"Answer time (seconds)": "17.334"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "925", 
+				"Current Total Score (points)": "1841", 
+				"Answer time (seconds)": "6.999"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2223", 
+				"Answer time (seconds)": "14.267"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "749", 
+				"Current Total Score (points)": "1334", 
+				"Answer time (seconds)": "10.038"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "859", 
+				"Current Total Score (points)": "1504", 
+				"Answer time (seconds)": "5.63"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "878", 
+				"Current Total Score (points)": "2445", 
+				"Answer time (seconds)": "4.875"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "658", 
+				"Current Total Score (points)": "658", 
+				"Answer time (seconds)": "13.699"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "7.434"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "763", 
+				"Current Total Score (points)": "763", 
+				"Answer time (seconds)": "9.48"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "867", 
+				"Current Total Score (points)": "2252", 
+				"Answer time (seconds)": "13.317"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "614", 
+				"Current Total Score (points)": "614", 
+				"Answer time (seconds)": "15.439"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "9.849"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "796", 
+				"Current Total Score (points)": "796", 
+				"Answer time (seconds)": "8.148"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.507"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1647", 
+				"Answer time (seconds)": "14.562"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q5": {
+			"Statement": "Métodos de inspeção permitem ao avaliador:", 
+			"Correct Answer": "Antever as possíveis consequências de  decisões de design", 
+			"Players Correct": "0.2", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Ratificar ou retificar o entendimento da situação atual"", 
+					"Losangle": ""Antever as possíveis consequências de  decisões de design"", 
+					"Circle": ""Identificar problemas reais que os usuários enfrentaram"", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "3", 
+					"Circle": "11", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.454", 
+					"Losangle": "7.38433333333333", 
+					"Circle": "8.43627272727273", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1177", 
+				"Answer time (seconds)": "8.911"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "1055", 
+				"Current Total Score (points)": "2896", 
+				"Answer time (seconds)": "5.785"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2223", 
+				"Answer time (seconds)": "5.594"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "909", 
+				"Current Total Score (points)": "2243", 
+				"Answer time (seconds)": "7.651"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1504", 
+				"Answer time (seconds)": "8.209"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2445", 
+				"Answer time (seconds)": "7.864"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "658", 
+				"Answer time (seconds)": "9.66"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "8.454"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "763", 
+				"Answer time (seconds)": "10.037"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "1082", 
+				"Current Total Score (points)": "3334", 
+				"Answer time (seconds)": "8.717"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "614", 
+				"Answer time (seconds)": "10.327"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "5.031"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "796", 
+				"Answer time (seconds)": "9.846"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.617"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1647", 
+				"Answer time (seconds)": "6.703"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q6": {
+			"Statement": "Os dados qualitativos representam:", 
+			"Correct Answer": "Conceitos que não são representados numericamente", 
+			"Players Correct": "0.533333333333333", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Conceitos que não são representados numericamente"", 
+					"Losangle": ""Conceitos com relações que definem tipo de ordem entre eles"", 
+					"Circle": ""Conceitos na forma de rótulos ou categorias"", 
+					"Square": ""Períodos, faixas ou distâncias entre os dados ordinais""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "2", 
+					"Circle": "1", 
+					"Square": "4"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "6.259625", 
+					"Losangle": "10.972", 
+					"Circle": "14.274", 
+					"Square": "8.6385"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "759", 
+				"Current Total Score (points)": "1936", 
+				"Answer time (seconds)": "9.631"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "1093", 
+				"Current Total Score (points)": "3989", 
+				"Answer time (seconds)": "8.275"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2223", 
+				"Answer time (seconds)": "5.898"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "1134", 
+				"Current Total Score (points)": "3377", 
+				"Answer time (seconds)": "2.66"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "907", 
+				"Current Total Score (points)": "2411", 
+				"Answer time (seconds)": "3.71"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "926", 
+				"Current Total Score (points)": "3371", 
+				"Answer time (seconds)": "2.959"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "658", 
+				"Answer time (seconds)": "16.046"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "5.514"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "763", 
+				"Answer time (seconds)": "9.12"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "1277", 
+				"Current Total Score (points)": "4611", 
+				"Answer time (seconds)": "4.917"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "614", 
+				"Answer time (seconds)": "12.858"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "7.062"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "718", 
+				"Current Total Score (points)": "1514", 
+				"Answer time (seconds)": "11.268"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "14.274"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "834", 
+				"Current Total Score (points)": "2481", 
+				"Answer time (seconds)": "6.657"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q7": {
+			"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+			"Correct Answer": "Investigação, observação de uso e de inspeção", 
+			"Players Correct": "0.357142857142857", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Investigação, observação de uso e de inspeção"", 
+					"Losangle": ""Métodos de inspeção e observação"", 
+					"Circle": ""Métodos de investigação e observação de uso"", 
+					"Square": ""Métodos de Observação de uso""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "2", 
+					"Circle": "6", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "13.909", 
+					"Losangle": "10.771", 
+					"Circle": "11.7763333333333", 
+					"Square": "6.099"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Métodos de inspeção e observação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1936", 
+				"Answer time (seconds)": "14.772"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3989", 
+				"Answer time (seconds)": "8.299"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2223", 
+				"Answer time (seconds)": "17.067"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "895", 
+				"Current Total Score (points)": "4272", 
+				"Answer time (seconds)": "16.205"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de inspeção e observação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2411", 
+				"Answer time (seconds)": "6.77"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de Observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3371", 
+				"Answer time (seconds)": "6.099"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "658", 
+				"Answer time (seconds)": "15.137"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "15.757"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "868", 
+				"Current Total Score (points)": "1631", 
+				"Answer time (seconds)": "5.265"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "1175", 
+				"Current Total Score (points)": "5786", 
+				"Answer time (seconds)": "12.989"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "545", 
+				"Current Total Score (points)": "1159", 
+				"Answer time (seconds)": "18.212"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "8.49"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "678", 
+				"Current Total Score (points)": "2192", 
+				"Answer time (seconds)": "16.874"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.908"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2481", 
+				"Answer time (seconds)": "0"
+			}
+		]
+	}
+},
+"Question 8": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q8": {
+			"Statement": "Os dados ordinais representam:", 
+			"Correct Answer": "Conceitos com relações que definem tipo de ordem entre eles", 
+			"Players Correct": "0.6", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Conceitos que não são representados numericamente"", 
+					"Losangle": ""Conceitos com relações que definem tipo de ordem entre eles"", 
+					"Circle": ""Conceitos na forma de rótulos ou categorias"", 
+					"Square": ""Períodos, faixas ou distâncias entre os dados ordinais""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "9", 
+					"Circle": "0", 
+					"Square": "6"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "7.19755555555556", 
+					"Circle": "0", 
+					"Square": "6.09616666666667"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "802", 
+				"Current Total Score (points)": "2738", 
+				"Answer time (seconds)": "7.94"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "4931", 
+				"Answer time (seconds)": "2.317"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "889", 
+				"Current Total Score (points)": "3112", 
+				"Answer time (seconds)": "4.424"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1236", 
+				"Current Total Score (points)": "5508", 
+				"Answer time (seconds)": "6.575"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2411", 
+				"Answer time (seconds)": "4.845"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3371", 
+				"Answer time (seconds)": "4.646"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "658", 
+				"Answer time (seconds)": "10.75"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "8.47"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "931", 
+				"Current Total Score (points)": "2562", 
+				"Answer time (seconds)": "6.766"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1293", 
+				"Current Total Score (points)": "7079", 
+				"Answer time (seconds)": "8.271"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "921", 
+				"Current Total Score (points)": "2080", 
+				"Answer time (seconds)": "7.179"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "3.026"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1061", 
+				"Current Total Score (points)": "3253", 
+				"Answer time (seconds)": "5.549"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4.84"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "606", 
+				"Current Total Score (points)": "3087", 
+				"Answer time (seconds)": "15.757"
+			}
+		]
+	}
+},
+"Question 9": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Q9": {
+			"Statement": "Métodos de observação permitem ao avaliador:", 
+			"Correct Answer": "Identificar problemas reais que os usuários enfrentaram", 
+			"Players Correct": "0.866666666666667", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Ratificar ou retificar o entendimento da situação atual"", 
+					"Losangle": ""Antever as possíveis consequências de  decisões de design"", 
+					"Circle": ""Identificar problemas reais que os usuários enfrentaram"", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "1", 
+					"Circle": "13", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "17.206", 
+					"Losangle": "9.666", 
+					"Circle": "4.94969230769231", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2738", 
+				"Answer time (seconds)": "17.206"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "1035", 
+				"Current Total Score (points)": "5966", 
+				"Answer time (seconds)": "2.599"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "1028", 
+				"Current Total Score (points)": "4140", 
+				"Answer time (seconds)": "2.889"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "1352", 
+				"Current Total Score (points)": "6860", 
+				"Answer time (seconds)": "5.901"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "912", 
+				"Current Total Score (points)": "3323", 
+				"Answer time (seconds)": "3.522"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "907", 
+				"Current Total Score (points)": "4278", 
+				"Answer time (seconds)": "3.726"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "892", 
+				"Current Total Score (points)": "1550", 
+				"Answer time (seconds)": "4.332"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "824", 
+				"Current Total Score (points)": "2349", 
+				"Answer time (seconds)": "7.052"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2562", 
+				"Answer time (seconds)": "9.666"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "1319", 
+				"Current Total Score (points)": "8398", 
+				"Answer time (seconds)": "7.241"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "3022", 
+				"Answer time (seconds)": "10.33"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "940", 
+				"Current Total Score (points)": "1693", 
+				"Answer time (seconds)": "2.406"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "1140", 
+				"Current Total Score (points)": "4393", 
+				"Answer time (seconds)": "6.393"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "923", 
+				"Current Total Score (points)": "923", 
+				"Answer time (seconds)": "3.08"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "978", 
+				"Current Total Score (points)": "4065", 
+				"Answer time (seconds)": "4.875"
+			}
+		]
+	}
+}
+}

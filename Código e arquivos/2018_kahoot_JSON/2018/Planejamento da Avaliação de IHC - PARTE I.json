@@ -1,0 +1,1679 @@
+{"Overview": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Played on": "30 Oct 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "11 players", 
+		"Played": "7 of 7 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.592105269432068", 
+		"Total incorrect answers (%)": "0.407894730567932", 
+		"Average score (points)": "3469"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "3", 
+		"Did you learn something?": {
+			"Yes": "1", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "1", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "1", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Planejamento da Avaliação de IHC - PARTE I": 
+	[		{
+			"Rank": "1", 
+			"Player": "Lagarto", 
+			"Total Score": "5914", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Peixe", 
+			"Total Score": "5504", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Bode", 
+			"Total Score": "4350", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Leão", 
+			"Total Score": "3531", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Jacaré", 
+			"Total Score": "3409", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Escorpião", 
+			"Total Score": "3249", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Formiga", 
+			"Total Score": "3181", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Coelho", 
+			"Total Score": "2942", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Lebre", 
+			"Total Score": "2281", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Hipopótamo", 
+			"Total Score": "2273", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Camaleão", 
+			"Total Score": "1525", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "5"
+		}
+	]
+},
+"Question Summary": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Lagarto", 
+				"Total Score": "5914", 
+				"Q1": {
+						"Score": "594", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "813", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "953", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "1036", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "1189", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "1329", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação formativa"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Peixe", 
+				"Total Score": "5504", 
+				"Q1": {
+						"Score": "785", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "935", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "978", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da análise de necessidades"
+				}, 
+				"Q5": {
+						"Score": "840", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "865", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "1101", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Bode", 
+				"Total Score": "4350", 
+				"Q1": {
+						"Score": "811", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "877", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "987", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram do desenvolvimento do projeto"
+				}, 
+				"Q5": {
+						"Score": "759", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação conclusiva"
+				}, 
+				"Q7": {
+						"Score": "916", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Leão", 
+				"Total Score": "3531", 
+				"Q1": {
+						"Score": "807", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir a qualidade total  de um produto."
+				}, 
+				"Q3": {
+						"Score": "783", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da concepção do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Durante o desenvolvimento"
+				}, 
+				"Q6": {
+						"Score": "930", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "1011", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Jacaré", 
+				"Total Score": "3409", 
+				"Q1": {
+						"Score": "799", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir a qualidade total  de um produto."
+				}, 
+				"Q3": {
+						"Score": "919", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da análise de necessidades"
+				}, 
+				"Q5": {
+						"Score": "803", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação conclusiva"
+				}, 
+				"Q7": {
+						"Score": "888", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Escorpião", 
+				"Total Score": "3249", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Faz análise das necessidades dos usuários"
+				}, 
+				"Q2": {
+						"Score": "691", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva do usuário e de quem concebe o sistema."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram do desenvolvimento do projeto"
+				}, 
+				"Q5": {
+						"Score": "755", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "707", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "1096", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Formiga", 
+				"Total Score": "3181", 
+				"Q1": {
+						"Score": "626", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "818", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "877", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da análise de necessidades"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Na fase de análise de necessidades dos usuários"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação de IHC"
+				}, 
+				"Q7": {
+						"Score": "860", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Coelho", 
+				"Total Score": "2942", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Faz análise das necessidades dos usuários"
+				}, 
+				"Q2": {
+						"Score": "799", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "629", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da análise de necessidades"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": ""
+				}, 
+				"Q6": {
+						"Score": "659", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "855", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Lebre", 
+				"Total Score": "2281", 
+				"Q1": {
+						"Score": "893", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Para validar os requisitos funcionais do produto"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva do usuário e de quem concebe o sistema."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram do desenvolvimento do projeto"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Durante o desenvolvimento"
+				}, 
+				"Q6": {
+						"Score": "587", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "801", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação somativa ou conclusiva"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Hipopótamo", 
+				"Total Score": "2273", 
+				"Q1": {
+						"Score": "869", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir a qualidade total  de um produto."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva da organização e do usuário"
+				}, 
+				"Q4": {
+						"Score": "681", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Na fase de projeto da interface do sistema"
+				}, 
+				"Q6": {
+						"Score": "723", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação construtiva"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Camaleão", 
+				"Total Score": "1525", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Projeta-se uma solução de interface para o sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir a qualidade total  de um produto."
+				}, 
+				"Q3": {
+						"Score": "791", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram do desenvolvimento do projeto"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Na fase de análise de necessidades dos usuários"
+				}, 
+				"Q6": {
+						"Score": "734", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+						"Answer": "Avaliação formativa"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q1": {
+			"Statement": "A avaliação de IHC é um momento onde:", 
+			"Correct Answer": "Averigua-se a qualidade de uso da solução de IHC", 
+			"Players Correct": "0.727272727272727", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Averigua-se a qualidade de uso da solução de IHC"", 
+					"Losangle": ""Projeta-se uma solução de interface para o sistema"", 
+					"Circle": ""Faz análise das necessidades dos usuários"", 
+					"Square": ""Identifica as personas do ambiente de uso do sistema""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "1", 
+					"Circle": "2", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.077", 
+					"Losangle": "11.543", 
+					"Circle": "7.174", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Faz análise das necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.615"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "4.278"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "807", 
+				"Current Total Score (points)": "807", 
+				"Answer time (seconds)": "7.726"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Faz análise das necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.733"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "811", 
+				"Current Total Score (points)": "811", 
+				"Answer time (seconds)": "7.549"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "626", 
+				"Current Total Score (points)": "626", 
+				"Answer time (seconds)": "14.949"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "594", 
+				"Current Total Score (points)": "594", 
+				"Answer time (seconds)": "16.228"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Projeta-se uma solução de interface para o sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.543"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "785", 
+				"Current Total Score (points)": "785", 
+				"Answer time (seconds)": "8.608"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "799", 
+				"Current Total Score (points)": "799", 
+				"Answer time (seconds)": "8.045"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "869", 
+				"Current Total Score (points)": "869", 
+				"Answer time (seconds)": "5.233"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q2": {
+			"Statement": "Por que avaliar? Escolha a melhor resposta", 
+			"Correct Answer": "Garantir entrega do produto com maior garantia de qualidade", 
+			"Players Correct": "0.545454545454545", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Para satisfazer cláusulas contratuais de desenvolvimento"", 
+					"Losangle": ""Para validar os requisitos funcionais do produto"", 
+					"Circle": ""Garantir entrega do produto com maior garantia de qualidade"", 
+					"Square": ""Garantir a qualidade total  de um produto.""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "1", 
+					"Circle": "6", 
+					"Square": "4"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "4.36", 
+					"Circle": "9.77833333333333", 
+					"Square": "8.60675"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "691", 
+				"Current Total Score (points)": "691", 
+				"Answer time (seconds)": "12.347"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Para validar os requisitos funcionais do produto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "4.36"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Garantir a qualidade total  de um produto." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "807", 
+				"Answer time (seconds)": "5.635"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "799", 
+				"Current Total Score (points)": "799", 
+				"Answer time (seconds)": "8.05"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "877", 
+				"Current Total Score (points)": "1688", 
+				"Answer time (seconds)": "8.902"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "818", 
+				"Current Total Score (points)": "1444", 
+				"Answer time (seconds)": "11.299"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "813", 
+				"Current Total Score (points)": "1407", 
+				"Answer time (seconds)": "11.475"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Garantir a qualidade total  de um produto." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.905"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "935", 
+				"Current Total Score (points)": "1720", 
+				"Answer time (seconds)": "6.597"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Garantir a qualidade total  de um produto." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "799", 
+				"Answer time (seconds)": "16.792"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Garantir a qualidade total  de um produto." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "869", 
+				"Answer time (seconds)": "6.095"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q3": {
+			"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+			"Correct Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza.", 
+			"Players Correct": "0.727272727272727", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Perspectiva da organização e do usuário"", 
+					"Losangle": ""Perspectiva de quem concebe, constrói e de quem o utiliza."", 
+					"Circle": ""Perspectiva de quem desenvolve e de quem paga pelo sistema"", 
+					"Square": ""Perspectiva do usuário e de quem concebe o sistema.""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "8", 
+					"Circle": "0", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.713", 
+					"Losangle": "9.91425", 
+					"Circle": "0", 
+					"Square": "12.8345"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva do usuário e de quem concebe o sistema." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "691", 
+				"Answer time (seconds)": "16.806"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva do usuário e de quem concebe o sistema." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "8.863"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "1590", 
+				"Answer time (seconds)": "8.691"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "629", 
+				"Current Total Score (points)": "1428", 
+				"Answer time (seconds)": "18.846"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "987", 
+				"Current Total Score (points)": "2675", 
+				"Answer time (seconds)": "8.518"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "877", 
+				"Current Total Score (points)": "2321", 
+				"Answer time (seconds)": "12.935"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "953", 
+				"Current Total Score (points)": "2360", 
+				"Answer time (seconds)": "9.865"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "791", 
+				"Current Total Score (points)": "791", 
+				"Answer time (seconds)": "8.342"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "978", 
+				"Current Total Score (points)": "2698", 
+				"Answer time (seconds)": "8.868"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "919", 
+				"Current Total Score (points)": "1718", 
+				"Answer time (seconds)": "3.249"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva da organização e do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "869", 
+				"Answer time (seconds)": "7.713"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q4": {
+			"Statement": "A avaliação de IHC deve ser conduzida por:", 
+			"Correct Answer": "Avaliadores que não participaram da concepção da solução", 
+			"Players Correct": "0.181818181818182", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Avaliadores que participaram da análise de necessidades"", 
+					"Losangle": ""Avaliadores que participaram da concepção do sistema"", 
+					"Circle": ""Avaliadores que não participaram da concepção da solução"", 
+					"Square": ""Avaliadores que participaram do desenvolvimento do projeto""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "1", 
+					"Circle": "2", 
+					"Square": "4"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.2545", 
+					"Losangle": "6.884", 
+					"Circle": "11.6485", 
+					"Square": "11.913"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que participaram do desenvolvimento do projeto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "691", 
+				"Answer time (seconds)": "19.166"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram do desenvolvimento do projeto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "14.631"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da concepção do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1590", 
+				"Answer time (seconds)": "6.884"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da análise de necessidades" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1428", 
+				"Answer time (seconds)": "14.41"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram do desenvolvimento do projeto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2675", 
+				"Answer time (seconds)": "4.981"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da análise de necessidades" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2321", 
+				"Answer time (seconds)": "17.336"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "1036", 
+				"Current Total Score (points)": "3396", 
+				"Answer time (seconds)": "10.547"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram do desenvolvimento do projeto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "791", 
+				"Answer time (seconds)": "8.874"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da análise de necessidades" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2698", 
+				"Answer time (seconds)": "10.089"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da análise de necessidades" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1718", 
+				"Answer time (seconds)": "3.183"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "681", 
+				"Current Total Score (points)": "1550", 
+				"Answer time (seconds)": "12.75"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q5": {
+			"Statement": "Quando avaliar o uso de um sistema?", 
+			"Correct Answer": "Desde o início da atividade de design até após a entrega", 
+			"Players Correct": "0.5", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Desde o início da atividade de design até após a entrega"", 
+					"Losangle": ""Na fase de projeto da interface do sistema"", 
+					"Circle": ""Durante o desenvolvimento"", 
+					"Square": ""Na fase de análise de necessidades dos usuários""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "1", 
+					"Circle": "2", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.4324", 
+					"Losangle": "6.822", 
+					"Circle": "5.8445", 
+					"Square": "12.527"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "755", 
+				"Current Total Score (points)": "1446", 
+				"Answer time (seconds)": "9.804"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Durante o desenvolvimento" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "893", 
+				"Answer time (seconds)": "2.237"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Durante o desenvolvimento" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1590", 
+				"Answer time (seconds)": "9.452"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1428", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "759", 
+				"Current Total Score (points)": "3434", 
+				"Answer time (seconds)": "9.628"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Na fase de análise de necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2321", 
+				"Answer time (seconds)": "16.992"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "1189", 
+				"Current Total Score (points)": "4585", 
+				"Answer time (seconds)": "8.437"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Na fase de análise de necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "791", 
+				"Answer time (seconds)": "8.062"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "840", 
+				"Current Total Score (points)": "3538", 
+				"Answer time (seconds)": "6.405"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "803", 
+				"Current Total Score (points)": "2521", 
+				"Answer time (seconds)": "7.888"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Na fase de projeto da interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1550", 
+				"Answer time (seconds)": "6.822"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q6": {
+			"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+			"Correct Answer": "Avaliação formativa ou construtiva", 
+			"Players Correct": "0.727272727272727", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Avaliação formativa ou construtiva"", 
+					"Losangle": ""Avaliação de IHC"", 
+					"Circle": ""Avaliação conclusiva"", 
+					"Square": ""Avaliação somativa""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "1", 
+					"Circle": "2", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.829", 
+					"Losangle": "11.899", 
+					"Circle": "7.1525", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "707", 
+				"Current Total Score (points)": "2153", 
+				"Answer time (seconds)": "15.736"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "587", 
+				"Current Total Score (points)": "1480", 
+				"Answer time (seconds)": "16.502"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "930", 
+				"Current Total Score (points)": "2520", 
+				"Answer time (seconds)": "2.794"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "659", 
+				"Current Total Score (points)": "2087", 
+				"Answer time (seconds)": "13.621"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação conclusiva" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3434", 
+				"Answer time (seconds)": "4.618"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação de IHC" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2321", 
+				"Answer time (seconds)": "11.899"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "1329", 
+				"Current Total Score (points)": "5914", 
+				"Answer time (seconds)": "6.859"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "734", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "10.651"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "4403", 
+				"Answer time (seconds)": "9.398"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação conclusiva" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2521", 
+				"Answer time (seconds)": "9.687"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "2273", 
+				"Answer time (seconds)": "11.071"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Q7": {
+			"Statement": "A avaliação de IHC realizada depois de uma solução estar pronta é chamada de:", 
+			"Correct Answer": "Avaliação somativa ou conclusiva", 
+			"Players Correct": "0.727272727272727", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Avaliação formativa"", 
+					"Losangle": ""Avaliação construtiva"", 
+					"Circle": ""Avaliação somativa ou conclusiva"", 
+					"Square": ""Avaliação de IHC""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "1", 
+					"Circle": "8", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.0865", 
+					"Losangle": "4.642", 
+					"Circle": "5.85575", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "1096", 
+				"Current Total Score (points)": "3249", 
+				"Answer time (seconds)": "4.152"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "801", 
+				"Current Total Score (points)": "2281", 
+				"Answer time (seconds)": "11.955"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "1011", 
+				"Current Total Score (points)": "3531", 
+				"Answer time (seconds)": "3.553"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "855", 
+				"Current Total Score (points)": "2942", 
+				"Answer time (seconds)": "9.785"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "916", 
+				"Current Total Score (points)": "4350", 
+				"Answer time (seconds)": "3.367"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "3181", 
+				"Answer time (seconds)": "5.593"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação formativa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5914", 
+				"Answer time (seconds)": "4.636"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação formativa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1525", 
+				"Answer time (seconds)": "9.537"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "1101", 
+				"Current Total Score (points)": "5504", 
+				"Answer time (seconds)": "3.979"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação somativa ou conclusiva" 
+				},
+				"Score (points)": "888", 
+				"Current Total Score (points)": "3409", 
+				"Answer time (seconds)": "4.462"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação construtiva" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2273", 
+				"Answer time (seconds)": "4.642"
+			}
+		]
+	}
+}
+}

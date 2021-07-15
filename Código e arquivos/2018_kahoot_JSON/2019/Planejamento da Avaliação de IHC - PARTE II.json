@@ -1,0 +1,2734 @@
+{"Overview": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Played on": "5 Nov 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "19", 
+		"Played": "9 of 9"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.649122834205627", 
+		"Total incorrect answers (%)": "0.350877195596695", 
+		"Average score (points)": "5393.4736328125"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Planejamento da Avaliação de IHC - PARTE II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Bogotá", 
+			"Total Score": "8794", 
+			"Correct Answers": "8", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Sidney", 
+			"Total Score": "8418", 
+			"Correct Answers": "8", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Recife", 
+			"Total Score": "6965", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Cairo", 
+			"Total Score": "6507", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Toronto", 
+			"Total Score": "6292", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Dubai", 
+			"Total Score": "6211", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Estocolmo", 
+			"Total Score": "5986", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Madrid", 
+			"Total Score": "5770", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Denver", 
+			"Total Score": "5535", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Praga", 
+			"Total Score": "5233", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Bagdá", 
+			"Total Score": "4947", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Helsink", 
+			"Total Score": "4808", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Tóquio", 
+			"Total Score": "4567", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Cape Town", 
+			"Total Score": "4345", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Moscow", 
+			"Total Score": "4298", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Pequim", 
+			"Total Score": "4228", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Lisboa", 
+			"Total Score": "3591", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "5"
+		}
+	]
+},
+"Question Summary": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Bogotá", 
+				"Total Score": "8794", 
+				"Q1": {
+						"Score": "962", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "982", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "1148", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q5": {
+						"Score": "960", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "975", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "1132", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1245", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Sidney", 
+				"Total Score": "8418", 
+				"Q1": {
+						"Score": "980", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "845", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q4": {
+						"Score": "772", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "967", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "1022", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "1148", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1297", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Recife", 
+				"Total Score": "6965", 
+				"Q1": {
+						"Score": "975", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "910", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "865", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "872", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "998", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1137", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Cairo", 
+				"Total Score": "6507", 
+				"Q1": {
+						"Score": "983", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "913", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "692", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "792", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "903", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1057", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Toronto", 
+				"Total Score": "6292", 
+				"Q1": {
+						"Score": "975", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "765", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "597", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "845", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "745", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1090", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Dubai", 
+				"Total Score": "6211", 
+				"Q1": {
+						"Score": "957", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "782", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "650", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "605", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "860", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1087", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Estocolmo", 
+				"Total Score": "5986", 
+				"Q1": {
+						"Score": "835", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "773", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q4": {
+						"Score": "632", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "833", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "757", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "993", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Madrid", 
+				"Total Score": "5770", 
+				"Q1": {
+						"Score": "948", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "942", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "878", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "778", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1057", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Denver", 
+				"Total Score": "5535", 
+				"Q1": {
+						"Score": "978", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "727", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "815", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "937", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "838", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Praga", 
+				"Total Score": "5233", 
+				"Q1": {
+						"Score": "972", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "883", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "970", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q5": {
+						"Score": "723", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "660", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1025", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Bagdá", 
+				"Total Score": "4947", 
+				"Q1": {
+						"Score": "972", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q3": {
+						"Score": "867", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "910", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1040", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Helsink", 
+				"Total Score": "4808", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Em um contexto que simule o uso do sistema"
+				}, 
+				"Q2": {
+						"Score": "655", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "675", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "837", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "1000", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "893", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Tóquio", 
+				"Total Score": "4567", 
+				"Q1": {
+						"Score": "987", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "873", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "685", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "942", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Cape Town", 
+				"Total Score": "4345", 
+				"Q1": {
+						"Score": "952", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "660", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q7": {
+						"Score": "573", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "982", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Moscow", 
+				"Total Score": "4298", 
+				"Q1": {
+						"Score": "968", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "638", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "842", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "853", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Pequim", 
+				"Total Score": "4228", 
+				"Q1": {
+						"Score": "975", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Conceitos na forma de rótulos ou categorias"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Identificar problemas reais que os usuários enfrentaram"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q5": {
+						"Score": "685", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q7": {
+						"Score": "732", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Investigação, observação de uso e de inspeção"
+				}, 
+				"Q8": {
+						"Score": "1033", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Lisboa", 
+				"Total Score": "3591", 
+				"Q1": {
+						"Score": "965", 
+						"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+						"Answer": "Contexto real de uso ou laboratório"
+				}, 
+				"Q2": {
+						"Score": "843", 
+						"Statement": "Os dados de intervalo representam:", 
+						"Answer": "Períodos, faixas ou distâncias entre os dados ordinais"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Métodos de investigação permitem ao avaliador:", 
+						"Answer": "Antever as possíveis consequências de  decisões de design"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Os dados nominais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Métodos de inspeção permitem ao avaliador:", 
+						"Answer": "Ratificar ou retificar o entendimento da situação atual"
+				}, 
+				"Q6": {
+						"Score": "878", 
+						"Statement": "Os dados qualitativos representam:", 
+						"Answer": "Conceitos que não são representados numericamente"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+						"Answer": "Métodos de investigação e observação de uso"
+				}, 
+				"Q8": {
+						"Score": "905", 
+						"Statement": "Os dados ordinais representam:", 
+						"Answer": "Conceitos com relações que definem tipo de ordem entre eles"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"1 Quiz": {
+			"Statement": "Onde coletar dados sobre experiências de uso? Escolha a melhor resposta", 
+			"Correct Answer": "Contexto real de uso ou laboratório", 
+			"Players Correct": "0.894736842105263", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Em um ambiente controlado", 
+					"Losangle": "Em um contexto que simule o uso do sistema", 
+					"Circle": "Contexto real de uso ou laboratório", 
+					"Square": "Em um laboratório"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "2", 
+					"Circle": "17", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "4.65", 
+					"Circle": "2.27647058823529", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "987", 
+				"Current Total Score (points)": "987", 
+				"Answer time (seconds)": "0.8"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.3"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "835", 
+				"Current Total Score (points)": "835", 
+				"Answer time (seconds)": "9.9"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "968", 
+				"Current Total Score (points)": "968", 
+				"Answer time (seconds)": "1.9"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "978", 
+				"Current Total Score (points)": "978", 
+				"Answer time (seconds)": "1.3"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "957", 
+				"Current Total Score (points)": "957", 
+				"Answer time (seconds)": "2.6"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "948", 
+				"Current Total Score (points)": "948", 
+				"Answer time (seconds)": "3.1"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em um contexto que simule o uso do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "975", 
+				"Answer time (seconds)": "1.5"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "962", 
+				"Current Total Score (points)": "962", 
+				"Answer time (seconds)": "2.3"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "980", 
+				"Current Total Score (points)": "980", 
+				"Answer time (seconds)": "1.2"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "975", 
+				"Answer time (seconds)": "1.5"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "952", 
+				"Current Total Score (points)": "952", 
+				"Answer time (seconds)": "2.9"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "975", 
+				"Answer time (seconds)": "1.5"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "983", 
+				"Current Total Score (points)": "983", 
+				"Answer time (seconds)": "1"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "972", 
+				"Current Total Score (points)": "972", 
+				"Answer time (seconds)": "1.7"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Contexto real de uso ou laboratório" 
+				},
+				"Score (points)": "972", 
+				"Current Total Score (points)": "972", 
+				"Answer time (seconds)": "1.7"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"2 Quiz": {
+			"Statement": "Os dados de intervalo representam:", 
+			"Correct Answer": "Períodos, faixas ou distâncias entre os dados ordinais", 
+			"Players Correct": "0.789473684210526", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Conceitos que não são representados numericamente", 
+					"Losangle": "Conceitos com relações que definem tipo de ordem entre eles", 
+					"Circle": "Conceitos na forma de rótulos ou categorias", 
+					"Square": "Períodos, faixas ou distâncias entre os dados ordinais"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "3", 
+					"Circle": "1", 
+					"Square": "15"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "19.6", 
+					"Circle": "21.8", 
+					"Square": "16.2666666666667"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "873", 
+				"Current Total Score (points)": "1860", 
+				"Answer time (seconds)": "13.6"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "655", 
+				"Current Total Score (points)": "655", 
+				"Answer time (seconds)": "20.7"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "773", 
+				"Current Total Score (points)": "1608", 
+				"Answer time (seconds)": "19.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "638", 
+				"Current Total Score (points)": "1606", 
+				"Answer time (seconds)": "27.7"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "727", 
+				"Current Total Score (points)": "1705", 
+				"Answer time (seconds)": "22.4"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "782", 
+				"Current Total Score (points)": "1739", 
+				"Answer time (seconds)": "19.1"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "1890", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "27"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "910", 
+				"Current Total Score (points)": "1885", 
+				"Answer time (seconds)": "11.4"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "982", 
+				"Current Total Score (points)": "1944", 
+				"Answer time (seconds)": "7.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "1825", 
+				"Answer time (seconds)": "15.3"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "975", 
+				"Answer time (seconds)": "21.8"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "952", 
+				"Answer time (seconds)": "20.9"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "765", 
+				"Current Total Score (points)": "1740", 
+				"Answer time (seconds)": "20.1"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "913", 
+				"Current Total Score (points)": "1896", 
+				"Answer time (seconds)": "11.2"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "972", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "802", 
+				"Current Total Score (points)": "1774", 
+				"Answer time (seconds)": "17.9"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"3 Quiz": {
+			"Statement": "Métodos de investigação permitem ao avaliador:", 
+			"Correct Answer": "Ratificar ou retificar o entendimento da situação atual", 
+			"Players Correct": "0.157894736842105", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Ratificar ou retificar o entendimento da situação atual", 
+					"Losangle": "Antever as possíveis consequências de  decisões de design", 
+					"Circle": "Identificar problemas reais que os usuários enfrentaram", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "5", 
+					"Circle": "11", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.3", 
+					"Losangle": "15.88", 
+					"Circle": "15.9363636363636", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1860", 
+				"Answer time (seconds)": "4.1"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "655", 
+				"Answer time (seconds)": "21.4"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1608", 
+				"Answer time (seconds)": "26.2"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1606", 
+				"Answer time (seconds)": "20.6"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1705", 
+				"Answer time (seconds)": "17"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1739", 
+				"Answer time (seconds)": "14.3"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1890", 
+				"Answer time (seconds)": "13.5"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1885", 
+				"Answer time (seconds)": "10.7"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "1148", 
+				"Current Total Score (points)": "3092", 
+				"Answer time (seconds)": "3.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1825", 
+				"Answer time (seconds)": "12.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "975", 
+				"Answer time (seconds)": "24.8"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "952", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1740", 
+				"Answer time (seconds)": "26.4"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1896", 
+				"Answer time (seconds)": "13.2"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Ratificar ou retificar o entendimento da situação atual" 
+				},
+				"Score (points)": "867", 
+				"Current Total Score (points)": "1839", 
+				"Answer time (seconds)": "8"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1774", 
+				"Answer time (seconds)": "15.2"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"4 Quiz": {
+			"Statement": "Os dados nominais representam:", 
+			"Correct Answer": "Conceitos na forma de rótulos ou categorias", 
+			"Players Correct": "0.526315789473684", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Conceitos que não são representados numericamente", 
+					"Losangle": "Conceitos com relações que definem tipo de ordem entre eles", 
+					"Circle": "Conceitos na forma de rótulos ou categorias", 
+					"Square": "Períodos, faixas ou distâncias entre os dados ordinais"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "6", 
+					"Losangle": "3", 
+					"Circle": "10", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "15.5166666666667", 
+					"Losangle": "11.5333333333333", 
+					"Circle": "17.37", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "685", 
+				"Current Total Score (points)": "2545", 
+				"Answer time (seconds)": "18.9"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "675", 
+				"Current Total Score (points)": "1330", 
+				"Answer time (seconds)": "19.5"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "632", 
+				"Current Total Score (points)": "2240", 
+				"Answer time (seconds)": "22.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1606", 
+				"Answer time (seconds)": "9.7"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1705", 
+				"Answer time (seconds)": "18.2"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "650", 
+				"Current Total Score (points)": "2389", 
+				"Answer time (seconds)": "21"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "878", 
+				"Current Total Score (points)": "2768", 
+				"Answer time (seconds)": "7.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "2750", 
+				"Answer time (seconds)": "8.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3092", 
+				"Answer time (seconds)": "5.2"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "772", 
+				"Current Total Score (points)": "2597", 
+				"Answer time (seconds)": "13.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "975", 
+				"Answer time (seconds)": "23.6"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "660", 
+				"Current Total Score (points)": "1612", 
+				"Answer time (seconds)": "20.4"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "597", 
+				"Current Total Score (points)": "2337", 
+				"Answer time (seconds)": "24.2"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "692", 
+				"Current Total Score (points)": "2588", 
+				"Answer time (seconds)": "18.5"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1839", 
+				"Answer time (seconds)": "8.3"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1774", 
+				"Answer time (seconds)": "23.3"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"5 Quiz": {
+			"Statement": "Métodos de inspeção permitem ao avaliador:", 
+			"Correct Answer": "Antever as possíveis consequências de  decisões de design", 
+			"Players Correct": "0.421052631578947", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Ratificar ou retificar o entendimento da situação atual", 
+					"Losangle": "Antever as possíveis consequências de  decisões de design", 
+					"Circle": "Identificar problemas reais que os usuários enfrentaram", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "8", 
+					"Circle": "10", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "6.2", 
+					"Losangle": "12.5", 
+					"Circle": "8.94", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2545", 
+				"Answer time (seconds)": "5.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "837", 
+				"Current Total Score (points)": "2167", 
+				"Answer time (seconds)": "15.8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "833", 
+				"Current Total Score (points)": "3073", 
+				"Answer time (seconds)": "16"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "842", 
+				"Current Total Score (points)": "2448", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1705", 
+				"Answer time (seconds)": "12.3"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2389", 
+				"Answer time (seconds)": "9.1"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2768", 
+				"Answer time (seconds)": "9.2"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "787", 
+				"Current Total Score (points)": "787", 
+				"Answer time (seconds)": "12.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2750", 
+				"Answer time (seconds)": "3"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "960", 
+				"Current Total Score (points)": "4052", 
+				"Answer time (seconds)": "2.4"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "967", 
+				"Current Total Score (points)": "3564", 
+				"Answer time (seconds)": "8"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antever as possíveis consequências de  decisões de design" 
+				},
+				"Score (points)": "685", 
+				"Current Total Score (points)": "1660", 
+				"Answer time (seconds)": "18.9"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1612", 
+				"Answer time (seconds)": "18.6"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2337", 
+				"Answer time (seconds)": "12.6"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2588", 
+				"Answer time (seconds)": "7.8"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1839", 
+				"Answer time (seconds)": "7.1"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Identificar problemas reais que os usuários enfrentaram" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1774", 
+				"Answer time (seconds)": "4"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"6 Quiz": {
+			"Statement": "Os dados qualitativos representam:", 
+			"Correct Answer": "Conceitos que não são representados numericamente", 
+			"Players Correct": "0.526315789473684", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Conceitos que não são representados numericamente", 
+					"Losangle": "Conceitos com relações que definem tipo de ordem entre eles", 
+					"Circle": "Conceitos na forma de rótulos ou categorias", 
+					"Square": "Períodos, faixas ou distâncias entre os dados ordinais"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "10", 
+					"Losangle": "7", 
+					"Circle": "1", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.51", 
+					"Losangle": "13.7142857142857", 
+					"Circle": "6.1", 
+					"Square": "25.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2545", 
+				"Answer time (seconds)": "9.6"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "1000", 
+				"Current Total Score (points)": "3167", 
+				"Answer time (seconds)": "12"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3073", 
+				"Answer time (seconds)": "13.1"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2448", 
+				"Answer time (seconds)": "11.5"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "815", 
+				"Current Total Score (points)": "2520", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "605", 
+				"Current Total Score (points)": "2994", 
+				"Answer time (seconds)": "23.7"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2768", 
+				"Answer time (seconds)": "7.2"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "787", 
+				"Answer time (seconds)": "16.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "872", 
+				"Current Total Score (points)": "3622", 
+				"Answer time (seconds)": "7.7"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "5027", 
+				"Answer time (seconds)": "7.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "1022", 
+				"Current Total Score (points)": "4586", 
+				"Answer time (seconds)": "10.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1660", 
+				"Answer time (seconds)": "25.4"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos na forma de rótulos ou categorias" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1612", 
+				"Answer time (seconds)": "6.1"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "3182", 
+				"Answer time (seconds)": "9.3"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "792", 
+				"Current Total Score (points)": "3380", 
+				"Answer time (seconds)": "12.5"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1839", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos que não são representados numericamente" 
+				},
+				"Score (points)": "778", 
+				"Current Total Score (points)": "2552", 
+				"Answer time (seconds)": "13.3"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"7 Quiz": {
+			"Statement": "Os métodos de avaliação de IHC podem ser classificados em:", 
+			"Correct Answer": "Investigação, observação de uso e de inspeção", 
+			"Players Correct": "0.736842105263158", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Investigação, observação de uso e de inspeção", 
+					"Losangle": "Métodos de inspeção e observação", 
+					"Circle": "Métodos de investigação e observação de uso", 
+					"Square": "Métodos de Observação de uso"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "14", 
+					"Losangle": "2", 
+					"Circle": "3", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "14.0285714285714", 
+					"Losangle": "7.3", 
+					"Circle": "24.4666666666667", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2545", 
+				"Answer time (seconds)": "25.1"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "4060", 
+				"Answer time (seconds)": "24.4"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "757", 
+				"Current Total Score (points)": "3830", 
+				"Answer time (seconds)": "14.6"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de investigação e observação de uso" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2448", 
+				"Answer time (seconds)": "26.3"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "937", 
+				"Current Total Score (points)": "3457", 
+				"Answer time (seconds)": "9.8"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "3854", 
+				"Answer time (seconds)": "14.4"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "778", 
+				"Current Total Score (points)": "3546", 
+				"Answer time (seconds)": "13.3"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de inspeção e observação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "787", 
+				"Answer time (seconds)": "7.8"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "998", 
+				"Current Total Score (points)": "4620", 
+				"Answer time (seconds)": "6.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "1132", 
+				"Current Total Score (points)": "6159", 
+				"Answer time (seconds)": "4.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "1148", 
+				"Current Total Score (points)": "5734", 
+				"Answer time (seconds)": "9.1"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "732", 
+				"Current Total Score (points)": "2392", 
+				"Answer time (seconds)": "16.1"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "573", 
+				"Current Total Score (points)": "2185", 
+				"Answer time (seconds)": "25.6"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "745", 
+				"Current Total Score (points)": "3927", 
+				"Answer time (seconds)": "21.3"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "903", 
+				"Current Total Score (points)": "4283", 
+				"Answer time (seconds)": "11.8"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Investigação, observação de uso e de inspeção" 
+				},
+				"Score (points)": "910", 
+				"Current Total Score (points)": "2749", 
+				"Answer time (seconds)": "5.4"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Métodos de inspeção e observação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2552", 
+				"Answer time (seconds)": "6.8"
+			}
+		]
+	}
+},
+"Question 8": {
+	"Planejamento da Avaliação de IHC - PARTE II": {
+		"8 Quiz": {
+			"Statement": "Os dados ordinais representam:", 
+			"Correct Answer": "Conceitos com relações que definem tipo de ordem entre eles", 
+			"Players Correct": "0.947368421052632", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Conceitos que não são representados numericamente", 
+					"Losangle": "Conceitos com relações que definem tipo de ordem entre eles", 
+					"Circle": "Conceitos na forma de rótulos ou categorias", 
+					"Square": "Períodos, faixas ou distâncias entre os dados ordinais"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "18", 
+					"Circle": "0", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "7.13888888888889", 
+					"Circle": "0", 
+					"Square": "12.8"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "3487", 
+				"Answer time (seconds)": "3.5"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Helsink", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Períodos, faixas ou distâncias entre os dados ordinais" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4060", 
+				"Answer time (seconds)": "12.8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "993", 
+				"Current Total Score (points)": "4823", 
+				"Answer time (seconds)": "6.4"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "853", 
+				"Current Total Score (points)": "3301", 
+				"Answer time (seconds)": "8.8"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "838", 
+				"Current Total Score (points)": "4295", 
+				"Answer time (seconds)": "21.7"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1087", 
+				"Current Total Score (points)": "4941", 
+				"Answer time (seconds)": "6.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1057", 
+				"Current Total Score (points)": "4603", 
+				"Answer time (seconds)": "2.6"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "607", 
+				"Current Total Score (points)": "1394", 
+				"Answer time (seconds)": "23.6"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1137", 
+				"Current Total Score (points)": "5757", 
+				"Answer time (seconds)": "3.8"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1245", 
+				"Current Total Score (points)": "7404", 
+				"Answer time (seconds)": "3.3"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1297", 
+				"Current Total Score (points)": "7031", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1033", 
+				"Current Total Score (points)": "3425", 
+				"Answer time (seconds)": "4"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "982", 
+				"Current Total Score (points)": "3167", 
+				"Answer time (seconds)": "7.1"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1090", 
+				"Current Total Score (points)": "5017", 
+				"Answer time (seconds)": "6.6"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Cairo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1057", 
+				"Current Total Score (points)": "5340", 
+				"Answer time (seconds)": "8.6"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Bagdá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "1040", 
+				"Current Total Score (points)": "3789", 
+				"Answer time (seconds)": "3.6"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Conceitos com relações que definem tipo de ordem entre eles" 
+				},
+				"Score (points)": "972", 
+				"Current Total Score (points)": "3524", 
+				"Answer time (seconds)": "1.7"
+			}
+		]
+	}
+}
+}

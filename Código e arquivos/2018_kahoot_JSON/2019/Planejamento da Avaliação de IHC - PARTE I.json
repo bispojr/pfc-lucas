@@ -1,0 +1,1572 @@
+{"Overview": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Played on": "30 Oct 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "14", 
+		"Played": "7 of 7"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.683673441410065", 
+		"Total incorrect answers (%)": "0.316326528787613", 
+		"Average score (points)": "4309.35693359375"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "1", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Planejamento da Avaliação de IHC - PARTE I": 
+	[		{
+			"Rank": "1", 
+			"Player": "Recife", 
+			"Total Score": "7724", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Bogotá", 
+			"Total Score": "6859", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Sidney", 
+			"Total Score": "6028", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Praga", 
+			"Total Score": "5399", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Pequim", 
+			"Total Score": "4512", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Cape Town", 
+			"Total Score": "4276", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Madrid", 
+			"Total Score": "3861", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Lisboa", 
+			"Total Score": "3656", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Denver", 
+			"Total Score": "3453", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Nova Iorque", 
+			"Total Score": "3370", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Toronto", 
+			"Total Score": "3119", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Estocolmo", 
+			"Total Score": "3102", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "3"
+		}
+	]
+},
+"Question Summary": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Recife", 
+				"Total Score": "7724", 
+				"Q1": {
+						"Score": "885", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "907", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "1007", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "993", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "1237", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "1350", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Bogotá", 
+				"Total Score": "6859", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Projeta-se uma solução de interface para o sistema"
+				}, 
+				"Q2": {
+						"Score": "837", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "958", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "1102", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "1155", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "1337", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Sidney", 
+				"Total Score": "6028", 
+				"Q1": {
+						"Score": "898", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "983", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva da organização e do usuário"
+				}, 
+				"Q4": {
+						"Score": "875", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "985", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "1030", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Praga", 
+				"Total Score": "5399", 
+				"Q1": {
+						"Score": "763", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "960", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva do usuário e de quem concebe o sistema."
+				}, 
+				"Q4": {
+						"Score": "752", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "817", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "895", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Pequim", 
+				"Total Score": "4512", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Faz análise das necessidades dos usuários"
+				}, 
+				"Q2": {
+						"Score": "903", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "685", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da análise de necessidades"
+				}, 
+				"Q5": {
+						"Score": "815", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "1012", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Cape Town", 
+				"Total Score": "4276", 
+				"Q1": {
+						"Score": "822", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "758", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "938", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram do desenvolvimento do projeto"
+				}, 
+				"Q5": {
+						"Score": "865", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação de IHC"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Madrid", 
+				"Total Score": "3861", 
+				"Q1": {
+						"Score": "742", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir a qualidade total  de um produto."
+				}, 
+				"Q3": {
+						"Score": "585", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da concepção do sistema"
+				}, 
+				"Q5": {
+						"Score": "537", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "942", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Lisboa", 
+				"Total Score": "3656", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Projeta-se uma solução de interface para o sistema"
+				}, 
+				"Q2": {
+						"Score": "705", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "873", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "1000", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "1078", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação de IHC"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Denver", 
+				"Total Score": "3453", 
+				"Q1": {
+						"Score": "745", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "825", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "983", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da análise de necessidades"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Na fase de análise de necessidades dos usuários"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação de IHC"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Nova Iorque", 
+				"Total Score": "3370", 
+				"Q1": {
+						"Score": "842", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "915", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva do usuário e de quem concebe o sistema."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que participaram da concepção do sistema"
+				}, 
+				"Q5": {
+						"Score": "843", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação de IHC"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Toronto", 
+				"Total Score": "3119", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Projeta-se uma solução de interface para o sistema"
+				}, 
+				"Q2": {
+						"Score": "755", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva de quem desenvolve e de quem paga pelo sistema"
+				}, 
+				"Q4": {
+						"Score": "822", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "627", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "915", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação formativa ou construtiva"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Estocolmo", 
+				"Total Score": "3102", 
+				"Q1": {
+						"Score": "912", 
+						"Statement": "A avaliação de IHC é um momento onde:", 
+						"Answer": "Averigua-se a qualidade de uso da solução de IHC"
+				}, 
+				"Q2": {
+						"Score": "632", 
+						"Statement": "Por que avaliar? Escolha a melhor resposta", 
+						"Answer": "Garantir entrega do produto com maior garantia de qualidade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+						"Answer": "Perspectiva do usuário e de quem concebe o sistema."
+				}, 
+				"Q4": {
+						"Score": "738", 
+						"Statement": "A avaliação de IHC deve ser conduzida por:", 
+						"Answer": "Avaliadores que não participaram da concepção da solução"
+				}, 
+				"Q5": {
+						"Score": "820", 
+						"Statement": "Quando avaliar o uso de um sistema?", 
+						"Answer": "Desde o início da atividade de design até após a entrega"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+						"Answer": "Avaliação de IHC"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"1 Quiz": {
+			"Statement": "A avaliação de IHC é um momento onde:", 
+			"Correct Answer": "Averigua-se a qualidade de uso da solução de IHC", 
+			"Players Correct": "0.642857142857143", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Averigua-se a qualidade de uso da solução de IHC", 
+					"Losangle": "Projeta-se uma solução de interface para o sistema", 
+					"Circle": "Faz análise das necessidades dos usuários", 
+					"Square": "Identifica as personas do ambiente de uso do sistema"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "9", 
+					"Losangle": "3", 
+					"Circle": "2", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.1666666666667", 
+					"Losangle": "14.1", 
+					"Circle": "15.8", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "912", 
+				"Current Total Score (points)": "912", 
+				"Answer time (seconds)": "5.3"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "745", 
+				"Current Total Score (points)": "745", 
+				"Answer time (seconds)": "15.3"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Faz análise das necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.5"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "742", 
+				"Current Total Score (points)": "742", 
+				"Answer time (seconds)": "15.5"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "842", 
+				"Current Total Score (points)": "842", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "885", 
+				"Current Total Score (points)": "885", 
+				"Answer time (seconds)": "6.9"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Projeta-se uma solução de interface para o sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.1"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "898", 
+				"Current Total Score (points)": "898", 
+				"Answer time (seconds)": "6.1"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Faz análise das necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "822", 
+				"Current Total Score (points)": "822", 
+				"Answer time (seconds)": "10.7"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Projeta-se uma solução de interface para o sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.6"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Averigua-se a qualidade de uso da solução de IHC" 
+				},
+				"Score (points)": "717", 
+				"Current Total Score (points)": "717", 
+				"Answer time (seconds)": "17"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"2 Quiz": {
+			"Statement": "Por que avaliar? Escolha a melhor resposta", 
+			"Correct Answer": "Garantir entrega do produto com maior garantia de qualidade", 
+			"Players Correct": "0.857142857142857", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Para satisfazer cláusulas contratuais de desenvolvimento", 
+					"Losangle": "Para validar os requisitos funcionais do produto", 
+					"Circle": "Garantir entrega do produto com maior garantia de qualidade", 
+					"Square": "Garantir a qualidade total  de um produto."
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "0", 
+					"Circle": "12", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "0", 
+					"Circle": "14.0083333333333", 
+					"Square": "14.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "632", 
+				"Current Total Score (points)": "1544", 
+				"Answer time (seconds)": "28.1"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "825", 
+				"Current Total Score (points)": "1570", 
+				"Answer time (seconds)": "16.5"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "718", 
+				"Current Total Score (points)": "718", 
+				"Answer time (seconds)": "16.9"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Garantir a qualidade total  de um produto." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "742", 
+				"Answer time (seconds)": "21.6"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "915", 
+				"Current Total Score (points)": "1757", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "907", 
+				"Current Total Score (points)": "1792", 
+				"Answer time (seconds)": "11.6"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "837", 
+				"Current Total Score (points)": "837", 
+				"Answer time (seconds)": "9.8"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "983", 
+				"Current Total Score (points)": "1881", 
+				"Answer time (seconds)": "7"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "903", 
+				"Current Total Score (points)": "903", 
+				"Answer time (seconds)": "5.8"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "758", 
+				"Current Total Score (points)": "1580", 
+				"Answer time (seconds)": "20.5"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Garantir entrega do produto com maior garantia de qualidade" 
+				},
+				"Score (points)": "755", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "14.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Garantir a qualidade total  de um produto." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "717", 
+				"Answer time (seconds)": "7.2"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"3 Quiz": {
+			"Statement": "Um sistema interativo deve ser avaliado em diferentes perspectivas. Quais são elas?", 
+			"Correct Answer": "Perspectiva de quem concebe, constrói e de quem o utiliza.", 
+			"Players Correct": "0.5", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Perspectiva da organização e do usuário", 
+					"Losangle": "Perspectiva de quem concebe, constrói e de quem o utiliza.", 
+					"Circle": "Perspectiva de quem desenvolve e de quem paga pelo sistema", 
+					"Square": "Perspectiva do usuário e de quem concebe o sistema."
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "7", 
+					"Circle": "1", 
+					"Square": "5"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "13.9", 
+					"Losangle": "16.0285714285714", 
+					"Circle": "17.5", 
+					"Square": "20.2"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva do usuário e de quem concebe o sistema." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1544", 
+				"Answer time (seconds)": "15.5"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "983", 
+				"Current Total Score (points)": "2553", 
+				"Answer time (seconds)": "13"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva do usuário e de quem concebe o sistema." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "718", 
+				"Answer time (seconds)": "24.5"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "585", 
+				"Current Total Score (points)": "1327", 
+				"Answer time (seconds)": "24.9"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva do usuário e de quem concebe o sistema." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1757", 
+				"Answer time (seconds)": "9.2"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "1007", 
+				"Current Total Score (points)": "2799", 
+				"Answer time (seconds)": "11.6"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "958", 
+				"Current Total Score (points)": "1795", 
+				"Answer time (seconds)": "8.5"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva da organização e do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1881", 
+				"Answer time (seconds)": "13.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "685", 
+				"Current Total Score (points)": "1588", 
+				"Answer time (seconds)": "24.9"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Perspectiva de quem concebe, constrói e de quem o utiliza." 
+				},
+				"Score (points)": "938", 
+				"Current Total Score (points)": "2518", 
+				"Answer time (seconds)": "15.7"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva de quem desenvolve e de quem paga pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "755", 
+				"Answer time (seconds)": "17.5"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Perspectiva do usuário e de quem concebe o sistema." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "717", 
+				"Answer time (seconds)": "28.6"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"4 Quiz": {
+			"Statement": "A avaliação de IHC deve ser conduzida por:", 
+			"Correct Answer": "Avaliadores que não participaram da concepção da solução", 
+			"Players Correct": "0.571428571428571", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Avaliadores que participaram da análise de necessidades", 
+					"Losangle": "Avaliadores que participaram da concepção do sistema", 
+					"Circle": "Avaliadores que não participaram da concepção da solução", 
+					"Square": "Avaliadores que participaram do desenvolvimento do projeto"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "3", 
+					"Circle": "8", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "21.05", 
+					"Losangle": "25.7333333333333", 
+					"Circle": "13.5375", 
+					"Square": "19.4"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "738", 
+				"Current Total Score (points)": "2282", 
+				"Answer time (seconds)": "15.7"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da análise de necessidades" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2553", 
+				"Answer time (seconds)": "19.1"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da concepção do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "718", 
+				"Answer time (seconds)": "25.4"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da concepção do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1327", 
+				"Answer time (seconds)": "25.7"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da concepção do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1757", 
+				"Answer time (seconds)": "26.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "993", 
+				"Current Total Score (points)": "3792", 
+				"Answer time (seconds)": "18.4"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "1102", 
+				"Current Total Score (points)": "2897", 
+				"Answer time (seconds)": "5.9"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "875", 
+				"Current Total Score (points)": "2756", 
+				"Answer time (seconds)": "7.5"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram da análise de necessidades" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1588", 
+				"Answer time (seconds)": "23"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliadores que participaram do desenvolvimento do projeto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2518", 
+				"Answer time (seconds)": "19.4"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "822", 
+				"Current Total Score (points)": "1577", 
+				"Answer time (seconds)": "10.7"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliadores que não participaram da concepção da solução" 
+				},
+				"Score (points)": "613", 
+				"Current Total Score (points)": "1330", 
+				"Answer time (seconds)": "23.2"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"5 Quiz": {
+			"Statement": "Quando avaliar o uso de um sistema?", 
+			"Correct Answer": "Desde o início da atividade de design até após a entrega", 
+			"Players Correct": "0.857142857142857", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Desde o início da atividade de design até após a entrega", 
+					"Losangle": "Na fase de projeto da interface do sistema", 
+					"Circle": "Durante o desenvolvimento", 
+					"Square": "Na fase de análise de necessidades dos usuários"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "12", 
+					"Losangle": "1", 
+					"Circle": "0", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "15.2583333333333", 
+					"Losangle": "28.8", 
+					"Circle": "0", 
+					"Square": "23.6"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "820", 
+				"Current Total Score (points)": "3102", 
+				"Answer time (seconds)": "16.8"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Na fase de análise de necessidades dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2553", 
+				"Answer time (seconds)": "23.6"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Na fase de projeto da interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "718", 
+				"Answer time (seconds)": "28.8"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "537", 
+				"Current Total Score (points)": "1864", 
+				"Answer time (seconds)": "27.8"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "843", 
+				"Current Total Score (points)": "2600", 
+				"Answer time (seconds)": "9.4"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "1237", 
+				"Current Total Score (points)": "5029", 
+				"Answer time (seconds)": "9.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "1155", 
+				"Current Total Score (points)": "4052", 
+				"Answer time (seconds)": "8.7"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "985", 
+				"Current Total Score (points)": "3741", 
+				"Answer time (seconds)": "6.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "815", 
+				"Current Total Score (points)": "2403", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "3383", 
+				"Answer time (seconds)": "8.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "627", 
+				"Current Total Score (points)": "2204", 
+				"Answer time (seconds)": "28.4"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Desde o início da atividade de design até após a entrega" 
+				},
+				"Score (points)": "670", 
+				"Current Total Score (points)": "2000", 
+				"Answer time (seconds)": "25.8"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Planejamento da Avaliação de IHC - PARTE I": {
+		"6 Quiz": {
+			"Statement": "A avaliação de IHC realizada durante a elaboração da solução é denominada", 
+			"Correct Answer": "Avaliação formativa ou construtiva", 
+			"Players Correct": "0.571428571428571", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Avaliação formativa ou construtiva", 
+					"Losangle": "Avaliação de IHC", 
+					"Circle": "Avaliação conclusiva", 
+					"Square": "Avaliação somativa"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "6", 
+					"Circle": "0", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.575", 
+					"Losangle": "18.85", 
+					"Circle": "0", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação de IHC" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3102", 
+				"Answer time (seconds)": "24.4"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação de IHC" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2553", 
+				"Answer time (seconds)": "26.3"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "543", 
+				"Current Total Score (points)": "1261", 
+				"Answer time (seconds)": "27.4"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Madrid", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "942", 
+				"Current Total Score (points)": "2806", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação de IHC" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2600", 
+				"Answer time (seconds)": "9.9"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "1350", 
+				"Current Total Score (points)": "6379", 
+				"Answer time (seconds)": "9"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "1337", 
+				"Current Total Score (points)": "5389", 
+				"Answer time (seconds)": "3.8"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "1030", 
+				"Current Total Score (points)": "4771", 
+				"Answer time (seconds)": "10.2"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Pequim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "1012", 
+				"Current Total Score (points)": "3415", 
+				"Answer time (seconds)": "5.3"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação de IHC" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3383", 
+				"Answer time (seconds)": "24"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação formativa ou construtiva" 
+				},
+				"Score (points)": "915", 
+				"Current Total Score (points)": "3119", 
+				"Answer time (seconds)": "17.1"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Tel-aviv", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliação de IHC" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2000", 
+				"Answer time (seconds)": "4.3"
+			}
+		]
+	}
+}
+}

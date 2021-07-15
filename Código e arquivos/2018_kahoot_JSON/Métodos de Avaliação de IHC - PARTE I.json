@@ -1,0 +1,4386 @@
+{"Overview": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Played on": "13 Nov 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "19 players", 
+		"Played": "12 of 12 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.519999980926514", 
+		"Total incorrect answers (%)": "0.479999989271164", 
+		"Average score (points)": "5410.947265625"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "1", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Métodos de Avaliação de IHC - PARTE I": 
+	[		{
+			"Rank": "1", 
+			"Player": "Lebre", 
+			"Total Score": "9603", 
+			"Correct Answers": "10", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Escorpião", 
+			"Total Score": "8895", 
+			"Correct Answers": "10", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Bode", 
+			"Total Score": "7979", 
+			"Correct Answers": "8", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Minhoca", 
+			"Total Score": "6753", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Coelho", 
+			"Total Score": "6228", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Boi", 
+			"Total Score": "5792", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Gato", 
+			"Total Score": "5621", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Urubu", 
+			"Total Score": "5556", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Lagarto", 
+			"Total Score": "5531", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Zebra", 
+			"Total Score": "5336", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Mosca", 
+			"Total Score": "5115", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Peixe", 
+			"Total Score": "5078", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Corvo", 
+			"Total Score": "4810", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Hipopótamo", 
+			"Total Score": "4157", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "7"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Carneiro", 
+			"Total Score": "4063", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Formiga", 
+			"Total Score": "3951", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "7"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Cachorro", 
+			"Total Score": "3436", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "8"
+		},
+		{
+			"Rank": "18", 
+			"Player": "Camaleão", 
+			"Total Score": "3335", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "8"
+		},
+		{
+			"Rank": "19", 
+			"Player": "Cavalo", 
+			"Total Score": "1569", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "10"
+		}
+	]
+},
+"Question Summary": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Lebre", 
+				"Total Score": "9603", 
+				"Q1": {
+						"Score": "826", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "832", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "704", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q5": {
+						"Score": "1029", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q7": {
+						"Score": "754", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "966", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "968", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "1183", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "1024", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Resumo do conhecimento anterior e posterior do usuário."
+				}, 
+				"Q12": {
+						"Score": "1317", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Sobre a versão final do sistema interativo"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Escorpião", 
+				"Total Score": "8895", 
+				"Q1": {
+						"Score": "905", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "706", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "639", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar as expressões e conceitos da interface"
+				}, 
+				"Q6": {
+						"Score": "791", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "778", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "767", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "835", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "1181", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "1006", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Resumo do conhecimento anterior e posterior do usuário."
+				}, 
+				"Q12": {
+						"Score": "1287", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Sobre a versão final do sistema interativo"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Bode", 
+				"Total Score": "7979", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação dos avaliadores de interface"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "806", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "879", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de memorização de recursos da interface"
+				}, 
+				"Q6": {
+						"Score": "834", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "948", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "987", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "1104", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "1266", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "1155", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Resumo do conhecimento anterior e posterior do usuário."
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Em protótipos executáveis"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Minhoca", 
+				"Total Score": "6753", 
+				"Q1": {
+						"Score": "796", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "811", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q5": {
+						"Score": "790", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "975", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "1107", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "1147", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "1127", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Pequeno, médio, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Em protótipos executáveis"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Coelho", 
+				"Total Score": "6228", 
+				"Q1": {
+						"Score": "757", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "821", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "814", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "785", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "802", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "1198", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "1051", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Superficial, médio, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Boi", 
+				"Total Score": "5792", 
+				"Q1": {
+						"Score": "685", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Teste de Usabilidade, Avaliação de Comunicabilidade"
+				}, 
+				"Q4": {
+						"Score": "801", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de memorização de recursos da interface"
+				}, 
+				"Q6": {
+						"Score": "865", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "913", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar os padrões de acessibilidade do sistema"
+				}, 
+				"Q9": {
+						"Score": "678", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "1015", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "835", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Sobre a versão final do sistema interativo"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Gato", 
+				"Total Score": "5621", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação dos avaliadores de interface"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "785", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "845", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q5": {
+						"Score": "1000", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "1180", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q8": {
+						"Score": "892", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "919", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Pequeno, médio, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Em protótipos executáveis"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Urubu", 
+				"Total Score": "5556", 
+				"Q1": {
+						"Score": "857", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q3": {
+						"Score": "906", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de memorização de recursos da interface"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q8": {
+						"Score": "852", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "984", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "1084", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "873", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Sobre a versão final do sistema interativo"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Lagarto", 
+				"Total Score": "5531", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação dos desenvolvedores do sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "688", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "544", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "872", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "863", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "967", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando"
+				}, 
+				"Q10": {
+						"Score": "871", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "A lista da documentação necessária"
+				}, 
+				"Q12": {
+						"Score": "726", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Sobre a versão final do sistema interativo"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Zebra", 
+				"Total Score": "5336", 
+				"Q1": {
+						"Score": "845", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q3": {
+						"Score": "893", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q5": {
+						"Score": "838", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "926", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "1092", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": ""
+				}, 
+				"Q9": {
+						"Score": "742", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Pequeno, médio, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "A lista da documentação necessária"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Mosca", 
+				"Total Score": "5115", 
+				"Q1": {
+						"Score": "604", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Prototipação em papel e Avaliação de Comunicabilidade"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "809", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "912", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "891", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "1171", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "Nenhuma das alternativas"
+				}, 
+				"Q10": {
+						"Score": "728", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Peixe", 
+				"Total Score": "5078", 
+				"Q1": {
+						"Score": "739", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "650", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "739", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "917", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "992", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "1041", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "Nenhuma das alternativas"
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Superficial, médio, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Em protótipos executáveis"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Corvo", 
+				"Total Score": "4810", 
+				"Q1": {
+						"Score": "572", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "827", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "822", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "877", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q8": {
+						"Score": "875", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando"
+				}, 
+				"Q10": {
+						"Score": "837", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Hipopótamo", 
+				"Total Score": "4157", 
+				"Q1": {
+						"Score": "881", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "796", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "782", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q7": {
+						"Score": "780", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "918", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "Protótipos executáveis ou não"
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Pequeno, médio, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Carneiro", 
+				"Total Score": "4063", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação dos designers de interface"
+				}, 
+				"Q2": {
+						"Score": "586", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Teste de Usabilidade, Avaliação de Comunicabilidade"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q5": {
+						"Score": "805", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "934", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "1006", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizado de um sistema interativo"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando"
+				}, 
+				"Q10": {
+						"Score": "732", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": ""
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Em protótipos executáveis"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Formiga", 
+				"Total Score": "3951", 
+				"Q1": {
+						"Score": "753", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q3": {
+						"Score": "801", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q5": {
+						"Score": "762", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizadode um sistema interativo"
+				}, 
+				"Q6": {
+						"Score": "843", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q8": {
+						"Score": "792", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "0", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "Protótipos executáveis ou não"
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Superficial, médio, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Cachorro", 
+				"Total Score": "3436", 
+				"Q1": {
+						"Score": "876", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação de usuários"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "882", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de memorização de recursos da interface"
+				}, 
+				"Q6": {
+						"Score": "821", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a facilidade de aprendizado de um sistema interativo"
+				}, 
+				"Q9": {
+						"Score": "857", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Superficial, médio, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "A lista da documentação necessária"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "18", 
+				"Player": "Camaleão", 
+				"Total Score": "3335", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação dos desenvolvedores do sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Prototipação em papel e Avaliação de Comunicabilidade"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar as expressões e conceitos da interface"
+				}, 
+				"Q6": {
+						"Score": "711", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "A interface permite que o usuário desfaça e refaça ações"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q8": {
+						"Score": "694", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar a comunicabilidade de uma solução de IHC"
+				}, 
+				"Q9": {
+						"Score": "873", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "1057", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Cosmético, pequeno, grande, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "Uma lista de possíveis soluções"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "No projeto da interface"
+				}
+			}, 
+			{
+				"Rank": "19", 
+				"Player": "Cavalo", 
+				"Total Score": "1569", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Os métodos de inspeção não envolvem:", 
+						"Answer": "A participação dos avaliadores de interface"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+						"Answer": "Sistema utiliza conceitos, palavras familiares aos usuários"
+				}, 
+				"Q3": {
+						"Score": "805", 
+						"Statement": "Alguns métodos de inspeção em IHC são:", 
+						"Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+						"Answer": "Avaliar a facilidade de memorização de recursos da interface"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+						"Answer": "Sistema informa os usuários sobre o que está acontecendo"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+						"Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário"
+				}, 
+				"Q8": {
+						"Score": "0", 
+						"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+						"Answer": "Avaliar os padrões de acessibilidade do sistema"
+				}, 
+				"Q9": {
+						"Score": "764", 
+						"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+						"Answer": "O sistema funcionando, protótipos executáveis ou não."
+				}, 
+				"Q10": {
+						"Score": "0", 
+						"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+						"Answer": "Pequeno, médio, catastrófico"
+				}, 
+				"Q11": {
+						"Score": "0", 
+						"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+						"Answer": "A lista da documentação necessária"
+				}, 
+				"Q12": {
+						"Score": "0", 
+						"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+						"Answer": "Em protótipos executáveis"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q1": {
+			"Statement": "Os métodos de inspeção não envolvem:", 
+			"Correct Answer": "A participação de usuários", 
+			"Players Correct": "0.684210526315789", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""A participação dos avaliadores de interface"", 
+					"Losangle": ""A participação de usuários"", 
+					"Circle": ""A participação dos designers de interface"", 
+					"Square": ""A participação dos desenvolvedores do sistema""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "13", 
+					"Circle": "1", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.6946666666667", 
+					"Losangle": "8.935", 
+					"Circle": "19.825", 
+					"Square": "12.9815"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "905", 
+				"Current Total Score (points)": "905", 
+				"Answer time (seconds)": "3.805"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A participação dos avaliadores de interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "14.643"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "796", 
+				"Current Total Score (points)": "796", 
+				"Answer time (seconds)": "8.141"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "857", 
+				"Current Total Score (points)": "857", 
+				"Answer time (seconds)": "5.724"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "826", 
+				"Current Total Score (points)": "826", 
+				"Answer time (seconds)": "6.965"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "685", 
+				"Current Total Score (points)": "685", 
+				"Answer time (seconds)": "12.602"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A participação dos designers de interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.825"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "845", 
+				"Answer time (seconds)": "6.185"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "757", 
+				"Current Total Score (points)": "757", 
+				"Answer time (seconds)": "9.723"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "572", 
+				"Current Total Score (points)": "572", 
+				"Answer time (seconds)": "17.114"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A participação dos avaliadores de interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.02"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "876", 
+				"Current Total Score (points)": "876", 
+				"Answer time (seconds)": "4.96"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "753", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "9.899"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A participação dos avaliadores de interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.421"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A participação dos desenvolvedores do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.959"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A participação dos desenvolvedores do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "20.004"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "739", 
+				"Current Total Score (points)": "739", 
+				"Answer time (seconds)": "10.422"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "604", 
+				"Current Total Score (points)": "604", 
+				"Answer time (seconds)": "15.846"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A participação de usuários" 
+				},
+				"Score (points)": "881", 
+				"Current Total Score (points)": "881", 
+				"Answer time (seconds)": "4.769"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q2": {
+			"Statement": "A Heurística Visibilidade do Sistema discute sobre:", 
+			"Correct Answer": "Sistema informa os usuários sobre o que está acontecendo", 
+			"Players Correct": "0.0555555555555556", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Sistema utiliza conceitos, palavras familiares aos usuários"", 
+					"Losangle": ""A interface permite que o usuário desfaça e refaça ações"", 
+					"Circle": ""Instruções de uso visíveis ou acessíveis sempre q necessário"", 
+					"Square": ""Sistema informa os usuários sobre o que está acontecendo""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "1", 
+					"Circle": "13", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "13.6243333333333", 
+					"Losangle": "5.516", 
+					"Circle": "11.4733846153846", 
+					"Square": "16.572"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "905", 
+				"Answer time (seconds)": "18.605"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.557"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "796", 
+				"Answer time (seconds)": "9.986"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "857", 
+				"Answer time (seconds)": "5.516"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "826", 
+				"Answer time (seconds)": "18.785"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "685", 
+				"Answer time (seconds)": "4.449"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "586", 
+				"Current Total Score (points)": "586", 
+				"Answer time (seconds)": "16.572"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "845", 
+				"Answer time (seconds)": "12.284"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "757", 
+				"Answer time (seconds)": "13.454"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "572", 
+				"Answer time (seconds)": "8.501"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.346"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "876", 
+				"Answer time (seconds)": "5.314"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "15.747"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.842"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.016"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "739", 
+				"Answer time (seconds)": "16.762"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "604", 
+				"Answer time (seconds)": "14.845"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "881", 
+				"Answer time (seconds)": "6.534"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q3": {
+			"Statement": "Alguns métodos de inspeção em IHC são:", 
+			"Correct Answer": "Avaliação heurística,percurso cognitivo e inspeção semiótica", 
+			"Players Correct": "0.789473684210526", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Avaliação heurística,percurso cognitivo e inspeção semiótica"", 
+					"Losangle": ""Prototipação em papel e Avaliação de Comunicabilidade"", 
+					"Circle": ""Avaliação heurística e Avaliação de Comunicabilidade"", 
+					"Square": ""Teste de Usabilidade, Avaliação de Comunicabilidade""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "15", 
+					"Losangle": "2", 
+					"Circle": "0", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.97853333333333", 
+					"Losangle": "14.8205", 
+					"Circle": "0", 
+					"Square": "8.3045"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "706", 
+				"Current Total Score (points)": "1611", 
+				"Answer time (seconds)": "11.77"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "785", 
+				"Current Total Score (points)": "785", 
+				"Answer time (seconds)": "8.611"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "811", 
+				"Current Total Score (points)": "1607", 
+				"Answer time (seconds)": "7.562"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "906", 
+				"Current Total Score (points)": "1763", 
+				"Answer time (seconds)": "3.78"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "832", 
+				"Current Total Score (points)": "1658", 
+				"Answer time (seconds)": "6.727"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Teste de Usabilidade, Avaliação de Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "685", 
+				"Answer time (seconds)": "7.783"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Teste de Usabilidade, Avaliação de Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "586", 
+				"Answer time (seconds)": "8.826"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "893", 
+				"Current Total Score (points)": "1738", 
+				"Answer time (seconds)": "4.262"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "821", 
+				"Current Total Score (points)": "1578", 
+				"Answer time (seconds)": "7.149"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "827", 
+				"Current Total Score (points)": "1399", 
+				"Answer time (seconds)": "6.916"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "806", 
+				"Current Total Score (points)": "806", 
+				"Answer time (seconds)": "7.762"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "882", 
+				"Current Total Score (points)": "1758", 
+				"Answer time (seconds)": "4.71"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "801", 
+				"Current Total Score (points)": "1554", 
+				"Answer time (seconds)": "7.979"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "805", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "7.8"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "688", 
+				"Current Total Score (points)": "688", 
+				"Answer time (seconds)": "12.486"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Prototipação em papel e Avaliação de Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.824"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "650", 
+				"Current Total Score (points)": "1389", 
+				"Answer time (seconds)": "14.002"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Prototipação em papel e Avaliação de Comunicabilidade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "604", 
+				"Answer time (seconds)": "13.817"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação heurística,percurso cognitivo e inspeção semiótica" 
+				},
+				"Score (points)": "796", 
+				"Current Total Score (points)": "1677", 
+				"Answer time (seconds)": "8.162"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q4": {
+			"Statement": "A Heurística reconhecimento em vez de memorização discute sobre:", 
+			"Correct Answer": "Instruções de uso visíveis ou acessíveis sempre q necessário", 
+			"Players Correct": "0.263157894736842", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Sistema utiliza conceitos, palavras familiares aos usuários"", 
+					"Losangle": ""A interface permite que o usuário desfaça e refaça ações"", 
+					"Circle": ""Instruções de uso visíveis ou acessíveis sempre q necessário"", 
+					"Square": ""Sistema informa os usuários sobre o que está acontecendo""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "2", 
+					"Circle": "5", 
+					"Square": "4"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.01325", 
+					"Losangle": "7.307", 
+					"Circle": "12.2586", 
+					"Square": "13.08925"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "639", 
+				"Current Total Score (points)": "2250", 
+				"Answer time (seconds)": "18.446"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "845", 
+				"Current Total Score (points)": "1630", 
+				"Answer time (seconds)": "10.193"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1607", 
+				"Answer time (seconds)": "8.488"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1763", 
+				"Answer time (seconds)": "4.262"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "704", 
+				"Current Total Score (points)": "2362", 
+				"Answer time (seconds)": "15.852"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "801", 
+				"Current Total Score (points)": "1486", 
+				"Answer time (seconds)": "7.973"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "586", 
+				"Answer time (seconds)": "11.69"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1738", 
+				"Answer time (seconds)": "11.399"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1578", 
+				"Answer time (seconds)": "11.216"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1399", 
+				"Answer time (seconds)": "9.022"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "879", 
+				"Current Total Score (points)": "1685", 
+				"Answer time (seconds)": "8.829"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1758", 
+				"Answer time (seconds)": "3.215"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1554", 
+				"Answer time (seconds)": "16.463"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "8.297"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "688", 
+				"Answer time (seconds)": "14.167"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.109"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1389", 
+				"Answer time (seconds)": "9.394"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "604", 
+				"Answer time (seconds)": "10.779"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1677", 
+				"Answer time (seconds)": "9.576"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q5": {
+			"Statement": "O Método de avaliação percurso cognitivo de IHC tem como principal objetivo:", 
+			"Correct Answer": "Avaliar a facilidade de aprendizadode um sistema interativo", 
+			"Players Correct": "0.631578947368421", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Avaliar as expressões e conceitos da interface"", 
+					"Losangle": ""Avaliar as necessidades dos potenciais usuários"", 
+					"Circle": ""Avaliar a facilidade de aprendizadode um sistema interativo"", 
+					"Square": ""Avaliar a facilidade de memorização de recursos da interface""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "0", 
+					"Circle": "12", 
+					"Square": "5"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "15.3965", 
+					"Losangle": "0", 
+					"Circle": "8.88983333333333", 
+					"Square": "6.5734"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar as expressões e conceitos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2250", 
+				"Answer time (seconds)": "19.26"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "1000", 
+				"Current Total Score (points)": "2630", 
+				"Answer time (seconds)": "7.998"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "790", 
+				"Current Total Score (points)": "2397", 
+				"Answer time (seconds)": "8.416"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de memorização de recursos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1763", 
+				"Answer time (seconds)": "5.632"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "1029", 
+				"Current Total Score (points)": "3391", 
+				"Answer time (seconds)": "6.841"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de memorização de recursos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1486", 
+				"Answer time (seconds)": "6.52"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "805", 
+				"Current Total Score (points)": "1391", 
+				"Answer time (seconds)": "7.817"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "838", 
+				"Current Total Score (points)": "2576", 
+				"Answer time (seconds)": "6.497"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "814", 
+				"Current Total Score (points)": "2392", 
+				"Answer time (seconds)": "7.448"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "822", 
+				"Current Total Score (points)": "2221", 
+				"Answer time (seconds)": "7.14"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de memorização de recursos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1685", 
+				"Answer time (seconds)": "9.023"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de memorização de recursos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1758", 
+				"Answer time (seconds)": "6.299"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "762", 
+				"Current Total Score (points)": "2316", 
+				"Answer time (seconds)": "9.513"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de memorização de recursos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "5.393"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "544", 
+				"Current Total Score (points)": "1232", 
+				"Answer time (seconds)": "18.242"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar as expressões e conceitos da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.533"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "739", 
+				"Current Total Score (points)": "2128", 
+				"Answer time (seconds)": "10.422"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "809", 
+				"Current Total Score (points)": "1413", 
+				"Answer time (seconds)": "7.635"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a facilidade de aprendizadode um sistema interativo" 
+				},
+				"Score (points)": "782", 
+				"Current Total Score (points)": "2459", 
+				"Answer time (seconds)": "8.709"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q6": {
+			"Statement": "A Heurística controle e liberdade do usuário discute sobre:", 
+			"Correct Answer": "A interface permite que o usuário desfaça e refaça ações", 
+			"Players Correct": "0.789473684210526", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Sistema utiliza conceitos, palavras familiares aos usuários"", 
+					"Losangle": ""A interface permite que o usuário desfaça e refaça ações"", 
+					"Circle": ""Instruções de uso visíveis ou acessíveis sempre q necessário"", 
+					"Square": ""Sistema informa os usuários sobre o que está acontecendo""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "1", 
+					"Losangle": "15", 
+					"Circle": "0", 
+					"Square": "3"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "19.359", 
+					"Losangle": "7.88346666666667", 
+					"Circle": "0", 
+					"Square": "5.782"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "791", 
+				"Current Total Score (points)": "3041", 
+				"Answer time (seconds)": "8.37"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "1180", 
+				"Current Total Score (points)": "3810", 
+				"Answer time (seconds)": "4.783"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "975", 
+				"Current Total Score (points)": "3372", 
+				"Answer time (seconds)": "5.003"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1763", 
+				"Answer time (seconds)": "4.25"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3391", 
+				"Answer time (seconds)": "19.359"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "2351", 
+				"Answer time (seconds)": "5.405"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "934", 
+				"Current Total Score (points)": "2325", 
+				"Answer time (seconds)": "6.652"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "926", 
+				"Current Total Score (points)": "3502", 
+				"Answer time (seconds)": "6.968"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "785", 
+				"Current Total Score (points)": "3177", 
+				"Answer time (seconds)": "12.59"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "877", 
+				"Current Total Score (points)": "3098", 
+				"Answer time (seconds)": "8.919"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "834", 
+				"Current Total Score (points)": "2519", 
+				"Answer time (seconds)": "6.638"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "821", 
+				"Current Total Score (points)": "2579", 
+				"Answer time (seconds)": "7.141"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "843", 
+				"Current Total Score (points)": "3159", 
+				"Answer time (seconds)": "10.263"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "6.451"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "872", 
+				"Current Total Score (points)": "2104", 
+				"Answer time (seconds)": "9.107"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "711", 
+				"Current Total Score (points)": "711", 
+				"Answer time (seconds)": "11.565"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "917", 
+				"Current Total Score (points)": "3045", 
+				"Answer time (seconds)": "7.323"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A interface permite que o usuário desfaça e refaça ações" 
+				},
+				"Score (points)": "912", 
+				"Current Total Score (points)": "2325", 
+				"Answer time (seconds)": "7.525"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2459", 
+				"Answer time (seconds)": "6.645"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q7": {
+			"Statement": "A Heurística Correspondência entre o sistema e o mundo real discute sobre:", 
+			"Correct Answer": "Sistema utiliza conceitos, palavras familiares aos usuários", 
+			"Players Correct": "0.631578947368421", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Sistema utiliza conceitos, palavras familiares aos usuários"", 
+					"Losangle": ""A interface permite que o usuário desfaça e refaça ações"", 
+					"Circle": ""Instruções de uso visíveis ou acessíveis sempre q necessário"", 
+					"Square": ""Sistema informa os usuários sobre o que está acontecendo""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "12", 
+					"Losangle": "0", 
+					"Circle": "3", 
+					"Square": "4"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.24783333333333", 
+					"Losangle": "0", 
+					"Circle": "7.048", 
+					"Square": "7.78125"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "778", 
+				"Current Total Score (points)": "3819", 
+				"Answer time (seconds)": "12.898"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3810", 
+				"Answer time (seconds)": "7.284"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "1107", 
+				"Current Total Score (points)": "4479", 
+				"Answer time (seconds)": "3.721"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1763", 
+				"Answer time (seconds)": "8.015"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "754", 
+				"Current Total Score (points)": "4145", 
+				"Answer time (seconds)": "9.824"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "913", 
+				"Current Total Score (points)": "3264", 
+				"Answer time (seconds)": "7.488"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "1006", 
+				"Current Total Score (points)": "3331", 
+				"Answer time (seconds)": "7.742"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "1092", 
+				"Current Total Score (points)": "4594", 
+				"Answer time (seconds)": "4.338"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "802", 
+				"Current Total Score (points)": "3979", 
+				"Answer time (seconds)": "15.914"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3098", 
+				"Answer time (seconds)": "3.915"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "948", 
+				"Current Total Score (points)": "3467", 
+				"Answer time (seconds)": "6.076"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2579", 
+				"Answer time (seconds)": "7.506"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3159", 
+				"Answer time (seconds)": "11.313"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Instruções de uso visíveis ou acessíveis sempre q necessário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "5.623"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "2967", 
+				"Answer time (seconds)": "13.489"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Sistema informa os usuários sobre o que está acontecendo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "711", 
+				"Answer time (seconds)": "8.613"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "992", 
+				"Current Total Score (points)": "4037", 
+				"Answer time (seconds)": "8.329"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "891", 
+				"Current Total Score (points)": "3216", 
+				"Answer time (seconds)": "12.36"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sistema utiliza conceitos, palavras familiares aos usuários" 
+				},
+				"Score (points)": "780", 
+				"Current Total Score (points)": "3239", 
+				"Answer time (seconds)": "8.795"
+			}
+		]
+	}
+},
+"Question 8": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q8": {
+			"Statement": "O método de Inspeção Semiótica tem por objetivo:", 
+			"Correct Answer": "Avaliar a comunicabilidade de uma solução de IHC", 
+			"Players Correct": "0.777777777777778", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Avaliar problemas  de usabilidade"", 
+					"Losangle": ""Avaliar a facilidade de aprendizado de um sistema interativo"", 
+					"Circle": ""Avaliar os padrões de acessibilidade do sistema"", 
+					"Square": ""Avaliar a comunicabilidade de uma solução de IHC""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "2", 
+					"Circle": "2", 
+					"Square": "14"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "11.2465", 
+					"Circle": "8.846", 
+					"Square": "8.09428571428571"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "767", 
+				"Current Total Score (points)": "4586", 
+				"Answer time (seconds)": "17.331"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "892", 
+				"Current Total Score (points)": "4702", 
+				"Answer time (seconds)": "4.324"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "1147", 
+				"Current Total Score (points)": "5626", 
+				"Answer time (seconds)": "6.106"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "852", 
+				"Current Total Score (points)": "2615", 
+				"Answer time (seconds)": "5.924"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "966", 
+				"Current Total Score (points)": "5111", 
+				"Answer time (seconds)": "5.365"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar os padrões de acessibilidade do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3264", 
+				"Answer time (seconds)": "8.528"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de aprendizado de um sistema interativo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3331", 
+				"Answer time (seconds)": "18.831"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4594", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "1198", 
+				"Current Total Score (points)": "5177", 
+				"Answer time (seconds)": "4.081"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "875", 
+				"Current Total Score (points)": "3973", 
+				"Answer time (seconds)": "4.999"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "987", 
+				"Current Total Score (points)": "4454", 
+				"Answer time (seconds)": "8.509"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar a facilidade de aprendizado de um sistema interativo" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2579", 
+				"Answer time (seconds)": "3.662"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "792", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "8.308"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avaliar os padrões de acessibilidade do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "805", 
+				"Answer time (seconds)": "9.164"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "967", 
+				"Current Total Score (points)": "3934", 
+				"Answer time (seconds)": "13.311"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "694", 
+				"Current Total Score (points)": "1405", 
+				"Answer time (seconds)": "12.253"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "1041", 
+				"Current Total Score (points)": "5078", 
+				"Answer time (seconds)": "10.362"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "1171", 
+				"Current Total Score (points)": "4387", 
+				"Answer time (seconds)": "5.176"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliar a comunicabilidade de uma solução de IHC" 
+				},
+				"Score (points)": "918", 
+				"Current Total Score (points)": "4157", 
+				"Answer time (seconds)": "7.271"
+			}
+		]
+	}
+},
+"Question 9": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q9": {
+			"Statement": "Para a avaliação heurística a solução de IHC avaliada pode ser: (Escolha a melhor resposta)", 
+			"Correct Answer": "O sistema funcionando, protótipos executáveis ou não.", 
+			"Players Correct": "0.631578947368421", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Protótipos executáveis ou não"", 
+					"Losangle": ""O sistema funcionando"", 
+					"Circle": ""Nenhuma das alternativas"", 
+					"Square": ""O sistema funcionando, protótipos executáveis ou não.""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "3", 
+					"Circle": "2", 
+					"Square": "12"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.8375", 
+					"Losangle": "13.7346666666667", 
+					"Circle": "13.421", 
+					"Square": "9.99591666666667"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "835", 
+				"Current Total Score (points)": "5421", 
+				"Answer time (seconds)": "18.61"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "919", 
+				"Current Total Score (points)": "5621", 
+				"Answer time (seconds)": "7.247"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "1127", 
+				"Current Total Score (points)": "6753", 
+				"Answer time (seconds)": "10.908"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "984", 
+				"Current Total Score (points)": "3599", 
+				"Answer time (seconds)": "4.655"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "968", 
+				"Current Total Score (points)": "6079", 
+				"Answer time (seconds)": "9.275"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "678", 
+				"Current Total Score (points)": "3942", 
+				"Answer time (seconds)": "12.893"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O sistema funcionando" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3331", 
+				"Answer time (seconds)": "14.121"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "742", 
+				"Current Total Score (points)": "5336", 
+				"Answer time (seconds)": "10.32"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "1051", 
+				"Current Total Score (points)": "6228", 
+				"Answer time (seconds)": "13.943"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O sistema funcionando" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3973", 
+				"Answer time (seconds)": "16.942"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "1104", 
+				"Current Total Score (points)": "5558", 
+				"Answer time (seconds)": "7.838"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "857", 
+				"Current Total Score (points)": "3436", 
+				"Answer time (seconds)": "5.721"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Protótipos executáveis ou não" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "14.138"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "764", 
+				"Current Total Score (points)": "1569", 
+				"Answer time (seconds)": "9.452"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O sistema funcionando" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3934", 
+				"Answer time (seconds)": "10.141"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O sistema funcionando, protótipos executáveis ou não." 
+				},
+				"Score (points)": "873", 
+				"Current Total Score (points)": "2278", 
+				"Answer time (seconds)": "9.089"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Nenhuma das alternativas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5078", 
+				"Answer time (seconds)": "12.711"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Nenhuma das alternativas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4387", 
+				"Answer time (seconds)": "14.131"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Protótipos executáveis ou não" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4157", 
+				"Answer time (seconds)": "3.537"
+			}
+		]
+	}
+},
+"Question 10": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q10": {
+			"Statement": "Qual é a escala de severidade dos problemas, sugerida por Nielsen?", 
+			"Correct Answer": "Cosmético, pequeno, grande, catastrófico", 
+			"Players Correct": "0.526315789473684", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Pequeno, médio, catastrófico"", 
+					"Losangle": ""Cosmético, pequeno, grande, catastrófico"", 
+					"Circle": ""Superficial, médio, grande, catastrófico"", 
+					"Square": ""Pequeno, médio, grande""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "10", 
+					"Circle": "4", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "4.6046", 
+					"Losangle": "6.5789", 
+					"Circle": "8.13925", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "1181", 
+				"Current Total Score (points)": "6602", 
+				"Answer time (seconds)": "8.755"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Pequeno, médio, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5621", 
+				"Answer time (seconds)": "4.439"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Pequeno, médio, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6753", 
+				"Answer time (seconds)": "4.633"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "1084", 
+				"Current Total Score (points)": "4683", 
+				"Answer time (seconds)": "4.648"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "1183", 
+				"Current Total Score (points)": "7262", 
+				"Answer time (seconds)": "4.663"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "1015", 
+				"Current Total Score (points)": "4957", 
+				"Answer time (seconds)": "3.381"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "732", 
+				"Current Total Score (points)": "4063", 
+				"Answer time (seconds)": "10.706"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Pequeno, médio, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5336", 
+				"Answer time (seconds)": "5.532"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Superficial, médio, grande, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6228", 
+				"Answer time (seconds)": "7.373"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "837", 
+				"Current Total Score (points)": "4810", 
+				"Answer time (seconds)": "6.526"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "1266", 
+				"Current Total Score (points)": "6824", 
+				"Answer time (seconds)": "5.35"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Superficial, médio, grande, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3436", 
+				"Answer time (seconds)": "4.85"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Superficial, médio, grande, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "10.294"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Pequeno, médio, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1569", 
+				"Answer time (seconds)": "2.331"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "871", 
+				"Current Total Score (points)": "4805", 
+				"Answer time (seconds)": "5.164"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "1057", 
+				"Current Total Score (points)": "3335", 
+				"Answer time (seconds)": "5.706"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Superficial, médio, grande, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5078", 
+				"Answer time (seconds)": "10.04"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Cosmético, pequeno, grande, catastrófico" 
+				},
+				"Score (points)": "728", 
+				"Current Total Score (points)": "5115", 
+				"Answer time (seconds)": "10.89"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Pequeno, médio, catastrófico" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4157", 
+				"Answer time (seconds)": "6.088"
+			}
+		]
+	}
+},
+"Question 11": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q11": {
+			"Statement": "Para cada tarefa o relatório do percurso cognitivo deve conter, além da lista de problemas:", 
+			"Correct Answer": "Resumo do conhecimento anterior e posterior do usuário.", 
+			"Players Correct": "0.166666666666667", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Uma lista de possíveis soluções"", 
+					"Losangle": ""A lista da documentação necessária"", 
+					"Circle": ""Resumo do conhecimento anterior e posterior do usuário."", 
+					"Square": ""A gravidade de cada problema""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "11", 
+					"Losangle": "4", 
+					"Circle": "3", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.05645454545455", 
+					"Losangle": "7.59725", 
+					"Circle": "16.198", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Resumo do conhecimento anterior e posterior do usuário." 
+				},
+				"Score (points)": "1006", 
+				"Current Total Score (points)": "7608", 
+				"Answer time (seconds)": "19.742"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5621", 
+				"Answer time (seconds)": "6.458"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6753", 
+				"Answer time (seconds)": "8.186"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4683", 
+				"Answer time (seconds)": "2.138"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Resumo do conhecimento anterior e posterior do usuário." 
+				},
+				"Score (points)": "1024", 
+				"Current Total Score (points)": "8286", 
+				"Answer time (seconds)": "15.042"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4957", 
+				"Answer time (seconds)": "7.533"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4063", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A lista da documentação necessária" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5336", 
+				"Answer time (seconds)": "7.349"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6228", 
+				"Answer time (seconds)": "19.278"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4810", 
+				"Answer time (seconds)": "5.84"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Resumo do conhecimento anterior e posterior do usuário." 
+				},
+				"Score (points)": "1155", 
+				"Current Total Score (points)": "7979", 
+				"Answer time (seconds)": "13.81"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A lista da documentação necessária" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3436", 
+				"Answer time (seconds)": "1.802"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "15.966"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A lista da documentação necessária" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1569", 
+				"Answer time (seconds)": "5.605"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A lista da documentação necessária" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4805", 
+				"Answer time (seconds)": "15.633"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3335", 
+				"Answer time (seconds)": "8.005"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5078", 
+				"Answer time (seconds)": "10.305"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5115", 
+				"Answer time (seconds)": "7.544"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma lista de possíveis soluções" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4157", 
+				"Answer time (seconds)": "8.368"
+			}
+		]
+	}
+},
+"Question 12": {
+	"Métodos de Avaliação de IHC - PARTE I": {
+		"Q12": {
+			"Statement": "O método de inspeção semiótica apresenta melhores resultados se for realizada:", 
+			"Correct Answer": "Sobre a versão final do sistema interativo", 
+			"Players Correct": "0.263157894736842", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""No projeto da interface"", 
+					"Losangle": ""Em protótipos executáveis"", 
+					"Circle": ""Em protótipos não executáveis"", 
+					"Square": ""Sobre a versão final do sistema interativo""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "6", 
+					"Circle": "0", 
+					"Square": "5"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.17025", 
+					"Losangle": "7.06483333333333", 
+					"Circle": "0", 
+					"Square": "7.6954"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sobre a versão final do sistema interativo" 
+				},
+				"Score (points)": "1287", 
+				"Current Total Score (points)": "8895", 
+				"Answer time (seconds)": "8.537"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em protótipos executáveis" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5621", 
+				"Answer time (seconds)": "2.347"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em protótipos executáveis" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6753", 
+				"Answer time (seconds)": "3.152"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sobre a versão final do sistema interativo" 
+				},
+				"Score (points)": "873", 
+				"Current Total Score (points)": "5556", 
+				"Answer time (seconds)": "5.071"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sobre a versão final do sistema interativo" 
+				},
+				"Score (points)": "1317", 
+				"Current Total Score (points)": "9603", 
+				"Answer time (seconds)": "7.309"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Boi", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sobre a versão final do sistema interativo" 
+				},
+				"Score (points)": "835", 
+				"Current Total Score (points)": "5792", 
+				"Answer time (seconds)": "6.614"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Carneiro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em protótipos executáveis" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4063", 
+				"Answer time (seconds)": "11.13"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5336", 
+				"Answer time (seconds)": "4.881"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "6228", 
+				"Answer time (seconds)": "18.884"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4810", 
+				"Answer time (seconds)": "5.822"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em protótipos executáveis" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "7979", 
+				"Answer time (seconds)": "4.71"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3436", 
+				"Answer time (seconds)": "0.607"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3951", 
+				"Answer time (seconds)": "16.422"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Cavalo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em protótipos executáveis" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1569", 
+				"Answer time (seconds)": "5.629"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Sobre a versão final do sistema interativo" 
+				},
+				"Score (points)": "726", 
+				"Current Total Score (points)": "5531", 
+				"Answer time (seconds)": "10.946"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "3335", 
+				"Answer time (seconds)": "6.816"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em protótipos executáveis" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5078", 
+				"Answer time (seconds)": "15.421"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "5115", 
+				"Answer time (seconds)": "17.991"
+			},
+			{
+				"Player": "19", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "No projeto da interface" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "4157", 
+				"Answer time (seconds)": "9.939"
+			}
+		]
+	}
+}
+}

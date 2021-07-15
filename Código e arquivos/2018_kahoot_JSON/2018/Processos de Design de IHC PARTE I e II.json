@@ -1,0 +1,1893 @@
+{"Overview": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Played on": "12 Sep 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "18 players", 
+		"Played": "5 of 5 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.609756112098694", 
+		"Total incorrect answers (%)": "0.390243887901306", 
+		"Average score (points)": "2218.11108398438"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Processos de Design de IHC PARTE I e II": 
+	[		{
+			"Rank": "1", 
+			"Player": "Escorpião", 
+			"Total Score": "4564", 
+			"Correct Answers": "5", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "ProfaAna", 
+			"Total Score": "3537", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Hipopótamo", 
+			"Total Score": "3425", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Coelho", 
+			"Total Score": "3163", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Cobra", 
+			"Total Score": "2497", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Minhoca", 
+			"Total Score": "2497", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Zebra", 
+			"Total Score": "2477", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Misterioso", 
+			"Total Score": "2444", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Jacaré", 
+			"Total Score": "2393", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Gato", 
+			"Total Score": "2381", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Lebre", 
+			"Total Score": "2286", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Urubu", 
+			"Total Score": "1602", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Lagarto", 
+			"Total Score": "1481", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "14", 
+			"Player": "Mosca", 
+			"Total Score": "1397", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "15", 
+			"Player": "Camaleão", 
+			"Total Score": "1320", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "16", 
+			"Player": "Corvo", 
+			"Total Score": "1199", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "17", 
+			"Player": "Galo", 
+			"Total Score": "637", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "18", 
+			"Player": "Peixe", 
+			"Total Score": "626", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "3"
+		}
+	]
+},
+"Question Summary": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Escorpião", 
+				"Total Score": "4564", 
+				"Q1": {
+						"Score": "538", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "751", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Não prescreve a sequência das atividades"
+				}, 
+				"Q3": {
+						"Score": "1042", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "1124", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "A engenharia semiótica"
+				}, 
+				"Q5": {
+						"Score": "1109", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "ProfaAna", 
+				"Total Score": "3537", 
+				"Q1": {
+						"Score": "765", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "852", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "1058", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "862", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Hipopótamo", 
+				"Total Score": "3425", 
+				"Q1": {
+						"Score": "760", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "938", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "1004", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "723", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Coelho", 
+				"Total Score": "3163", 
+				"Q1": {
+						"Score": "732", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "925", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "770", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "736", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Cobra", 
+				"Total Score": "2497", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "770", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Não prescreve a sequência das atividades"
+				}, 
+				"Q3": {
+						"Score": "921", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "806", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Minhoca", 
+				"Total Score": "2497", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Desenvolvimento baseado em contexto"
+				}, 
+				"Q2": {
+						"Score": "831", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "865", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "801", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Zebra", 
+				"Total Score": "2477", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Desenvolvimento baseado em contexto"
+				}, 
+				"Q2": {
+						"Score": "790", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Não prescreve a sequência das atividades"
+				}, 
+				"Q3": {
+						"Score": "860", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "A comunicação entre sistemas"
+				}, 
+				"Q5": {
+						"Score": "827", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Misterioso", 
+				"Total Score": "2444", 
+				"Q1": {
+						"Score": "792", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "A implementação é a principal atividade"
+				}, 
+				"Q3": {
+						"Score": "756", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "896", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "A engenharia semiótica"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma explanação sobre os perfis de usuários"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Jacaré", 
+				"Total Score": "2393", 
+				"Q1": {
+						"Score": "650", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "705", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "1038", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "São iguais aos diagramas de casos de uso."
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Gato", 
+				"Total Score": "2381", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Desenvolvimento baseado em contexto"
+				}, 
+				"Q2": {
+						"Score": "799", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "890", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "692", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Lebre", 
+				"Total Score": "2286", 
+				"Q1": {
+						"Score": "628", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "875", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Não prescreve a sequência das atividades"
+				}, 
+				"Q3": {
+						"Score": "783", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "A comunicação entre sistemas"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "São os diagramas de classe de um sistema"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Urubu", 
+				"Total Score": "1602", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado na comunicação"
+				}, 
+				"Q2": {
+						"Score": "717", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Não prescreve a sequência das atividades"
+				}, 
+				"Q3": {
+						"Score": "885", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma explanação sobre os perfis de usuários"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Lagarto", 
+				"Total Score": "1481", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "812", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "669", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "14", 
+				"Player": "Mosca", 
+				"Total Score": "1397", 
+				"Q1": {
+						"Score": "723", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "674", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "A comunicação entre sistemas"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma explanação sobre os perfis de usuários"
+				}
+			}, 
+			{
+				"Rank": "15", 
+				"Player": "Camaleão", 
+				"Total Score": "1320", 
+				"Q1": {
+						"Score": "548", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "A implementação é a principal atividade"
+				}, 
+				"Q3": {
+						"Score": "772", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "São os diagramas de classe de um sistema"
+				}
+			}, 
+			{
+				"Rank": "16", 
+				"Player": "Corvo", 
+				"Total Score": "1199", 
+				"Q1": {
+						"Score": "622", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Centrado no Usuário, Versões interativas"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "577", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Designer compreende necessidades investigando contex. de uso"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": ""
+				}
+			}, 
+			{
+				"Rank": "17", 
+				"Player": "Galo", 
+				"Total Score": "637", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": "Desenvolvimento baseado em contexto"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": ""
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Avalia personas para definir atividades."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "637", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "É uma história sobre pessoas executando uma atividade"
+				}
+			}, 
+			{
+				"Rank": "18", 
+				"Player": "Peixe", 
+				"Total Score": "626", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "São Características Principais do Ciclo de Vida Simples", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "626", 
+						"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+						"Answer": "Avaliação após cada atividade"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "O processo de design denominado Design Contextual:", 
+						"Answer": "Avalia personas para definir atividades."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "A base teórica para o design centrado na comunicação é:", 
+						"Answer": "O usuário e o designer"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+						"Answer": "São iguais aos diagramas de casos de uso."
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Q1": {
+			"Statement": "São Características Principais do Ciclo de Vida Simples", 
+			"Correct Answer": "Centrado no Usuário, Versões interativas", 
+			"Players Correct": "0.666666666666667", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Centrado no Usuário, Versões interativas"", 
+					"Losangle": ""Desenvolvimento baseado em contexto"", 
+					"Circle": ""Centrado na comunicação"", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "10", 
+					"Losangle": "4", 
+					"Circle": "1", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.9628", 
+					"Losangle": "10.84825", 
+					"Circle": "6.266", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "538", 
+				"Current Total Score (points)": "538", 
+				"Answer time (seconds)": "18.482"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Desenvolvimento baseado em contexto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8.815"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Desenvolvimento baseado em contexto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.368"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Centrado na comunicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.266"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "628", 
+				"Current Total Score (points)": "628", 
+				"Answer time (seconds)": "14.873"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Desenvolvimento baseado em contexto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "5.914"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "732", 
+				"Current Total Score (points)": "732", 
+				"Answer time (seconds)": "10.702"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Desenvolvimento baseado em contexto" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.296"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "622", 
+				"Current Total Score (points)": "622", 
+				"Answer time (seconds)": "15.109"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "792", 
+				"Current Total Score (points)": "792", 
+				"Answer time (seconds)": "8.304"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "765", 
+				"Current Total Score (points)": "765", 
+				"Answer time (seconds)": "9.392"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "11.1"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "548", 
+				"Current Total Score (points)": "548", 
+				"Answer time (seconds)": "18.065"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "650", 
+				"Current Total Score (points)": "650", 
+				"Answer time (seconds)": "14.01"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Centrado no Usuário, Versões interativas" 
+				},
+				"Score (points)": "760", 
+				"Current Total Score (points)": "760", 
+				"Answer time (seconds)": "9.591"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Q2": {
+			"Statement": "São características Principais do Ciclo de Vida em Estrela", 
+			"Correct Answer": "Não prescreve a sequência das atividades, Avaliação após cada atividade", 
+			"Players Correct": "0.857142857142857", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Não prescreve a sequência das atividades"", 
+					"Losangle": ""O início sempre será a prototipação"", 
+					"Circle": ""Avaliação após cada atividade"", 
+					"Square": ""A implementação é a principal atividade""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "0", 
+					"Circle": "7", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.3736", 
+					"Losangle": "0", 
+					"Circle": "9.85614285714286", 
+					"Square": "16.303"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não prescreve a sequência das atividades" 
+				},
+				"Score (points)": "751", 
+				"Current Total Score (points)": "1289", 
+				"Answer time (seconds)": "13.971"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "799", 
+				"Current Total Score (points)": "799", 
+				"Answer time (seconds)": "8.035"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "831", 
+				"Current Total Score (points)": "831", 
+				"Answer time (seconds)": "6.779"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não prescreve a sequência das atividades" 
+				},
+				"Score (points)": "717", 
+				"Current Total Score (points)": "717", 
+				"Answer time (seconds)": "11.317"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não prescreve a sequência das atividades" 
+				},
+				"Score (points)": "875", 
+				"Current Total Score (points)": "1503", 
+				"Answer time (seconds)": "8.985"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não prescreve a sequência das atividades" 
+				},
+				"Score (points)": "790", 
+				"Current Total Score (points)": "790", 
+				"Answer time (seconds)": "8.396"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "925", 
+				"Current Total Score (points)": "1657", 
+				"Answer time (seconds)": "7.018"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "622", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A implementação é a principal atividade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "792", 
+				"Answer time (seconds)": "14.159"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Não prescreve a sequência das atividades" 
+				},
+				"Score (points)": "770", 
+				"Current Total Score (points)": "770", 
+				"Answer time (seconds)": "9.199"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "852", 
+				"Current Total Score (points)": "1617", 
+				"Answer time (seconds)": "9.932"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "723", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A implementação é a principal atividade" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "548", 
+				"Answer time (seconds)": "18.447"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "705", 
+				"Current Total Score (points)": "1355", 
+				"Answer time (seconds)": "15.791"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "626", 
+				"Current Total Score (points)": "626", 
+				"Answer time (seconds)": "14.968"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Avaliação após cada atividade" 
+				},
+				"Score (points)": "938", 
+				"Current Total Score (points)": "1698", 
+				"Answer time (seconds)": "6.47"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Q3": {
+			"Statement": "O processo de design denominado Design Contextual:", 
+			"Correct Answer": "Designer compreende necessidades investigando contex. de uso", 
+			"Players Correct": "0.888888888888889", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Define atividades para todo o ciclo de vidade um produto"", 
+					"Losangle": ""Designer compreende necessidades investigando contex. de uso"", 
+					"Circle": ""Avalia personas para definir atividades."", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "16", 
+					"Circle": "2", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "9.9828125", 
+					"Circle": "9.667", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "1042", 
+				"Current Total Score (points)": "2331", 
+				"Answer time (seconds)": "6.301"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "890", 
+				"Current Total Score (points)": "1689", 
+				"Answer time (seconds)": "8.388"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "865", 
+				"Current Total Score (points)": "1696", 
+				"Answer time (seconds)": "9.406"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "885", 
+				"Current Total Score (points)": "1602", 
+				"Answer time (seconds)": "8.606"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "783", 
+				"Current Total Score (points)": "2286", 
+				"Answer time (seconds)": "16.681"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "860", 
+				"Current Total Score (points)": "1650", 
+				"Answer time (seconds)": "9.594"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "770", 
+				"Current Total Score (points)": "2427", 
+				"Answer time (seconds)": "17.183"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avalia personas para definir atividades." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.847"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "577", 
+				"Current Total Score (points)": "1199", 
+				"Answer time (seconds)": "16.925"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "756", 
+				"Current Total Score (points)": "1548", 
+				"Answer time (seconds)": "9.776"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "921", 
+				"Current Total Score (points)": "1691", 
+				"Answer time (seconds)": "7.164"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "812", 
+				"Current Total Score (points)": "812", 
+				"Answer time (seconds)": "7.514"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "1058", 
+				"Current Total Score (points)": "2675", 
+				"Answer time (seconds)": "5.671"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "674", 
+				"Current Total Score (points)": "1397", 
+				"Answer time (seconds)": "13.041"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "772", 
+				"Current Total Score (points)": "1320", 
+				"Answer time (seconds)": "9.129"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "1038", 
+				"Current Total Score (points)": "2393", 
+				"Answer time (seconds)": "6.495"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Avalia personas para definir atividades." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "626", 
+				"Answer time (seconds)": "6.487"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Designer compreende necessidades investigando contex. de uso" 
+				},
+				"Score (points)": "1004", 
+				"Current Total Score (points)": "2702", 
+				"Answer time (seconds)": "7.851"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Q4": {
+			"Statement": "A base teórica para o design centrado na comunicação é:", 
+			"Correct Answer": "A engenharia semiótica", 
+			"Players Correct": "0.111111111111111", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""A comunicação entre sistemas"", 
+					"Losangle": ""O usuário e o designer"", 
+					"Circle": ""O projeto de design"", 
+					"Square": ""A engenharia semiótica""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "13", 
+					"Circle": "0", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.25233333333333", 
+					"Losangle": "8.03015384615385", 
+					"Circle": "0", 
+					"Square": "7.594"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A engenharia semiótica" 
+				},
+				"Score (points)": "1124", 
+				"Current Total Score (points)": "3455", 
+				"Answer time (seconds)": "7.025"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1689", 
+				"Answer time (seconds)": "6.377"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1696", 
+				"Answer time (seconds)": "5.732"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1602", 
+				"Answer time (seconds)": "7.925"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A comunicação entre sistemas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2286", 
+				"Answer time (seconds)": "6.828"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A comunicação entre sistemas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1650", 
+				"Answer time (seconds)": "5.948"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2427", 
+				"Answer time (seconds)": "11.898"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "18.444"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1199", 
+				"Answer time (seconds)": "11.21"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "A engenharia semiótica" 
+				},
+				"Score (points)": "896", 
+				"Current Total Score (points)": "2444", 
+				"Answer time (seconds)": "8.163"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1691", 
+				"Answer time (seconds)": "5.312"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "812", 
+				"Answer time (seconds)": "7.56"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2675", 
+				"Answer time (seconds)": "5.939"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "A comunicação entre sistemas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1397", 
+				"Answer time (seconds)": "8.981"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1320", 
+				"Answer time (seconds)": "5.525"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2393", 
+				"Answer time (seconds)": "4.985"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "626", 
+				"Answer time (seconds)": "7.325"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário e o designer" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2702", 
+				"Answer time (seconds)": "6.16"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Processos de Design de IHC PARTE I e II": {
+		"Q5": {
+			"Statement": "Com relação ao design baseado em cenários é possível afirmar que cenário:", 
+			"Correct Answer": "É uma história sobre pessoas executando uma atividade", 
+			"Players Correct": "0.588235294117647", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""É uma história sobre pessoas executando uma atividade"", 
+					"Losangle": ""É uma explanação sobre os perfis de usuários"", 
+					"Circle": ""São iguais aos diagramas de casos de uso."", 
+					"Square": ""São os diagramas de classe de um sistema""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "10", 
+					"Losangle": "3", 
+					"Circle": "2", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "10.1489", 
+					"Losangle": "10.0036666666667", 
+					"Circle": "16.3115", 
+					"Square": "12.3685"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Escorpião", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "1109", 
+				"Current Total Score (points)": "4564", 
+				"Answer time (seconds)": "11.625"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "692", 
+				"Current Total Score (points)": "2381", 
+				"Answer time (seconds)": "12.323"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Minhoca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "801", 
+				"Current Total Score (points)": "2497", 
+				"Answer time (seconds)": "7.949"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "É uma explanação sobre os perfis de usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1602", 
+				"Answer time (seconds)": "7.504"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "São os diagramas de classe de um sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2286", 
+				"Answer time (seconds)": "16"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Zebra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "827", 
+				"Current Total Score (points)": "2477", 
+				"Answer time (seconds)": "6.903"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "736", 
+				"Current Total Score (points)": "3163", 
+				"Answer time (seconds)": "10.562"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "637", 
+				"Current Total Score (points)": "637", 
+				"Answer time (seconds)": "14.528"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1199", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Misterioso", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "É uma explanação sobre os perfis de usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2444", 
+				"Answer time (seconds)": "12.522"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cobra", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "806", 
+				"Current Total Score (points)": "2497", 
+				"Answer time (seconds)": "7.741"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Lagarto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "669", 
+				"Current Total Score (points)": "1481", 
+				"Answer time (seconds)": "13.243"
+			},
+			{
+				"Player": "13", 
+				"Alias": "ProfaAna", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "862", 
+				"Current Total Score (points)": "3537", 
+				"Answer time (seconds)": "5.533"
+			},
+			{
+				"Player": "14", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "É uma explanação sobre os perfis de usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1397", 
+				"Answer time (seconds)": "9.985"
+			},
+			{
+				"Player": "15", 
+				"Alias": "Camaleão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "São os diagramas de classe de um sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1320", 
+				"Answer time (seconds)": "8.737"
+			},
+			{
+				"Player": "16", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "São iguais aos diagramas de casos de uso." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2393", 
+				"Answer time (seconds)": "16.205"
+			},
+			{
+				"Player": "17", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "São iguais aos diagramas de casos de uso." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "626", 
+				"Answer time (seconds)": "16.418"
+			},
+			{
+				"Player": "18", 
+				"Alias": "Hipopótamo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "É uma história sobre pessoas executando uma atividade" 
+				},
+				"Score (points)": "723", 
+				"Current Total Score (points)": "3425", 
+				"Answer time (seconds)": "11.082"
+			}
+		]
+	}
+}
+}

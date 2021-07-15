@@ -1,0 +1,1927 @@
+{"Overview": {
+	"Design de IHC - Parte I e III": {
+		"Played on": "24 Oct 2018", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "13 players", 
+		"Played": "7 of 7 questions"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.430232554674149", 
+		"Total incorrect answers (%)": "0.569767415523529", 
+		"Average score (points)": "2388.76928710938"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "0", 
+		"Did you learn something?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"Do you recommend it?": {
+			"Yes": "0", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "0", 
+			"Neutral": "0", 
+			"Negative": "0"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Design de IHC - Parte I e III": 
+	[		{
+			"Rank": "1", 
+			"Player": "Peixe", 
+			"Total Score": "6897", 
+			"Correct Answers": "7", 
+			"Incorrect Answers": "0"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Bode", 
+			"Total Score": "6104", 
+			"Correct Answers": "6", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Coelho", 
+			"Total Score": "2528", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "3"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Lebre", 
+			"Total Score": "2463", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Urubu", 
+			"Total Score": "2426", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Leão", 
+			"Total Score": "2308", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Mosca", 
+			"Total Score": "2079", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Jacaré", 
+			"Total Score": "1614", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Corvo", 
+			"Total Score": "1520", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "4"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Galo", 
+			"Total Score": "1295", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Formiga", 
+			"Total Score": "1082", 
+			"Correct Answers": "2", 
+			"Incorrect Answers": "5"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Gato", 
+			"Total Score": "738", 
+			"Correct Answers": "1", 
+			"Incorrect Answers": "6"
+		},
+		{
+			"Rank": "13", 
+			"Player": "Cachorro", 
+			"Total Score": "0", 
+			"Correct Answers": "0", 
+			"Incorrect Answers": "7"
+		}
+	]
+},
+"Question Summary": {
+	"Design de IHC - Parte I e III": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Peixe", 
+				"Total Score": "6897", 
+				"Q1": {
+						"Score": "695", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Informações necessárias para usuário alcançar seus objetivos"
+				}, 
+				"Q2": {
+						"Score": "747", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre designer e usuário através da interface."
+				}, 
+				"Q3": {
+						"Score": "944", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q4": {
+						"Score": "971", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos encontrados no mundo do usuário, indep. de sistema."
+				}, 
+				"Q5": {
+						"Score": "999", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Tenta evitar que haja uma ruptura"
+				}, 
+				"Q6": {
+						"Score": "1273", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "1268", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Bode", 
+				"Total Score": "6104", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Detalhes da interface propriamente dita."
+				}, 
+				"Q2": {
+						"Score": "777", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre designer e usuário através da interface."
+				}, 
+				"Q3": {
+						"Score": "903", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q4": {
+						"Score": "961", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos encontrados no mundo do usuário, indep. de sistema."
+				}, 
+				"Q5": {
+						"Score": "1036", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Tenta evitar que haja uma ruptura"
+				}, 
+				"Q6": {
+						"Score": "1145", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "1282", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Coelho", 
+				"Total Score": "2528", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o sistema interativo e o usuário"
+				}, 
+				"Q3": {
+						"Score": "750", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q4": {
+						"Score": "872", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos encontrados no mundo do usuário, indep. de sistema."
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Impede que o usuário emita falas inválidas"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}, 
+				"Q7": {
+						"Score": "906", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Lebre", 
+				"Total Score": "2463", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Detalhes da interface propriamente dita."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o sistema interativo e o usuário"
+				}, 
+				"Q3": {
+						"Score": "793", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos originados no domínio, mas que sofrem transformação"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Impede que o usuário emita falas inválidas"
+				}, 
+				"Q6": {
+						"Score": "733", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "937", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Urubu", 
+				"Total Score": "2426", 
+				"Q1": {
+						"Score": "853", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Informações necessárias para usuário alcançar seus objetivos"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o sistema interativo e o usuário"
+				}, 
+				"Q3": {
+						"Score": "830", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Impede que o usuário emita falas inválidas"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q7": {
+						"Score": "743", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Leão", 
+				"Total Score": "2308", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Esboço da interface do sistema"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o usuário e a interface do sistema"
+				}, 
+				"Q3": {
+						"Score": "808", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Aqueles que levam o usuário a utilizar o sistema"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Auxilia o usuário a se recuperar"
+				}, 
+				"Q6": {
+						"Score": "519", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "981", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Mosca", 
+				"Total Score": "2079", 
+				"Q1": {
+						"Score": "669", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Informações necessárias para usuário alcançar seus objetivos"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o sistema interativo e o usuário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Utilizados como facilitadores para atingir um objetivo."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "669", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Tenta evitar que haja uma ruptura"
+				}, 
+				"Q6": {
+						"Score": "741", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Jacaré", 
+				"Total Score": "1614", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Esboço da interface do sistema"
+				}, 
+				"Q2": {
+						"Score": "702", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre designer e usuário através da interface."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Subprodutos para atingir o resultado final"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos estabelecidos como convenção na cultura dos usuários"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Impede que o usuário emita falas inválidas"
+				}, 
+				"Q6": {
+						"Score": "912", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Corvo", 
+				"Total Score": "1520", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o usuário e a interface do sistema"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Subprodutos para atingir o resultado final"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos originados no domínio, mas que sofrem transformação"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Em uma situação de ruptura solicita ao usuário uma decisão."
+				}, 
+				"Q6": {
+						"Score": "599", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "921", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Galo", 
+				"Total Score": "1295", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": ""
+				}, 
+				"Q2": {
+						"Score": "514", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre designer e usuário através da interface."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": ""
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": ""
+				}, 
+				"Q6": {
+						"Score": "781", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "O usuário se expressa como uma conversa com uma outra pessoa"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Formiga", 
+				"Total Score": "1082", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Detalhes de implementação."
+				}, 
+				"Q2": {
+						"Score": "580", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre designer e usuário através da interface."
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Subprodutos para atingir o resultado final"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Impede que o usuário emita falas inválidas"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}, 
+				"Q7": {
+						"Score": "502", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Gato", 
+				"Total Score": "738", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Detalhes da interface propriamente dita."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o sistema interativo e o usuário"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Utilizados como facilitadores para atingir um objetivo."
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Em uma situação de ruptura solicita ao usuário uma decisão."
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}, 
+				"Q7": {
+						"Score": "738", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Deve digitar os comandos que realizam as ações na aplicação"
+				}
+			}, 
+			{
+				"Rank": "13", 
+				"Player": "Cachorro", 
+				"Total Score": "0", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+						"Answer": "Detalhes de implementação."
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "No design centrado na comunicação a interação é vista como:", 
+						"Answer": "Uma conversa entre o usuário e a interface do sistema"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+						"Answer": "Subprodutos para atingir o resultado final"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+						"Answer": "Signos que fazem sentido apenas dentro do sistema"
+				}, 
+				"Q5": {
+						"Score": "0", 
+						"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+						"Answer": "Auxilia o usuário a se recuperar"
+				}, 
+				"Q6": {
+						"Score": "0", 
+						"Statement": "Em uma interação em linguagem natural o usuário:", 
+						"Answer": "Preenche campos conforme solicitado pelo sistema"
+				}, 
+				"Q7": {
+						"Score": "0", 
+						"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+						"Answer": "Seleciona no menu a opção que lhe interessa"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Design de IHC - Parte I e III": {
+		"Q1": {
+			"Statement": "Cenários de interação fornecem detalhes sobre ações do usuário e respostas do sistema. Contendo", 
+			"Correct Answer": "Informações necessárias para usuário alcançar seus objetivos", 
+			"Players Correct": "0.3", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Detalhes da interface propriamente dita."", 
+					"Losangle": ""Detalhes de implementação."", 
+					"Circle": ""Informações necessárias para usuário alcançar seus objetivos"", 
+					"Square": ""Esboço da interface do sistema""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "2", 
+					"Circle": "3", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "7.62866666666667", 
+					"Losangle": "11.32", 
+					"Circle": "10.441", 
+					"Square": "9.2395"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Detalhes da interface propriamente dita." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.981"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Informações necessárias para usuário alcançar seus objetivos" 
+				},
+				"Score (points)": "853", 
+				"Current Total Score (points)": "853", 
+				"Answer time (seconds)": "5.863"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detalhes da interface propriamente dita." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.273"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esboço da interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "11.56"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detalhes de implementação." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4.787"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detalhes da interface propriamente dita." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4.632"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Detalhes de implementação." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "17.853"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Esboço da interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "6.919"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Informações necessárias para usuário alcançar seus objetivos" 
+				},
+				"Score (points)": "695", 
+				"Current Total Score (points)": "695", 
+				"Answer time (seconds)": "12.22"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Informações necessárias para usuário alcançar seus objetivos" 
+				},
+				"Score (points)": "669", 
+				"Current Total Score (points)": "669", 
+				"Answer time (seconds)": "13.24"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Design de IHC - Parte I e III": {
+		"Q2": {
+			"Statement": "No design centrado na comunicação a interação é vista como:", 
+			"Correct Answer": "Uma conversa entre designer e usuário através da interface.", 
+			"Players Correct": "0.384615384615385", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Uma conversa entre o usuário e a interface do sistema"", 
+					"Losangle": ""Uma conversa entre o sistema interativo e o usuário"", 
+					"Circle": ""Uma conversa entre designer e usuário através da interface."", 
+					"Square": ""Um monólogo do usuário""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "3", 
+					"Losangle": "5", 
+					"Circle": "5", 
+					"Square": "0"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.3703333333333", 
+					"Losangle": "11.5774", 
+					"Circle": "14.2454", 
+					"Square": "0"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Uma conversa entre o sistema interativo e o usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "7.369"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o sistema interativo e o usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "853", 
+				"Answer time (seconds)": "4.971"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o sistema interativo e o usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.04"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o usuário e a interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "15.666"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o sistema interativo e o usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "13.046"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o usuário e a interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.933"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o usuário e a interface do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "4.512"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Uma conversa entre designer e usuário através da interface." 
+				},
+				"Score (points)": "777", 
+				"Current Total Score (points)": "777", 
+				"Answer time (seconds)": "8.94"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Uma conversa entre designer e usuário através da interface." 
+				},
+				"Score (points)": "580", 
+				"Current Total Score (points)": "580", 
+				"Answer time (seconds)": "16.792"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Uma conversa entre designer e usuário através da interface." 
+				},
+				"Score (points)": "702", 
+				"Current Total Score (points)": "702", 
+				"Answer time (seconds)": "11.939"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Uma conversa entre designer e usuário através da interface." 
+				},
+				"Score (points)": "514", 
+				"Current Total Score (points)": "514", 
+				"Answer time (seconds)": "19.451"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Uma conversa entre designer e usuário através da interface." 
+				},
+				"Score (points)": "747", 
+				"Current Total Score (points)": "1442", 
+				"Answer time (seconds)": "14.105"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Uma conversa entre o sistema interativo e o usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "669", 
+				"Answer time (seconds)": "17.461"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Design de IHC - Parte I e III": {
+		"Q3": {
+			"Statement": "Levando em consideração os objetivos dos usuários. Objetivos Finais são:", 
+			"Correct Answer": "Aqueles que levam o usuário a utilizar o sistema", 
+			"Players Correct": "0.5", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Subprodutos para atingir o resultado final"", 
+					"Losangle": ""Utilizados como facilitadores para atingir um objetivo."", 
+					"Circle": ""Aqueles que levam o usuário a utilizar o sistema"", 
+					"Square": "None"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "2", 
+					"Circle": "6", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "12.095", 
+					"Losangle": "7.687", 
+					"Circle": "8.48833333333333", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Utilizados como facilitadores para atingir um objetivo." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.089"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "830", 
+				"Current Total Score (points)": "1683", 
+				"Answer time (seconds)": "6.81"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "793", 
+				"Current Total Score (points)": "793", 
+				"Answer time (seconds)": "8.297"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "808", 
+				"Current Total Score (points)": "808", 
+				"Answer time (seconds)": "7.699"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "750", 
+				"Current Total Score (points)": "750", 
+				"Answer time (seconds)": "9.981"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Subprodutos para atingir o resultado final" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.223"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Subprodutos para atingir o resultado final" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.904"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "903", 
+				"Current Total Score (points)": "1680", 
+				"Answer time (seconds)": "7.898"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Subprodutos para atingir o resultado final" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "580", 
+				"Answer time (seconds)": "7.441"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Subprodutos para atingir o resultado final" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "702", 
+				"Answer time (seconds)": "19.812"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "514", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Aqueles que levam o usuário a utilizar o sistema" 
+				},
+				"Score (points)": "944", 
+				"Current Total Score (points)": "2386", 
+				"Answer time (seconds)": "10.245"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Utilizados como facilitadores para atingir um objetivo." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "669", 
+				"Answer time (seconds)": "6.285"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Design de IHC - Parte I e III": {
+		"Q4": {
+			"Statement": "Com relação a definição de signos em IHC. O que seria um signo de domínio?", 
+			"Correct Answer": "Signos encontrados no mundo do usuário, indep. de sistema.", 
+			"Players Correct": "0.230769230769231", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Signos originados no domínio, mas que sofrem transformação"", 
+					"Losangle": ""Signos encontrados no mundo do usuário, indep. de sistema."", 
+					"Circle": ""Signos que fazem sentido apenas dentro do sistema"", 
+					"Square": ""Signos estabelecidos como convenção na cultura dos usuários""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "3", 
+					"Circle": "7", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "18.4845", 
+					"Losangle": "10.6166666666667", 
+					"Circle": "10.8728571428571", 
+					"Square": "8.459"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.424"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1683", 
+				"Answer time (seconds)": "13.436"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos originados no domínio, mas que sofrem transformação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "793", 
+				"Answer time (seconds)": "17.189"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "808", 
+				"Answer time (seconds)": "11.79"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signos encontrados no mundo do usuário, indep. de sistema." 
+				},
+				"Score (points)": "872", 
+				"Current Total Score (points)": "1622", 
+				"Answer time (seconds)": "9.123"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos originados no domínio, mas que sofrem transformação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.78"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "2.176"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signos encontrados no mundo do usuário, indep. de sistema." 
+				},
+				"Score (points)": "961", 
+				"Current Total Score (points)": "2641", 
+				"Answer time (seconds)": "9.568"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "580", 
+				"Answer time (seconds)": "11.615"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos estabelecidos como convenção na cultura dos usuários" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "702", 
+				"Answer time (seconds)": "8.459"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "514", 
+				"Answer time (seconds)": "12.54"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Signos encontrados no mundo do usuário, indep. de sistema." 
+				},
+				"Score (points)": "971", 
+				"Current Total Score (points)": "3357", 
+				"Answer time (seconds)": "13.159"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Signos que fazem sentido apenas dentro do sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "669", 
+				"Answer time (seconds)": "15.129"
+			}
+		]
+	}
+},
+"Question 5": {
+	"Design de IHC - Parte I e III": {
+		"Q5": {
+			"Statement": "Quanto a prevenção de rupturas de comunicação. Em uma Prevenção Passiva o preposto do designer:", 
+			"Correct Answer": "Tenta evitar que haja uma ruptura", 
+			"Players Correct": "0.25", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Impede que o usuário emita falas inválidas"", 
+					"Losangle": ""Em uma situação de ruptura solicita ao usuário uma decisão."", 
+					"Circle": ""Tenta evitar que haja uma ruptura"", 
+					"Square": ""Auxilia o usuário a se recuperar""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "5", 
+					"Losangle": "2", 
+					"Circle": "3", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "9.6528", 
+					"Losangle": "12.4985", 
+					"Circle": "13.2706666666667", 
+					"Square": "8.737"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Em uma situação de ruptura solicita ao usuário uma decisão." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "8.389"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Impede que o usuário emita falas inválidas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1683", 
+				"Answer time (seconds)": "7.328"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Impede que o usuário emita falas inválidas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "793", 
+				"Answer time (seconds)": "7.169"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Auxilia o usuário a se recuperar" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "808", 
+				"Answer time (seconds)": "15.795"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Impede que o usuário emita falas inválidas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1622", 
+				"Answer time (seconds)": "16.17"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Em uma situação de ruptura solicita ao usuário uma decisão." 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "16.608"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Auxilia o usuário a se recuperar" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.679"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tenta evitar que haja uma ruptura" 
+				},
+				"Score (points)": "1036", 
+				"Current Total Score (points)": "3677", 
+				"Answer time (seconds)": "10.542"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Impede que o usuário emita falas inválidas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "580", 
+				"Answer time (seconds)": "16.756"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Impede que o usuário emita falas inválidas" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "702", 
+				"Answer time (seconds)": "0.841"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "514", 
+				"Answer time (seconds)": "0"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tenta evitar que haja uma ruptura" 
+				},
+				"Score (points)": "999", 
+				"Current Total Score (points)": "4356", 
+				"Answer time (seconds)": "16.021"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Tenta evitar que haja uma ruptura" 
+				},
+				"Score (points)": "669", 
+				"Current Total Score (points)": "1338", 
+				"Answer time (seconds)": "13.249"
+			}
+		]
+	}
+},
+"Question 6": {
+	"Design de IHC - Parte I e III": {
+		"Q6": {
+			"Statement": "Em uma interação em linguagem natural o usuário:", 
+			"Correct Answer": "O usuário se expressa como uma conversa com uma outra pessoa", 
+			"Players Correct": "0.615384615384615", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Deve digitar os comandos que realizam as ações na aplicação"", 
+					"Losangle": ""Seleciona no menu a opção que lhe interessa"", 
+					"Circle": ""Preenche campos conforme solicitado pelo sistema"", 
+					"Square": ""O usuário se expressa como uma conversa com uma outra pessoa""
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "True"
+			},
+			"Number of answers received": {
+					"Triangle": "2", 
+					"Losangle": "2", 
+					"Circle": "1", 
+					"Square": "8"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "11.4895", 
+					"Losangle": "9.209", 
+					"Circle": "1.356", 
+					"Square": "11.493625"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "12.123"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1683", 
+				"Answer time (seconds)": "10.856"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "733", 
+				"Current Total Score (points)": "1526", 
+				"Answer time (seconds)": "10.671"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "519", 
+				"Current Total Score (points)": "1327", 
+				"Answer time (seconds)": "19.25"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1622", 
+				"Answer time (seconds)": "9.837"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "599", 
+				"Current Total Score (points)": "599", 
+				"Answer time (seconds)": "16.058"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preenche campos conforme solicitado pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "1.356"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "1145", 
+				"Current Total Score (points)": "4822", 
+				"Answer time (seconds)": "10.197"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "580", 
+				"Answer time (seconds)": "8.581"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "912", 
+				"Current Total Score (points)": "1614", 
+				"Answer time (seconds)": "3.526"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "781", 
+				"Current Total Score (points)": "1295", 
+				"Answer time (seconds)": "8.77"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "1273", 
+				"Current Total Score (points)": "5629", 
+				"Answer time (seconds)": "9.098"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "741", 
+				"Current Total Score (points)": "2079", 
+				"Answer time (seconds)": "14.379"
+			}
+		]
+	}
+},
+"Question 7": {
+	"Design de IHC - Parte I e III": {
+		"Q7": {
+			"Statement": "Em uma interação por  linguagem de comando o usuário:", 
+			"Correct Answer": "Deve digitar os comandos que realizam as ações na aplicação", 
+			"Players Correct": "0.692307692307692", 
+			"Question Duration": "20 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": ""Deve digitar os comandos que realizam as ações na aplicação"", 
+					"Losangle": ""Seleciona no menu a opção que lhe interessa"", 
+					"Circle": ""O usuário se expressa como uma conversa com uma outra pessoa"", 
+					"Square": ""Preenche campos conforme solicitado pelo sistema""
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "9", 
+					"Losangle": "1", 
+					"Circle": "1", 
+					"Square": "2"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "8.992", 
+					"Losangle": "2.235", 
+					"Circle": "4.497", 
+					"Square": "14.585"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Gato", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "738", 
+				"Current Total Score (points)": "738", 
+				"Answer time (seconds)": "10.487"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Urubu", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "743", 
+				"Current Total Score (points)": "2426", 
+				"Answer time (seconds)": "10.288"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Lebre", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "937", 
+				"Current Total Score (points)": "2463", 
+				"Answer time (seconds)": "6.51"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Leão", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "981", 
+				"Current Total Score (points)": "2308", 
+				"Answer time (seconds)": "4.768"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Coelho", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "906", 
+				"Current Total Score (points)": "2528", 
+				"Answer time (seconds)": "3.78"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Corvo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "921", 
+				"Current Total Score (points)": "1520", 
+				"Answer time (seconds)": "7.157"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Cachorro", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Seleciona no menu a opção que lhe interessa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "2.235"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Bode", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "1282", 
+				"Current Total Score (points)": "6104", 
+				"Answer time (seconds)": "8.74"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Formiga", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "502", 
+				"Current Total Score (points)": "1082", 
+				"Answer time (seconds)": "19.931"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Jacaré", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "O usuário se expressa como uma conversa com uma outra pessoa" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1614", 
+				"Answer time (seconds)": "4.497"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Galo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preenche campos conforme solicitado pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1295", 
+				"Answer time (seconds)": "12.883"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Peixe", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Deve digitar os comandos que realizam as ações na aplicação" 
+				},
+				"Score (points)": "1268", 
+				"Current Total Score (points)": "6897", 
+				"Answer time (seconds)": "9.267"
+			},
+			{
+				"Player": "13", 
+				"Alias": "Mosca", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Preenche campos conforme solicitado pelo sistema" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "2079", 
+				"Answer time (seconds)": "16.287"
+			}
+		]
+	}
+}
+}

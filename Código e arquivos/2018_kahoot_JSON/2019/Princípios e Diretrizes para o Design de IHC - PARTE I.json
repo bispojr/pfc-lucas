@@ -1,0 +1,1110 @@
+{"Overview": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Played on": "22 Oct 2019", 
+		"Hosted by": "anacarolinainocencio", 
+		"Played with": "14", 
+		"Played": "5 of 5"
+	}, 
+	"Overall Performance": {
+		"Total correct answers (%)": "0.642857134342194", 
+		"Total incorrect answers (%)": "0.357142865657806", 
+		"Average score (points)": "2721.92846679688"
+	},
+	"Feedback": {
+		"How fun was it? (out of 5)": "2", 
+		"Did you learn something?": {
+			"Yes": "4.5", 
+			"No": "None"
+		},
+		"Do you recommend it?": {
+			"Yes": "1", 
+			"No": "0"
+		},
+		"How do you feel?": {
+			"Positive": "None", 
+			"Neutral": "None", 
+			"Negative": "None"
+		}
+	}
+}, 
+
+"Final Scores": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": 
+	[		{
+			"Rank": "1", 
+			"Player": "Sidney", 
+			"Total Score": "3760", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "2", 
+			"Player": "Praga", 
+			"Total Score": "3662", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "3", 
+			"Player": "Tóquio", 
+			"Total Score": "3611", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "4", 
+			"Player": "Recife", 
+			"Total Score": "3511", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "5", 
+			"Player": "Cape Town", 
+			"Total Score": "3511", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "6", 
+			"Player": "Denver", 
+			"Total Score": "2968", 
+			"Correct Answers": "4", 
+			"Incorrect Answers": "1"
+		},
+		{
+			"Rank": "7", 
+			"Player": "Estocolmo", 
+			"Total Score": "2632", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "8", 
+			"Player": "Lisboa", 
+			"Total Score": "2618", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "9", 
+			"Player": "Bogotá", 
+			"Total Score": "2507", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "10", 
+			"Player": "Berlim", 
+			"Total Score": "2464", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "11", 
+			"Player": "Nova Iorque", 
+			"Total Score": "2395", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		},
+		{
+			"Rank": "12", 
+			"Player": "Dubai", 
+			"Total Score": "2103", 
+			"Correct Answers": "3", 
+			"Incorrect Answers": "2"
+		}
+	]
+},
+"Question Summary": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"Question Summary": 
+		[			{
+				"Rank": "1", 
+				"Player": "Sidney", 
+				"Total Score": "3760", 
+				"Q1": {
+						"Score": "777", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "688", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "1098", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "1197", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "2", 
+				"Player": "Praga", 
+				"Total Score": "3662", 
+				"Q1": {
+						"Score": "872", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "872", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "FALSA"
+				}, 
+				"Q3": {
+						"Score": "993", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}
+			}, 
+			{
+				"Rank": "3", 
+				"Player": "Tóquio", 
+				"Total Score": "3611", 
+				"Q1": {
+						"Score": "945", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "802", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "917", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "4", 
+				"Player": "Recife", 
+				"Total Score": "3511", 
+				"Q1": {
+						"Score": "818", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Promoção da eficiência do usuário"
+				}, 
+				"Q3": {
+						"Score": "600", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "973", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "5", 
+				"Player": "Cape Town", 
+				"Total Score": "3511", 
+				"Q1": {
+						"Score": "908", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "825", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "798", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "6", 
+				"Player": "Denver", 
+				"Total Score": "2968", 
+				"Q1": {
+						"Score": "753", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "748", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Conteúdo relevante e expressão adequada"
+				}, 
+				"Q4": {
+						"Score": "740", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "7", 
+				"Player": "Estocolmo", 
+				"Total Score": "2632", 
+				"Q1": {
+						"Score": "812", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "918", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "902", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "8", 
+				"Player": "Lisboa", 
+				"Total Score": "2618", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "0", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}, 
+				"Q3": {
+						"Score": "683", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "930", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "9", 
+				"Player": "Bogotá", 
+				"Total Score": "2507", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "573", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "922", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "10", 
+				"Player": "Berlim", 
+				"Total Score": "2464", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "583", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "803", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "1078", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Promovendo a Eficiência do Usuário"
+				}
+			}, 
+			{
+				"Rank": "11", 
+				"Player": "Nova Iorque", 
+				"Total Score": "2395", 
+				"Q1": {
+						"Score": "817", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "FALSA"
+				}, 
+				"Q2": {
+						"Score": "753", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "0", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Equilíbrio entre controle e liberdade do usuário"
+				}
+			}, 
+			{
+				"Rank": "12", 
+				"Player": "Dubai", 
+				"Total Score": "2103", 
+				"Q1": {
+						"Score": "0", 
+						"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+						"Answer": "VERDADEIRA"
+				}, 
+				"Q2": {
+						"Score": "570", 
+						"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+						"Answer": "Correspondência com as expectativas dos usuários"
+				}, 
+				"Q3": {
+						"Score": "705", 
+						"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+						"Answer": "Equilíbrio entre Controle e Liberdade do Usuário"
+				}, 
+				"Q4": {
+						"Score": "0", 
+						"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+						"Answer": "Antecipação das necessidades do usuário"
+				}
+			}
+		]
+	}
+},
+
+"Question 1": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"1 Quiz": {
+			"Statement": "Uso de princípios e diretrizes substitui as demais atividades de IHC. Essa afirmação é:", 
+			"Correct Answer": "FALSA", 
+			"Players Correct": "0.571428571428571", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "VERDADEIRA", 
+					"Losangle": "FALSA", 
+					"Circle": "null", 
+					"Square": "null"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "6", 
+					"Losangle": "8", 
+					"Circle": "None", 
+					"Square": "None"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "14.9333333333333", 
+					"Losangle": "9.7375", 
+					"Circle": "None", 
+					"Square": "None"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "945", 
+				"Current Total Score (points)": "945", 
+				"Answer time (seconds)": "3.3"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "812", 
+				"Current Total Score (points)": "812", 
+				"Answer time (seconds)": "11.3"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "26.5"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "9.5"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "753", 
+				"Current Total Score (points)": "753", 
+				"Answer time (seconds)": "14.8"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "25.7"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "817", 
+				"Current Total Score (points)": "817", 
+				"Answer time (seconds)": "11"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "818", 
+				"Current Total Score (points)": "818", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.3"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "777", 
+				"Current Total Score (points)": "777", 
+				"Answer time (seconds)": "13.4"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "FALSA" 
+				},
+				"Score (points)": "908", 
+				"Current Total Score (points)": "908", 
+				"Answer time (seconds)": "5.5"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "VERDADEIRA" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "10.1"
+			}
+		]
+	}
+},
+"Question 2": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"2 Quiz": {
+			"Statement": "TÓPICO-Seguir convenções do mundo real onde a informação aparece em uma ordem natural e lógica:", 
+			"Correct Answer": "Correspondência com as expectativas dos usuários", 
+			"Players Correct": "0.642857142857143", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Correspondência com as expectativas dos usuários", 
+					"Losangle": "Promoção da eficiência do usuário", 
+					"Circle": "Projeto para erros", 
+					"Square": "Equilíbrio entre controle e liberdade do usuário"
+			},
+			"Is answer correct?": {
+					"Triangle": "True", 
+					"Losangle": "False", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "8", 
+					"Losangle": "2", 
+					"Circle": "0", 
+					"Square": "4"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "21.475", 
+					"Losangle": "13.2", 
+					"Circle": "0", 
+					"Square": "22.575"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "802", 
+				"Current Total Score (points)": "1747", 
+				"Answer time (seconds)": "17.9"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "918", 
+				"Current Total Score (points)": "1730", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "583", 
+				"Current Total Score (points)": "583", 
+				"Answer time (seconds)": "25"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "25.8"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "748", 
+				"Current Total Score (points)": "1501", 
+				"Answer time (seconds)": "21.1"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "570", 
+				"Current Total Score (points)": "570", 
+				"Answer time (seconds)": "25.8"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "753", 
+				"Current Total Score (points)": "1570", 
+				"Answer time (seconds)": "20.8"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Promoção da eficiência do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "818", 
+				"Answer time (seconds)": "18.7"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "573", 
+				"Current Total Score (points)": "573", 
+				"Answer time (seconds)": "25.6"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Correspondência com as expectativas dos usuários" 
+				},
+				"Score (points)": "688", 
+				"Current Total Score (points)": "1465", 
+				"Answer time (seconds)": "24.7"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "908", 
+				"Answer time (seconds)": "21"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "0", 
+				"Answer time (seconds)": "19.5"
+			}
+		]
+	}
+},
+"Question 3": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"3 Quiz": {
+			"Statement": "TÓPICO - Existe um caminho preferencial, mas usuários podem explorar diferentes alternativas", 
+			"Correct Answer": "Equilíbrio entre Controle e Liberdade do Usuário", 
+			"Players Correct": "0.642857142857143", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Consistência e padronização", 
+					"Losangle": "Antecipação das necessidades do usuário", 
+					"Circle": "Equilíbrio entre Controle e Liberdade do Usuário", 
+					"Square": "Conteúdo relevante e expressão adequada"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "False", 
+					"Circle": "True", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "0", 
+					"Losangle": "4", 
+					"Circle": "9", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "0", 
+					"Losangle": "11", 
+					"Circle": "15.1888888888889", 
+					"Square": "9.2"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1747", 
+				"Answer time (seconds)": "15.5"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1730", 
+				"Answer time (seconds)": "8"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "803", 
+				"Current Total Score (points)": "1386", 
+				"Answer time (seconds)": "17.8"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "650", 
+				"Current Total Score (points)": "650", 
+				"Answer time (seconds)": "21"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Conteúdo relevante e expressão adequada" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1501", 
+				"Answer time (seconds)": "9.2"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "705", 
+				"Current Total Score (points)": "1275", 
+				"Answer time (seconds)": "23.7"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1570", 
+				"Answer time (seconds)": "13.4"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "600", 
+				"Current Total Score (points)": "1418", 
+				"Answer time (seconds)": "24"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "573", 
+				"Answer time (seconds)": "7.1"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "1098", 
+				"Current Total Score (points)": "2563", 
+				"Answer time (seconds)": "6.1"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "825", 
+				"Current Total Score (points)": "1733", 
+				"Answer time (seconds)": "10.5"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Equilíbrio entre Controle e Liberdade do Usuário" 
+				},
+				"Score (points)": "863", 
+				"Current Total Score (points)": "863", 
+				"Answer time (seconds)": "8.2"
+			}
+		]
+	}
+},
+"Question 4": {
+	"Princípios e Diretrizes para o Design de IHC - PARTE I": {
+		"4 Quiz": {
+			"Statement": "Processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema", 
+			"Correct Answer": "Promovendo a Eficiência do Usuário", 
+			"Players Correct": "0.642857142857143", 
+			"Question Duration": "30 seconds"
+		},
+		"Answare Summary": {
+			"Answer options": {
+					"Triangle": "Equilíbrio entre controle e liberdade do usuário", 
+					"Losangle": "Promovendo a Eficiência do Usuário", 
+					"Circle": "Conteúdo relevante e expressão adequada", 
+					"Square": "Antecipação das necessidades do usuário"
+			},
+			"Is answer correct?": {
+					"Triangle": "False", 
+					"Losangle": "True", 
+					"Circle": "False", 
+					"Square": "False"
+			},
+			"Number of answers received": {
+					"Triangle": "4", 
+					"Losangle": "9", 
+					"Circle": "0", 
+					"Square": "1"
+			},
+			"Average time taken to answer (seconds)": {
+					"Triangle": "14.4", 
+					"Losangle": "8.95555555555555", 
+					"Circle": "0", 
+					"Square": "25.6"
+			}
+		},
+		"Answer Details": 
+		[
+			{
+				"Player": "1", 
+				"Alias": "Tóquio", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "917", 
+				"Current Total Score (points)": "2664", 
+				"Answer time (seconds)": "5"
+			},
+			{
+				"Player": "2", 
+				"Alias": "Estocolmo", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "902", 
+				"Current Total Score (points)": "2632", 
+				"Answer time (seconds)": "5.9"
+			},
+			{
+				"Player": "3", 
+				"Alias": "Berlim", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "1078", 
+				"Current Total Score (points)": "2464", 
+				"Answer time (seconds)": "7.3"
+			},
+			{
+				"Player": "4", 
+				"Alias": "Moscow", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "650", 
+				"Answer time (seconds)": "10.9"
+			},
+			{
+				"Player": "5", 
+				"Alias": "Denver", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "740", 
+				"Current Total Score (points)": "2241", 
+				"Answer time (seconds)": "15.6"
+			},
+			{
+				"Player": "6", 
+				"Alias": "Dubai", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Antecipação das necessidades do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1275", 
+				"Answer time (seconds)": "25.6"
+			},
+			{
+				"Player": "7", 
+				"Alias": "Nova Iorque", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "1570", 
+				"Answer time (seconds)": "9"
+			},
+			{
+				"Player": "8", 
+				"Alias": "Recife", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "973", 
+				"Current Total Score (points)": "2391", 
+				"Answer time (seconds)": "7.6"
+			},
+			{
+				"Player": "9", 
+				"Alias": "Bogotá", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "922", 
+				"Current Total Score (points)": "1495", 
+				"Answer time (seconds)": "4.7"
+			},
+			{
+				"Player": "10", 
+				"Alias": "Sidney", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "1197", 
+				"Current Total Score (points)": "3760", 
+				"Answer time (seconds)": "6.2"
+			},
+			{
+				"Player": "11", 
+				"Alias": "Cape Town", 
+				"Answer": {
+						"Correct?": "True", 
+						"Statement": "Promovendo a Eficiência do Usuário" 
+				},
+				"Score (points)": "798", 
+				"Current Total Score (points)": "2531", 
+				"Answer time (seconds)": "18.1"
+			},
+			{
+				"Player": "12", 
+				"Alias": "Toronto", 
+				"Answer": {
+						"Correct?": "False", 
+						"Statement": "Equilíbrio entre controle e liberdade do usuário" 
+				},
+				"Score (points)": "0", 
+				"Current Total Score (points)": "863", 
+				"Answer time (seconds)": "20.3"
+			}
+		]
+	}
+}
+}
